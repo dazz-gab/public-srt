@@ -1,14 +1,14 @@
 1
 00:00:53,607 --> 00:00:56,965
-(The characters, institutions, companies, events, geographical names, and specific countries in this drama are not related to reality.)
+Les personnages, institutions, entreprises, événements, noms géographiques et pays spécifiques dans ce drame ne sont pas liés à la réalité.
 
 2
 00:00:59,042 --> 00:00:59,974
-(Episode 14)
+Épisode 14
 
 3
 00:00:59,974 --> 00:01:03,305
-Do Jun m'a dit de vous déposer...
+Do Jun m'a dit de te déposer...
 
 4
 00:01:03,305 --> 00:01:04,745
@@ -16,15 +16,15 @@ sain et sauf.
 
 5
 00:01:13,185 --> 00:01:14,584
-Une fois arrivés,
+Quand tu arriveras là-bas,
 
 6
 00:01:14,584 --> 00:01:17,855
-vous verrez les employés de Miracle de Do Jun qui vous attendent.
+tu verras les employés de Do Jun de Miracle qui t'attendent.
 
 7
 00:01:19,355 --> 00:01:22,625
-J'imagine que vous serez loin pour un bon moment.
+Je suppose que tu seras partie assez longtemps.
 
 8
 00:01:24,625 --> 00:01:27,494
@@ -32,7 +32,7 @@ Personne à Jeongsimjae ne semblait le savoir.
 
 9
 00:01:28,334 --> 00:01:30,065
-Pourquoi ne leur avez-vous rien dit ?
+Pourquoi ne leur as-tu rien dit ?
 
 10
 00:01:32,765 --> 00:01:36,375
@@ -44,15 +44,15 @@ Mère, je dois dire...
 
 12
 00:01:45,015 --> 00:01:46,215
-vous me faites peur.
+Tu m'effraies.
 
 13
 00:01:48,884 --> 00:01:51,284
-Vos actions Soonyang Insurance...
+Tes actions de Soonyang Insurance...
 
 14
 00:01:51,284 --> 00:01:53,724
-J'ai appris que vous les aviez cédées à Do Jun.
+J'ai entendu dire que tu les avais remises à Do Jun.
 
 15
 00:01:56,894 --> 00:01:58,494
@@ -60,7 +60,7 @@ Depuis le jour où ma mère biologique...
 
 16
 00:01:58,494 --> 00:02:01,065
-m'a amené à Jeongsimjae jusqu'à ce moment précis,
+m'a amenée à Jeongsimjae jusqu'à ce moment précis,
 
 17
 00:02:01,595 --> 00:02:02,595
@@ -68,35 +68,35 @@ je me suis toujours...
 
 18
 00:02:04,405 --> 00:02:08,935
-senti mal à l'aise avec vous et vous ai trouvé inaccessible.
+sentie mal à l'aise avec toi et je t'ai trouvée inaccessible.
 
 19
 00:02:09,534 --> 00:02:10,605
-Voyez-vous,
+Tu vois,
 
 20
 00:02:12,744 --> 00:02:15,144
-j'ai fait de mon mieux pour prendre bien soin de vous.
+j'ai fait de mon mieux pour prendre soin de toi.
 
 21
 00:02:17,015 --> 00:02:19,485
-Je vous ai traité comme j'ai traité mes propres enfants.
+Je t'ai traitée comme j'ai traité mes propres enfants.
 
 22
 00:02:19,485 --> 00:02:23,654
-Je vous achetais toujours de beaux vêtements et vous nourrissais bien.
+Je t'achetais toujours de beaux vêtements et te nourrissais bien.
 
 23
 00:02:23,654 --> 00:02:25,854
-Mais avec vos yeux, vous me disiez toujours ça.
+Mais avec tes yeux, tu me disais toujours ça.
 
 24
 00:02:26,855 --> 00:02:30,594
-« Si vous avez une conscience, vous ne devez pas oublier ma bonté. »
+"Si tu as une conscience, tu ne dois pas oublier ma gentillesse."
 
 25
 00:02:30,594 --> 00:02:34,434
-« Alors n'osez pas rêver de succéder au trône de Soonyang. »
+"Alors n'ose pas rêver de succéder au trône de Soonyang."
 
 26
 00:02:36,094 --> 00:02:37,464
@@ -104,27 +104,27 @@ Toute ma vie,
 
 27
 00:02:39,035 --> 00:02:41,735
-j'ai vécu comme si je protestais contre vous, Mère.
+j'ai vécu comme si je protestais contre toi, Mère.
 
 28
 00:02:43,774 --> 00:02:46,744
-Aller contre les souhaits de Papa et étudier le cinéma.
+Aller à l'encontre des souhaits de Papa et étudier le cinéma.
 
 29
 00:02:47,644 --> 00:02:50,945
-Épouser quelqu'un que vous et Papa désapprouviez. Tout cela.
+Épouser quelqu'un que toi et Papa désapprouviez. Tout ça.
 
 30
 00:02:53,415 --> 00:02:54,455
-Mais il s'avère que,
+Mais il s'avère que
 
 31
 00:02:57,355 --> 00:02:58,985
-je suis encore pire que vous.
+je suis encore pire que toi.
 
 32
 00:03:01,524 --> 00:03:05,364
-La cruelle bande qui peut tout faire pour leurs enfants.
+La bande cruelle qui peut tout faire pour ses enfants.
 
 33
 00:03:07,964 --> 00:03:10,664
@@ -132,7 +132,7 @@ Je suppose que tous les parents sont comme ça après tout, Mère.
 
 34
 00:03:13,475 --> 00:03:15,535
-Maintenant que je suis devenue une de ces parents,
+Maintenant que je suis devenue l'un de ces parents,
 
 35
 00:03:17,844 --> 00:03:19,675
@@ -140,7 +140,7 @@ je peux vraiment comprendre...
 
 36
 00:03:22,844 --> 00:03:26,114
-combien vous avez dû être blessée par mon existence...
+à quel point tu devais être blessée par mon existence...
 
 37
 00:03:28,554 --> 00:03:31,325
@@ -152,7 +152,7 @@ Mère,
 
 39
 00:03:38,964 --> 00:03:41,664
-je vous respecte pour avoir enduré tout cela au fil des ans.
+je te respecte pour avoir enduré tout ça toutes ces années.
 
 40
 00:04:12,325 --> 00:04:13,326
@@ -168,19 +168,19 @@ nous avons découvert qu'il y a eu une transaction importante récemment.
 
 43
 00:04:18,464 --> 00:04:21,074
-Les actions Soonyang Insurance qu'elle avait achetées...
+Les actions de Soonyang Insurance qu'elle avait achetées...
 
 44
 00:04:21,934 --> 00:04:23,175
-(Tous transférés à Jin Do Jun)
+(Tout transféré à Jin Do Jun)
 
 45
 00:04:23,175 --> 00:04:25,905
-Voici. Elle les a transférés à Jin Do Jun.
+Tiens. Elle les a transférées à Jin Do Jun.
 
 46
 00:04:27,645 --> 00:04:30,384
-(Tous transférés à Jin Do Jun)
+(Tout transféré à Jin Do Jun)
 
 47
 00:04:33,045 --> 00:04:34,614
@@ -188,19 +188,19 @@ Madame.
 
 48
 00:04:34,614 --> 00:04:36,585
-Lee Pil Ok n'est plus dans le pays.
+Lee Pil Ok n'est pas dans le pays.
 
 49
 00:04:36,585 --> 00:04:39,085
-- Quoi ? – Elle a déjà quitté le pays.
+- Quoi ? - Elle a déjà quitté le pays.
 
 50
 00:04:39,085 --> 00:04:41,135
-Je l'ai confirmé auprès de l'immigration tout à l'heure.
+Je l'ai confirmé auprès de l'Immigration tout à l'heure.
 
 51
 00:04:42,954 --> 00:04:44,165
-Zut alors.
+Zut.
 
 52
 00:04:49,095 --> 00:04:50,804
@@ -208,71 +208,71 @@ Zut alors.
 
 53
 00:04:59,374 --> 00:05:00,474
-C'était vous, n'est-ce pas ?
+C'était toi, n'est-ce pas ?
 
 54
 00:05:02,944 --> 00:05:04,114
-Votre grand-mère.
+Ta grand-mère.
 
 55
 00:05:05,384 --> 00:05:08,014
-Lee Pil Ok, la suspecte principale dans l'affaire de meurtre par procuration.
+Lee Pil Ok, le suspect principal dans l'affaire de meurtre par procuration.
 
 56
 00:05:08,014 --> 00:05:09,614
-Vous l'avez aidée à fuir le pays.
+Tu l'as aidée à fuir le pays.
 
 57
 00:05:13,554 --> 00:05:14,954
-Avez-vous conclu un accord avec elle ?
+As-tu conclu un accord avec elle ?
 
 58
 00:05:16,254 --> 00:05:18,304
-À cause de ses actions Soonyang Insurance ?
+À cause de ses actions de Soonyang Insurance ?
 
 59
 00:05:23,134 --> 00:05:25,364
-J'ai tellement essayé de l'attraper,
+J'ai fait de mon mieux pour l'attraper,
 
 60
 00:05:26,905 --> 00:05:28,374
-et pourtant vous avez conclu un accord avec elle.
+pourtant tu as conclu un accord avec elle.
 
 61
 00:05:29,074 --> 00:05:31,475
-Vous, de toutes les personnes,
+Toi, plus que quiconque,
 
 62
 00:05:31,475 --> 00:05:33,425
-savez pourquoi je voulais tant l'attraper.
+sais pourquoi je voulais tellement l'attraper.
 
 63
 00:05:35,475 --> 00:05:37,125
-Vous n'avez rien à dire, n'est-ce pas ?
+Tu n'as rien à dire, n'est-ce pas ?
 
 64
 00:05:43,985 --> 00:05:46,684
-Pour cette fois seulement. Nous y sommes presque, Min Yeong.
+Juste une fois. On y est presque, Min Yeong.
 
 65
 00:05:46,684 --> 00:05:48,624
-Tout sera terminé une fois que je serai nommée PDG.
+Ce sera fini une fois que je serai nommé PDG.
 
 66
 00:05:48,624 --> 00:05:50,465
-Je ne vous décevrai plus.
+Je ne te décevrai plus.
 
 67
 00:05:52,925 --> 00:05:53,934
-Vous vous trompez.
+Tu te trompes.
 
 68
 00:05:55,634 --> 00:05:57,284
-Vous deviendrez encore plus rancunière.
+Tu deviendras encore plus méchant.
 
 69
 00:05:59,704 --> 00:06:01,754
-Parce que vous voudrez garder ce que vous avez.
+Parce que tu voudras garder ce que tu as.
 
 70
 00:06:28,934 --> 00:06:29,934
@@ -280,7 +280,7 @@ Hyeon Min.
 
 71
 00:06:31,235 --> 00:06:33,775
-Vous avez dit que vous vouliez vivre comme Grand-mère...
+Tu as dit que tu voulais vivre comme Grand-mère...
 
 72
 00:06:33,775 --> 00:06:34,934
@@ -288,15 +288,17 @@ Vous avez dit que vous vouliez vivre comme Grand-mère...
 
 73
 00:06:36,574 --> 00:06:39,175
-Você sabia tudo sobre ela,
+Tu savais tout sur elle,
 
 74
 00:06:39,175 --> 00:06:40,675
-mas você ainda me disse ça.
+mais tu m'as quand même dit ça.
+
+
 
 75
 00:06:44,384 --> 00:06:46,184
-Qu'entendez-vous par là ?
+Qu'est-ce que vous vouliez dire par là ?
 
 76
 00:06:46,184 --> 00:06:48,084
@@ -316,11 +318,11 @@ vous mettez en travers du chemin de ce bébé...
 
 80
 00:07:10,504 --> 00:07:12,504
-pour qu'il devienne le propriétaire de Soonyang, bien sûr.
+pour devenir le propriétaire de Soonyang, je veux dire.
 
 81
 00:07:13,845 --> 00:07:15,145
-Peu importe qui que ce soit.
+Peu m'importe qui c'est.
 
 82
 00:07:16,374 --> 00:07:17,744
@@ -336,7 +338,7 @@ Alors vous feriez mieux de vous ressaisir.
 
 85
 00:07:31,165 --> 00:07:32,264
-Ça commence avec vous.
+Ça commence par vous.
 
 86
 00:08:04,364 --> 00:08:05,665
@@ -344,7 +346,7 @@ Alors vous feriez mieux de vous ressaisir.
 
 87
 00:08:07,934 --> 00:08:10,064
-Puisque nous jouons le tout pour le tout,
+Puisque nous allons tout miser,
 
 88
 00:08:11,934 --> 00:08:14,535
@@ -360,7 +362,7 @@ Ne vous inquiétez pas.
 
 91
 00:08:24,645 --> 00:08:27,085
-Je détiens le Joker dans cette partie.
+Je tiens le Joker dans cette manche.
 
 92
 00:08:33,925 --> 00:08:37,165
@@ -412,8 +414,7 @@ Il s'en est pris au président Jin dans la chambre d'hôpital ?
 
 104
 00:09:19,665 --> 00:09:22,215
-- C'est le choc qui l'a tué ?
-- Est-ce vrai ?
+- Est-ce le choc qui l'a tué ? - Est-ce vrai ?
 
 105
 00:09:25,844 --> 00:09:28,245
@@ -429,8 +430,7 @@ Nous avons besoin d'une explication.
 
 108
 00:09:32,545 --> 00:09:34,785
-- Expliquez cela.
-- Tout le monde, ne votons pas.
+- Expliquez cela. - Tout le monde, ne votons pas.
 
 109
 00:09:39,155 --> 00:09:42,224
@@ -438,11 +438,11 @@ Pour rétablir l'ordre dans cette salle afin que nous puissions procéder...
 
 110
 00:09:42,224 --> 00:09:45,224
-J'exerce par la présente mon autorité en tant que président...
+j'exerce par la présente mon autorité en tant que président...
 
 111
 00:09:45,224 --> 00:09:47,934
-et demande à M. Jin Do Jun de fournir une explication.
+et je demande à M. Jin Do Jun de fournir une explication.
 
 112
 00:09:49,365 --> 00:09:52,104
@@ -462,7 +462,7 @@ Comment sommes-nous censés le croire ?
 
 116
 00:10:01,645 --> 00:10:02,714
-Taisez-vous, s'il vous plaît.
+Calmez-vous, s'il vous plaît.
 
 117
 00:10:06,785 --> 00:10:08,084
@@ -482,15 +482,15 @@ Oui.
 
 121
 00:10:22,895 --> 00:10:25,964
-Il y a une façon dont M. Jin Do Jun peut disculper son nom.
+Il y a une façon pour M. Jin Do Jun de laver son nom.
 
 122
 00:10:27,204 --> 00:10:29,474
-Dans la chambre du défunt président à l'hôpital,
+Dans la chambre de l'ancien président à l'hôpital,
 
 123
 00:10:29,474 --> 00:10:31,905
-il y avait une caméra qui enregistrait tout,
+il y avait une caméra enregistrant tout,
 
 124
 00:10:32,444 --> 00:10:35,745
@@ -498,11 +498,11 @@ que le personnel de l'hôpital utilise pour surveiller ses patients VIP.
 
 125
 00:10:35,745 --> 00:10:38,885
-Pourquoi ne regardons-nous pas les images ici ?
+Pourquoi ne pas vérifier les images ici ?
 
 126
 00:10:40,145 --> 00:10:42,255
-Bonne idée. Faisons-le.
+Bonne idée. Faisons cela.
 
 127
 00:10:42,255 --> 00:10:43,305
@@ -510,11 +510,11 @@ Trouvez les images maintenant.
 
 128
 00:10:46,255 --> 00:10:47,655
-S'il vous plaît, taisez-vous.
+S'il vous plaît, calmez-vous.
 
 129
 00:10:48,694 --> 00:10:49,755
-Acceptez-vous cela ?
+Êtes-vous d'accord avec cela ?
 
 130
 00:10:53,125 --> 00:10:54,165
@@ -530,7 +530,7 @@ impossible.
 
 133
 00:11:05,775 --> 00:11:07,745
-« Impossible ? » Qu'entendez-vous par là ?
+"Impossible ?" Qu'est-ce que vous voulez dire ?
 
 134
 00:11:09,615 --> 00:11:11,844
@@ -570,15 +570,15 @@ S'il vous plaît, laissez-moi parler.
 
 143
 00:12:05,104 --> 00:12:07,875
-Très bien, taisez-vous. Laissez-moi clarifier cela.
+Très bien, calmez-vous. Laissez-moi clarifier cela.
 
 144
 00:12:08,434 --> 00:12:12,304
-Ceci n'est pas un tribunal.
+Ce n'est pas un tribunal.
 
 145
 00:12:12,304 --> 00:12:15,344
-Cependant, le sens ou le manque de moralité du leader...
+Cependant, le sens moral ou le manque de moralité du leader...
 
 146
 00:12:15,344 --> 00:12:17,814
@@ -586,11 +586,11 @@ pourrait faire ou défaire l'avenir de l'entreprise.
 
 147
 00:12:18,944 --> 00:12:22,484
-Le défunt président souhaitait choisir un leader...
+L'ancien président souhaitait choisir un leader...
 
 148
 00:12:22,484 --> 00:12:25,755
-qui puisse diriger de la bonne manière. Prenez votre temps...
+qui pourrait diriger correctement. Prenez votre temps...
 
 149
 00:12:25,755 --> 00:12:27,255
@@ -610,19 +610,21 @@ Commençons.
 
 153
 00:12:36,665 --> 00:12:38,064
-Le président est...
+M. le Président est...
 
 154
 00:12:40,804 --> 00:12:43,204
-atteint de symptômes de délire en ce moment.
+en proie à des symptômes de délire en ce moment.
 
 155
 00:12:50,115 --> 00:12:51,115
 Alors ?
 
+
+
 156
 00:12:52,115 --> 00:12:54,054
-Avez-vous décidé de vous allier à moi ?
+Vous avez décidé de vous joindre à moi ?
 
 157
 00:12:58,155 --> 00:13:00,895
@@ -638,15 +640,15 @@ S'il vous plaît, donnez-moi quelques actions.
 
 160
 00:13:13,434 --> 00:13:15,574
-J'ai aidé Soonyang à se développer pour qu'elle soit ce qu'elle est aujourd'hui.
+J'ai aidé Soonyang à devenir ce qu'elle est aujourd'hui.
 
 161
 00:13:15,574 --> 00:13:19,124
-Je souhaite posséder une parcelle de terrain dans l'entreprise, même petite qu'elle soit.
+Je souhaite posséder une parcelle de terrain dans l'entreprise, aussi petite soit-elle.
 
 162
 00:13:32,824 --> 00:13:35,425
-Ce tableau a certainement trouvé sa place.
+Ce tableau a sûrement trouvé sa place.
 
 163
 00:13:40,964 --> 00:13:42,995
@@ -654,7 +656,7 @@ Je suppose que vous avez aimé mon cadeau.
 
 164
 00:13:53,545 --> 00:13:57,314
-Je vais maintenant annoncer les résultats. M. Lee Hang Jae...
+Je vais maintenant annoncer les résultats. Monsieur Lee Hang Jae...
 
 165
 00:13:57,885 --> 00:14:00,935
@@ -662,7 +664,7 @@ a été nommé PDG de Soonyang Financial Holding Company.
 
 166
 00:14:02,885 --> 00:14:05,935
-(37ème Assemblée générale extraordinaire des actionnaires de Soonyang Insurance)
+(La 37ème Assemblée Générale des Actionnaires de Soonyang Insurance)
 
 167
 00:14:10,025 --> 00:14:11,425
@@ -670,11 +672,11 @@ a été nommé PDG de Soonyang Financial Holding Company.
 
 168
 00:14:23,804 --> 00:14:25,604
-Do Jun, y avez-vous pensé ?
+Do Jun, y as-tu pensé ?
 
 169
 00:14:28,074 --> 00:14:30,324
-Le président Jin Yang Cheol me l'aurait-il dit...
+Mon grand-père Jin Yang Cheol m'aurait-il dit...
 
 170
 00:14:31,584 --> 00:14:33,785
@@ -698,31 +700,31 @@ Félicitations.
 
 175
 00:14:57,574 --> 00:14:59,775
-Nous détenons conjointement 30 % des actions.
+Nous possédons conjointement 30 % des actions.
 
 176
 00:14:59,775 --> 00:15:03,474
-Ajoutez les participations amicales du PDG, et nous avons 37 %.
+Ajoutez les participations amicales du PDG, et nous arrivons à 37 %.
 
 177
 00:15:03,474 --> 00:15:06,944
-Do Jun n'a aucune chance contre nous maintenant.
+Do Jun n'est pas de taille face à nous maintenant.
 
 178
 00:15:06,944 --> 00:15:08,454
-Nous avons utilisé M. Lee...
+Nous avons utilisé Monsieur Lee...
 
 179
 00:15:09,155 --> 00:15:11,224
 et l'avons qualifié de bouffon immoral...
 
 180
-00:01:11,224 --> 00:15:14,724
+00:15:11,224 --> 00:15:14,724
 devant tous les actionnaires,
 
 181
 00:15:14,724 --> 00:15:16,995
-il devra donc se faire discret pour le moment.
+il devra donc rester discret pour le moment.
 
 182
 00:15:16,995 --> 00:15:20,694
@@ -730,19 +732,19 @@ Nous avons maintenant les droits de vote dans toutes les filiales...
 
 183
 00:15:20,694 --> 00:15:23,365
-sous la holding.
+relevant de la société holding.
 
 184
 00:15:23,365 --> 00:15:25,804
-Ma foi, c'est agréable.
+Ma foi, c'est bien.
 
 185
 00:15:27,304 --> 00:15:30,474
-Enfin, tant que l'un de nous ne nous trahit pas.
+C'est vrai, tant que l'un de nous ne trahit pas l'autre.
 
 186
 00:15:32,005 --> 00:15:35,344
-Young Ki, personne n'est là pour nous protéger maintenant.
+Young Ki, personne ne nous soutient maintenant.
 
 187
 00:15:36,545 --> 00:15:39,714
@@ -762,20 +764,19 @@ Merci.
 
 191
 00:16:06,604 --> 00:16:09,375
-Au sujet des actions dont nous avons discuté l'autre jour...
+Concernant les actions dont nous avons discuté l'autre jour...
 
 192
 00:16:09,375 --> 00:16:10,375
-- D'accord.
-- Oui.
+- Oui. - Oui.
 
 193
 00:16:19,324 --> 00:16:21,724
-(Rapport sur la détournement de fonds du directeur Lee Hang Jae)
+(Rapport sur la Détournement de Fonds du Directeur Lee Hang Jae)
 
 194
 00:16:22,954 --> 00:16:25,295
-Mon grand-père pensait que c'était juste un compte au nom d'emprunt...
+Mon grand-père pensait qu'il s'agissait simplement d'un compte au nom de quelqu'un d'autre...
 
 195
 00:16:25,295 --> 00:16:27,194
@@ -783,11 +784,11 @@ Mon grand-père pensait que c'était juste un compte au nom d'emprunt...
 
 196
 00:16:28,765 --> 00:16:31,564
-Mais je suppose que vous pensiez que le compte vous appartenait.
+Mais je suppose que vous pensiez que le compte était le vôtre.
 
 197
 00:16:34,434 --> 00:16:37,534
-Je comprends qu'on ait des miettes sur les mains quand on manipule du pain.
+Je comprends que l'on ait des miettes sur les mains en manipulant du pain.
 
 198
 00:16:38,844 --> 00:16:41,494
@@ -795,11 +796,11 @@ Démissionnez, c'est tout. Je considérerai cela comme votre indemnité de dépa
 
 199
 00:16:44,145 --> 00:16:46,695
-Ou préférez-vous faire les gros titres comme détourneur de fonds ?
+Ou préférez-vous passer aux informations en tant que détourneur de fonds ?
 
 200
 00:16:55,295 --> 00:16:59,865
-Était-ce votre plan depuis le début, dès l'instant où...
+Était-ce votre plan depuis le début, depuis le moment où...
 
 201
 00:16:59,865 --> 00:17:01,465
@@ -811,11 +812,11 @@ Vous aviez juste besoin d'un couteau pour vous débarrasser de Do Jun ?
 
 203
 00:17:06,604 --> 00:17:08,305
-Les luttes familiales pendant les funérailles de Grand-père...
+La dispute familiale pendant les funérailles de Grand-père...
 
 204
 00:17:08,305 --> 00:17:09,655
-ne seraient pas une belle vue.
+ne serait pas un beau spectacle.
 
 205
 00:17:17,815 --> 00:17:20,284
@@ -823,7 +824,7 @@ ne seraient pas une belle vue.
 
 206
 00:17:26,355 --> 00:17:28,925
-Toute ma vie, j'ai été complètement dévoué à Soonyang.
+Toute ma vie, j'ai été entièrement dévoué à Soonyang.
 
 207
 00:17:28,925 --> 00:17:32,694
@@ -831,7 +832,7 @@ J'ai rejoint l'entreprise bien avant votre naissance.
 
 208
 00:17:32,694 --> 00:17:36,135
-Votre grand-père et moi avons fait grandir Soonyang pour qu'elle soit ce qu'elle est aujourd'hui.
+Votre grand-père et moi avons fait grandir Soonyang pour qu'elle devienne ce qu'elle est aujourd'hui.
 
 209
 00:17:36,135 --> 00:17:37,335
@@ -839,7 +840,7 @@ Alors pourquoi...
 
 210
 00:17:38,234 --> 00:17:40,835
-Pourquoi devrais-je être traité comme ça ? Pourquoi donc ?
+Pourquoi devrais-je être traité comme ça ? Pourquoi ?
 
 211
 00:17:45,075 --> 00:17:46,145
@@ -867,7 +868,7 @@ Grand-père est vraiment un homme intéressant.
 
 217
 00:18:57,915 --> 00:19:01,214
-Il a dit qu'il voulait que vous soyez le PDG de la holding.
+Il a dit qu'il voulait que vous soyez le PDG de la société holding.
 
 218
 00:19:01,214 --> 00:19:03,254
@@ -875,19 +876,19 @@ Alors qu'en est-il du testament ?
 
 219
 00:19:04,754 --> 00:19:06,454
-J'ai longuement réfléchi.
+J'ai beaucoup réfléchi.
 
 220
 00:19:07,355 --> 00:19:10,855
-S'il plaisantait, c'est méchant. Et si c'est une blague, c'est cruel.
+S'il plaisantait, c'est méchant. Et si c'est une farce, c'est cruel.
 
 221
 00:19:11,925 --> 00:19:14,095
-Après longue et mûre réflexion,
+Après une longue et mûre réflexion,
 
 222
 00:19:14,095 --> 00:19:16,734
-J'ai décidé d'intervenir en tant que son petit-fils aîné.
+j'ai décidé d'intervenir en tant que son petit-fils aîné.
 
 223
 00:19:16,734 --> 00:19:19,004
@@ -897,13 +898,15 @@ Je voulais vous montrer devant les actionnaires...
 00:19:19,004 --> 00:19:21,605
 comment le testament de Grand-père devrait être interprété.
 
+
+
 225
 00:19:24,204 --> 00:19:26,405
-Maintenant, vous n'avez aucune chance contre nous dans cette guerre.
+Maintenant, vous n'êtes pas de taille face à nous dans cette guerre.
 
 226
 00:19:27,004 --> 00:19:29,675
-Vous ne pouvez exercer aucun droit de gestion ni de vote.
+Vous ne pouvez exercer aucun droit de gestion ou de vote.
 
 227
 00:19:30,974 --> 00:19:34,244
@@ -919,11 +922,11 @@ Il n'y a qu'une seule chose que vous puissiez faire maintenant.
 
 230
 00:19:45,395 --> 00:19:48,194
-Remettez toutes vos actions de la holding.
+Remettez toutes vos actions de la société holding.
 
 231
 00:19:48,194 --> 00:19:49,595
-Je paierai un prix avantageux.
+Je paierai un prix élevé.
 
 232
 00:19:56,375 --> 00:19:58,775
@@ -939,15 +942,15 @@ Que diriez-vous d'honorer ses dernières volontés ?
 
 235
 00:20:06,645 --> 00:20:08,284
-Comme le petit-fils dévoué devrait le faire.
+Comme le ferait un petit-fils dévoué.
 
 236
 00:20:14,254 --> 00:20:15,794
-Vous semblez assez confiant.
+Vous semblez très confiant.
 
 237
 00:20:18,794 --> 00:20:21,594
-J'ai beaucoup réfléchi et je n'arrive toujours pas à comprendre...
+J'ai beaucoup réfléchi mais je n'arrive toujours pas à comprendre...
 
 238
 00:20:22,395 --> 00:20:25,934
@@ -955,7 +958,7 @@ ce que Grand-père voulait vraiment dire par ce qu'il a écrit dans son testamen
 
 239
 00:20:33,805 --> 00:20:36,845
-Oh, une chose est sûre.
+Oh, cette seule chose, je la sais.
 
 240
 00:20:40,145 --> 00:20:41,885
@@ -979,11 +982,11 @@ du capital industriel et financier.
 
 245
 00:21:01,375 --> 00:21:02,934
-(Annonce de candidature de Choi Chang Je, maire de Séoul)
+(Annonce de candidature présidentielle du maire Choi Chang Je)
 
 246
 00:21:02,934 --> 00:21:05,645
-Mettez fin au projet de Soonyang d'établir...
+Mettez un terme au projet de Soonyang d'établir...
 
 247
 00:21:05,645 --> 00:21:07,045
@@ -995,7 +998,7 @@ Ce projet de loi a été conçu pour justifier...
 
 249
 00:21:09,944 --> 00:21:12,385
-les plans de succession de Soonyang qui visent à éviter...
+les plans de succession de Soonyang qui cherchent à éviter...
 
 250
 00:21:12,385 --> 00:21:14,954
@@ -1011,7 +1014,7 @@ afin d'éviter les droits de succession astronomiques.
 
 253
 00:21:21,125 --> 00:21:23,555
-Nous avons besoin de systèmes et de règles...
+Nous avons besoin de systèmes et de règles en place...
 
 254
 00:21:24,395 --> 00:21:26,565
@@ -1023,7 +1026,7 @@ afin d'atténuer la polarisation économique...
 
 256
 00:21:28,365 --> 00:21:31,095
-pour que nous puissions construire un monde où les économiquement faibles...
+pour que nous puissions construire un monde où les plus faibles économiquement...
 
 257
 00:21:31,095 --> 00:21:32,635
@@ -1051,7 +1054,7 @@ Plus tôt dans la journée, le maire Choi Chang Je a tenu une conférence de pre
 
 263
 00:21:45,115 --> 00:21:47,044
-où il a déclaré qu'il était contre le projet de loi...
+où il s'est déclaré contre le projet de loi...
 
 264
 00:21:47,044 --> 00:21:48,254
@@ -1059,7 +1062,7 @@ visant à assouplir la séparation du capital industriel et financier...
 
 265
 00:21:48,254 --> 00:21:49,484
-car cela créerait des lacunes juridiques pour Soonyang...
+car cela créerait des échappatoires légales pour Soonyang...
 
 266
 00:21:49,484 --> 00:21:51,284
@@ -1071,7 +1074,7 @@ Il a déclaré que le défunt président, Jin Yang Cheol,
 
 268
 00:21:54,454 --> 00:21:57,194
-avait poussé à la création de la holding financière...
+avait poussé à la création de la société holding financière...
 
 269
 00:21:57,194 --> 00:21:59,665
@@ -1079,19 +1082,19 @@ pour éviter de payer des droits de succession astronomiques.
 
 270
 00:21:59,665 --> 00:22:01,595
-Certains soupçonnent que l'entreprise aurait pris...
+Certains soupçonnent que l'entreprise a pu prendre...
 
 271
 00:22:01,595 --> 00:22:04,534
-des mesures expéditives pour établir sa holding financière.
+des mesures expéditives pour établir sa société holding financière.
 
 272
 00:22:04,534 --> 00:22:06,234
-Les soupçons s'intensifient autour de...
+Les soupçons grandissent autour de...
 
 273
 00:22:06,234 --> 00:22:07,875
-la corruption potentielle au sein de Soonyang.
+pratiques potentiellement corrompues au sein de Soonyang.
 
 274
 00:22:07,875 --> 00:22:09,434
@@ -1103,7 +1106,7 @@ visant à assouplir la séparation du capital industriel et financier,
 
 276
 00:22:11,645 --> 00:22:13,845
-donc l'établissement de Soonyang Financial Holding Company...
+donc la création de Soonyang Financial Holding Company...
 
 277
 00:22:13,845 --> 00:22:15,544
@@ -1111,11 +1114,11 @@ a échoué.
 
 278
 00:22:17,214 --> 00:22:19,615
-Si nos projets pour la holding échouent...
+Si nos plans pour la société holding échouent...
 
 279
 00:22:19,615 --> 00:22:21,514
-Que devons-nous régler d'abord ?
+Que devons-nous gérer en premier ?
 
 280
 00:22:21,514 --> 00:22:24,055
@@ -1131,7 +1134,7 @@ Dès l'ouverture du marché demain,
 
 283
 00:22:27,425 --> 00:22:29,855
-toutes les actions liées à la holding vont chuter.
+toutes les actions liées à la société holding vont chuter.
 
 284
 00:22:29,855 --> 00:22:32,395
@@ -1163,7 +1166,7 @@ Pensez-vous vraiment...
 
 291
 00:22:53,315 --> 00:22:56,315
-que Chang Je a trouvé ce plan ?
+que Chang Je a eu cette idée ?
 
 292
 00:22:56,315 --> 00:22:57,355
@@ -1173,9 +1176,11 @@ Vous pensez tous ça ?
 00:23:00,055 --> 00:23:02,125
 (Analyse des taux d'approbation)
 
+
+
 294
 00:23:02,125 --> 00:23:04,524
-Hé, neveu. Les gens m'appellent maintenant...
+Salut, neveu. Les gens m'appellent maintenant...
 
 295
 00:23:04,524 --> 00:23:07,494
@@ -1183,19 +1188,19 @@ l'icône de la démocratisation économique.
 
 296
 00:23:07,494 --> 00:23:09,665
-Ils disent qu'en quelques mots, j'ai réussi à les persuader...
+Ils disent qu'avec quelques mots, j'ai réussi à les persuader...
 
 297
-00:23:09,665 --> 00:00:00,000
+00:23:09,665 --> 00:23:12,504
 de voter contre le projet de loi qui devait passer.
 
 298
 00:23:13,234 --> 00:23:16,274
-Quoi qu'il en soit, comment avez-vous eu une idée pareille ?
+Bref, comment t'est venue une idée pareille ?
 
 299
 00:23:16,274 --> 00:23:20,605
-Vous avez utilisé la colère des gens envers le président Jin Yang Cheol...
+Tu as utilisé la colère des gens envers le président Jin Yang Cheol...
 
 300
 00:23:20,605 --> 00:23:22,014
@@ -1211,7 +1216,7 @@ Les gens aiment les héros,
 
 303
 00:23:28,355 --> 00:23:30,684
-mais ils apprécient vraiment de voir un héros tomber.
+mais ils adorent voir un héros tomber.
 
 304
 00:23:30,684 --> 00:23:31,724
@@ -1219,11 +1224,11 @@ C'est exact.
 
 305
 00:23:32,254 --> 00:23:34,284
-Mais personne n'imaginerait jamais...
+Mais personne n'aurait jamais imaginé...
 
 306
 00:23:34,284 --> 00:23:36,595
-que la personne qui a fait tomber ce héros...
+que la personne qui a fait tomber le héros...
 
 307
 00:23:36,595 --> 00:23:41,335
@@ -1239,7 +1244,7 @@ Oh, le chef du parti est là.
 
 310
 00:23:45,605 --> 00:23:46,755
-Je vous parlerai plus tard.
+Je te parlerai plus tard.
 
 311
 00:23:59,385 --> 00:24:01,085
@@ -1247,7 +1252,7 @@ Prochaine nouvelle.
 
 312
 00:24:01,085 --> 00:24:03,415
-La nouvelle que Soonyang Financial Holding Company,
+La nouvelle selon laquelle la Soonyang Financial Holding Company,
 
 313
 00:24:03,415 --> 00:24:04,925
@@ -1255,71 +1260,71 @@ l'ambition de longue date du président Jin Yang Cheol,
 
 314
 00:24:04,925 --> 00:24:08,655
-était en fait une partie du plan de l'entreprise pour éviter les droits de succession...
+faisait en réalité partie du plan de l'entreprise pour éviter les droits de succession...
 
 315
 00:24:08,655 --> 00:24:11,425
-éloigne rapidement les innombrables endeuillés à travers le pays...
+fait rapidement se détourner les innombrables personnes en deuil à travers le pays...
 
 316
 00:24:11,425 --> 00:24:13,365
-qui se détournent.
+Personne ne peut nier que le défunt président, Jin Yang Cheol,
 
 317
 00:24:13,994 --> 00:24:17,165
-Personne ne peut nier que le défunt président, Jin Yang Cheol,
+était un chef d'entreprise prospère.
 
 318
 00:24:17,165 --> 00:24:19,065
-était un chef d'entreprise prospère.
+Cependant, nous ne pouvons pas non plus nier qu'il a essayé...
 
 319
 00:24:19,065 --> 00:24:21,375
-Cependant, nous ne pouvons pas non plus nier qu'il a essayé...
+d'influencer les politiciens jusqu'à ses derniers moments...
 
 320
 00:24:21,375 --> 00:24:23,605
-d'influencer les politiciens jusqu'à ses derniers instants...
+pour transférer illégalement ses biens et prendre des mesures expéditives...
 
 321
 00:24:23,605 --> 00:24:26,044
-pour transférer illégalement ses actifs et prendre des mesures expéditives...
+pour éviter les droits de succession.
 
 322
 00:24:26,044 --> 00:24:28,014
-pour éviter les droits de succession.
+(Groupe Soonyang)
 
 323
 00:24:29,244 --> 00:24:33,014
-(Soonyang Group)
+(Lee Hang Jae)
 
 324
 00:24:39,724 --> 00:24:41,125
-(Lee Hang Jae)
+(Banque Hangang)
 
 325
 00:24:45,895 --> 00:24:48,294
-(Hangang Bank)
+Maître Park.
 
 326
 00:25:04,444 --> 00:25:05,514
-Avocat Park.
+Je veux changer mon testament.
 
 327
 00:25:06,385 --> 00:25:08,655
-Je veux changer mon testament.
+Tout cela est à cause de Do Jun.
 
 328
 00:25:09,184 --> 00:25:10,784
-C'est à cause de Do Jun.
+C'est un tel sale gosse.
 
 329
 00:25:12,585 --> 00:25:16,325
-C'est vraiment un petit vaurien.
+Ce vaurien.
 
 330
 00:25:16,325 --> 00:25:19,565
-Ce garnement. Je ne le supporte pas.
+Je ne le supporte pas.
 
 331
 00:25:20,125 --> 00:25:22,565
@@ -1327,19 +1332,19 @@ C'est pourquoi je veux changer mon testament.
 
 332
 00:25:23,835 --> 00:25:25,865
-Pourquoi Do Jun vous dérange-t-il autant, monsieur ?
+Pourquoi Do Jun te dérange autant, monsieur ?
 
 333
 00:25:26,764 --> 00:25:28,774
-Savez-vous pourquoi ce voyou...
+Sais-tu pourquoi ce punk...
 
 334
 00:25:28,774 --> 00:25:31,774
-essaie tant de sauver Soonyang Motors ?
+essaie si fort de sauver Soonyang Motors ?
 
 335
 00:25:32,504 --> 00:25:35,714
-Il sait que son grand-père est en train de mourir, alors il se sent mal pour moi.
+Il sait que son grand-père est mourant, alors il se sent mal pour moi.
 
 336
 00:25:37,514 --> 00:25:39,614
@@ -1347,15 +1352,15 @@ C'est pour ça qu'il pisse sur son pied gelé.
 
 337
 00:25:42,214 --> 00:25:43,284
-Ce petit garnement.
+Ce petit sale gosse.
 
 338
 00:25:46,284 --> 00:25:47,885
-N'essayez pas de me faire changer d'avis.
+N'essaie pas de me faire changer d'avis.
 
 339
 00:25:47,885 --> 00:25:51,524
-Ce garnement ne recevra pas un sou de moi.
+Ce punk ne recevra pas un sou de ma part.
 
 340
 00:25:51,524 --> 00:25:54,294
@@ -1363,7 +1368,7 @@ Monsieur, Do Jun se soucie de vous en tant que petit-fils...
 
 341
 00:25:54,294 --> 00:25:55,434
-Idiot !
+Imbécile !
 
 342
 00:25:56,665 --> 00:25:58,605
@@ -1371,7 +1376,7 @@ Ce n'est pas comme si les balles se souciaient de ce genre de choses...
 
 343
 00:25:58,605 --> 00:26:01,105
-quand vous êtes en guerre !
+quand tu fais la guerre !
 
 344
 00:26:02,575 --> 00:26:06,244
@@ -1379,15 +1384,15 @@ Les deux choses dont un combattant n'a pas l'utilité...
 
 345
 00:26:06,244 --> 00:26:08,815
-sont son appendice et la compassion. La pitié !
+sont son appendice et la compassion. La sympathie !
 
 346
 00:26:08,815 --> 00:26:13,385
-Vous ne pouvez pas vous permettre de traîner des émotions aussi inutiles dans une guerre.
+Tu ne peux pas te permettre de traîner des émotions aussi inutiles dans une guerre.
 
 347
 00:26:13,385 --> 00:26:14,685
-Cela ne fera que vous alourdir.
+Cela ne fera que te ralentir.
 
 348
 00:26:17,315 --> 00:26:21,595
@@ -1399,11 +1404,11 @@ les plans de succession rencontreront des obstacles, monsieur.
 
 350
 00:26:23,355 --> 00:26:25,305
-Je vais le pousser au bord du précipice.
+Je vais le pousser au bord d'une falaise.
 
 351
 00:26:27,165 --> 00:26:28,194
-Ce garnement...
+Ce sale gosse...
 
 352
 00:26:29,194 --> 00:26:31,335
@@ -1411,7 +1416,7 @@ Il fera n'importe quoi pour survivre.
 
 353
 00:26:33,635 --> 00:26:36,704
-Je le veux voir tel qu'il est quand il touche le fond.
+Je veux qu'il voie ce qu'il peut devenir quand il touche le fond.
 
 354
 00:26:40,645 --> 00:26:41,875
@@ -1419,7 +1424,7 @@ Je sais...
 
 355
 00:26:42,714 --> 00:26:43,774
-qu'il...
+il...
 
 356
 00:26:44,675 --> 00:26:47,115
@@ -1455,8 +1460,7 @@ Cette vidéo peut servir de testament légal.
 
 364
 00:27:19,815 --> 00:27:22,115
-- D'accord.
-- Commençons alors ?
+- D'accord. - Commençons alors ?
 
 365
 00:27:32,395 --> 00:27:33,425
@@ -1494,13 +1498,15 @@ Celui qui me ressemble le plus.
 00:28:49,504 --> 00:28:50,875
 Mon petit-fils.
 
+
+
 374
 00:29:44,470 --> 00:29:45,940
-C'est l'héritage du Président Jin...
+C'est l'héritage du président Jin...
 
 375
 00:29:47,609 --> 00:29:49,250
-qu'il vous a laissé, Do Jun.
+qu'il t'a laissé, Do Jun.
 
 376
 00:30:14,470 --> 00:30:15,609
@@ -1508,15 +1514,15 @@ C'est celui-ci.
 
 377
 00:30:25,549 --> 00:30:27,180
-(Hangang Bank)
+(Banque Hangang)
 
 378
 00:30:41,430 --> 00:30:44,369
-Le président Jin s'est assuré que je vous le remette...
+Le président Jin s'est assuré que je te le remette...
 
 379
 00:30:45,129 --> 00:30:47,329
-une fois que vous aurez compris le sens de son testament.
+une fois que tu aurais compris le sens de son testament.
 
 380
 00:31:06,490 --> 00:31:08,089
@@ -1524,27 +1530,27 @@ Soonyang Micro.
 
 381
 00:31:08,089 --> 00:31:10,430
-Il y avait un document qui ne figurait pas sur la liste.
+Il y avait un document qui n'était pas sur la liste.
 
 382
 00:31:12,859 --> 00:31:15,670
-C'était un vieux document dont l'année de conservation était dépassée.
+C'était un vieux document dont la période de conservation était dépassée.
 
 383
 00:31:15,670 --> 00:31:17,099
-Alors j'ai d'abord pensé le jeter.
+Alors au début, j'ai pensé à le jeter.
 
 384
 00:31:17,099 --> 00:31:20,399
-Mais il y avait une trace qu'une assez grosse somme d'argent...
+Mais il y avait une trace qu'une somme d'argent assez importante...
 
 385
 00:31:20,399 --> 00:31:22,240
-était stockée depuis longtemps.
+avait été stockée pendant longtemps.
 
 386
 00:31:34,420 --> 00:31:37,720
-Soonyang Micro est une société fictive...
+Soonyang Micro est une société écran...
 
 387
 00:31:37,720 --> 00:31:39,559
@@ -1552,11 +1558,11 @@ qui n'existe que sur le papier.
 
 388
 00:31:39,559 --> 00:31:42,629
-Quelqu'un détourne l'argent de Soonyang vers l'étranger...
+Quelqu'un détourne l'argent de Soonyang à l'étranger...
 
 389
 00:31:42,629 --> 00:31:45,599
-via cette société fictive, monsieur.
+via cette société écran, monsieur.
 
 390
 00:31:45,599 --> 00:31:48,770
@@ -1576,11 +1582,11 @@ Est-ce vraiment l'héritage que Grand-père...
 
 394
 00:32:10,250 --> 00:32:11,290
-m'avait laissé ?
+m'a laissé ?
 
 395
 00:32:12,059 --> 00:32:15,530
-Le président Jin avait travaillé dur pour le préparer pendant longtemps.
+Le président Jin avait travaillé dur pour le préparer pendant assez longtemps.
 
 396
 00:32:15,530 --> 00:32:18,089
@@ -1588,7 +1594,7 @@ Pour le donner au successeur de Soonyang.
 
 397
 00:32:18,700 --> 00:32:21,030
-Maintenant, personne à Soonyang n'est au courant...
+Maintenant, personne chez Soonyang n'est au courant...
 
 398
 00:32:22,230 --> 00:32:24,069
@@ -1600,11 +1606,11 @@ Et, bien sûr, l'argent ne peut pas être retracé.
 
 400
 00:32:27,839 --> 00:32:29,109
-C'est un fonds secret parfait...
+C'est une caisse noire parfaite...
 
 401
 00:32:29,109 --> 00:32:31,609
-qui ne peut être imposé par aucun don ni impôt sur les successions.
+qui ne peut être imposée par aucun droit de donation ou de succession.
 
 402
 00:32:32,240 --> 00:32:33,690
@@ -1612,15 +1618,15 @@ Le président Jin s'était assuré...
 
 403
 00:32:35,040 --> 00:32:36,809
-que je comprenne plusieurs fois.
+que je comprenne à plusieurs reprises.
 
 404
 00:32:37,879 --> 00:32:39,879
-Pour vous le remettre...
+De te le remettre...
 
 405
 00:32:39,879 --> 00:32:42,149
-seulement lorsque vous aurez acquis la leçon...
+seulement quand tu aurais saisi la leçon...
 
 406
 00:32:43,990 --> 00:32:45,250
@@ -1632,2650 +1638,2599 @@ Mais pourquoi me l'a-t-il laissé ?
 
 408
 00:32:50,990 --> 00:32:53,099
-Si c'était un fonds secret si parfait,
+Si c'était une caisse noire aussi parfaite, personne ne l'aurait trouvée si tu l'avais gardée, Monsieur Lee.
 
 409
 00:32:53,099 --> 00:32:56,399
-personne ne l'aurait trouvé si vous l'aviez gardé, M. Lee.
+Était-ce votre dernière loyauté envers Grand-père,
 
 410
 00:32:58,200 --> 00:33:00,399
-Était-ce votre dernière loyauté envers Grand-père,
+ou quelque chose comme ça ?
 
 411
 00:33:01,770 --> 00:33:02,920
-ou quelque chose comme ça ?
+Si je vous disais que c'était le cas après si longtemps,
 
 412
 00:33:09,609 --> 00:33:12,720
-Si je vous disais que c'était le cas après tout ce temps,
+me croiriez-vous ?
 
 413
 00:33:12,720 --> 00:33:13,780
-me croiriez-vous ?
+Être né serviteur n'était pas mon choix.
 
 414
 00:33:17,549 --> 00:33:20,220
-Être né serviteur n'était pas mon choix.
+Mais je pouvais choisir le propriétaire à servir.
 
 415
 00:33:22,190 --> 00:33:25,059
-Mais je pouvais choisir le propriétaire à servir.
+Le vice-président Jin Young Ki ou Jin Dong Ki.
 
 416
 00:33:30,270 --> 00:33:32,470
-Vice-président Jin Young Ki ou Jin Dong Ki.
+Je ne peux pas leur confier Soonyang.
 
 417
 00:33:34,069 --> 00:33:35,819
-Je ne peux pas laisser Soonyang à eux.
+Nous sommes sur la même longueur d'onde, n'est-ce pas, Do Jun ?
 
 418
 00:33:39,010 --> 00:33:41,010
-Ne sommes-nous pas sur la même longueur d'onde, Do Jun ?
+Il a été élu 16ème candidat présidentiel de notre parti.
 
 419
 00:33:44,510 --> 00:33:48,750
-Il a été élu candidat à la présidence de notre parti pour la 16ème élection.
+- Choi Chang Je ! - Choi Chang Je !
 
 420
 00:33:54,359 --> 00:33:57,230
-- Choi Chang Je !
-- Choi Chang Je !
+Es-tu heureux ?
 
 421
 00:33:58,700 --> 00:34:00,260
-Êtes-vous heureux ?
+Monsieur le Maire Choi Chang Je, l'icône de la démocratisation économique.
 
 422
 00:34:00,260 --> 00:34:03,270
-Maire Choi Chang Je, l'icône de la démocratisation économique.
+Je n'ai découvert aujourd'hui que...
 
 423
 00:34:04,799 --> 00:34:06,139
-J'ai découvert aujourd'hui seulement que...
+la Corée avait encore un sens de la justice.
 
 424
 00:34:06,139 --> 00:34:08,770
-la Corée avait encore un sens de la justice.
+Je t'ai glorifié et fait de toi, un étudiant qui s'en sortait tout seul...
 
 425
 00:34:08,770 --> 00:34:10,369
-J'ai glorifié et fait de vous, un étudiant autonome...
+venu de la campagne, le maire de Séoul.
 
 426
 00:34:10,369 --> 00:34:12,809
-de la campagne, le maire de Séoul.
+Alors comment as-tu pu trahir la famille de ta femme ?
 
 427
 00:34:12,809 --> 00:34:15,349
-Alors comment pourriez-vous trahir la famille de votre femme ?
+Un tel homme ne devrait pas devenir président.
 
 428
 00:34:15,349 --> 00:34:17,710
-Un tel homme ne devrait pas devenir président.
+Ce rusé Do Jun...
 
 429
 00:34:21,320 --> 00:34:23,420
-Ce rusé Do Jun...
+n'aimait pas ce qu'il avait.
 
 430
 00:34:23,420 --> 00:34:24,920
-n'aimait pas ce qu'il avait.
+Alors il a rassemblé tout le monde et a tout retourné.
 
 431
 00:34:24,920 --> 00:34:27,320
-Alors il a réuni tout le monde et a tout retourné.
+Il t'a poussé...
 
 432
 00:34:27,320 --> 00:34:29,230
-Il vous a encouragé...
+à réduire à néant la société holding...
 
 433
 00:34:29,230 --> 00:34:31,059
-à faire échouer la holding...
+et à abroger la séparation du capital industriel et financier.
 
 434
 00:34:31,059 --> 00:34:34,159
-et à abroger la séparation du capital industriel et financier.
+Non. C'était moi.
 
 435
 00:34:35,529 --> 00:34:37,429
-Non. C'était moi.
+Réduire à néant la société holding financière...
 
 436
 00:34:37,429 --> 00:34:39,000
-Faire échouer la holding financière...
+était mon idée du début à la fin.
 
 437
 00:34:39,000 --> 00:34:41,199
-était mon idée du début à la fin.
+Un magnat ne devrait jamais posséder une banque.
 
 438
 00:34:41,199 --> 00:34:43,570
-Un magnat ne devrait jamais posséder une banque.
+C'est la conviction politique de Choi Chang Je,
 
 439
 00:34:43,570 --> 00:34:45,110
-C'est la conviction politique de Choi Chang Je,
+le tireur d'élite des magnats.
 
 440
 00:34:45,110 --> 00:34:46,340
-le tireur d'élite des magnats.
+Parlons de votre conviction politique.
 
 441
 00:34:49,849 --> 00:34:51,779
-Parlons de votre conviction politique.
+Alors, qui deviendra président ?
 
 442
 00:34:51,779 --> 00:34:54,520
-Alors qui sera président ?
+Pour l'amour de Dieu.
 
 443
 00:34:55,520 --> 00:34:57,989
-Pour l'amour de Dieu.
+Tu es vraiment quelque chose. Tu l'es vraiment.
+
+
 
 444
 00:34:58,550 --> 00:35:00,759
-Vous êtes vraiment quelqu'un. Vraiment.
+Est-ce quelque chose à me demander en ce moment ?
 
 445
 00:35:01,420 --> 00:35:04,059
-Est-ce quelque chose à me demander en ce moment même ?
+Oui. En ce moment même,
 
 446
 00:35:04,059 --> 00:35:06,329
-Oui. En ce moment même,
+je dois dire à mes frères, qui pourraient finir par payer mille milliards de wons...
 
 447
 00:35:07,460 --> 00:35:10,500
-je dois dire à mes frères, qui pourraient finir par payer un billion de won...
+en droits de succession à cause de vous,
 
 448
 00:35:10,500 --> 00:35:12,969
-en droits de succession à cause de vous,
+que moi, Jin Hwa Young, je suis toujours une carte utile...
 
 449
 00:35:12,969 --> 00:35:16,440
-que moi, Jin Hwa Young, suis encore une carte utile...
+pour que votre deuxième vie politique puisse commencer.
 
 450
 00:35:17,040 --> 00:35:19,639
-pour que votre deuxième vie politique puisse commencer.
+Arrête ça.
 
 451
 00:35:19,639 --> 00:35:20,710
-Arrêtez.
+Alors dites-moi. Qui va gagner l'élection présidentielle ?
 
 452
 00:35:21,380 --> 00:35:23,930
-Alors dites-moi. Qui va gagner l'élection présidentielle ?
+À qui devons-nous livrer l'argent ?
 
 453
 00:35:24,650 --> 00:35:26,300
-À qui devons-nous livrer l'argent ?
+Celui qui est favorable...
 
 454
 00:35:31,489 --> 00:35:32,520
-Celui qui est favorable...
+a déjà été décidé, n'est-ce pas ?
 
 455
 00:35:35,630 --> 00:35:37,080
-a déjà été décidé, n'est-ce pas ?
+Qui est celui qui est favorable ? Dites-le moi.
 
 456
 00:35:39,130 --> 00:35:40,730
-Qui est celui qui est favorable ? Dites-le moi.
+C'est les toilettes pour hommes !
 
 457
 00:35:40,730 --> 00:35:41,829
-C'est les toilettes pour hommes !
+Qui est-ce ?
 
 458
 00:35:41,829 --> 00:35:43,500
-Qui est-ce ?
+Êtes-vous sûr qu'il est favorable ?
 
 459
 00:35:46,040 --> 00:35:47,699
-Êtes-vous sûr qu'il est favorable ?
+Le candidat du parti au pouvoir fait sensation en ce moment.
 
 460
 00:35:47,699 --> 00:35:51,070
-Le candidat du parti au pouvoir fait sensation en ce moment.
+Allez. C'est une sensation maigre.
 
 461
 00:35:51,070 --> 00:35:53,509
-Allez. C'est une maigre sensation.
+Qui peut nous tenir tête...
 
 462
 00:35:53,509 --> 00:35:55,239
-Qui peut nous faire face...
+en attrapant une simple tirelire ?
 
 463
 00:35:55,239 --> 00:35:57,210
-en attrapant un simple cochon d'épargne ?
+Daeyoung Group...
 
 464
 00:35:57,210 --> 00:35:59,719
-Daeyoung Group...
+a envoyé deux camions bennes de billets il y a quelques jours.
 
 465
 00:35:59,719 --> 00:36:02,550
-a envoyé deux camions de billets il y a quelques jours.
+Ce pays est encore loin.
 
 466
 00:36:02,550 --> 00:36:04,820
-Ce pays est encore loin.
+Ce candidat favorable.
 
 467
 00:36:04,820 --> 00:36:06,020
-Ce candidat favorable.
+N'est-il pas connu pour être droit ?
 
 468
 00:36:06,559 --> 00:36:08,259
-N'est-il pas connu pour être droit ?
+Plus il aimera l'argent neuf et frais.
 
 469
 00:36:08,259 --> 00:36:11,889
-Plus il aimera l'argent, neuf et frais.
+Allons avec le candidat favorable avant qu'il ne soit trop tard.
 
 470
 00:36:14,360 --> 00:36:17,329
-Allons avec le candidat favorable avant qu'il ne soit trop tard.
+N'avons-nous pas besoin d'assurance...
 
 471
 00:36:18,099 --> 00:36:19,449
-N'avons-nous pas besoin d'assurance...
+pour l'autre candidat ?
 
 472
 00:36:21,199 --> 00:36:23,009
-pour l'autre candidat ?
+Donnons-leur un petit gage de notre sincérité.
 
 473
 00:36:23,009 --> 00:36:25,139
-Donnons-leur un petit gage de notre sincérité.
+Si grand-père avait été vivant,
 
 474
 00:36:25,139 --> 00:36:26,309
-Si Grand-père avait été vivant,
+il aurait soutenu pleinement un candidat.
 
 475
 00:36:26,309 --> 00:36:28,409
-il aurait soutenu pleinement un candidat.
+Young Ki.
 
 476
 00:36:30,809 --> 00:36:32,420
-Young Ki.
+Nous sommes dans le même bateau maintenant, d'accord ?
 
 477
 00:36:33,250 --> 00:36:35,480
-Nous sommes dans le même bateau maintenant, d'accord ?
+Il n'y aura pas besoin de faire marche arrière.
 
 478
 00:36:41,960 --> 00:36:44,690
-Il n'y aura pas besoin de faire marche arrière.
+Vous et moi avons le même esprit, après tout.
 
 479
 00:36:44,690 --> 00:36:47,730
-Vous et moi sommes d'accord, après tout.
+Mon Dieu, vraiment. Notre père doit être fier.
 
 480
 00:36:50,630 --> 00:36:53,699
-Ma foi, vraiment. Notre père doit être fier.
+Fier du lien étroit que nous trois avons.
 
 481
 00:36:54,739 --> 00:36:57,909
-Fier du lien étroit que nous avons, nous trois.
+Mon Dieu, Hwa Young.
 
 482
 00:36:59,179 --> 00:37:00,239
-Mon Dieu, Hwa Young.
+Je pensais que les médias s'arrêteraient...
 
 483
 00:37:06,480 --> 00:37:08,250
-Je pensais que les médias se calmiraient...
+si Oncle perdait l'élection du candidat.
 
 484
 00:37:08,250 --> 00:37:10,290
-si l'oncle perdait l'élection du candidat.
+Mais il est toujours au centre de l'attention.
 
 485
 00:37:11,020 --> 00:37:13,389
-Mais il est toujours au centre de l'attention.
+Un magnat ne devrait pas posséder une banque.
 
 486
 00:37:13,389 --> 00:37:16,389
-Un magnat ne doit pas posséder une banque.
+Quarante et un pour cent du grand public est d'accord.
 
 487
 00:37:16,389 --> 00:37:18,559
-Quarante et un pour cent du public est d'accord.
+Soixante-et-onze pour cent des professeurs d'économie sont d'accord.
 
 488
 00:37:18,559 --> 00:37:20,900
-Soixante et onze pour cent des professeurs d'économie sont d'accord.
+Je vais faire un appel constitutionnel.
 
 489
 00:37:20,900 --> 00:37:23,270
-Je vais faire un appel constitutionnel.
+Je le ferai, point final.
 
 490
 00:37:23,869 --> 00:37:25,599
-Je le ferai, point final.
+Comment ça se fait ? N'est-ce pas une chance pour nous ?
 
 491
-00:37:25,500 --> 00:37:28,170
-Comment se fait-il ? N'est-ce pas une chance pour nous ?
+00:37:25,599 --> 00:37:28,170
+La création de la société holding a échoué.
 
 492
 00:37:29,409 --> 00:37:31,639
-L'établissement de la holding a été réduit en miettes.
+Les actions conjointes et les droits de vote...
 
 493
 00:37:31,639 --> 00:37:33,279
-Les actions conjointes et les droits de vote...
+avec Oncle Young Ki ne signifieront rien.
 
 494
 00:37:33,279 --> 00:37:35,179
-avec l'oncle Young Ki ne signifieront rien.
-
+Nous devons trouver un moyen de survivre.
 
 495
 00:37:36,550 --> 00:37:38,200
-Nous devons trouver un moyen de survivre.
-
+Et alors ? Avez-vous une idée ?
 
 496
 00:37:39,380 --> 00:37:42,619
-Alors quoi ? Avez-vous une idée ?
-
+Ne vous inquiétez pas, Père.
 
 497
 00:37:43,550 --> 00:37:44,949
-Ne vous inquiétez pas, Père.
-
+En ce moment, il n'y a qu'un seul moyen de devenir le chef du groupe Soonyang.
 
 498
 00:37:46,389 --> 00:37:50,529
-Il n'y a qu'une seule façon de devenir le chef de Soonyang Group.
-
+C'est d'avoir les actions des sociétés affiliées de Soonyang...
 
 499
 00:37:50,529 --> 00:37:53,400
-C'est d'avoir les actions des affiliés de Soonyang...
-
+et de devenir le principal actionnaire de Soonyang Corporation.
 
 500
 00:37:53,400 --> 00:37:55,929
-et de devenir le plus grand actionnaire de Soonyang Corporation.
-
+Oncle Dong Ki n'est même pas proche...
 
 501
 00:37:55,929 --> 00:37:57,300
-Oncle Dong Ki n'est même pas proche...
-
+de vos actions de Soonyang Corporation.
 
 502
 00:37:57,300 --> 00:37:58,829
-de vos actions Soonyang Corporation.
-
+Dong Ki n'est pas quelqu'un...
 
 503
 00:37:58,829 --> 00:38:00,270
-Dong Ki n'est pas quelqu'un...
-
+qui me cédera facilement le poste de chef.
 
 504
 00:38:01,099 --> 00:38:04,239
-qui me cédera facilement le poste de chef.
-
+D'ici là, je parie qu'il calcule les chiffres à toute vitesse.
 
 505
 00:38:07,079 --> 00:38:10,610
-Maintenant, je parie qu'il est en train de calculer les chiffres comme un fou.
-
+Répète ça. Faire quoi ?
 
 506
 00:38:12,150 --> 00:38:14,480
-Redites-moi. Faire quoi ?
-
+Séparons les sociétés financières...
 
 507
 00:38:14,480 --> 00:38:16,349
-Séparons les affiliés financiers...
-
+du groupe Soonyang et rendons-les indépendantes.
 
 508
 00:38:16,349 --> 00:38:19,619
-de Soonyang Group et rendons-les indépendants.
-
+Nous pouvons utiliser l'opinion publique comme prétexte.
 
 509
 00:38:21,920 --> 00:38:24,630
-Nous pouvons utiliser l'opinion publique comme prétexte.
-
+Plutôt que le chef désespéré du groupe Soonyang,
 
 510
 00:38:24,630 --> 00:38:27,130
-Plutôt que le chef désespéré de Soonyang Group,
-
+le président d'un groupe financier...
 
 511
 00:38:27,130 --> 00:38:29,330
-le président d'un groupe financier...
-
+ne sonne-t-il pas bien ?
 
 512
 00:38:30,130 --> 00:38:31,270
-ne sonne-t-il pas bien ?
-
+Mon Dieu. Eh bien, je...
 
 513
 00:38:33,940 --> 00:38:36,610
-Ma foi, eh bien, je...
-
+Pour que Soonyang devienne une entreprise nationale,
 
 514
 00:38:38,809 --> 00:38:41,540
-Pour que Soonyang devienne une entreprise nationale,
-
+je me sacrifierai.
 
 515
 00:38:43,380 --> 00:38:44,980
-je me sacrifierai.
-
+Qu'est-ce qui vous amène si tôt, Monsieur Oh ?
 
 516
 00:38:50,690 --> 00:38:52,659
-Qu'est-ce qui vous amène si tôt, M. Oh ?
+Quelque chose se passe-t-il ?
+
 
 
 517
 00:38:53,690 --> 00:38:54,790
-Quelque chose se passe-t-il ?
-
+Votre visage me dit que vous n'avez pas entendu les nouvelles.
 
 518
 00:38:55,860 --> 00:38:59,029
-Votre visage me dit que vous n'avez pas entendu les nouvelles.
-
+Quelles nouvelles ?
 
 519
 00:38:59,029 --> 00:39:00,029
-Quelles nouvelles ?
-
+Le conseil d'administration de Soonyang Investment...
 
 520
 00:39:00,699 --> 00:39:02,969
-Le conseil d'administration de Soonyang Investment...
-
+m'a démis de mes fonctions de PDG.
 
 521
 00:39:02,969 --> 00:39:04,969
-m'a démis de mes fonctions de PDG.
-
+Il n'y a pas que Soonyang Investment.
 
 522
 00:39:08,869 --> 00:39:10,809
-Il n'y a pas que Soonyang Investment.
-
+Cela inclut Soonyang Fire Insurance et Soonyang Asset Management.
 
 523
 00:39:10,809 --> 00:39:13,579
-Cela inclut Soonyang Fire Insurance et Soonyang Asset Management.
-
+Le conseil d'administration s'est soulevé et a remplacé tous les PDG.
 
 524
 00:39:13,579 --> 00:39:16,050
-Le conseil d'administration s'est levé et a remplacé tous les PDG.
-
+Je sais.
 
 525
 00:39:16,050 --> 00:39:17,079
-Je sais.
-
+Le conseil d'administration de Soonyang Investment...
 
 526
 00:39:17,079 --> 00:39:18,250
-Le conseil d'administration de Soonyang Investment...
-
+et Soonyang Fire Insurance...
 
 527
 00:39:18,250 --> 00:39:19,449
-et celui de Soonyang Fire Insurance...
-
+sont d'anciens PDG ou des membres des familles des propriétaires.
 
 528
 00:39:19,449 --> 00:39:21,349
-sont d'anciens PDG ou des membres des familles des propriétaires.
-
+Ils sont sous l'influence du vice-président Jin Dong Ki.
 
 529
 00:39:21,349 --> 00:39:23,849
-Ils sont sous l'influence du vice-président Jin Dong Ki.
-
+Oui.
 
 530
 00:39:23,849 --> 00:39:24,889
-Oui.
-
+Cela signifie que le vice-président Jin Dong Ki a commencé à agir indépendamment.
 
 531
 00:39:25,989 --> 00:39:29,539
-Cela signifie que le vice-président Jin Dong Ki a commencé à agir indépendamment.
-
+Oh, laissez-moi vous apporter du café. Veuillez patienter.
 
 532
 00:39:31,860 --> 00:39:34,199
-Oh, laissez-moi vous servir du café. Veuillez patienter.
-
+Tout le monde !
 
 533
 00:39:34,199 --> 00:39:36,199
-Tout le monde !
-
+Devenez riches !
 
 534
 00:39:36,869 --> 00:39:39,670
-S'il vous plaît, enrichissez-vous !
-
+Promis !
 
 535
 00:39:40,400 --> 00:39:41,739
-Promis !
-
+Daeyoung pense à votre succès.
 
 536
 00:39:42,739 --> 00:39:45,440
-Daeyoung pense à votre succès.
-
+Daeyoung Card.
 
 537
 00:39:46,279 --> 00:39:47,809
-Daeyoung Card.
-
+Monsieur Oh. Il est temps de le vendre.
 
 538
 00:39:47,809 --> 00:39:51,079
-M. Oh. Il est temps de la vendre.
-
+Soonyang Card.
 
 539
 00:39:51,849 --> 00:39:52,880
-Soonyang Card.
-
+(Procureur Seo Min Yeong)
 
 540
 00:39:56,650 --> 00:39:58,889
-(Procureure Seo Min Yeong)
-
+Vous êtes mutée, Procureure Seo.
 
 541
 00:40:00,360 --> 00:40:02,410
-Vous êtes mutée, Procureure Seo.
-
+Peut-être que vous avez mordu trop fort dans Soonyang jusqu'à présent.
 
 542
 00:40:03,690 --> 00:40:06,429
-Peut-être que vous avez mordu trop fort dans Soonyang jusqu'à présent.
-
+(Bureau d'Investigation Centrale du Bureau du Procureur Suprême)
 
 543
 00:40:08,659 --> 00:40:11,170
-(Bureau du Procureur Général, Division Centrale d'Investigation)
-
+Grâce à vous,
 
 544
 00:40:11,170 --> 00:40:12,900
-Grâce à vous,
-
+je vais travailler ici.
 
 545
 00:40:12,900 --> 00:40:15,570
-je vais travailler ici.
-
+Êtes-vous si contente ?
 
 546
 00:40:15,570 --> 00:40:16,809
-Êtes-vous si satisfaite ?
-
+Je suis contente.
 
 547
 00:40:18,540 --> 00:40:19,579
-Je suis contente.
-
+Je craignais de vous avoir imposé quelque chose.
 
 548
 00:40:19,579 --> 00:40:22,849
-J'avais peur de vous avoir importunée.
-
+Vous n'étiez pas très heureuse à ce sujet, n'est-ce pas ?
 
 549
 00:40:22,849 --> 00:40:25,150
-Vous n'étiez pas très contente, n'est-ce pas ?
-
+Mais c'est une promotion.
 
 550
 00:40:26,020 --> 00:40:27,480
-Mais c'est une promotion.
-
+Vraiment ?
 
 551
 00:40:27,480 --> 00:40:28,750
-Est-ce ?
-
+Je pensais que c'était une rétrogradation.
 
 552
 00:40:29,349 --> 00:40:30,949
-Je pensais que c'était une rétrogradation.
-
+Une rétrogradation ? Pas du tout.
 
 553
 00:40:30,949 --> 00:40:32,659
-Une rétrogradation ? Pas du tout.
-
+C'est la fleur du Bureau du Procureur,
 
 554
 00:40:32,659 --> 00:40:33,920
-C'est la fleur du Bureau du Procureur,
-
+le Bureau d'Investigation Centrale. Il a un grand pouvoir.
 
 555
 00:40:33,920 --> 00:40:36,470
-la Division Centrale d'Investigation. Elle a un grand pouvoir.
-
+Nous ne saurons pas avant la fin de l'élection présidentielle.
 
 556
 00:40:37,329 --> 00:40:40,130
-Nous ne saurons pas avant que l'élection présidentielle soit terminée.
-
+Mais j'ai entendu dire que le prochain gouvernement...
 
 557
 00:40:40,130 --> 00:40:41,929
-Mais j'ai entendu dire que le prochain gouvernement...
-
+abolirait le Bureau d'Investigation Centrale.
 
 558
 00:40:41,929 --> 00:40:43,670
-abolirait la Division Centrale d'Investigation.
-
+Cette rumeur court depuis le gouvernement civil.
 
 559
 00:40:43,670 --> 00:40:47,369
-Cette rumeur court depuis le gouvernement civil.
-
+Cette fois, ce n'est pas juste une rumeur.
 
 560
 00:40:47,369 --> 00:40:49,469
-Cette fois, ce n'est pas juste une rumeur.
-
+J'ai été mutée dans cette division.
 
 561
 00:40:49,469 --> 00:40:52,509
-J'ai été mutée dans cette division.
-
+Si le Bureau d'Investigation Centrale...
 
 562
 00:40:54,239 --> 00:40:55,909
-Si la Division Centrale d'Investigation...
-
+continuait à s'efforcer,
 
 563
 00:40:55,909 --> 00:40:57,949
-continuait de vouloir progresser,
-
+je ne serais pas ici.
 
 564
 00:40:58,550 --> 00:41:00,449
-je ne serais pas ici.
-
+Je rentre d'abord à la maison. Vous devriez faire de même.
 
 565
 00:41:02,079 --> 00:41:04,889
-Je rentre chez moi d'abord. Vous devriez faire de même.
-
+Tout sera terminé une fois que je serai nommé PDG.
 
 566
 00:41:26,579 --> 00:41:28,809
-Tout sera terminé une fois que je serai nommée PDG.
-
+Je ne vous décevrai plus.
 
 567
 00:41:28,809 --> 00:41:30,349
-Je ne vous décevrai plus.
-
+Vous vous trompez.
 
 568
 00:41:31,179 --> 00:41:32,179
-Vous vous trompez.
-
+Vous deviendrez encore plus rancunière.
 
 569
 00:41:33,380 --> 00:41:35,030
-Vous deviendrez encore plus rancunière.
-
+Parce que vous voudrez garder ce que vous avez.
 
 570
 00:41:36,389 --> 00:41:38,439
-Parce que vous voudrez garder ce que vous avez.
-
+Hé. Si je veux devenir indépendant en tant que Soonyang Financial Group,
 
 571
 00:41:48,529 --> 00:41:52,639
-Hé, si je veux devenir indépendant en tant que Soonyang Financial Group,
-
+il y a une affaire urgente que nous devons régler.
 
 572
 00:41:52,639 --> 00:41:55,239
-il y a une affaire urgente que nous devons régler.
-
+S'agit-il de liquider...
 
 573
 00:41:55,239 --> 00:41:56,610
-Est-ce la liquidation...
-
+les actions du président Jin Young Ki dans les sociétés financières ?
 
 574
 00:41:56,610 --> 00:41:58,670
-des actions du président Jin Young Ki dans les affiliés financiers ?
-
+Vous avez à moitié raison et à moitié tort.
 
 575
 00:41:58,670 --> 00:42:01,309
-Vous avez à moitié raison et à moitié tort.
-
+Puis-je acheter les actions de Young Ki avec l'argent que j'ai en ce moment ?
 
 576
 00:42:01,309 --> 00:42:03,550
-Puis-je acheter les actions de Young Ki avec l'argent que j'ai maintenant ?
-
+Non, c'est impossible.
 
 577
 00:42:03,550 --> 00:42:04,610
-Non, c'est impossible.
-
+J'ai besoin d'une vache à lait qui me rapportera de l'argent...
 
 578
 00:42:04,610 --> 00:42:07,250
-J'ai besoin d'une vache à lait qui me rapportera de l'argent...
-
+jusqu'à ce que la séparation soit terminée.
 
 579
 00:42:07,250 --> 00:42:09,079
-jusqu'à ce que la séparation soit terminée.
-
+Alors, la vache à lait / poule aux œufs d'or...
 
 580
 00:42:09,079 --> 00:42:11,650
-Alors, la vache à lait appelée ou l'oie dorée...
-
+à laquelle vous pensez se trouve-t-elle au sein du groupe Soonyang ?
 
 581
 00:42:11,650 --> 00:42:14,559
-à laquelle vous pensez est-elle au sein de Soonyang Group ?
-
+Soonyang Card.
 
 582
 00:42:15,259 --> 00:42:16,460
-Soonyang Card.
-
+Rien ne vaut une société de cartes de crédit pour les flux de trésorerie.
 
 583
 00:42:16,989 --> 00:42:19,139
-Rien ne bat une société de cartes dans les flux de trésorerie.
-
+Alors je vais acheter Soonyang Card en premier.
 
 584
 00:42:19,960 --> 00:42:22,500
-Alors je vais acheter Soonyang Card en premier.
-
+Pensez-vous que Do Jun va la vendre ?
 
 585
 00:42:22,500 --> 00:42:24,429
-Pensez-vous que Do Jun la vendra ?
-
+Si c'est une vache à lait sur laquelle même vous avez des vues,
 
 586
 00:42:24,429 --> 00:42:26,400
-Si c'est une vache à lait sur laquelle vous avez l'œil,
-
+je doute que Do Jun la mette en vente.
 
 587
 00:42:26,400 --> 00:42:28,400
-je doute que Do Jun la mette en vente.
-
+Je pense qu'il la vendra.
 
 588
 00:42:29,000 --> 00:42:30,210
-Je pense qu'il la vendra.
-
+Vous la vendrez ?
 
 589
 00:42:31,570 --> 00:42:32,679
-Vous la vendrez ?
-
+Vous vendrez Sooyang Card à moi ?
 
 590
 00:42:34,480 --> 00:42:36,349
-Vous vendrez Soonyang Card à moi ?
-
+Oui.
 
 591
 00:42:37,650 --> 00:42:38,679
-Oui.
-
+Cela ne fait pas si longtemps que vous avez repris Soonyang Card.
 
 592
 00:42:47,989 --> 00:42:51,829
-Il n'y a pas si longtemps que vous avez repris Soonyang Card.
-
+Grâce à Cheongwadae...
 
 593
 00:42:51,829 --> 00:42:53,599
-Grâce à Cheongwadae...
+qui a levé toutes les réglementations pour améliorer le marché intérieur...
+
 
 
 594
 00:42:53,599 --> 00:42:55,759
-en levant toutes les réglementations pour améliorer le marché intérieur...
-
+Avant l'élection présidentielle, la croissance des sociétés de cartes a été fulgurante.
 
 595
 00:42:55,759 --> 00:42:58,029
-avant l'élection présidentielle,
-
+Mais vous allez me le confier ?
 
 596
 00:42:58,029 --> 00:43:00,900
-la croissance des sociétés de cartes a été rapide.
-
+Pourquoi ?
 
 597
 00:43:00,900 --> 00:43:03,739
-Mais vous allez me la donner ?
-
+Vous allez l'acheter à un prix élevé, n'est-ce pas ?
 
 598
 00:43:05,739 --> 00:43:07,040
-Pourquoi ?
-
+Franchement, même la création de la holding a échoué.
 
 599
 00:43:07,040 --> 00:43:09,590
-Vous allez l'acheter à un prix élevé, n'est-ce pas ?
-
+Donc je ne pense pas que vous, qui êtes rapide avec les chiffres...
 
 600
 00:43:15,949 --> 00:43:19,719
-Honnêtement, même l'établissement de la holding est tombé à l'eau.
-
+et avez un grand sens de la réalité,
 
 601
 00:43:20,759 --> 00:43:22,520
-Alors je ne pense pas que vous, qui êtes rapide avec les chiffres...
-
+allez perdre du temps à vous accrocher à la tête du groupe Soonyang.
 
 602
 00:43:22,520 --> 00:43:24,259
-et qui avez un grand sens de la réalité,
-
+Si j'étais à votre place, oncle Dong Ki,
 
 603
 00:43:25,429 --> 00:43:28,630
-perdiez votre temps à vous accrocher à devenir le chef de Soonyang Group.
-
+je deviendrais indépendant du groupe Soonyang...
 
 604
 00:43:30,230 --> 00:43:32,099
-Si j'étais à votre place, Oncle Dong Ki,
-
+et je me séparerais en un groupe financier.
 
 605
 00:43:32,099 --> 00:43:34,440
-je me séparerais de Soonyang Group...
-
+Pour ce faire, je pensais que vous auriez besoin de Soonyang Card...
 
 606
 00:43:34,440 --> 00:43:37,139
-et me scinderais en un groupe financier.
-
+qui pourrait rapporter de l'argent à tout moment,
 
 607
 00:43:38,070 --> 00:43:41,139
-Pour ce faire, j'ai pensé que vous auriez besoin de Soonyang Card...
-
+même si vous deviez liquider vos parts.
 
 608
 00:43:41,139 --> 00:43:43,650
-qui pourrait rapporter de l'argent à tout moment,
-
+Vous.
 
 609
 00:43:44,750 --> 00:43:46,980
-même si vous deviez liquider votre part.
-
+Ne pourriez-vous pas, Do Jun, séparer...
 
 610
 00:43:48,250 --> 00:43:49,320
-Vous.
-
+le groupe financier Soonyang et le gérer ?
 
 611
 00:43:50,790 --> 00:43:53,460
-Ne pourriez-vous pas, Do Jun, séparer...
-
+Vous avez déjà Soonyang Card,
 
 612
 00:43:53,460 --> 00:43:55,559
-Soonyang Financial Group et le gérer ?
-
+la vache à lait.
 
 613
 00:43:56,929 --> 00:43:59,230
-Vous avez déjà Soonyang Card,
-
+Moi,
 
 614
 00:43:59,900 --> 00:44:01,460
-la vache à lait.
-
+qui ai été qualifié de méchant aveuglé par l'héritage...
 
 615
 00:44:02,599 --> 00:44:03,770
-Moi,
-
+lors de l'assemblée des actionnaires ?
 
 616
 00:44:05,599 --> 00:44:07,440
-qui ai été étiqueté comme un méchant aveuglé par l'héritage...
-
+Le conseil d'administration du groupe Soonyang,
 
 617
 00:44:07,440 --> 00:44:09,239
-lors de la réunion des actionnaires ?
-
+uni par sa loyauté envers grand-père,
 
 618
 00:44:11,170 --> 00:44:12,840
-Le conseil d'administration de Soonyang Group,
-
+me choisira-t-il comme chef...
 
 619
 00:44:12,840 --> 00:44:14,880
-uni par la loyauté envers Grand-père,
-
+et PDG du groupe Soonyang ?
 
 620
 00:44:16,079 --> 00:44:18,409
-me choisira-t-il comme chef...
-
+Je ne pense pas.
 
 621
 00:44:18,409 --> 00:44:20,320
-et PDG de Soonyang Group ?
-
+Vous étiez le voyou...
 
 622
 00:44:21,449 --> 00:44:22,550
-Je ne pense pas.
-
+qui avait mis fin à la création de la holding...
 
 623
 00:44:22,550 --> 00:44:23,690
-Vous étiez le punk...
-
+sur laquelle votre grand-père avait tant travaillé.
 
 624
 00:44:24,520 --> 00:44:27,460
-qui avait fait échouer l'établissement de la holding...
-
+Même ainsi, vous abandonnez comme ça ?
 
 625
 00:44:27,460 --> 00:44:30,790
-sur lequel votre grand-père avait tant travaillé.
-
+Parce que j'ai abandonné mon rêve de succéder au groupe Soonyang.
 
 626
 00:44:30,790 --> 00:44:32,990
-Même ainsi, vous abandonnez comme ça ?
-
+Je vais retourner à ma place d'origine.
 
 627
 00:44:38,170 --> 00:44:41,120
-Parce que j'ai abandonné mon rêve de succéder à Soonyang Group.
-
+En tant que spécialiste des investissements de Miracle, Jin Do Jun.
 
 628
 00:44:44,239 --> 00:44:46,540
-Je vais retourner à ma place d'origine.
-
+Donc ce qui est le plus important pour moi en ce moment...
 
 629
 00:44:47,309 --> 00:44:49,659
-En tant que spécialiste des investissements de Miracle, Jin Do Jun.
-
+ce n'est pas Soonyang mais l'argent, oncle Dong Ki.
 
 630
 00:44:51,980 --> 00:44:54,020
-Alors ce qui est le plus important pour moi maintenant...
-
+Et comme vous le savez déjà,
 
 631
 00:44:54,020 --> 00:44:56,020
-n'est pas Soonyang mais l'argent, Oncle Dong Ki.
-
+plus il y a d'argent, mieux c'est.
 
 632
 00:44:57,050 --> 00:44:58,520
-Et comme vous le savez déjà,
-
+Il va probablement demander...
 
 633
 00:44:59,989 --> 00:45:02,090
-plus il y a d'argent, mieux c'est.
-
+plus de 800 milliards de won pour la vente de Soonyang Card.
 
 634
 00:45:14,900 --> 00:45:16,540
-Il va probablement demander...
-
+Qu'en pensez-vous, Monsieur Baek ?
 
 635
 00:45:16,540 --> 00:45:18,940
-plus de 800 milliards de won pour la vente de Soonyang Card.
-
+Dois-je y aller ou pas ?
 
 636
 00:45:18,940 --> 00:45:20,579
-Qu'en pensez-vous, M. Baek ?
-
+Plus que cela, Vice-Président Jin.
 
 637
 00:45:20,579 --> 00:45:22,809
-Devrais-je le faire ou pas ?
-
+En 2003, l'Année du Mouton Noir,
 
 638
 00:45:22,809 --> 00:45:24,610
-Plus que cela, Vice-Président Jin.
-
+la fortune du Nouvel An du Vice-Président Jin Young Ki...
 
 639
 00:45:24,610 --> 00:45:26,480
-En 2003, l'Année du Mouton Noir,
-
+changera.
 
 640
 00:45:27,150 --> 00:45:28,980
-la fortune du Nouvel An du Vice-Président Jin Young Ki...
-
+Et alors ?
 
 641
 00:45:29,750 --> 00:45:31,489
-va changer.
-
+Le Vice-Président Jin Young Ki a un destin eulmokilju.
 
 642
 00:45:32,550 --> 00:45:33,820
-Alors quoi ?
-
+Il a été à l'ombre d'un grand arbre,
 
 643
 00:45:33,820 --> 00:45:36,290
-Le Vice-Président Jin Young Ki a un ei-mok-il-ju destinés à l'être.
-
+incapable de trouver son chemin.
 
 644
 00:45:36,290 --> 00:45:38,159
-Il a été dans l'ombre d'un grand arbre,
-
+Mais à partir de l'Année du Mouton Noir,
 
 645
 00:45:38,159 --> 00:45:40,029
-incapable de trouver son chemin.
-
+l'eau s'infiltrera dans l'arbre assoiffé,
 
 646
 00:45:40,029 --> 00:45:41,860
-Mais à partir de l'Année du Mouton Noir,
-
+ce qui lui apportera une grande chance.
 
 647
 00:45:41,860 --> 00:45:43,730
-l'eau s'infiltrera dans l'arbre assoiffé,
-
+De quoi s'agit-il, Monsieur Baek ?
 
 648
 00:45:43,730 --> 00:45:45,929
-ce qui lui apportera beaucoup de chance.
-
+Attendez.
 
 649
 00:45:45,929 --> 00:45:47,940
-De quoi parlez-vous, M. Baek ?
-
+Parmi toutes les Années du Mouton Noir,
 
 650
 00:45:47,940 --> 00:45:49,170
-Attendez.
-
+le yin et le yang...
 
 651
 00:45:49,170 --> 00:45:50,469
-Parmi toutes les Années du Mouton Noir,
-
+des Cinq Éléments s'attireront le plus cette année.
 
 652
 00:45:50,469 --> 00:45:51,909
-le yin et le yang...
-
+Et selon toute probabilité,
 
 653
 00:45:51,909 --> 00:45:55,259
-des Cinq Éléments s'attireront le plus cette année.
-
+il pourrait y avoir une tempête comme la crise du FMI l'année prochaine.
 
 654
 00:45:56,309 --> 00:45:57,849
-Et selon toute probabilité,
-
+Soyons préparés.
 
 655
 00:45:57,849 --> 00:46:00,499
-il pourrait y avoir une tempête comme la crise du FMI l'année prochaine.
-
+Et ma fortune ?
 
 656
 00:46:01,079 --> 00:46:02,179
-Soyons préparés.
-
+Dois-je acheter Soonyang Card ? Est-ce qu'il le dit ?
 
 657
 00:46:02,179 --> 00:46:03,920
-Et ma fortune ?
-
+Père.
 
 658
 00:46:03,920 --> 00:46:07,059
-Devrais-je acheter Soonyang Card ? Le dit-elle ?
-
+Votre fortune l'année prochaine...
 
 659
 00:46:07,059 --> 00:46:08,719
-Père.
-
+est mugyejihwa. Elle est pleine de feu.
 
 660
 00:46:08,719 --> 00:46:10,529
-Votre fortune l'année prochaine...
-
+Elle rencontre le métal et s'enflamme.
 
 661
 00:46:10,529 --> 00:46:13,029
-est mugyejihwa. Elle est pleine de feu.
-
+Il semble que vous ayez de la chance dans le secteur financier.
 
 662
 00:46:13,730 --> 00:46:16,500
-Elle rencontre le métal et flamboie.
-
+Qu'est-ce que vous faites tous les deux ?
 
 663
 00:46:18,099 --> 00:46:21,270
-On dirait que vous avez de la chance dans l'industrie financière.
-
+Comment pouvez-vous décider d'acheter Soonyang Card comme ça ?
 
 664
 00:46:22,699 --> 00:46:24,639
-Que faites-vous, vous deux ?
-
+Vous avez besoin de l'avis d'experts.
 
 665
 00:46:24,639 --> 00:46:27,440
-Comment pouvez-vous décider d'acheter Soonyang Card comme ça ?
+Monsieur Baek est un expert.
+
 
 
 666
 00:46:28,110 --> 00:46:29,849
-Vous avez besoin des avis d'experts.
-
+C'est un analyste qui était auparavant comptable.
 
 667
 00:46:29,849 --> 00:46:32,050
-M. Baek est un expert.
-
+Ye Jun, tu as dit que Do Jun ne vendrait pas Soonyang Card.
 
 668
 00:46:32,050 --> 00:46:34,579
-C'est un analyste qui était auparavant comptable.
-
+Mais regarde. Tout se déroule selon ses paroles.
 
 669
-00:46:34,579 --> 00:46:37,940
-Ye Jun, vous avez dit que Do Jun ne vendra pas Soonyang Card.
-
+00:46:34,579 --> 00:46:37,949
+Huit cents milliards de wons, c'est trop d'argent pour le laisser au hasard.
 
 670
-00:46:37,940 --> 00:46:41,790
-Mais regardez. Tout se déroule selon ses paroles.
-
+00:46:37,949 --> 00:46:41,790
+Je sais à quel point M. Baek est bon...
 
 671
 00:46:41,790 --> 00:46:45,159
-Huit cents milliards de won, c'est trop d'argent pour laisser au hasard.
-
+parce que nous avons travaillé ensemble tout ce temps.
 
 672
 00:46:45,159 --> 00:46:46,960
-Je sais à quel point M. Baek est bon...
-
+Vous admettez que...
 
 673
 00:46:46,960 --> 00:46:49,570
-parce que nous avons travaillé ensemble tout le temps.
-
+vous avez dirigé l'entreprise comme ça jusqu'à aujourd'hui.
 
 674
 00:46:52,270 --> 00:46:53,540
-Vous admettez que...
-
+- L'Inspection Interne le sait ? - Jin Ye Jun !
 
 675
 00:46:54,940 --> 00:46:57,640
-vous dirigez l'entreprise comme ça jusqu'à présent.
-
+Espèce de punk. Dégage.
 
 676
 00:46:59,610 --> 00:47:02,110
-- L'Inspection Interne est au courant ? - Jin Ye Jun !
-
+Tu es le seul qui ne soit pas qualifié pour être ici maintenant.
 
 677
 00:47:02,880 --> 00:47:05,210
-Sale gamin. Sors.
-
+Vice-Président Jin, vous vous souvenez ?
 
 678
 00:47:05,750 --> 00:47:08,619
-Vous êtes le seul qui ne vous qualifie pas pour être ici maintenant.
-
+Lorsque le marché boursier américain s'est effondré après l'attaque du 11 septembre,
 
 679
 00:47:18,529 --> 00:47:20,599
-Vice-Président Jin, vous vous souvenez ?
-
+si vous aviez suivi mes conseils,
 
 680
 00:47:20,599 --> 00:47:23,000
-Lorsque le marché boursier américain s'est effondré après l'attaque du 11 septembre,
-
+vous n'auriez pas perdu Soonyang Investment...
 
 681
 00:47:23,000 --> 00:47:24,829
-si vous aviez suivi mon conseil,
-
+au profit de Miracle Investment.
 
 682
 00:47:24,829 --> 00:47:27,139
-vous n'auriez pas perdu Soonyang Investment...
-
+Passe un appel.
 
 683
 00:47:27,770 --> 00:47:29,000
-au profit de Miracle Investment.
-
+J'achète Soonyang Card.
 
 684
 00:47:30,170 --> 00:47:31,270
-Prenez une décision.
-
+Pensez-vous vraiment que Soonyang Card ne vaut que 800 milliards de wons ?
 
 685
 00:47:32,940 --> 00:47:34,540
-J'achète Soonyang Card.
-
+D'accord, alors.
 
 686
 00:47:35,809 --> 00:47:39,209
-Pensez-vous vraiment que Soonyang Card vaut seulement 800 milliards de won ?
-
+Négocions les détails la prochaine fois que nous nous rencontrerons.
 
 687
 00:47:43,920 --> 00:47:44,949
-D'accord, alors.
-
+Oui, appelez-moi.
 
 688
 00:47:46,389 --> 00:47:48,939
-Négocions les détails lorsque nous nous rencontrerons la prochaine fois.
-
+Vous vendez Soonyang Card à qui ?
 
 689
 00:47:50,730 --> 00:47:51,829
-Oui, appelez-moi.
-
+Est-ce l'oncle Dong Ki ?
 
 690
 00:48:04,369 --> 00:48:06,440
-Vous vendez Soonyang Card à qui ?
-
+Il ne peut pas répondre, ce qui signifie que j'ai raison, Père.
 
 691
 00:48:08,409 --> 00:48:09,409
-Est-ce oncle Dong Ki ?
-
+Hé.
 
 692
 00:48:13,119 --> 00:48:15,469
-Il ne peut pas répondre, ce qui signifie que j'ai raison, Père.
-
+Qu'est-ce qui vous amène aujourd'hui ?
 
 693
 00:48:22,960 --> 00:48:23,960
-Hé.
-
+Il aimerait vous accompagner sur le chemin du travail.
 
 694
 00:48:25,460 --> 00:48:26,829
-Qu'est-ce qui vous amène aujourd'hui ?
-
+J'ai entendu dire que Do Jun allait vendre Soonyang Card.
 
 695
 00:48:26,829 --> 00:48:29,029
-Il aimerait vous accompagner sur le chemin du travail.
-
+J'ai entendu que...
 
 696
 00:48:41,409 --> 00:48:44,110
-J'ai entendu dire que Do Jun allait vendre Soonyang Card.
-
+vous étiez intervenu en tant que nouveau propriétaire.
 
 697
 00:48:45,980 --> 00:48:47,119
-J'ai entendu dire que...
-
+De quoi parlez-vous ?
 
 698
 00:48:48,480 --> 00:48:50,050
-vous êtes intervenu en tant que nouveau propriétaire.
-
+Qui a dit ça ? Do Jun ?
 
 699
 00:48:50,050 --> 00:48:51,190
-Que dites-vous ?
-
+Croyez-vous encore ce que dit Do Jun ?
 
 700
 00:48:51,989 --> 00:48:54,059
-Qui a dit ça ? Do Jun ?
-
+Ça va si ce n'est pas vous.
 
 701
 00:48:56,119 --> 00:48:58,659
-Croyez-vous encore ce que dit Do Jun ?
-
+Je pensais qu'un fonceur comme vous...
 
 702
 00:49:00,130 --> 00:49:01,430
-Ce n'est rien si ce n'est pas vous.
-
+essayait de se détacher en tant que groupe financier,
 
 703
 00:49:03,199 --> 00:49:04,699
-Je pensais qu'un ambitieux comme vous...
-
+j'ai donc dû me dépêcher dès le matin.
 
 704
 00:49:04,699 --> 00:49:07,869
-essayait de se séparer en tant que groupe financier,
-
+C'est troublant. Je devrais profiter de cette occasion...
 
 705
 00:49:07,869 --> 00:49:09,869
-donc j'ai dû me dépêcher dès le matin.
-
+pour acheter Soonyang Card.
 
 706
 00:49:11,469 --> 00:49:13,980
-C'est troublant. Je devrais profiter de cette chance...
-
+Vous allez acheter Soonyang Card ?
 
 707
 00:49:13,980 --> 00:49:15,980
-pour acheter Soonyang Card.
-
+De cette façon, il n'y aurait aucune chance que l'affiliation se détache.
 
 708
 00:49:15,980 --> 00:49:17,509
-Vous allez acheter Soonyang Card ?
-
+Je ne veux pas non plus me tromper à votre sujet à cause d'une rumeur,
 
 709
 00:49:17,509 --> 00:49:21,380
-De cette façon, il n'y aurait aucune chance que l'affiliation se sépare.
-
+ce qui me mènerait sur le mauvais chemin.
 
 710
 00:49:21,380 --> 00:49:24,520
-Je ne veux pas non plus me tromper sur vous à cause d'une rumeur,
-
+Rien de bon ne peut sortir de cela entre nous.
 
 711
 00:49:24,520 --> 00:49:26,619
-ce qui me mènerait sur le mauvais chemin.
-
+Dong Ki, n'oublie pas.
 
 712
 00:49:26,619 --> 00:49:28,769
-Rien de bon ne peut sortir de cela entre nous.
-
+Ce n'est significatif que lorsque nous sommes unis.
 
 713
 00:49:30,630 --> 00:49:33,029
-Dong Ki, n'oubliez pas.
-
+Soonyang et nous, les frères.
 
 714
 00:49:33,960 --> 00:49:36,099
-Ce n'est significatif que lorsque nous sommes unis.
-
+Hé, Jin Do Jun !
 
 715
 00:49:36,869 --> 00:49:39,639
-Soonyang et nous, les frères.
-
+Qu'est-ce que tu veux ?
 
 716
 00:49:50,909 --> 00:49:52,250
-Hé, Jin Do Jun !
-
+Essaies-tu de monter Young Ki contre moi à propos de Soonyang Card ?
 
 717
 00:49:59,520 --> 00:50:00,719
-Que voulez-vous ?
-
+Je ne le ferais pas.
 
 718
 00:50:01,619 --> 00:50:04,989
-Essayez-vous de monter Young Ki contre moi à propos de Soonyang Card ?
-
+On m'a appris à toujours arrêter les combats, mais à négocier.
 
 719
 00:50:06,130 --> 00:50:07,199
-Je ne le ferais pas.
-
+Quoi ?
 
 720
 00:50:08,730 --> 00:50:11,770
-On m'a appris à toujours arrêter les combats, mais à négocier.
-
+Grâce à cela, oncle Dong Ki, vous êtes accouru à cette heure.
 
 721
 00:50:11,770 --> 00:50:12,829
-Quoi ?
-
+Dans ce cas, pourquoi ne pas commencer la véritable négociation ?
 
 722
 00:50:14,000 --> 00:50:17,570
-Grâce à cela, Oncle Dong Ki, vous avez couru ici à cette heure.
-
+On y va ?
 
 723
 00:50:20,480 --> 00:50:24,449
-Dans ce cas, pourquoi ne pas commencer la négociation appropriée ?
-
+Vous avez proposé 800 milliards de wons pour Soonyang Card,
 
 724
 00:50:24,449 --> 00:50:25,509
-Devons-nous ?
-
+alors commençons la négociation à partir du double de ce prix.
 
 725
 00:50:26,110 --> 00:50:28,920
-Vous avez proposé 800 milliards de won pour Soonyang Card,
-
+Le double ?
 
 726
 00:50:28,920 --> 00:50:31,550
-alors commençons la négociation à partir du double de ce prix.
-
+Je veux 1,6 billion de wons.
 
 727
 00:50:32,190 --> 00:50:33,219
-Le double ?
-
+C'est le prix de Soonyang Card proposé par Jeongsimjae.
 
 728
 00:50:34,820 --> 00:50:36,170
-Je veux 1,6 billion de won.
-
+Si vous avez besoin de plus de temps pour réfléchir...
 
 729
 00:50:37,259 --> 00:50:40,159
-C'est le prix de Soonyang Card proposé par Jeongsimjae.
-
+Puis-je payer moitié-moitié ?
 
 730
 00:50:46,130 --> 00:50:48,170
-Si vous avez besoin de plus de temps pour réfléchir...
-
+Je transférerai 800 milliards aujourd'hui, et le reste la prochaine fois.
 
 731
 00:50:48,170 --> 00:50:50,710
-Puis-je payer la moitié et la moitié ?
-
+D'accord, bien sûr. Tant que le collatéral est solide.
 
 732
 00:50:50,710 --> 00:50:53,540
-Je transférerai 800 milliards aujourd'hui, et le reste la prochaine fois.
-
+Vous exigez les actions des affiliations financières ?
 
 733
 00:50:54,509 --> 00:50:57,250
-D'accord, bien sûr. Tant que la garantie est solide.
-
+Hé, espèce de punk !
 
 734
 00:50:58,110 --> 00:51:01,060
-Demandez-vous les actions des affiliés financiers ?
-
+Je prendrai le collatéral sous forme d'actions de Soonyang Corporation.
 
 735
 00:51:02,320 --> 00:51:03,349
-Hé, petit vaurien !
-
+Deux pour cent de votre part.
 
 736
 00:51:03,349 --> 00:51:06,389
-Je prendrai les garanties sous forme d'actions de Soonyang Corporation.
+Je ne me soucie pas du groupe financier.
+
 
 
 737
 00:51:06,389 --> 00:51:07,689
-Deux pour cent de vos actions.
-
+Ne t'en fais pas.
 
 738
 00:51:09,219 --> 00:51:11,069
-Je ne me soucie pas du groupe financier.
-
+Alors pourquoi ?
 
 739
 00:51:11,759 --> 00:51:13,059
-Ne vous inquiétez pas.
-
+Parmi tous vos actifs mobiliers et immobiliers,
 
 740
 00:51:14,099 --> 00:51:15,599
-Alors pourquoi ?
-
+n'est-ce pas le plus précieux comme garantie ?
 
 741
 00:51:15,599 --> 00:51:18,570
-Parmi tous vos actifs mobiliers et immobiliers,
-
+Les actions de la Corporation.
 
 742
 00:51:18,570 --> 00:51:21,670
-n'est-ce pas la chose la plus précieuse en garantie ?
-
+Je vais le préparer et vous appeler.
 
 743
 00:51:21,670 --> 00:51:23,170
-Les actions de la Corporation.
-
+J'ai une autre condition.
 
 744
 00:51:25,840 --> 00:51:27,390
-Je la préparerai et vous appellerai.
-
+Bon sang, quoi ?
 
 745
 00:51:28,980 --> 00:51:30,349
-J'ai une autre condition.
-
+J'ai besoin d'argent introuvable,
 
 746
 00:51:30,349 --> 00:51:31,579
-Mon Dieu, quoi ?
-
+en dehors du prix de vente de Soonyang Card.
 
 747
 00:51:36,849 --> 00:51:38,650
-J'ai besoin d'argent non traçable,
-
+Une caisse noire ?
 
 748
 00:51:39,420 --> 00:51:41,620
-en plus du prix de vente de Soonyang Card.
-
+C'est vraiment la haute saison.
 
 749
 00:51:43,329 --> 00:51:44,329
-Un fonds secret ?
-
+Même une société d'investissement comme Miracle...
 
 750
 00:51:48,960 --> 00:51:50,730
-C'est vraiment la haute saison.
-
+prépare des fonds politiques pour l'élection présidentielle ?
 
 751
 00:51:51,400 --> 00:51:53,699
-Même une société d'investissement comme Miracle...
-
+Selon M. Oh Se Hyeon, aux États-Unis,
 
 752
 00:51:53,699 --> 00:51:56,909
-prépare des fonds politiques pour l'élection présidentielle ?
-
-
-753
-00:51:57,540 --> 00:52:00,270
-Selon M. Oh Se Hyeon, aux États-Unis,
-
-
-754
-00:52:00,270 --> 00:52:03,409
 Wall Street est le financement derrière l'élection présidentielle.
 
+753
+00:51:57,540 --> 00:52:00,279
+Ces 45 % de fonds politiques proviennent de Wall Street.
+
+754
+00:52:00,279 --> 00:52:03,409
+Cela signifie que l'industrie principale a changé.
 
 755
 00:52:03,409 --> 00:52:06,459
-Que 45 % des fonds politiques proviennent de Wall Street.
-
+De la fabrication aux finances.
 
 756
 00:52:07,579 --> 00:52:09,719
-Cela signifie que l'industrie principale a changé.
-
-
-757
-00:52:09,719 --> 00:52:11,750
-De la fabrication aux finances.
-
-
-758
-00:52:11,750 --> 00:52:12,840
 Savez-vous...
 
-
-759
-00:52:12,840 --> 00:52:15,460
+757
+00:52:09,719 --> 00:52:10,720
 à qui et comment vous devriez transférer l'argent...
 
+758
+00:52:10,720 --> 00:52:11,750
+pour vous assurer qu'il n'y aura pas de problèmes plus tard ?
+
+759
+00:52:12,849 --> 00:52:15,460
+Des problèmes ?
 
 760
 00:52:15,460 --> 00:52:17,360
-pour vous assurer qu'il n'y aura pas de problèmes plus tard ?
-
+Vous devez les soudoyer...
 
 761
 00:52:18,360 --> 00:52:19,730
-Problèmes ?
-
+sans erreur de livraison et sans que personne d'autre ne le sache.
 
 762
 00:52:19,730 --> 00:52:21,230
-Vous devez les soudoyer...
-
+Eh bien, je suppose que votre père n'a pas ce qu'il faut...
 
 763
 00:52:21,230 --> 00:52:24,329
-sans aucune erreur de livraison et sans que personne d'autre le sache.
-
+pour vous apprendre quelque chose comme ça.
 
 764
 00:52:25,070 --> 00:52:27,820
-Eh bien, je suppose que votre père n'a pas ce qu'il faut...
-
+Et M. Oh sait peut-être beaucoup de choses sur Wall Street,
 
 765
 00:52:28,340 --> 00:52:31,509
-pour vous apprendre quelque chose comme ça.
-
+mais il est probablement un profane en ce qui concerne Yeouido.
 
 766
 00:52:31,509 --> 00:52:34,040
-Et M. Oh pourrait bien en savoir beaucoup sur Wall Street,
-
+C'est un homme avec qui nous travaillons depuis l'époque de votre grand-père.
 
 767
 00:52:34,040 --> 00:52:36,640
-mais il est probablement un profane quand il s'agit de Yeouido.
-
+Appelez-le.
 
 768
 00:52:39,009 --> 00:52:42,820
-C'est un homme avec qui nous avons travaillé depuis l'époque de votre grand-père.
-
+(Kang Sin Woo)
 
 769
 00:52:44,250 --> 00:52:45,250
-Appelez-le.
-
+Je vois.
 
 770
 00:52:48,119 --> 00:52:49,320
-(Kang Sin Woo)
-
+(Pomme)
 
 771
 00:52:49,320 --> 00:52:50,529
-Je vois.
-
+Il a créé une caisse noire en utilisant des comptes dormants...
 
 772
 00:52:57,369 --> 00:52:58,400
-(Apple)
-
+de Soonyang Fire Insurance et Soonyang Investment.
 
 773
 00:53:10,579 --> 00:53:14,150
-Il a créé un fonds secret en utilisant les comptes inactifs...
-
+Je vois. Le vice-président Jin Dong Ki n'est pas du tout comme il en a l'air.
 
 774
 00:53:14,150 --> 00:53:16,790
-de Soonyang Fire Insurance et Soonyang Investment.
-
+Je pensais que c'était le genre timide et intello.
 
 775
 00:53:16,790 --> 00:53:20,190
-Je vois. Le vice-président Jin Dong Ki n'est rien de tel qu'il en a l'air.
-
+Mais c'est un homme avec un grand esprit.
 
 776
 00:53:20,190 --> 00:53:21,989
-Je pensais qu'il était du genre timide et intello.
-
+Il a emprunté les comptes dormants de ses clients pour faire cela ?
 
 777
 00:53:21,989 --> 00:53:24,389
-Mais c'est un homme avec un grand esprit.
-
+Et c'était pendant la crise du FMI,
 
 778
 00:53:25,360 --> 00:53:28,960
-Il a emprunté les comptes dormants de ses clients pour faire cela ?
-
+alors que tout le monde se lamentait.
 
 779
 00:53:28,960 --> 00:53:30,829
-Et c'était pendant la crise du FMI,
-
+Bon sang, si audacieux.
 
 780
 00:53:30,829 --> 00:53:32,500
-alors que tout le monde se lamentait.
-
+Il n'a peur de rien.
 
 781
 00:53:32,500 --> 00:53:33,770
-Ma foi, si audacieux.
-
+Il n'a probablement pas pu imaginer...
 
 782
 00:53:34,800 --> 00:53:36,340
-Il n'a peur de rien.
-
+que parmi toutes les personnes,
 
 783
 00:53:36,340 --> 00:53:38,340
-Il n'imaginait probablement pas...
-
+le PDG Oh Se Hyeon de Miracle est devenu le PDG de Soonyang Investment...
 
 784
 00:53:38,340 --> 00:53:39,369
-que de toutes les personnes,
-
+et trouver sa plus grande faiblesse.
 
 785
 00:53:40,040 --> 00:53:43,679
-le PDG Oh Se Hyeon de Miracle est devenu le PDG de Soonyang Investment...
-
+Sa fille est quelque chose aussi.
 
 786
 00:53:43,679 --> 00:53:45,849
-et a découvert sa plus grande faiblesse.
-
+Elle est dans une ligue à part par rapport aux autres enfants riches.
 
 787
 00:53:49,949 --> 00:53:51,449
-Sa fille est aussi quelque chose.
-
+Vous avez dit qu'elle fait du bénévolat avec passion dans des pays du tiers monde, n'est-ce pas ?
 
 788
 00:53:52,320 --> 00:53:54,960
-Elle est dans une ligue différente comparée aux autres enfants riches.
-
+Elle ne choisit que les pays où elle peut échapper aux impôts.
 
 789
 00:53:54,960 --> 00:53:58,259
-Vous avez dit qu'elle fait du bénévolat passionnément dans les pays du tiers monde, n'est-ce pas ?
-
+Grâce à elle,
 
 790
 00:53:58,259 --> 00:54:02,429
-Elle ne choisit que les pays où elle peut échapper aux impôts.
-
+nous avons fait dix milliards de wons en caisse noire sans problème.
 
 791
 00:54:02,429 --> 00:54:04,130
-Grâce à elle,
-
+Le fruit du travail d'autrui est toujours le plus délicieux.
 
 792
 00:54:04,130 --> 00:54:07,099
-nous avons gagné dix milliards de won en fonds secrets sans problème.
-
+Je trouve cela encore plus délicieux.
 
 793
 00:54:07,099 --> 00:54:10,509
-Le fruit du travail de quelqu'un d'autre est toujours le plus délicieux.
-
+Qu'est-ce que c'est ?
 
 794
 00:54:11,809 --> 00:54:13,739
-Ceci me semble encore plus délicieux.
-
+Allez.
 
 795
 00:54:13,739 --> 00:54:14,739
-Qu'est-ce que c'est ?
-
+- Roh Moo Hyun ! - Roh Moo Hyun !
 
 796
 00:54:15,880 --> 00:54:16,909
-Allez.
-
+- Roh Moo Hyun ! - Roh Moo Hyun !
 
 797
 00:54:16,909 --> 00:54:19,349
-- Roh Moo Hyun !
-- Roh Moo Hyun !
-
+Mec.
 
 798
 00:54:19,349 --> 00:54:22,050
-- Roh Moo Hyun !
-- Roh Moo Hyun !
-
+J'ai été facilement persuadé par Dong Ki une fois de plus.
 
 799
 00:54:24,849 --> 00:54:25,849
-Mec.
-
+Bon sang.
 
 800
 00:54:26,520 --> 00:54:29,889
-J'ai été facilement persuadé par Dong Ki une fois de plus.
-
+Et maintenant ? Suivre le courant avant qu'il ne soit trop tard ?
 
 801
 00:54:29,889 --> 00:54:30,960
-Ma foi.
-
+Deux frères devraient monter sur le même bateau ?
 
 802
 00:54:32,460 --> 00:54:35,460
-Et maintenant ? Allons avec le courant avant qu'il ne soit trop tard ?
-
+Combien d'argent ai-je chargé sur ce bateau ?
 
 803
 00:54:36,199 --> 00:54:38,270
-Deux frères devraient être sur le même bateau ?
-
+Tu devrais m'aider d'une manière ou d'une autre en tant que mon frère aîné.
 
 804
 00:54:38,270 --> 00:54:40,739
-Combien d'argent ai-je mis sur ce bateau ?
-
+- Et maintenant ? - Il n'y a pas besoin de faire demi-tour ?
 
 805
 00:54:40,739 --> 00:54:44,540
-Vous devriez m'aider d'une manière ou d'une autre en tant que mon frère aîné.
-
+Nous devrions nous unir en tant que frères ?
 
 806
 00:54:44,540 --> 00:54:46,909
-- Et maintenant ? - Il n'y a pas besoin de faire marche arrière ?
-
+D'accord, bien sûr. Pourquoi ne pas prier...
 
 807
 00:54:46,909 --> 00:54:48,710
-Nous devrions nous unir en tant que frères ?
-
+que nous sautions tous les deux dans l'eau et mourions ?
 
 808
 00:54:48,710 --> 00:54:50,779
-D'accord, bien sûr. Pourquoi ne priez-vous pas...
-
+Vous avez dit que le candidat favorable était décidé.
 
 809
 00:54:50,779 --> 00:54:53,110
-pour que nous sautons tous les deux dans l'eau et mourions ?
+N'avez-vous pas dit que la loi d'une élection est...
+
 
 
 810
 00:54:53,849 --> 00:54:56,049
-Vous avez dit que le candidat favorable était décidé.
-
+que la tendance générale ne peut être renversée ?
 
 811
 00:54:57,489 --> 00:54:59,150
-N'avez-vous pas dit que la loi d'une élection est...
-
+Je l'ai fait. Mais tu ne sais pas ?
 
 812
 00:54:59,150 --> 00:55:01,590
-que la tendance générale ne peut être renversée ?
-
+Tout a une exception. Tu aurais dû m'écouter jusqu'au bout.
 
 813
 00:55:01,590 --> 00:55:04,029
-Je l'ai fait. Mais ne savez-vous pas ?
-
+Qu'as-tu dit ?
 
 814
 00:55:04,029 --> 00:55:07,199
-Tout a une exception. Vous auriez dû m'écouter jusqu'au bout.
-
+La loi des élections présidentielles coréennes est...
 
 815
 00:55:07,199 --> 00:55:08,259
-Qu'avez-vous dit ?
-
+que la grande tendance ne peut être renversée.
 
 816
 00:55:09,860 --> 00:55:11,630
-La loi des élections présidentielles coréennes est...
-
+Cependant, ce n'est que jusqu'à ce qu'une rafale de vent violente souffle.
 
 817
 00:55:11,630 --> 00:55:13,099
-que la grande tendance ne peut être renversée.
-
+L'opposition avait la popularité générale,
 
 818
 00:55:13,099 --> 00:55:15,540
-Cependant, ce n'est que jusqu'à ce qu'une rafale de vent se lève.
-
+mais le candidat du parti au pouvoir s'est avéré être une rafale.
 
 819
 00:55:16,340 --> 00:55:17,809
-Le parti d'opposition avait la popularité générale,
-
+Alors va dire à tes frères que...
 
 820
 00:55:17,809 --> 00:55:20,659
-mais le candidat du parti au pouvoir s'est avéré être une bourrasque.
-
+nous devrions rester discrets pendant un moment pendant que le vent souffle.
 
 821
 00:55:21,279 --> 00:55:23,550
-Alors allez dire à vos frères que...
-
+Va leur dire toi-même.
 
 822
 00:55:23,550 --> 00:55:25,710
-nous devrions nous faire discrets pour un moment pendant que le vent souffle.
-
+Ils ont perdu 30 milliards de won sur ta parole !
 
 823
 00:55:25,710 --> 00:55:28,349
-Allez le leur dire vous-même.
-
+Bon sang, regarde qui voilà.
 
 824
 00:55:30,119 --> 00:55:33,020
-Ils ont perdu 30 milliards de won sur votre parole !
-
+Oui, félicitations, Monsieur le Président.
 
 825
 00:55:36,790 --> 00:55:38,790
-Ma foi, regardez qui voilà.
-
+Oui, c'est ça. J'aurais dû appeler d'abord.
 
 826
 00:55:41,360 --> 00:55:43,770
-Oui, félicitations, Monsieur le Président.
-
+Oui.
 
 827
 00:55:44,929 --> 00:55:48,639
-Oui, c'est exact. J'aurais dû appeler d'abord.
-
+Oui. Pardon ?
 
 828
 00:55:48,639 --> 00:55:49,639
-Oui. Pardon ?
-
+Moi ?
 
 829
 00:55:50,440 --> 00:55:51,770
-Moi ?
-
+Oui, je ferai de mon mieux si vous me laissez faire.
 
 830
 00:55:54,139 --> 00:55:55,579
-Oui, je ferai de mon mieux si vous me laissez faire.
-
+Oui, je comprends. Merci.
 
 831
 00:55:57,849 --> 00:56:01,449
-Oui, je comprends. Merci.
-
+Oui. Au revoir.
 
 832
 00:56:02,219 --> 00:56:04,020
-Oui. Au revoir.
-
-
-833
-00:56:09,719 --> 00:56:12,190
 Quoi ? Il veut...
 
+833
+00:56:04,020 --> 00:56:05,790
+me nommer Ministre de la Justice.
 
 834
-00:56:13,599 --> 00:56:17,199
-me nommer ministre de la Justice.
-
+00:56:09,719 --> 00:56:12,190
+A-t-il appelé le bon homme ?
 
 835
-00:56:19,070 --> 00:56:20,500
-A-t-il appelé la bonne personne ?
-
-
-836
-00:56:21,199 --> 00:56:24,770
+00:56:13,599 --> 00:56:17,199
 Vous êtes affiliés à des partis opposés.
 
-
-837
-00:56:26,570 --> 00:56:28,110
+836
+00:56:19,070 --> 00:56:20,500
 Je doute que vous parliez la même langue.
 
+837
+00:56:21,199 --> 00:56:24,770
+C'est pour ça.
 
 838
-00:56:28,110 --> 00:56:29,179
-C'est pourquoi.
-
-
-839
-00:56:29,880 --> 00:56:33,210
+00:56:26,570 --> 00:56:28,110
 Il a dit que j'étais le visage de l'unification des deux partis.
 
-
-840
-00:56:38,820 --> 00:56:40,320
+839
+00:56:28,110 --> 00:56:29,179
 Comment ça ?
 
-
-841
-00:56:40,320 --> 00:56:43,059
+840
+00:56:29,880 --> 00:56:33,210
 Le taux de délinquance des cartes de crédit continue d'augmenter,
 
+841
+00:56:38,820 --> 00:56:40,320
+et il a atteint un record absolu en seulement deux ans.
 
 842
-00:56:43,059 --> 00:56:45,559
-et il a enregistré un record absolu en seulement deux ans.
-
-
-843
-00:56:45,559 --> 00:56:48,199
+00:56:40,320 --> 00:56:43,059
 Voici la répartition de l'utilisation des cartes de crédit de Lee.
 
+843
+00:56:43,059 --> 00:56:45,559
+Il a utilisé au maximum ses quatre cartes de crédit...
 
 844
-00:56:48,199 --> 00:56:50,599
-Il a utilisé au maximum les quatre cartes de crédit...
-
-
-845
-00:56:50,599 --> 00:56:52,170
+00:56:45,559 --> 00:56:48,199
 en avances de fonds,
 
+845
+00:56:48,199 --> 00:56:50,599
+puis a remboursé une carte avec une autre, et a été interdit de nouveaux prêts.
 
 846
-00:56:52,170 --> 00:56:54,840
-puis a remboursé une carte avec une autre, et a été banni de nouveaux prêts.
-
+00:56:50,599 --> 00:56:52,170
+Votre carte de crédit a deux mois de retard.
 
 847
-00:56:54,840 --> 00:56:56,770
-Votre carte de crédit est en retard depuis deux mois.
-
+00:56:52,170 --> 00:56:54,840
+Jusqu'à l'année dernière, les défauteurs de crédit augmentaient...
 
 848
-00:56:56,770 --> 00:56:58,840
-Jusqu'à l'année dernière, les défauts de crédit augmentaient...
-
-
-849
-00:56:58,840 --> 00:57:01,179
+00:56:54,840 --> 00:56:56,770
 de 60 000 à 70 000 personnes par mois.
 
+849
+00:56:56,770 --> 00:56:58,840
+Mais cette année, cela a augmenté de 100 000 personnes par mois,
 
 850
-00:57:01,179 --> 00:57:03,449
-Mais cette année, ce chiffre a augmenté de 100 000 personnes par mois,
-
-
-851
-00:57:03,449 --> 00:57:06,399
+00:56:58,840 --> 00:57:01,179
 atteignant un total de trois millions à la fin du mois dernier.
 
+851
+00:57:01,179 --> 00:57:03,449
+Tu m'as encouragé à acheter Soonyang Card.
 
 852
-00:57:14,159 --> 00:57:17,529
-Vous m'avez encouragé à acheter Soonyang Card.
-
+00:57:03,449 --> 00:57:06,399
+Qu'est-ce que c'était à propos du métal et autres ?
 
 853
-00:57:24,070 --> 00:57:26,599
-Qu'est-ce que c'était que le métal et autres ?
-
+00:57:14,159 --> 00:57:17,529
+Elle est en feu ?
 
 854
-00:57:27,440 --> 00:57:29,070
-Ça s'enflamme ?
-
-
-855
-00:57:29,070 --> 00:57:31,139
+00:57:24,070 --> 00:57:26,599
 J'ai de la chance dans le secteur financier ?
 
+855
+00:57:27,440 --> 00:57:29,070
+Qu'est-ce que c'est ? Qu'est-ce qu'il y a maintenant ?
 
 856
-00:57:31,139 --> 00:57:32,869
-Qu'est-ce que c'est ? Qu'est-ce que c'est maintenant ?
-
+00:57:29,070 --> 00:57:31,139
+Rien de ce que tu dis n'est vrai.
 
 857
-00:57:33,940 --> 00:57:36,809
-Rien de ce que vous dites n'est vrai.
-
-
-858
-00:57:36,809 --> 00:57:40,219
+00:57:31,139 --> 00:57:32,869
 En fait, l'énergie du feu était un peu trop forte,
 
+858
+00:57:33,940 --> 00:57:36,809
+ce qui fait fondre le métal et disparaître.
 
 859
-00:57:40,779 --> 00:57:43,279
-ce qui fait fondre le métal et le fait disparaître.
-
-
-860
-00:57:46,320 --> 00:57:47,420
+00:57:36,809 --> 00:57:40,219
 Hé, ce type.
 
+860
+00:57:40,779 --> 00:57:43,279
+Est-ce ce que tu devrais dire maintenant ?
 
 861
-00:57:49,389 --> 00:57:51,159
-C'est ce que vous devriez dire maintenant ?
-
-
-862
-00:57:52,690 --> 00:57:53,900
+00:57:46,320 --> 00:57:47,420
 Attends.
 
+862
+00:57:49,389 --> 00:57:51,159
+Alors, qu'est-ce que c'est ? Soonyang Card va faire faillite ?
 
 863
-00:57:55,659 --> 00:57:58,770
-Alors qu'est-ce que c'est ? Soonyang Card va faire faillite ?
-
+00:57:52,690 --> 00:57:53,900
+Contactez le gouvernement pour un autre soutien. Maintenant.
 
 864
-00:58:01,040 --> 00:58:03,400
-Contactez le gouvernement pour une autre aide. Maintenant.
-
+00:57:55,659 --> 00:57:58,770
+Le Service de Surveillance Financière nous met la pression...
 
 865
-00:58:03,400 --> 00:58:06,270
-Le Service de Supervision Financière nous fait pression...
-
+00:58:01,040 --> 00:58:03,400
+- que nous nous aidions nous-mêmes d'abord. - Nous aider nous-mêmes ?
 
 866
-00:58:06,270 --> 00:58:08,279
-pour que nous nous aidions d'abord nous-mêmes.
-- Nous aider nous-mêmes ?
-
+00:58:03,400 --> 00:58:06,270
+Vous devriez liquider les actions d'autres affiliations d'abord...
 
 867
-00:58:08,279 --> 00:58:11,179
-Vous devriez liquider les actions d'autres affiliés d'abord...
-
+00:58:06,270 --> 00:58:08,279
+Toi !
 
 868
-00:58:11,179 --> 00:58:12,210
-Vous !
-
-
-869
-00:58:15,150 --> 00:58:18,050
+00:58:08,279 --> 00:58:11,179
 Alors comment serai-je séparé en tant que groupe financier ?
 
+869
+00:58:11,179 --> 00:58:12,210
+Je ne vois qu'une seule façon...
 
 870
-00:58:20,520 --> 00:58:22,259
-Je ne vois qu'une seule issue...
-
+00:58:15,150 --> 00:58:18,050
+de sortir de ce pétrin.
 
 871
-00:58:23,420 --> 00:58:24,659
-de ce désordre.
-
+00:58:20,520 --> 00:58:22,259
+(Tous les services d'avance de fonds pour toutes les cartes Soonyang sont maintenant suspendus.)
 
 872
-00:58:31,130 --> 00:58:33,599
-(Tous les services d'avance de fonds pour toutes les cartes Soonyang sont désormais suspendus.)
-
-
-873
-00:58:33,599 --> 00:58:36,369
+00:58:23,420 --> 00:58:24,659
 Vous ne pouvez pas arrêter soudainement le service d'avance de fonds !
 
+873
+00:58:31,130 --> 00:58:33,599
+Vous n'êtes pas autorisé à faire cela sans notre accord !
 
 874
-00:58:36,369 --> 00:58:38,909
-Vous n'êtes pas autorisé à le faire sans notre accord !
-
+00:58:33,599 --> 00:58:36,369
+- Il a raison ! - J'ai besoin de l'argent maintenant !
 
 875
-00:58:38,909 --> 00:58:41,779
-- Il a raison !
-- J'ai besoin de l'argent maintenant !
-
-
-876
-00:58:42,710 --> 00:58:44,409
+00:58:36,369 --> 00:58:38,909
 Après l'arrêt du service d'avance de fonds,
 
+876
+00:58:38,909 --> 00:58:41,779
+le cours de l'action de toutes les affiliations a chuté.
 
 877
-00:58:44,409 --> 00:58:47,150
-le cours des actions de toutes les affiliées a chuté.
-
-
-878
-00:58:47,150 --> 00:58:49,520
+00:58:42,710 --> 00:58:44,409
 Il ne peut même pas prendre le contrôle d'une société de cartes de crédit.
 
-
-879
-00:58:49,520 --> 00:58:51,650
+878
+00:58:44,409 --> 00:58:47,150
 Comment peut-il vouloir se séparer en tant que groupe financier ?
 
+879
+00:58:47,150 --> 00:58:49,520
+Est-ce que le vice-président Jin Dong Ki est dans son bureau ?
 
 880
-00:58:51,650 --> 00:58:53,800
-Le vice-président Jin Dong Ki est-il dans son bureau ?
+00:58:49,520 --> 00:58:51,650
+Tu as enfin montré ton visage, mon frère.
+
 
 
 881
-00:59:02,029 --> 00:59:05,199
-Vous avez enfin montré votre visage, mon frère.
-
+00:58:51,650 --> 00:58:53,800
+Tu n'as jamais pris la peine d'appeler quand je te cherchais désespérément...
 
 882
-00:59:05,199 --> 00:59:08,869
-Vous n'avez jamais pris la peine d'appeler quand je vous cherchais désespérément...
-
+00:59:02,029 --> 00:59:05,199
+pour rembourser la caution de la carte de crédit.
 
 883
-00:59:08,869 --> 00:59:10,519
-pour rembourser l'obligation de carte de crédit.
-
+00:59:05,199 --> 00:59:08,869
+Mais tu es arrivé en courant dès que les cours des actions ont chuté.
 
 884
-00:59:11,969 --> 00:59:15,040
-Mais vous avez couru ici d'un seul coup une fois que les cours des actions ont chuté.
-
+00:59:08,869 --> 00:59:10,519
+Combien te faut-il...
 
 885
-00:59:15,040 --> 00:59:16,190
-Combien vous faut-il...
-
-
-886
-00:59:17,579 --> 00:59:19,679
+00:59:11,969 --> 00:59:15,040
 pour rétablir le service d'avance de fonds ?
 
-
-887
-00:59:20,820 --> 00:59:22,370
+886
+00:59:15,040 --> 00:59:16,190
 J'ai besoin de 400 milliards de won maintenant.
 
+887
+00:59:17,579 --> 00:59:19,679
+Tu vas faire faillite parce que tu n'as pas 400 milliards ?
 
 888
-00:59:23,119 --> 00:59:26,269
-Vous êtes sur le point de faire faillite parce que vous n'avez pas 400 milliards ?
-
+00:59:20,820 --> 00:59:22,370
+Tu ne rêvais pas de créer un groupe financier ?
 
 889
-00:59:27,619 --> 00:59:30,190
-N'avez-vous pas rêvé de créer un groupe financier ?
-
+00:59:23,119 --> 00:59:26,269
+Comment peux-tu laisser ça faire faillite pour seulement 400 milliards de won ?
 
 890
-00:59:30,190 --> 00:59:33,730
-Comment pouvez-vous laisser cela faire faillite pour seulement 400 milliards de won ?
-
+00:59:27,619 --> 00:59:30,190
+Une fois que Soonyang Card fera faillite, cela te causera encore plus de problèmes.
 
 891
-00:59:38,770 --> 00:59:42,020
-Une fois que Soonyang Card fera faillite, cela vous causera encore plus de problèmes.
-
-
-892
-00:59:44,409 --> 00:59:47,940
+00:59:30,190 --> 00:59:33,730
 Deux pour cent de mes actions pour Soonyang Corporation, c'est...
 
+892
+00:59:38,770 --> 00:59:42,020
+Qu'en est-il de ces actions ?
 
 893
-00:59:47,940 --> 00:59:49,279
-Et ces actions ?
-
-
-894
-00:59:50,079 --> 00:59:51,679
+00:59:44,409 --> 00:59:47,940
 Quand j'ai acheté Soonyang Card,
 
-
-895
-00:59:52,650 --> 00:59:55,380
+894
+00:59:47,940 --> 00:59:49,279
 je l'ai donnée à Miracle comme garantie.
 
+895
+00:59:50,079 --> 00:59:51,679
+Je dis que deux pour cent de Soonyang Corporation...
 
 896
-00:59:58,989 --> 01:00:01,520
-Je veux dire que deux pour cent de Soonyang Corporation...
-
-
-897
-01:00:01,520 --> 01:00:03,219
+00:59:52,650 --> 00:59:55,380
 finiront entre les mains de Do Jun.
 
-
-898
-01:00:10,969 --> 01:00:13,599
+897
+00:59:58,989 --> 01:00:01,520
 Puisque je suis l'aîné de cette famille,
 
+898
+01:00:01,520 --> 01:00:03,219
+j'ai pensé que je devrais régler ça.
 
 899
-01:00:13,599 --> 01:00:15,349
-j'ai pensé que je devrais régler cela.
-
-
-900
-01:00:16,099 --> 01:00:19,710
+01:00:10,969 --> 01:00:13,599
 Mon frère est sur le point de faire faillite avec Soonyang Card d'un jour à l'autre,
 
-
-901
-01:00:19,710 --> 01:00:20,909
+900
+01:00:13,599 --> 01:00:15,349
 mais mon neveu,
 
+901
+01:00:16,099 --> 01:00:19,710
+tu as encore besoin de 800 milliards de won en vendant Soonyang Card ?
 
 902
-01:00:21,739 --> 01:00:25,110
-vous avez encore besoin de 800 milliards de won en vendant Soonyang Card ?
-
+01:00:19,710 --> 01:00:20,909
+Ne t'inquiète pas. Je vais racheter cette obligation.
 
 903
-01:00:26,980 --> 01:00:30,219
-Ne vous inquiétez pas. Je vais racheter cette obligation.
-
+01:00:21,739 --> 01:00:25,110
+Vraiment ?
 
 904
-01:00:34,059 --> 01:00:35,489
-Vous le ferez ?
-
+01:00:26,980 --> 01:00:30,219
+Le gouvernement et les médias me harcèlent en disant...
 
 905
-01:00:35,489 --> 01:00:38,189
-Le gouvernement et les médias me disent tous...
-
+01:00:34,059 --> 01:00:35,489
+que je devrais intervenir au niveau du groupe et restaurer la société de cartes.
 
 906
-01:00:38,889 --> 01:00:42,360
-que je devrais marcher sur le groupe et restaurer la société de cartes.
-
-
-907
-01:00:43,630 --> 01:00:48,270
+01:00:35,489 --> 01:00:38,189
 Comment dois-je assumer la responsabilité de ces gens sans avenir...
 
+907
+01:00:38,889 --> 01:00:42,360
+qui ne connaissaient pas leur valeur et ont utilisé leurs cartes au maximum,
 
 908
-01:00:48,270 --> 01:00:51,170
-qui ne connaissaient pas leur valeur et utilisaient leurs cartes au maximum,
-
+01:00:43,630 --> 01:00:48,270
+remboursant l'une avec l'autre ?
 
 909
-01:00:51,170 --> 01:00:52,940
-en remboursant l'un avec l'autre ?
-
+01:00:48,270 --> 01:00:51,170
+Nous avons un peu trop tôt brisé le champagne...
 
 910
-01:00:52,940 --> 01:00:54,909
-Nous avons un peu trop tôt trinqué au champagne...
-
-
-911
-01:00:54,909 --> 01:00:58,259
+01:00:51,170 --> 01:00:52,940
 et avons traversé la crise du FMI, pourtant les gens sont toujours aussi stupides.
 
+911
+01:00:52,940 --> 01:00:54,909
+Le pays tout entier est dans un aléa moral.
 
 912
-01:00:58,909 --> 01:01:00,920
-Le pays tout entier est un aléa moral.
-
+01:00:54,909 --> 01:00:58,259
+Je ne peux pas faire ça, Oncle Young Ki.
 
 913
-01:10:05,703 --> 01:10:07,363
-Hey...
-
+01:00:58,909 --> 01:01:00,920
+Je ne peux pas te donner les actions de Soonyang Corporation.
 
 914
-01:10:26,383 --> 01:10:28,423
-Hey. Hey !
-
+01:01:06,750 --> 01:01:08,590
+Cela signifie que tu n'as toujours pas abandonné Soonyang ?
 
 915
-01:10:28,423 --> 01:10:29,852
-Hé, qu'est-ce qui ne va pas ?
-
+01:01:10,219 --> 01:01:13,329
+J'ai pris cet argent en échange de l'abandon de Soonyang.
 
 916
-01:10:29,852 --> 01:10:32,062
-- Qu'est-ce qui ne va pas ?
-- Hé, tu dois arrêter la voiture.
-
+01:01:15,529 --> 01:01:19,230
+Nous devons faire les calculs correctement.
 
 917
-01:10:32,062 --> 01:10:34,432
-- Est-il devenu fou ?
-- Arrête la voiture maintenant !
-
+01:01:19,230 --> 01:01:21,780
+J'ai besoin de 800 milliards de won pour vendre Soonyang Card,
 
 918
-01:10:41,402 --> 01:10:44,003
-- Hé, allons-y.
-- Hé, descendez de la voiture.
-
+01:01:22,369 --> 01:01:23,869
+mais ce que tu me demandes, ce sont...
 
 919
-01:10:44,003 --> 01:10:46,043
-Descendez. Sortez d'ici.
-
+01:01:26,940 --> 01:01:30,480
+les actions de Soonyang Corporation que j'ai prises comme garantie, n'est-ce pas ?
 
 920
-01:10:46,043 --> 01:10:48,342
-- Hé, au diable.
-- Arrête ça.
-
+01:01:31,779 --> 01:01:34,250
+C'est ce dont tu as besoin pour devenir président.
 
 921
-01:10:48,342 --> 01:10:49,472
-Sors !
-
+01:01:34,250 --> 01:01:37,150
+Je veux le double, 1,6 trillion de won.
 
 922
-01:10:49,472 --> 01:10:50,942
-Quel genre de psychopathe es-tu ?
-
+01:01:38,219 --> 01:01:40,419
+Quoi ? 1,6 trillion de won ?
 
 923
-01:10:50,942 --> 01:10:53,012
-Hé, toi.
-
+01:01:43,259 --> 01:01:45,989
+Tu seras le prochain président et le successeur du président Jin Yang Cheol.
 
 924
-01:10:53,012 --> 01:10:55,383
-- Mec, je vais te tuer.
-- Ju Young, arrête.
-
+01:01:47,559 --> 01:01:49,829
+On ne peut pas mettre de prix à une telle position.
 
 925
-01:10:55,953 --> 01:10:58,123
-- Mec, je vais te rattraper.
-- Ju Young, arrête.
-
+01:01:49,829 --> 01:01:53,229
+(Signé par Jin Do Jun, Jin Young Ki)
 
 926
-01:10:58,123 --> 01:11:00,022
-- Allons-y.
-- Ma foi.
-
+01:01:54,599 --> 01:01:56,649
+Je pense que 1,6 trillion de won aurait aidé...
 
 927
-01:11:00,022 --> 01:11:01,493
-Appelez un autre chauffeur.
-
+01:02:08,279 --> 01:02:13,590
+Soonyang Card à se remettre sur pied.
 
 928
-01:11:01,493 --> 01:11:03,453
-Mec, il me met en colère.
-
+01:02:24,099 --> 01:02:26,730
+Mais tu as utilisé cet argent...
 
 929
-01:11:25,642 --> 01:11:27,142
-J'ai hérité de la richesse.
-
+01:02:26,730 --> 01:02:28,580
+pour acheter la position de président de Soonyang Group.
 
 930
-01:11:28,482 --> 01:11:30,883
-La pauvreté vous a été transmise.
-
+01:02:30,170 --> 01:02:31,639
+Exactement.
 
 931
-01:11:33,583 --> 01:11:34,652
-Nous vivons...
-
+01:02:33,040 --> 01:02:35,140
+As-tu dit que le pays tout entier est dans un aléa moral ?
 
 932
-01:11:35,753 --> 01:11:36,892
-à la même époque,
-
+01:02:42,849 --> 01:02:43,849
+Je pense aussi, Oncle Young Ki.
 
 933
-01:11:38,092 --> 01:11:39,722
-sous le même ciel,
-
+01:02:46,690 --> 01:02:49,860
+(Soonyang Card)
 
 934
-01:11:41,092 --> 01:11:42,333
-mais dans des mondes différents.
-
+01:02:52,460 --> 01:02:54,259
+(Vous tuez les petits commerçants !)
 
 935
-01:11:46,663 --> 01:11:49,513
-Nous sommes à des mondes de distance, comme la vie précédente et cette vie,
-
+01:03:20,090 --> 01:03:24,090
+(Rendez-moi mon argent, bande de salauds.)
 
 936
-01:11:52,743 --> 01:11:53,802
-sur une orbite lointaine.
-
+01:03:29,699 --> 01:03:32,400
+(Je dois consacrer ma vie à rembourser ma facture de carte de crédit.)
 
 937
-01:11:59,142 --> 01:12:03,152
-(Reborn Rich)
-
+01:03:36,070 --> 01:03:39,540
+(Vous l'avez émise comme vous le vouliez, mais vous n'assumerez pas la responsabilité.)
 
 938
-01:12:39,722 --> 01:12:40,982
-Pourquoi êtes-vous si fier...
-
+01:03:39,540 --> 01:03:42,540
+(Je suis endetté jusqu'au cou, et vous êtes responsables.)
 
 939
-01:12:40,982 --> 01:12:42,953
-de votre famille notoire d'usuriers de Myeong-dong ?
-
+01:03:51,050 --> 01:03:53,989
+(Besoin d'argent ? Appelez immédiatement.)
 
 940
-01:12:42,953 --> 01:12:46,022
-Nous avons utilisé cet argent sale pour tout acheter...
-
+01:03:53,989 --> 01:03:57,090
+(Besoin d'argent ? Appelez immédiatement.)
 
 941
-01:12:46,022 --> 01:12:48,732
-pour faire de mon mari le président.
-
+01:04:01,159 --> 01:04:03,059
+(Besoin d'argent ? Appelez immédiatement.)
 
 942
-01:12:48,732 --> 01:12:52,133
-Le groupe sera à nouveau succédé à l'aîné.
-
+01:04:13,170 --> 01:04:15,070
+Mon Dieu.
 
 943
-01:12:52,133 --> 01:12:54,432
-Mon père, moi et mon fils.
-
+01:04:21,320 --> 01:04:23,220
+(Contacts : Papa)
 
 944
-01:12:54,432 --> 01:12:56,302
-Dès que nous recevrons deux pour cent de la Corporation,
-
+01:04:26,520 --> 01:04:27,559
+La personne que vous avez jointe n'est pas disponible. Veuillez laisser...
 
 945
-01:12:56,302 --> 01:12:59,873
-nous annoncerons le nouveau président de Soonyang Group, le président Jin.
+01:04:35,630 --> 01:04:37,159
+(Relevé d'hôpital)
+
 
 
 946
-01:12:59,873 --> 01:13:03,213
-Je suis le plus grand actionnaire de Soonyang Corporation.
-
+01:04:46,969 --> 01:04:49,919
+Salut, Dae Kyun. Oui, c'est moi, Hyeon Woo.
 
 947
-01:13:04,913 --> 01:13:06,213
-Appelez-la.
-
+01:04:59,489 --> 01:05:03,020
+Comment vas-tu ?
 
 948
-01:13:06,213 --> 01:13:08,883
-Il y a quelqu'un que vous voulez rencontrer un jour comme celui-ci, n'est-ce pas ?
-
+01:05:13,699 --> 01:05:15,869
+Eh bien, par hasard,
 
 949
-01:13:08,883 --> 01:13:10,783
-Vous êtes en état d'arrestation d'urgence...
-
+01:05:16,739 --> 01:05:18,440
+je me demandais si je pouvais emprunter de l'argent.
 
 950
-01:13:10,783 --> 01:13:12,983
-pour le transfert illégal de fonds politiques.
-
+01:05:18,440 --> 01:05:20,369
+Salut, Tae Hyun.
 
 951
-01:13:13,583 --> 01:13:15,022
-Nous nous rencontrons à nouveau comme ceci,
-
+01:05:21,239 --> 01:05:23,980
+Peux-tu me prêter cinq millions de won ?
 
 952
-01:13:16,192 --> 01:13:17,692
+01:05:25,009 --> 01:05:26,179
+Peux-tu me prêter de l'argent ?
+
+953
+01:05:26,980 --> 01:05:29,480
+J'appelle pour le programme de prêt pour le logement.
+
+954
+01:05:29,480 --> 01:05:31,389
+Un travailleur contractuel comme moi peut-il obtenir un prêt ?
+
+955
+01:05:31,989 --> 01:05:33,619
+C'est ça ?
+
+956
+01:05:33,619 --> 01:05:35,919
+Non, je vois.
+
+957
+01:05:39,130 --> 01:05:40,190
+Oui, bonne nuit.
+
+958
+01:05:41,400 --> 01:05:43,630
+Oui, au revoir.
+
+959
+01:05:45,329 --> 01:05:46,900
+Qu'est-ce qui s'est passé, Papa ?
+
+960
+01:05:46,900 --> 01:05:47,940
+Pourquoi ne décroches-tu pas ton téléphone ?
+
+961
+01:06:19,270 --> 01:06:20,800
+Où étais-tu tout ce temps ?
+
+962
+01:06:21,540 --> 01:06:23,270
+Tu as laissé l'enfant malade seul à l'hôpital.
+
+963
+01:06:25,210 --> 01:06:27,779
+Parlons à la maison.
+
+964
+01:06:27,779 --> 01:06:30,309
+Hyeon Min sortira demain.
+
+965
+01:06:30,309 --> 01:06:31,610
+Et la facture de l'hôpital ?
+
+966
+01:06:32,250 --> 01:06:34,980
+Comment peut-il sortir ? Nous n'avons pas d'argent.
+
+967
+01:06:38,920 --> 01:06:40,370
+Je me suis occupé de tout.
+
+968
+01:06:43,489 --> 01:06:45,989
+Tu n'as pas à t'inquiéter.
+
+969
+01:06:48,099 --> 01:06:49,929
+(Tu as besoin d'argent ? Appelle immédiatement.)
+
+970
+01:06:49,929 --> 01:06:51,929
+Papa.
+
+971
+01:06:56,670 --> 01:06:58,570
+Nous devons parler.
+
+972
+01:07:00,679 --> 01:07:01,679
+(Hôpital de Séoul)
+
+973
+01:07:02,809 --> 01:07:03,909
+Papa, par hasard,
+
+974
+01:07:06,809 --> 01:07:08,920
+as-tu contracté un prêt privé ?
+
+975
+01:07:20,590 --> 01:07:21,690
+Je vais tout rembourser.
+
+976
+01:07:23,529 --> 01:07:25,129
+Tu n'as pas à t'en soucier.
+
+977
+01:07:27,099 --> 01:07:28,869
+Tu vas le rembourser ?
+
+978
+01:07:31,610 --> 01:07:32,910
+Tu es un délinquant de crédit.
+
+979
+01:07:35,409 --> 01:07:36,809
+Tu es au chômage.
+
+980
+01:07:39,110 --> 01:07:40,460
+Comment vas-tu faire ?
+
+981
+01:07:41,449 --> 01:07:42,449
+Quel est ton plan ?
+
+982
+01:07:44,849 --> 01:07:46,299
+Alors, qu'est-ce que j'aurais pu faire d'autre en tant que père ?
+
+983
+01:07:47,989 --> 01:07:49,059
+Je devais faire quelque chose.
+
+984
+01:07:51,090 --> 01:07:52,990
+Ne fais rien !
+
+985
+01:07:54,429 --> 01:07:55,559
+Papa.
+
+986
+01:07:55,559 --> 01:07:57,829
+Vas-tu rester immobile ?
+
+987
+01:07:59,300 --> 01:08:00,369
+Tous les autres sont des parents décents, donc tu n'as pas besoin de l'être !
+
+988
+01:08:01,599 --> 01:08:03,800
+Papa, s'il te plaît.
+
+989
+01:08:04,409 --> 01:08:07,509
+Il te suffit de respirer et de rester en vie.
+
+990
+01:08:10,210 --> 01:08:11,279
+Aide-moi à vivre, d'accord ?
+
+991
+01:08:14,050 --> 01:08:16,679
+Cette nuit-là, ma pauvreté était...
+
+992
+01:08:16,679 --> 01:08:17,849
+un connard.
+
+993
+01:08:24,760 --> 01:08:26,210
+Oui, je suis le chauffeur.
+
+994
+01:08:29,300 --> 01:08:30,359
+Oui, j'y suis presque.
+
+995
+01:08:49,253 --> 01:08:50,923
+Puis-je demander encore une fois l'adresse ?
+
+996
+01:08:50,923 --> 01:08:52,123
+C'est amer.
+
+997
+01:08:52,123 --> 01:08:54,232
+Excusez-moi.
+
+998
+01:08:56,163 --> 01:08:57,232
+Encore un verre, s'il vous plaît.
+
+999
+01:08:57,232 --> 01:08:58,762
+Quelqu'un a-t-il appelé pour un service de chauffeur ?
+
+1000
+01:08:58,762 --> 01:09:00,003
+- Par ici. - Bonjour.
+
+1001
+01:09:00,003 --> 01:09:02,673
+Monsieur Yoon ?
+
+1002
+01:09:03,873 --> 01:09:05,873
+Bon sang, c'est bien vous.
+
+1003
+01:09:05,873 --> 01:09:06,942
+Tu travailles comme chauffeur ?
+
+1004
+01:09:07,573 --> 01:09:09,413
+Tu as deux emplois ?
+
+1005
+01:09:09,413 --> 01:09:11,142
+- Bonjour. - Peux-tu faire ton travail de jour correctement ?
+
+1006
+01:09:11,142 --> 01:09:12,182
+Tu as besoin de bonnes performances pour signer à nouveau avec nous.
+
+1007
+01:09:12,913 --> 01:09:15,413
+Je redoute à quel point les enfants de nos jours sont...
+
+1008
+01:09:15,413 --> 01:09:18,623
+seulement préoccupés par l'argent.
+
+1009
+01:09:18,623 --> 01:09:20,753
+Pourquoi ? C'est bien d'être riche.
+
+1010
+01:09:20,753 --> 01:09:23,423
+Monsieur Yoon, j'espère que vous deviendrez riche.
+
+1011
+01:09:23,423 --> 01:09:25,623
+S'il vous plaît, profitez.
+
+1012
+01:09:25,623 --> 01:09:27,932
+Hé...
+
+1013
+01:09:31,033 --> 01:09:32,033
+Hé. Hé !
+
+1014
+01:10:05,703 --> 01:10:07,363
+Hé, qu'est-ce qui ne va pas ?
+
+1015
+01:10:26,383 --> 01:10:28,423
+- Qu'est-ce qui ne va pas ? - Hé, tu dois arrêter la voiture.
+
+1016
+01:10:28,423 --> 01:10:29,852
+- Est-il devenu fou ? - Arrête la voiture maintenant !
+
+1017
+01:10:29,852 --> 01:10:32,062
+- Hé, allons-y. - Hé, sors de la voiture.
+
+1018
+01:10:32,062 --> 01:10:34,432
+Sors. Sors d'ici.
+
+1019
+01:10:41,402 --> 01:10:44,003
+- Hé, bon sang. - Arrête ça.
+
+1020
+01:10:44,003 --> 01:10:46,043
+Sors !
+
+1021
+01:10:46,043 --> 01:10:48,342
+Quel genre de psychopathe es-tu ?
+
+1022
+01:10:48,342 --> 01:10:49,472
+Hé, toi.
+
+1023
+01:10:49,472 --> 01:10:50,942
+- Mec, je vais te tuer. - Ju Young, arrête.
+
+1024
+01:10:50,942 --> 01:10:53,012
+- Mec, je vais t'avoir. - Ju Young, arrête.
+
+1025
+01:10:53,012 --> 01:10:55,383
+- Allons-y. - Bon sang.
+
+1026
+01:10:55,953 --> 01:10:58,123
+Appelle un autre chauffeur.
+
+1027
+01:10:58,123 --> 01:11:00,022
+Mec, il me met en colère.
+
+1028
+01:11:00,022 --> 01:11:01,493
+J'ai hérité d'une fortune.
+
+1029
+01:11:01,493 --> 01:11:03,453
+La pauvreté t'a été transmise.
+
+1030
+01:11:25,642 --> 01:11:27,142
+Nous vivons...
+
+1031
+01:11:28,482 --> 01:11:30,883
+en même temps,
+
+1032
+01:11:33,583 --> 01:11:34,652
+sous le même ciel,
+
+
+
+1033
+01:11:35,753 --> 01:11:36,892
+mais dans des mondes différents.
+
+1034
+01:11:38,092 --> 01:11:39,722
+Nous sommes à des mondes de distance, comme la vie précédente et cette vie,
+
+1035
+01:11:41,092 --> 01:11:42,333
+en orbite lointaine.
+
+1036
+01:11:46,663 --> 01:11:49,513
+(Reborn Rich)
+
+1037
+01:11:52,743 --> 01:11:53,802
+Pourquoi es-tu si fier...
+
+1038
+01:11:59,142 --> 01:12:03,152
+de ta famille notoire d'usuriers de Myeong-dong ?
+
+1039
+01:12:39,722 --> 01:12:40,982
+Nous avons utilisé cet argent sale pour tout racheter...
+
+1040
+01:12:40,982 --> 01:12:42,953
+pour faire de mon mari le président.
+
+1041
+01:12:42,953 --> 01:12:46,022
+Le groupe sera une fois de plus transmis à l'aîné.
+
+1042
+01:12:46,022 --> 01:12:48,732
+Mon père, moi et mon fils.
+
+1043
+01:12:48,732 --> 01:12:52,133
+Dès que nous recevrons deux pour cent de la Corporation,
+
+1044
+01:12:52,133 --> 01:12:54,432
+nous annoncerons le nouveau président du groupe Soonyang, le président Jin.
+
+1045
+01:12:54,432 --> 01:12:56,302
+Je suis le plus grand actionnaire de Soonyang Corporation.
+
+1046
+01:12:56,302 --> 01:12:59,873
+Appelle-la.
+
+1047
+01:12:59,873 --> 01:13:03,213
+Il y a quelqu'un que tu veux rencontrer en un jour comme celui-ci, n'est-ce pas ?
+
+1048
+01:13:04,913 --> 01:13:06,213
+Vous êtes en état d'arrestation d'urgence...
+
+1049
+01:13:06,213 --> 01:13:08,883
+pour le transfert illégal de fonds politiques.
+
+1050
+01:13:08,883 --> 01:13:10,783
+Nous nous retrouvons ainsi,
+
+1051
+01:13:10,783 --> 01:13:12,983
 en tant que procureur et suspect.
+
+
+
+
+

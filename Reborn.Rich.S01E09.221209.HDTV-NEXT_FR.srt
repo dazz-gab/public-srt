@@ -1,4322 +1,4318 @@
 1
-00:00:16,791 --> 00:00:20,768
-{Y2K est un problème où les ordinateurs ne reconnaissaient pas les années 2000.}
+00:00:12,560 --> 00:00:15,918
+Les personnages, institutions, entreprises, événements, noms géographiques et pays spécifiques de ce drame ne sont pas liés à la réalité.
 
 2
-00:00:20,768 --> 00:00:23,200
-{Aujourd'hui, c'est la veille de l'an 2000.}
+00:00:16,791 --> 00:00:20,768
+Le Y2K est un problème où les ordinateurs sont incapables de reconnaître les années 2000.
 
 3
-00:00:23,200 --> 00:00:25,460
-{Le monde est en état d'alerte maximale...}
+00:00:20,768 --> 00:00:23,200
+Aujourd'hui, c'est la veille de l'an 2000.
 
 4
-00:00:25,460 --> 00:00:29,140
-{pour une possible attaque du bug de l'an 2000, le bug du millénaire.}
+00:00:23,200 --> 00:00:25,460
+Le monde est en état d'alerte maximale...
 
 5
-00:00:29,840 --> 00:00:31,245
-{Une situation sans précédent...}
+00:00:25,460 --> 00:00:29,140
+pour une possible attaque du Y2K, le bug de l'an 2000.
 
 6
-00:00:31,245 --> 00:00:33,614
-{où des bombes nucléaires et des missiles nucléaires sont tirés...}
+00:00:29,840 --> 00:00:31,245
+Une situation sans précédent...
 
 7
-00:00:33,614 --> 00:00:36,054
-{en raison de dysfonctionnements informatiques pourrait se produire.}
+00:00:31,245 --> 00:00:33,614
+où des bombes nucléaires et des missiles nucléaires sont tirés...
 
 8
-00:00:36,681 --> 00:00:38,810
-{Quoi ? C'est pour bientôt.}
+00:00:33,614 --> 00:00:36,054
+en raison de dysfonctionnements informatiques pourrait se produire.
 
 9
-00:00:39,381 --> 00:00:40,381
-{C'est pour bientôt.}
+00:00:36,681 --> 00:00:38,810
+Quoi ? Ça arrive.
 
 10
-00:00:41,322 --> 00:00:42,991
-{C'est enfin demain.}
+00:00:39,381 --> 00:00:40,381
+Ça arrive.
 
 11
-00:00:49,324 --> 00:00:51,895
-{Vous emménagez dans un abri anti-aérien ou quoi ?}
+00:00:41,322 --> 00:00:42,991
+C'est enfin demain.
 
 12
-00:00:51,895 --> 00:00:54,095
-{Et y rester pendant un an environ ?}
+00:00:43,656 --> 00:00:45,486
+(Épisode 9)
 
 13
-00:00:54,095 --> 00:00:56,764
-{Un abri anti-aérien. Pourquoi n'y ai-je pas pensé ?}
+00:00:49,324 --> 00:00:51,895
+Tu emménages dans un abri anti-atomique ou quelque chose comme ça ?
 
 14
-00:00:56,764 --> 00:00:58,339
-{Dois-je appeler Papy maintenant ?}
+00:00:51,895 --> 00:00:54,095
+Et tu y restes environ un an ?
 
 15
-00:00:58,339 --> 00:01:00,439
-{C'est le Soonyang. Je suis sûr qu'ils sont préparés.}
+00:00:54,095 --> 00:00:56,764
+Un abri anti-atomique. Pourquoi n'y ai-je pas pensé ?
 
 16
-00:01:00,439 --> 00:01:02,769
-{Do Jun ne s'inquiétait pas du tout.}
+00:00:56,764 --> 00:00:58,339
+Devrais-je appeler Grand-père maintenant ?
 
 17
-00:01:02,769 --> 00:01:04,239
-{Que sait-il ?}
+00:00:58,339 --> 00:01:00,439
+C'est Soonyang. Je suis sûr qu'ils sont préparés.
 
 18
-00:01:04,239 --> 00:01:06,139
-{Les érudits ont une mauvaise intuition.}
+00:01:00,439 --> 00:01:02,769
+Do Jun ne s'inquiétait pas du tout.
 
 19
-00:01:06,139 --> 00:01:08,382
-{Pourquoi ? Ils n'ont pas besoin de deviner les réponses aux examens.}
+00:01:02,769 --> 00:01:04,239
+Que sait-il ?
 
 20
-00:01:08,382 --> 00:01:09,450
-{Ils n'y sont pas entraînés.}
+00:01:04,239 --> 00:01:06,139
+Les têtes bien pleines ont une faible intuition.
 
 21
-00:01:09,450 --> 00:01:11,909
-{Alors vous avez une bonne intuition ?}
+00:01:06,139 --> 00:01:08,382
+Pourquoi ? Ils n'ont pas besoin de deviner les réponses lorsqu'ils passent des examens.
 
 22
-00:01:17,714 --> 00:01:18,854
-{C'est ce qu'il voulait dire.}
+00:01:08,382 --> 00:01:09,450
+Ils ne sont pas entraînés pour ça.
 
 23
-00:01:19,493 --> 00:01:22,659
-{Explosion nucléaire due au Y2K.}
+00:01:09,450 --> 00:01:11,909
+Alors tu as une bonne intuition ?
 
 24
-00:01:22,659 --> 00:01:23,928
-{Nostradamus ?}
+00:01:13,821 --> 00:01:17,714
+L'eschatologie de 1999 que Nostradamus a prophétisée.
 
 25
-00:01:24,689 --> 00:01:25,967
-{Vous croyez ça ?}
+00:01:17,714 --> 00:01:18,854
+Il voulait dire ça.
 
 26
-00:01:25,967 --> 00:01:28,069
-{Le Grand Incendie de Londres en 1666.}
+00:01:19,493 --> 00:01:22,659
+Explosion nucléaire due au Y2K.
 
 27
-00:01:28,069 --> 00:01:30,204
-{La Révolution Française en 1789.}
+00:01:22,659 --> 00:01:23,928
+Nostradamus ?
 
 28
-00:01:30,204 --> 00:01:33,508
-{La Seconde Guerre Mondiale en 1939 et l'apparition de Hitler.}
+00:01:24,689 --> 00:01:25,967
+Tu crois ça ?
 
 29
-00:01:33,508 --> 00:01:34,942
-{Il a tout prédit correctement.}
+00:01:25,967 --> 00:01:28,069
+Le Grand Incendie de Londres en 1666.
 
 30
-00:01:34,942 --> 00:01:36,744
-{Et quelqu'un comme lui a prophétisé...}
+00:01:28,069 --> 00:01:30,204
+La Révolution française en 1789.
 
 31
-00:01:36,744 --> 00:01:39,847
-{que le monde finirait en juillet 1999.}
+00:01:30,204 --> 00:01:33,508
+La Seconde Guerre mondiale en 1939 et l'apparition d'Hitler.
 
 32
-00:01:39,847 --> 00:01:41,478
-{- Juillet ?}
-{- Oui.}
+00:01:33,508 --> 00:01:34,942
+Il a tout prédit correctement.
 
 33
-00:01:41,478 --> 00:01:42,508
-{Juillet est passé.}
+00:01:34,942 --> 00:01:36,744
+Et quelqu'un comme lui a prophétisé...
 
 34
-00:01:43,284 --> 00:01:44,709
-{Sérieusement...}
+00:01:36,744 --> 00:01:39,847
+que le monde finirait en juillet 1999.
 
 35
-00:01:44,709 --> 00:01:47,448
-{Mère, il est Européen. Il doit y avoir un décalage horaire.}
+00:01:39,847 --> 00:01:41,478
+- Juillet ? - Oui.
 
 36
-00:01:53,959 --> 00:01:55,279
-{A-t-il suivi le calendrier lunaire ?}
+00:01:41,478 --> 00:01:42,508
+Juillet est passé.
 
 37
-00:01:56,159 --> 00:01:57,288
-{(Indemnisation illimitée !)}
+00:01:43,284 --> 00:01:44,709
+Sérieusement...
 
 38
-00:01:57,288 --> 00:02:00,101
-{Les médias et les clients étaient très intéressés...}
+00:01:44,709 --> 00:01:47,448
+Mère, il est européen. Il doit y avoir un décalage horaire.
 
 39
-00:02:00,101 --> 00:02:02,568
-{par la politique d'indemnisation illimitée offerte par Soonyang.}
+00:01:53,959 --> 00:01:55,279
+A-t-il suivi le calendrier lunaire ?
 
 40
-00:02:02,568 --> 00:02:04,969
-{Les assurances, les investissements et les sociétés électroniques...}
+00:01:56,159 --> 00:01:57,288
+(Compensation illimitée !)
 
 41
-00:02:04,969 --> 00:02:07,698
-{qui pourraient être affectées par le Y2K...}
+00:01:57,288 --> 00:02:00,101
+Les médias et les clients étaient très intéressés...
 
 42
-00:02:07,698 --> 00:02:09,258
-{ont particulièrement reçu beaucoup de demandes.}
+00:02:00,101 --> 00:02:02,568
+par la politique de compensation illimitée que Soonyang proposait.
 
 43
-00:02:09,939 --> 00:02:11,178
-{Nous faisons face à cette situation pour la première fois...}
+00:02:02,568 --> 00:02:04,969
+Les assurances, les investissements et les filiales liées à l'électronique...
 
 44
-00:02:11,178 --> 00:02:12,547
-{depuis l'invention des ordinateurs.}
+00:02:04,969 --> 00:02:07,698
+qui pourraient être affectées par le Y2K...
 
 45
-00:02:13,478 --> 00:02:16,709
-{Le risque n'est-il pas trop grand pour un événement promotionnel ?}
+00:02:07,698 --> 00:02:09,258
+ont particulièrement reçu beaucoup de demandes.
 
 46
-00:02:17,752 --> 00:02:21,682
-{On ne peut pas estimer l'ampleur des dégâts causés par le Y2K.}
+00:02:09,939 --> 00:02:11,178
+Nous sommes confrontés à cette situation pour la première fois...
 
 47
-00:02:21,682 --> 00:02:23,451
-{L'indemnisation illimitée est un peu...}
+00:02:11,178 --> 00:02:12,547
+depuis l'invention des ordinateurs.
 
 48
-00:02:23,451 --> 00:02:26,921
-{Cette publicité a été planifiée par le bureau du Président...}
+00:02:13,478 --> 00:02:16,709
+Le risque n'est-il pas trop grand pour une campagne promotionnelle ?
 
 49
-00:02:28,092 --> 00:02:29,992
-{et non par le Département des Relations Publiques, n'est-ce pas ?}
+00:02:17,752 --> 00:02:21,682
+Nous ne pouvons pas estimer l'ampleur des dégâts causés par le Y2K.
 
 50
-00:02:30,592 --> 00:02:31,622
-{Oui.}
+00:02:21,682 --> 00:02:23,451
+Une compensation illimitée est un peu...
 
 51
-00:02:32,492 --> 00:02:34,291
-{Par le bureau du Président lui-même ?}
+00:02:23,451 --> 00:02:26,921
+Cette publicité a été planifiée par le bureau du président...
 
 52
-00:02:35,291 --> 00:02:37,002
-{D'autres entreprises font un scandale pour faire une loi...}
+00:02:28,092 --> 00:02:29,992
+et non par le département des relations publiques, n'est-ce pas ?
 
 53
-00:02:37,002 --> 00:02:39,831
-{disant qu'elles n'ont pas à compenser les dommages causés par le Y2K.}
+00:02:30,592 --> 00:02:31,622
+Oui.
 
 54
-00:02:41,301 --> 00:02:42,402
-{Indemnisation illimitée ?}
+00:02:32,492 --> 00:02:34,291
+Par le bureau du président lui-même ?
 
 55
-00:02:42,402 --> 00:02:43,801
-{(Soonyang Investment)}
+00:02:35,291 --> 00:02:37,002
+D'autres entreprises font des histoires pour faire une loi...
 
 56
-00:02:43,801 --> 00:02:44,942
-{Oh là là.}
+00:02:37,002 --> 00:02:39,831
+disant qu'elles n'ont pas à compenser les dommages causés par le Y2K.
 
 57
-00:02:45,947 --> 00:02:47,348
-{N'est-ce pas trop imprudent ?}
+00:02:41,301 --> 00:02:42,402
+Une compensation illimitée ?
 
 58
-00:02:48,171 --> 00:02:49,912
-{Vous avez dit que vous prendriez la responsabilité.}
+00:02:42,402 --> 00:02:43,801
+(Soonyang Investment)
 
 59
-00:02:51,611 --> 00:02:54,981
-{Peu importe le montant de l'indemnisation,}
+00:02:43,801 --> 00:02:44,942
+Mon Dieu.
 
 60
-00:02:56,981 --> 00:02:58,652
-{vous allez payer.}
+00:02:45,947 --> 00:02:47,348
+N'est-ce pas trop imprudent ?
 
 61
-00:03:01,351 --> 00:03:04,622
-{Au lieu de cela, si le Y2K passe sans problème,}
+00:02:48,171 --> 00:02:49,912
+Tu as dit que tu prendrais la responsabilité.
 
 62
-00:03:05,761 --> 00:03:08,132
-{vous me rendrez service.}
+00:02:51,611 --> 00:02:54,981
+Quel que soit le montant de la compensation,
 
 63
-00:03:10,032 --> 00:03:12,361
-{Le bouton est pressé.}
+00:02:56,981 --> 00:02:58,652
+tu vas la payer.
 
 64
-00:03:12,361 --> 00:03:14,701
-{Le pendule commence à osciller.}
+00:03:01,351 --> 00:03:04,622
+En revanche, si le Y2K se passe sans problème,
 
 65
-00:03:14,701 --> 00:03:17,742
-{- Le Président Kim Dae Jung est présent.}
-{- Cinq, quatre,}
+00:03:05,761 --> 00:03:08,132
+tu me rendras un service.
 
 66
-00:03:18,502 --> 00:03:20,111
-{- trois,}
-{- Trois,}
+00:03:10,032 --> 00:03:12,361
+Le bouton est pressé.
 
 67
-00:03:20,111 --> 00:03:22,312
-{- deux, un.}
-{- deux, un.}
+00:03:12,361 --> 00:03:14,701
+Le pendule commence à osciller.
 
 68
-00:03:23,081 --> 00:03:24,182
-{Tout le monde.}
+00:03:14,701 --> 00:03:17,742
+- Le président Kim Dae Jung est présent. - Cinq, quatre,
 
 69
-00:03:25,941 --> 00:03:28,971
-{Le 21ème siècle a commencé.}
+00:03:18,502 --> 00:03:20,111
+- trois, - Trois,
 
 70
-00:03:32,727 --> 00:03:34,551
-{Le début du nouveau millénaire.}
+00:03:20,111 --> 00:03:22,312
+- deux, un. - deux, un.
 
 71
-00:03:34,551 --> 00:03:36,692
-{L'an 2000 est là.}
+00:03:23,081 --> 00:03:24,182
+Tout le monde.
 
 72
-00:03:40,192 --> 00:03:41,869
-{Nous pouvons entendre leurs voix.}
+00:03:25,941 --> 00:03:28,971
+Le 21ème siècle a commencé.
 
 73
-00:03:41,869 --> 00:03:44,932
-{Y2K. Bug du millénaire.}
+00:03:32,727 --> 00:03:34,551
+Le début du nouveau millénaire.
 
 74
-00:03:44,932 --> 00:03:46,031
-{La fin du monde.}
+00:03:34,551 --> 00:03:36,692
+L'an 2000 est là.
 
 75
-00:03:48,576 --> 00:03:50,978
-{Nostradamus, cet escroc.}
+00:03:40,192 --> 00:03:41,869
+Nous pouvons entendre leurs voix.
 
 76
-00:03:50,978 --> 00:03:53,112
-{Maudit ! C'était quoi ça ?}
+00:03:41,869 --> 00:03:44,932
+Y2K. Bug de l'an 2000.
 
 77
-00:03:53,112 --> 00:03:55,672
-{Le 21ème siècle a commencé.}
+00:03:44,932 --> 00:03:46,031
+La fin du monde.
+
+
 
 78
-00:03:55,672 --> 00:03:56,942
-{(Reborn Rich)}
+00:03:48,576 --> 00:03:50,978
+Nostradamus, cet escroc.
 
 79
-00:03:59,781 --> 00:04:00,781
-{D'accord.}
+00:03:50,978 --> 00:03:53,112
+Zut ! Qu'est-ce que c'était ?
 
 80
-00:04:03,852 --> 00:04:05,021
-{Vous avez économisé votre argent.}
+00:03:53,112 --> 00:03:55,672
+Le 21ème siècle a commencé.
 
 81
-00:04:07,052 --> 00:04:08,651
-{Le calcul des activités d'investissement...}
+00:03:55,672 --> 00:03:56,942
+(Riche renaissant)
 
 82
-00:04:08,651 --> 00:04:09,661
-{et des compagnies d'assurance va bien,}
+00:03:59,781 --> 00:04:00,781
+D'accord.
 
 83
-00:04:09,661 --> 00:04:12,632
-{et l'usine de semi-conducteurs n'a pas de problème non plus.}
+00:04:03,852 --> 00:04:05,021
+Vous avez économisé votre argent.
 
 84
-00:04:15,031 --> 00:04:18,302
-{Je pense que vous avez gagné plus de dix milliards de won juste maintenant.}
+00:04:07,052 --> 00:04:08,651
+Le calcul des entreprises d'investissement...
 
 85
-00:04:18,901 --> 00:04:19,971
-{Grâce à moi.}
+00:04:08,651 --> 00:04:09,661
+et des compagnies d'assurance est bon,
 
 86
-00:04:23,372 --> 00:04:24,841
-{(Indemnisation illimitée !)}
+00:04:09,661 --> 00:04:12,632
+et l'usine de semi-conducteurs n'a pas de problème non plus.
 
 87
-00:04:26,971 --> 00:04:29,131
-{Une autre publicité aurait-elle pu être aussi efficace ?}
+00:04:15,031 --> 00:04:18,302
+Je pense que vous avez gagné plus de dix milliards de wons juste maintenant.
 
 88
-00:04:34,352 --> 00:04:35,451
-{C'est quoi ?}
+00:04:18,901 --> 00:04:19,971
+Grâce à moi.
 
 89
-00:04:37,922 --> 00:04:40,021
-{Tu veux quelque chose pour ta remise de diplôme ?}
+00:04:23,372 --> 00:04:24,841
+(Compensation illimitée !)
 
 90
-00:04:43,992 --> 00:04:46,531
-{Quel est le service que tu veux de moi ?}
+00:04:26,971 --> 00:04:29,131
+Une autre publicité pourrait-elle être aussi efficace que celle-ci ?
 
 91
-00:04:51,132 --> 00:04:53,372
-{Bonne année, Papy.}
+00:04:34,352 --> 00:04:35,451
+Qu'est-ce que c'est ?
 
 92
-00:05:07,911 --> 00:05:09,752
-{(Document à approuver)}
+00:04:37,922 --> 00:04:40,021
+Veux-tu quelque chose pour ta remise de diplôme ?
 
 93
-00:05:20,031 --> 00:05:21,891
-{1er Janvier 2000.}
+00:04:43,992 --> 00:04:46,531
+Quelle faveur me demandes-tu ?
 
 94
-00:05:21,891 --> 00:05:26,102
-{La température est de 22°C et l'humidité est de 62 pour cent.}
+00:04:51,132 --> 00:04:53,372
+Bonne année, Grand-père.
 
 95
-00:05:29,031 --> 00:05:32,013
-{- Bonjour.}
-{Bonne année, Madame Jin.}
+00:05:07,911 --> 00:05:09,752
+(Document à approuver)
 
 96
-00:05:32,013 --> 00:05:34,693
-{Au plaisir de travailler avec vous cette année également, Monsieur le Directeur Im.}
+00:05:20,031 --> 00:05:21,891
+1er janvier 2000.
 
 97
-00:05:37,382 --> 00:05:39,711
-{La réunion de stratégie de vente de 2000...}
+00:05:21,891 --> 00:05:26,102
+La température est de 22°C et l'humidité est de 62 pour cent.
 
 98
-00:05:39,711 --> 00:05:41,482
-{avec les directeurs régionaux du Soonyang Market se tiendra...}
+00:05:29,031 --> 00:05:32,013
+- Bonjour. - Bonne année, Madame Jin.
 
 99
-00:05:41,482 --> 00:05:44,081
-{dans la salle de conférence au 11ème étage à 9h.}
+00:05:32,013 --> 00:05:34,693
+Au plaisir de travailler avec vous cette année aussi, Directeur Im.
 
 100
-00:05:44,081 --> 00:05:46,794
-{- C'est ça. Annulez ça.}
-{- Pardon ?}
+00:05:37,382 --> 00:05:39,711
+La réunion stratégique des ventes de 2000...
 
 101
-00:05:46,794 --> 00:05:49,261
-{J'ai appelé les gérants de Soonyang Investment.}
+00:05:39,711 --> 00:05:41,482
+avec les directeurs de district de Soonyang Market se tiendra...
 
 102
-00:05:49,261 --> 00:05:51,422
-{C'est une réunion à huis clos, d'ailleurs.}
+00:05:41,482 --> 00:05:44,081
+dans la salle de conférence au 11ème étage à 9h.
 
 103
-00:05:52,961 --> 00:05:54,062
-{Oh là là.}
+00:05:44,081 --> 00:05:46,794
+- Bien. Annulez ça. - Pardon ?
 
 104
-00:06:00,271 --> 00:06:03,172
-{Madame Jin, certains directeurs sont venus de Gwangju, Busan,}
+00:05:46,794 --> 00:05:49,261
+J'ai appelé les managers de Soonyang Investment.
 
 105
-00:06:03,172 --> 00:06:04,802
-{et de l'île de Jeju hier...}
+00:05:49,261 --> 00:05:51,422
+C'est une réunion à huis clos, d'ailleurs.
 
 106
-00:06:04,802 --> 00:06:07,071
-{pour assister à la réunion d'aujourd'hui.}
+00:05:52,961 --> 00:05:54,062
+Mince.
 
 107
-00:06:07,742 --> 00:06:10,211
-{- Et alors ?}
-{- Pardon ?}
+00:06:00,271 --> 00:06:03,172
+Madame Jin, certains directeurs sont venus de Gwangju, Busan,
 
 108
-00:06:10,211 --> 00:06:12,520
-{Les frais de transport et d'hébergement...}
+00:06:03,172 --> 00:06:04,802
+et de l'île de Jeju hier...
 
 109
-00:06:12,520 --> 00:06:15,312
-{viennent de leurs poches ? Je les paie.}
+00:06:04,802 --> 00:06:07,071
+pour assister à la réunion d'aujourd'hui.
 
 110
-00:06:15,312 --> 00:06:16,451
-{Quel est le problème ?}
+00:06:07,742 --> 00:06:10,211
+- Et alors ? - Pardon ?
 
 111
-00:06:18,092 --> 00:06:20,852
-{L'année dernière, j'ai gagné plus d'argent grâce aux actions de New Data Technology...}
+00:06:10,211 --> 00:06:12,520
+Les frais de transport et d'hébergement...
 
 112
-00:06:20,852 --> 00:06:23,961
-{que les ventes des grands magasins.}
+00:06:12,520 --> 00:06:15,312
+viennent de leurs poches ? Je les paie.
 
 113
-00:06:24,821 --> 00:06:27,091
-{Réfléchissez avant de travailler. Mettez vos priorités en ordre.}
+00:06:15,312 --> 00:06:16,451
+Quel est le problème ?
 
 114
-00:06:27,992 --> 00:06:29,062
-{Je m'excuse.}
+00:06:18,092 --> 00:06:20,852
+L'année dernière, j'ai gagné plus d'argent avec les actions de New Data Technology...
 
 115
-00:06:30,031 --> 00:06:32,362
-{Eh bien, Madame Jin.}
+00:06:20,852 --> 00:06:23,961
+que les ventes du grand magasin.
 
 116
-00:06:33,632 --> 00:06:37,742
-{Vous avez gagné assez. Vous devriez arrêter d'investir en bourse...}
+00:06:24,821 --> 00:06:27,091
+Réfléchissez avant de travailler. Mettez vos priorités en ordre.
 
 117
-00:06:39,312 --> 00:06:41,672
-{Elle montera jusqu'à 300 000 won.}
+00:06:27,992 --> 00:06:29,062
+Je m'excuse.
 
 118
-00:06:47,112 --> 00:06:49,182
-{Je dois récupérer ma part du grand magasin...}
+00:06:30,031 --> 00:06:32,362
+Eh bien, Madame Jin.
 
 119
-00:06:49,182 --> 00:06:51,651
-{que j'ai donnée à Miracle Investment en garantie.}
+00:06:33,632 --> 00:06:37,742
+Vous avez assez gagné. Vous devriez arrêter d'investir en bourse...
 
 120
-00:06:51,651 --> 00:06:54,028
-{Dès qu'elle atteindra 300 000 won,}
+00:06:39,312 --> 00:06:41,672
+Elle montera jusqu'à 300 000 wons.
 
 121
-00:06:54,028 --> 00:06:56,422
-{je récupérerai ma part, et c'est tout. La fin.}
+00:06:47,112 --> 00:06:49,182
+Je dois récupérer ma part du grand magasin...
 
 122
-00:06:56,422 --> 00:06:58,391
-{Trois cent mille won ?}
+00:06:49,182 --> 00:06:51,651
+que j'ai donnée à Miracle Investment en garantie.
 
 123
-00:06:58,391 --> 00:07:02,261
-{C'est un phénomène jamais vu en Corée,}
+00:06:52,451 --> 00:06:54,028
+Dès qu'elle montera à 300 000 wons,
 
 124
-00:07:02,261 --> 00:07:03,932
-{donc toute prédiction est inutile.}
+00:06:54,028 --> 00:06:56,422
+je récupérerai ma part, et c'est tout. La fin.
 
 125
-00:07:05,002 --> 00:07:06,971
-{À en juger par les données, si l'on ne considère que la valeur de l'entreprise,}
+00:06:56,422 --> 00:06:58,391
+Trois cent mille wons ?
 
 126
-00:07:06,971 --> 00:07:08,932
-{le prix actuel de l'action est une bulle.}
+00:06:58,391 --> 00:07:02,261
+C'est un phénomène qui ne s'est jamais produit en Corée auparavant,
 
 127
-00:07:09,442 --> 00:07:12,141
-{Le cours de l'action pourrait chuter...}
+00:07:02,261 --> 00:07:03,932
+donc toute prédiction est dénuée de sens.
 
 128
-00:07:12,141 --> 00:07:13,542
-{et la moitié du prix actuel à tout moment.}
+00:07:05,002 --> 00:07:06,971
+En regardant les données, si l'on considère uniquement la valeur de l'entreprise,
 
 129
-00:07:13,542 --> 00:07:16,183
-{« Chuter » ? Vous êtes sûr ?}
+00:07:06,971 --> 00:07:08,932
+le cours actuel de l'action est une bulle.
 
 130
-00:07:16,183 --> 00:07:17,511
-{Jusqu'à quel point va-t-il baisser ?}
+00:07:09,442 --> 00:07:12,141
+Le cours de l'action pourrait chuter...
 
 131
-00:07:17,511 --> 00:07:19,382
-{- Eh bien...}
-{- Madame Jin.}
+00:07:12,141 --> 00:07:13,542
+et la moitié du prix actuel à tout moment.
 
 132
-00:07:19,382 --> 00:07:23,122
-{Pardonnez-moi de demander, mais combien avez-vous investi ?}
+00:07:13,542 --> 00:07:16,183
+"Chuter ?" Vous êtes sûr ?
 
 133
-00:07:23,122 --> 00:07:25,552
-{Suis-je celui qui fait le rapport ici ?}
+00:07:16,183 --> 00:07:17,511
+Jusqu'où tombera-t-elle ?
 
 134
-00:07:25,552 --> 00:07:27,622
-{Non. Pardon.}
+00:07:17,511 --> 00:07:19,382
+- Eh bien... - Madame Jin.
 
 135
-00:07:27,622 --> 00:07:30,461
-{N'êtes-vous pas des experts en investissement ? Pourquoi ne pouvez-vous pas me répondre ?}
+00:07:19,382 --> 00:07:23,122
+Pardonnez-moi de demander, mais combien avez-vous investi ?
 
 136
-00:07:31,562 --> 00:07:33,661
-{Montera-t-elle jusqu'à 300 000 won ?}
+00:07:23,122 --> 00:07:25,552
+Est-ce moi qui fais le rapport ici ?
 
 137
-00:07:35,903 --> 00:07:38,201
-{Trois cent mille won.}
+00:07:25,552 --> 00:07:27,622
+Non. Je suis désolé.
 
 138
-00:07:38,201 --> 00:07:39,932
-{Montera-t-elle jusqu'à 300 000 won ?}
+00:07:27,622 --> 00:07:30,461
+Vous n'êtes pas des experts en investissement ? Pourquoi ne pouvez-vous pas me répondre ?
 
 139
-00:07:42,071 --> 00:07:43,277
-{Va-t-elle monter ?}
+00:07:31,562 --> 00:07:33,661
+Montera-t-elle à 300 000 wons ?
 
 140
-00:07:43,277 --> 00:07:46,513
-{Alors que le KOSDAQ Composition atteint 2 834,}
+00:07:35,903 --> 00:07:38,201
+Trois cent mille wons.
 
 141
-00:07:46,513 --> 00:07:50,751
-{le cours de l'action de New Data Technology continue d'augmenter.}
+00:07:38,201 --> 00:07:39,932
+Montera-t-elle à 300 000 wons ?
 
 142
-00:07:50,751 --> 00:07:53,552
-{Hier, le marché a clôturé avec un prix de 280 000 won.}
+00:07:42,071 --> 00:07:43,277
+Montera-t-elle ?
 
 143
-00:07:53,552 --> 00:07:57,281
-{Avez-vous dit qu'elle monterait jusqu'à 300 000 won à la PDG Jin Hwa Young ?}
+00:07:43,277 --> 00:07:46,513
+Alors que le KOSDAQ atteint 2 834,
 
 144
-00:07:57,281 --> 00:07:58,651
-{Oui.}
+00:07:46,513 --> 00:07:50,751
+le cours de l'action de New Data Technology continue d'augmenter.
 
 145
-00:07:59,452 --> 00:08:01,322
-{Elle montera encore à ce rythme.}
+00:07:50,751 --> 00:07:53,552
+Hier, le marché boursier a clôturé à 280 000 wons.
 
 146
-00:08:02,222 --> 00:08:03,992
-{Le cours de l'action de New Data Technology...}
+00:07:53,552 --> 00:07:57,281
+Avez-vous dit qu'elle monterait à 300 000 wons au PDG Jin Hwa Young ?
 
 147
-00:08:03,992 --> 00:08:05,291
-{n'est pas décidé par le marché.}
+00:07:57,281 --> 00:07:58,651
+Oui.
 
 148
-00:08:05,891 --> 00:08:07,191
-{Elle est décidée par l'ère.}
+00:07:59,452 --> 00:08:01,322
+Elle montera plus haut à ce rythme.
 
 149
-00:08:08,061 --> 00:08:09,191
-{L'ère de l'informatique.}
+00:08:02,222 --> 00:08:03,992
+Le cours de l'action de New Data Technology...
+
+
 
 150
-00:08:10,004 --> 00:08:13,307
-{Si la peur vague appelée le mythe du Y2K, }
+00:08:03,992 --> 00:08:05,291
+n'est pas décidé par le marché.
 
 151
-00:08:13,307 --> 00:08:15,943
-{l'avidité pour des possibilités infinies...}
+00:08:05,891 --> 00:08:07,191
+C'est décidé par l'époque.
 
 152
-00:08:15,943 --> 00:08:19,472
-{apparaît sous la forme de New Data Technology et de sociétés de capital-risque.}
+00:08:08,061 --> 00:08:09,191
+L'ère de la technologie de l'information.
 
 153
-00:08:19,472 --> 00:08:21,112
-{Depuis le début du nouveau millénaire.}
+00:08:10,004 --> 00:08:13,307
+Si une peur vague a fait naître le mythe de l'an 2000,
 
 154
-00:08:21,112 --> 00:08:24,385
-{On prédit qu'elle continuera à augmenter.}
+00:08:13,307 --> 00:08:15,943
+l'avidité pour des possibilités infinies...
 
 155
-00:08:24,385 --> 00:08:27,252
-{Veuillez vendre toutes les actions de New Data Technology...}
+00:08:15,943 --> 00:08:19,472
+se manifeste sous la forme de la Nouvelle Technologie des Données et des sociétés de capital-risque.
 
 156
-00:08:27,252 --> 00:08:28,732
-{que Miracle Investment possède, Monsieur Oh.}
+00:08:19,472 --> 00:08:21,112
+Depuis le début du nouveau millénaire.
 
 157
-00:08:29,982 --> 00:08:31,082
-{Maintenant ?}
+00:08:21,112 --> 00:08:24,385
+On prévoit qu'il continuera à augmenter.
 
 158
-00:08:31,082 --> 00:08:33,421
-{Investissement déraisonnable et croissance rapide...}
+00:08:24,385 --> 00:08:27,252
+Veuillez vendre toutes les actions de Nouvelle Technologie des Données...
 
 159
-00:08:33,421 --> 00:08:35,421
-{La vérité sur le mythe du Y2K a été révélée.}
+00:08:27,252 --> 00:08:28,732
+que Miracle Investment possède, Monsieur Oh.
 
 160
-00:08:36,691 --> 00:08:39,331
-{La frénésie de New Data Technology montrera bientôt sa vraie nature.}
+00:08:29,982 --> 00:08:31,082
+Maintenant ?
 
 161
-00:08:40,092 --> 00:08:41,431
-{Vendez-les.}
+00:08:31,082 --> 00:08:33,421
+Investissement déraisonnable et croissance rapide...
 
 162
-00:08:45,465 --> 00:08:47,031
-{Attendez.}
+00:08:33,421 --> 00:08:35,421
+La vérité du mythe de l'an 2000 a été révélée.
 
 163
-00:08:47,031 --> 00:08:49,102
-{Le PDG Lee Myung Soo de New Data Technology...}
+00:08:36,691 --> 00:08:39,331
+La frénésie de la Nouvelle Technologie des Données montrera bientôt aussi sa vraie nature.
 
 164
-00:08:49,102 --> 00:08:50,872
-{est suspecté d'être impliqué dans une fraude comptable.}
+00:08:40,092 --> 00:08:41,431
+Vendez-les.
 
 165
-00:08:50,872 --> 00:08:51,901
-{Les procureurs enquêtent sur le problème.}
+00:08:45,465 --> 00:08:47,031
+Attendez.
 
 166
-00:08:51,901 --> 00:08:53,311
-{Soonyang Electronics, qui avait fait avancer...}
+00:08:47,031 --> 00:08:49,102
+Le PDG Lee Myung Soo de Nouvelle Technologie des Données...
 
 167
-00:08:53,311 --> 00:08:55,941
-{une alliance technologique avec New Data Technology...}
+00:08:49,102 --> 00:08:50,872
+est soupçonné d'être impliqué dans une fraude comptable.
 
 168
-00:08:55,941 --> 00:08:57,818
-{a annulé le plan.}
+00:08:50,872 --> 00:08:51,901
+Le parquet enquête sur l'affaire.
 
 169
-00:08:57,818 --> 00:09:00,712
-{Le plan de fusion de New Data Technology et One Road,}
+00:08:51,901 --> 00:08:53,311
+Soonyang Electronics qui avait avancé...
 
 170
-00:09:00,712 --> 00:09:03,382
-{le plus grand opérateur de téléphonie mobile de Corée, a échoué au final.}
+00:08:53,311 --> 00:08:55,941
+avec une alliance technologique avec Nouvelle Technologie des Données...
 
 171
-00:09:03,382 --> 00:09:05,681
-{Alors que le cours de l'action de New Data Technology continuait de baisser,}
+00:08:55,941 --> 00:08:57,818
+a abandonné le plan.
 
 172
-00:09:05,681 --> 00:09:08,362
-{le KOSDAQ Composition est tombé sous les 520.}
+00:08:57,818 --> 00:09:00,712
+Le plan de fusion de Nouvelle Technologie des Données et One Road,
 
 173
-00:09:08,362 --> 00:09:10,222
-{Son cours aujourd'hui est de 5 500 won,}
+00:09:00,712 --> 00:09:03,382
+le plus grand opérateur mobile de Corée, a finalement échoué.
 
 174
-00:09:10,222 --> 00:09:13,191
-{ce qui représente une baisse de 18 % par rapport à son plus haut niveau.}
+00:09:03,382 --> 00:09:05,681
+Alors que le cours de l'action de Nouvelle Technologie des Données continuait de baisser,
 
 175
-00:09:21,537 --> 00:09:23,236
-{Je suis le Procureur Seo Min Yeong...}
+00:09:05,681 --> 00:09:08,362
+la composition du KOSDAQ est tombée en dessous de 520.
 
 176
-00:09:23,236 --> 00:09:24,866
-{du FTCD au Bureau du Procureur du District de Séoul.}
+00:09:08,362 --> 00:09:10,222
+Son cours aujourd'hui est de 5 500 won,
 
 177
-00:09:24,866 --> 00:09:28,013
-{FTCD signifie Département de la Criminalité Financière et Fiscale.}
+00:09:10,222 --> 00:09:13,191
+ce qui représente une baisse de 18 % par rapport à son plus haut prix.
 
 178
-00:09:28,013 --> 00:09:32,076
-{C'est un département qui enquête sur les crimes liés à la finance, aux actions,}
+00:09:21,537 --> 00:09:23,236
+Je suis le procureur Seo Min Yeong...
 
 179
-00:09:32,076 --> 00:09:33,616
-{et aux impôts.}
+00:09:23,236 --> 00:09:24,866
+du FTCD au bureau du procureur du district de Séoul.
 
 180
-00:09:34,917 --> 00:09:37,397
-{Je suis un procureur nouvellement nommé cette année.}
+00:09:24,866 --> 00:09:28,013
+FTCD signifie Département des crimes financiers et fiscaux.
 
 181
-00:09:38,887 --> 00:09:41,256
-{Est-ce que c'était bien ? Ou devrais-je essayer encore une fois ?}
+00:09:28,013 --> 00:09:32,076
+C'est un département qui enquête sur les crimes liés à la finance, aux actions,
 
 182
-00:09:51,726 --> 00:09:54,167
-{(L'Ère de l'Inégalité des Sexes)}
+00:09:32,076 --> 00:09:33,616
+et aux impôts.
 
 183
-00:09:56,407 --> 00:09:58,836
-{(L'Ère de l'Inégalité des Sexes, Ensemble, nous pouvons y mettre fin.)}
+00:09:34,917 --> 00:09:37,397
+Je suis une procureure nouvellement nommée qui a été nommée cette année.
 
 184
-00:10:03,706 --> 00:10:05,277
-{(Bureau du Procureur)}
+00:09:38,887 --> 00:09:41,256
+C'était bien ? Ou dois-je essayer encore une fois ?
 
 185
-00:10:12,317 --> 00:10:13,437
-{Je me suis vu assigner des dossiers, n'est-ce pas ?}
+00:09:51,726 --> 00:09:54,167
+(L'ère de l'inégalité entre les sexes)
 
 186
-00:10:14,687 --> 00:10:16,727
-{Les dossiers d'enquête sont ici ? Où sont-ils ?}
+00:09:56,407 --> 00:09:58,836
+(L'ère de l'inégalité entre les sexes, Ensemble, nous pouvons y mettre fin.)
 
 187
-00:10:19,326 --> 00:10:20,726
-{Eh bien...}
+00:10:03,706 --> 00:10:05,277
+(Bureau du procureur)
 
 188
-00:10:22,326 --> 00:10:24,366
-{Dans l'armoire là-bas.}
+00:10:12,317 --> 00:10:13,437
+On m'a assigné des affaires, n'est-ce pas ?
 
 189
-00:10:35,681 --> 00:10:37,206
-{Excusez-moi, Procureur Seo.}
+00:10:14,687 --> 00:10:16,727
+Les dossiers d'enquête sont-ils ici ? Où sont-ils ?
 
 190
-00:10:37,206 --> 00:10:39,876
-{Vous allez à l'interview de demain avec le magazine féminin, n'est-ce pas ?}
+00:10:19,326 --> 00:10:20,726
+Eh bien...
 
 191
-00:10:39,876 --> 00:10:41,947
-{Il y aura une séance photo.}
+00:10:22,326 --> 00:10:24,366
+Dans l'armoire là-bas.
 
 192
-00:10:42,817 --> 00:10:44,716
-{Le thème est une procureure.}
+00:10:35,681 --> 00:10:37,206
+Excusez-moi, Procureur Seo.
 
 193
-00:10:44,716 --> 00:10:47,616
-{La société de magazine a préparé ceci, d'après ce que j'ai entendu.}
+00:10:37,206 --> 00:10:39,876
+Vous allez à l'interview de demain avec le magazine féminin, n'est-ce pas ?
 
 194
-00:10:50,126 --> 00:10:51,926
-{Le procureur en chef est dans le bureau, n'est-ce pas ?}
+00:10:39,876 --> 00:10:41,947
+Il y aura une séance photo.
 
 195
-00:10:54,596 --> 00:10:57,567
-{Depuis trois mois, depuis la fin de ma période probatoire,}
+00:10:42,817 --> 00:10:44,716
+Le thème est une procureure.
 
 196
-00:10:57,567 --> 00:10:59,866
-{vous ne m'avez jamais assigné...}
+00:10:44,716 --> 00:10:47,616
+La société de magazines a préparé cela, si j'ai bien compris.
 
 197
-00:10:59,866 --> 00:11:01,767
-{un dossier approprié.}
+00:10:50,126 --> 00:10:51,926
+Le procureur général est au bureau, n'est-ce pas ?
 
 198
-00:11:02,537 --> 00:11:04,098
-{Le savez-vous ?}
+00:10:54,596 --> 00:10:57,567
+Depuis trois mois que ma période d'essai est terminée,
 
 199
-00:11:05,167 --> 00:11:06,206
-{Et alors ?}
+00:10:57,567 --> 00:10:59,866
+vous ne m'avez jamais assigné...
 
 200
-00:11:08,680 --> 00:11:12,047
-{Je n'ai pas l'impression de valoir grand-chose,}
+00:10:59,866 --> 00:11:01,767
+une affaire sérieuse.
 
 201
-00:11:12,047 --> 00:11:15,017
-{et je me sens mal de ne pas pouvoir vous faire face.}
+00:11:02,537 --> 00:11:04,098
+Vous savez ça ?
 
 202
-00:11:16,589 --> 00:11:18,989
-{J'ai honte de moi.}
+00:11:05,167 --> 00:11:06,206
+Et alors ?
 
 203
-00:11:23,462 --> 00:11:25,726
-{Apprenez-moi ce qui me manque,}
+00:11:08,680 --> 00:11:12,047
+Je n'ai pas l'impression de valoir grand-chose,
 
 204
-00:11:25,726 --> 00:11:27,766
-{et je ferai de mon mieux pour le corriger.}
+00:11:12,047 --> 00:11:15,017
+et je me sens mal de ne pas pouvoir vous regarder.
 
 205
-00:11:27,766 --> 00:11:30,369
-{Que dites-vous, Procureur Seo ?}
+00:11:16,589 --> 00:11:18,989
+J'ai honte de moi.
 
 206
-00:11:30,369 --> 00:11:33,672
-{Votre simple existence est la fierté du FTCD.}
+00:11:23,462 --> 00:11:25,726
+Apprenez-moi ce qui me manque,
 
 207
-00:11:33,672 --> 00:11:35,096
-{Ne le saviez-vous pas ?}
+00:11:25,726 --> 00:11:27,766
+et je ferai de mon mieux pour y remédier.
 
 208
-00:11:35,096 --> 00:11:37,471
-{Vous valez bien plus que ce que vous pensez.}
+00:11:27,766 --> 00:11:30,369
+Que dites-vous, Procureur Seo ?
 
 209
-00:11:41,836 --> 00:11:44,316
-{Vous avez une interview avec un magazine féminin demain, n'est-ce pas ?}
+00:11:30,369 --> 00:11:33,672
+Votre seule existence est la fierté du FTCD.
 
 210
-00:11:45,967 --> 00:11:48,976
-{Après que le Procureur Général ait démissionné de son poste suite à un lobbying,}
+00:11:33,672 --> 00:11:35,096
+Vous ne le saviez pas ?
 
 211
-00:11:48,976 --> 00:11:51,189
-{l'opinion publique était terrible.}
+00:11:35,096 --> 00:11:37,471
+Vous valez bien plus que ce que vous pensez.
 
 212
-00:11:51,189 --> 00:11:53,517
-{Surtout ces femmes qui aiment parler.}
+00:11:41,836 --> 00:11:44,316
+Vous avez une interview avec un magazine féminin demain, n'est-ce pas ?
 
 213
-00:11:53,517 --> 00:11:54,887
-{Montrez-leur...}
+00:11:45,967 --> 00:11:48,976
+Après la démission du procureur général suite à un lobbying,
 
 214
-00:11:54,887 --> 00:11:58,126
-{à quel point la poursuite est favorable aux femmes.}
+00:11:48,976 --> 00:11:51,189
+l'opinion publique était terrible.
 
 215
-00:11:59,596 --> 00:12:01,895
-{Je ferai de mon mieux.}
+00:11:51,189 --> 00:11:53,517
+Surtout ces femmes qui aiment parler.
 
 216
-00:12:09,297 --> 00:12:10,366
-{Maudit.}
+00:11:53,517 --> 00:11:54,887
+Montrez-leur...
 
 217
-00:12:10,366 --> 00:12:12,606
-{(L'Ère de l'Inégalité des Sexes, Ensemble, nous pouvons y mettre fin.)}
+00:11:54,887 --> 00:11:58,126
+à quel point le parquet est favorable aux femmes.
 
 218
-00:12:19,246 --> 00:12:20,277
-{Oui.}
+00:11:59,596 --> 00:12:01,895
+Je ferai de mon mieux.
 
 219
-00:12:21,177 --> 00:12:23,346
-{Je suis le Procureur Seo Min Yeong.}
+00:12:09,297 --> 00:12:10,366
+Zut.
 
 220
-00:12:23,346 --> 00:12:24,346
-{Qui appelle ?}
+00:12:10,366 --> 00:12:12,606
+(L'ère de l'inégalité entre les sexes, Ensemble, nous pouvons y mettre fin.)
 
 221
-00:12:31,927 --> 00:12:33,027
-{Bienvenue.}
+00:12:19,246 --> 00:12:20,277
+Oui.
 
 222
-00:12:33,726 --> 00:12:34,956
-{Par ici, s'il vous plaît.}
+00:12:21,177 --> 00:12:23,346
+Je suis le procureur Seo Min Yeong.
 
 223
-00:12:58,787 --> 00:12:59,787
-{Long time no see.}
+00:12:23,346 --> 00:12:24,346
+Qui appelle ?
 
 224
-00:13:01,024 --> 00:13:03,494
-{Procureur Seo Min Yeong.}
+00:12:31,927 --> 00:12:33,027
+Bienvenue.
 
 225
-00:13:06,856 --> 00:13:08,768
-{Je ne savais pas...}
+00:12:33,726 --> 00:12:34,956
+Par ici, s'il vous plaît.
 
 226
-00:13:09,866 --> 00:13:12,454
-{que tu avais encore mon numéro.}
+00:12:58,787 --> 00:12:59,787
+Longue attente.
 
 227
-00:13:13,767 --> 00:13:15,537
-{Je pensais que tu le savais.}
+00:13:01,024 --> 00:13:03,494
+Procureur Seo Min Yeong.
 
 228
-00:13:18,067 --> 00:13:20,307
-{Ton numéro était toujours le même,}
+00:13:06,856 --> 00:13:08,768
+Je ne savais pas...
+
+
 
 229
-00:13:21,706 --> 00:13:24,040
-{donc j'ai pensé que tu attendais un appel.}
+00:13:09,866 --> 00:13:12,454
+Tu avais toujours mon numéro.
 
 230
-00:13:50,966 --> 00:13:52,006
-{Laisse-moi partir.}
+00:13:13,767 --> 00:13:15,537
+Je pensais que tu le savais.
 
 231
-00:13:52,836 --> 00:13:54,106
-{Reprends-toi.}
+00:13:18,067 --> 00:13:20,307
+Ton numéro était toujours le même,
 
 232
-00:13:54,106 --> 00:13:55,228
-{Perdre de l'argent suffisait.}
+00:13:21,706 --> 00:13:24,040
+donc je pensais que tu attendais un appel.
 
 233
-00:13:55,228 --> 00:13:56,907
-{Veux-tu perdre aussi le grand magasin ?}
+00:13:50,966 --> 00:13:52,006
+Laisse-moi partir.
 
 234
-00:13:56,907 --> 00:13:58,550
-{Laisse-moi partir !}
+00:13:52,836 --> 00:13:54,106
+Reprends-toi.
 
 235
-00:13:58,550 --> 00:14:01,447
-{Tu dois d'abord compenser l'argent que tu as dépensé en actions.}
+00:13:54,106 --> 00:13:55,228
+Perdre de l'argent suffisait.
 
 236
-00:14:01,447 --> 00:14:03,187
-{Si tu continues à reporter le paiement...}
+00:13:55,228 --> 00:13:56,907
+Veux-tu perdre aussi le grand magasin ?
 
 237
-00:14:03,187 --> 00:14:05,190
-{aux magasins du grand magasin,}
+00:13:56,907 --> 00:13:58,550
+Laisse-moi partir !
 
 238
-00:14:05,190 --> 00:14:08,256
-{ils entameront des poursuivants judiciaires contre le grand magasin.}
+00:13:58,550 --> 00:14:01,447
+Tu dois d'abord compenser l'argent que tu as dépensé en actions.
 
 239
-00:14:08,256 --> 00:14:09,356
-{Est-ce que ça te va ?}
+00:14:01,447 --> 00:14:03,187
+Si tu continues de reporter le paiement...
 
 240
-00:14:09,356 --> 00:14:10,986
-{Me menaces-tu, Monsieur le Directeur ?}
+00:14:03,187 --> 00:14:05,190
+aux magasins du grand magasin,
 
 241
-00:14:17,067 --> 00:14:18,966
-{Cela signifie que les procureurs remarqueront...}
+00:14:05,190 --> 00:14:08,256
+ils intenteront une action en justice contre le grand magasin.
 
 242
-00:14:18,966 --> 00:14:21,637
-{que tu as détourné les fonds de la société.}
+00:14:08,256 --> 00:14:09,356
+Es-tu d'accord avec ça ?
 
 243
-00:14:30,382 --> 00:14:32,106
-{Nous avons encore le temps.}
+00:14:09,356 --> 00:14:10,986
+Me menaces-tu, Directeur Im ?
 
 244
-00:14:32,106 --> 00:14:35,317
-{Seulement nous deux le savons.}
+00:14:17,067 --> 00:14:18,966
+Cela signifie que les procureurs remarqueront...
 
 245
-00:14:46,765 --> 00:14:48,797
-{Tu veux que j'enquête sur le détournement...}
+00:14:18,966 --> 00:14:21,637
+que tu as détourné les fonds de l'entreprise.
 
 246
-00:14:48,797 --> 00:14:51,267
-{de la PDG Jin Hwa Young du grand magasin Soonyang ?}
+00:14:30,382 --> 00:14:32,106
+Nous avons encore le temps.
 
 247
-00:14:52,382 --> 00:14:55,283
-{Tu me fais un tuyau ?}
+00:14:32,106 --> 00:14:35,317
+Seulement nous deux le savons.
 
 248
-00:15:00,011 --> 00:15:04,150
-{Alors nous sommes ici aujourd'hui en tant que procureur et informateur.}
+00:14:46,765 --> 00:14:48,797
+Tu veux que j'enquête sur le détournement...
 
 249
-00:15:07,686 --> 00:15:09,116
-{Alors je dois être clair.}
+00:14:48,797 --> 00:14:51,267
+de la PDG Jin Hwa Young du grand magasin Soonyang ?
 
 250
-00:15:09,116 --> 00:15:10,517
-{Nous partagerons l'addition.}
+00:14:52,382 --> 00:14:55,283
+Tu me donnes un tuyau ?
 
 251
-00:15:10,517 --> 00:15:13,756
-{Je ne peux pas demander à l'informateur de me payer.}
+00:15:00,011 --> 00:15:04,150
+Alors nous sommes ici aujourd'hui en tant que procureur et informateur.
 
 252
-00:15:13,756 --> 00:15:15,387
-{(Dessert : Cheesecake, meringue au cacao)}
+00:15:07,686 --> 00:15:09,116
+Alors je dois être clair.
 
 253
-00:15:15,387 --> 00:15:18,226
-{Le prix n'est pas mentionné.}
+00:15:09,116 --> 00:15:10,517
+Nous partagerons l'addition.
 
 254
-00:15:25,370 --> 00:15:30,008
-{La personne en face de moi est bien l'héritier d'un conglomérat.}
+00:15:10,517 --> 00:15:13,756
+Je ne peux pas faire payer l'informateur pour moi.
 
 255
-00:15:30,008 --> 00:15:34,177
-{Tu rencontres des gens dans un restaurant où le prix n'a pas d'importance...}
+00:15:13,756 --> 00:15:15,387
+(Dessert : Cheesecake, meringue au cacao)
 
 256
-00:15:34,177 --> 00:15:36,807
-{et tu rapportes un membre de la famille au parquet...}
+00:15:15,387 --> 00:15:18,226
+Le prix n'est pas mentionné.
 
 257
-00:15:36,807 --> 00:15:38,677
-{comme suspect d'un crime grave.}
+00:15:25,370 --> 00:15:30,008
+La personne en face de moi est bien le petit-fils d'une famille de conglomérat.
 
 258
-00:15:40,585 --> 00:15:44,017
-{Alors tu vas sauter dans la guerre de succession et y participer ?}
+00:15:30,008 --> 00:15:34,177
+Tu rencontres des gens dans un restaurant où le prix n'a pas d'importance...
 
 259
-00:15:44,017 --> 00:15:48,456
-{En utilisant le parquet... Non, en m'utilisant ?}
+00:15:34,177 --> 00:15:36,807
+et tu dénonces un membre de ta famille à la justice...
 
 260
-00:15:48,456 --> 00:15:50,986
-{Pourquoi ? Je ne peux pas faire ça ?}
+00:15:36,807 --> 00:15:38,677
+comme suspect d'un crime grave.
 
 261
-00:15:53,965 --> 00:15:56,866
-{Disons, pour le bien de la justice financière de la Corée,}
+00:15:40,585 --> 00:15:44,017
+Alors tu vas sauter dans la guerre de succession ?
 
 262
-00:15:56,866 --> 00:15:58,866
-{j'ai placé ma famille bien-aimée...}
+00:15:44,017 --> 00:15:48,456
+En utilisant la justice... Non, en m'utilisant ?
 
 263
-00:15:59,716 --> 00:16:01,996
-{sur le siège du jugement...}
+00:15:48,456 --> 00:15:50,986
+Pourquoi ? Je ne peux pas faire ça ?
 
 264
-00:16:01,996 --> 00:16:04,307
-{malgré la douleur atroce.}
+00:15:53,965 --> 00:15:56,866
+Disons que, pour le bien de la justice financière de la Corée,
 
 265
-00:16:05,236 --> 00:16:07,976
-{Le résultat de l'enquête change-t-il ?}
+00:15:56,866 --> 00:15:58,866
+j'ai mis ma famille bien-aimée...
 
 266
-00:16:10,649 --> 00:16:14,777
-{Si vous n'êtes pas confiant, je comprends.}
+00:15:59,716 --> 00:16:01,996
+sur le banc des accusés...
 
 267
-00:16:14,777 --> 00:16:18,246
-{Ce n'est aucune autre entreprise que le Soonyang contre laquelle vous devez vous battre.}
+00:16:01,996 --> 00:16:04,307
+malgré la douleur atroce.
 
 268
-00:16:20,225 --> 00:16:23,157
-{Vous avez réussi l'examen du barreau en première place dans le pays...}
+00:16:05,236 --> 00:16:07,976
+Le résultat de l'enquête change-t-il ?
 
 269
-00:16:23,157 --> 00:16:26,597
-{et vous êtes assez talentueux pour être assigné au FTCD.}
+00:16:10,649 --> 00:16:14,777
+Si tu n'es pas confiant, je comprends.
 
 270
-00:16:27,857 --> 00:16:30,726
-{Mais cela reste trop pour un procureur nouvellement nommé, n'est-ce pas ?}
+00:16:14,777 --> 00:16:18,246
+Ce n'est pas une autre entreprise que Soonyang que tu dois combattre.
 
 271
-00:16:33,296 --> 00:16:35,301
-{Je comprends, je le pense vraiment.}
+00:16:20,225 --> 00:16:23,157
+Tu as réussi l'examen du barreau en étant premier du pays...
 
 272
-00:16:37,066 --> 00:16:38,656
-{Je vais y aller d'abord.}
+00:16:23,157 --> 00:16:26,597
+et tu es assez talentueux pour être affecté au FTCD.
 
 273
-00:16:44,347 --> 00:16:45,676
-{Combien...}
+00:16:27,857 --> 00:16:30,726
+Mais cela doit quand même être trop pour un procureur nouvellement nommé, n'est-ce pas ?
 
 274
-00:16:46,852 --> 00:16:49,655
-{était le montant estimé du détournement de la PDG Jin Hwa Young déjà ?}
+00:16:33,296 --> 00:16:35,301
+Je comprends, je le pense vraiment.
 
 275
-00:16:54,025 --> 00:16:56,157
-{Laissez-moi utiliser un héritier de troisième génération...}
+00:16:37,066 --> 00:16:38,656
+Je m'en vais.
 
 276
-00:16:56,157 --> 00:16:57,827
-{pour réaliser la justice.}
+00:16:44,347 --> 00:16:45,676
+Quel était...
 
 277
-00:17:01,733 --> 00:17:03,996
-{Procureur Seo, ici.}
+00:16:46,852 --> 00:16:49,655
+le montant estimé du détournement de la PDG Jin Hwa Young, encore une fois ?
 
 278
-00:17:03,996 --> 00:17:08,197
-{Voici l'analyse des fonds de la PDG Jin Hwa Young que j'ai obtenue...}
+00:16:54,025 --> 00:16:56,157
+Laisse-moi utiliser un héritier de troisième génération...
 
 279
-00:17:08,197 --> 00:17:09,566
-{en traçant son historique de transactions.}
+00:16:56,157 --> 00:16:57,827
+pour réaliser la justice.
 
 280
-00:17:09,566 --> 00:17:11,910
-{Avez-vous trouvé une activité suspecte qui indique un détournement ?}
+00:17:01,733 --> 00:17:03,996
+Procureur Seo, voici.
 
 281
-00:17:11,910 --> 00:17:13,776
-{Non, je n'ai pas pu.}
+00:17:03,996 --> 00:17:08,197
+C'est l'analyse des fonds de la PDG Jin Hwa Young que j'ai obtenue...
 
 282
-00:17:13,776 --> 00:17:17,306
-{Soonyang est expert à cet égard.}
+00:17:08,197 --> 00:17:09,566
+en suivant son historique de transactions.
 
 283
-00:17:19,217 --> 00:17:20,617
-{Au lieu de cela,}
+00:17:09,566 --> 00:17:11,910
+Avez-vous trouvé une activité suspecte qui pointe vers un détournement ?
 
 284
-00:17:20,617 --> 00:17:23,016
-{j'ai trouvé un compte très intéressant.}
+00:17:11,910 --> 00:17:13,776
+Non, je n'ai pas pu.
 
 285
-00:17:29,160 --> 00:17:31,226
-{Regarde ici.}
+00:17:13,776 --> 00:17:17,306
+Soonyang est expert en la matière.
 
 286
-00:17:31,226 --> 00:17:33,286
-{Depuis septembre et octobre derniers,}
+00:17:19,217 --> 00:17:20,617
+Au lieu de cela,
 
 287
-00:17:33,286 --> 00:17:35,357
-{depuis le compte de la société du grand magasin Soonyang,}
+00:17:20,617 --> 00:17:23,016
+j'ai trouvé un compte très intéressant.
 
 288
-00:17:35,357 --> 00:17:36,456
-{dix milliards de won...}
+00:17:29,160 --> 00:17:31,226
+Regarde ici.
 
 289
-00:17:36,456 --> 00:17:39,127
-{ont été divisés en 300 millions et 400 millions de won...}
+00:17:31,226 --> 00:17:33,286
+Depuis septembre et octobre derniers,
 
 290
-00:17:39,127 --> 00:17:41,337
-{et ont été transférés à des dizaines de comptes.}
+00:17:33,286 --> 00:17:35,357
+du compte d'entreprise du grand magasin Soonyang,
 
 291
-00:17:41,337 --> 00:17:42,837
-{Ce sont des clients du grand magasin ?}
+00:17:35,357 --> 00:17:36,456
+dix milliards de wons...
 
 292
-00:17:42,837 --> 00:17:46,107
-{Ces dizaines de comptes ont des noms différents de titulaires de compte...}
+00:17:36,456 --> 00:17:39,127
+ont été divisés en 300 millions et 400 millions de wons...
 
 293
-00:17:46,107 --> 00:17:47,337
-{et des banques,}
+00:17:39,127 --> 00:17:41,337
+et ont été transférés à des dizaines de comptes.
 
 294
-00:17:47,337 --> 00:17:49,077
-{mais ils ont une chose en commun.}
+00:17:41,337 --> 00:17:42,837
+Sont-ce des clients du grand magasin ?
 
 295
-00:17:51,306 --> 00:17:52,347
-{C'est...}
+00:17:42,837 --> 00:17:46,107
+Ces dizaines de comptes ont des noms de titulaires de compte différents...
 
 296
-00:17:53,318 --> 00:17:55,316
-{l'emplacement de chaque succursale.}
+00:17:46,107 --> 00:17:47,337
+et des banques,
 
 297
-00:17:55,316 --> 00:17:58,016
-{Regarde ici. Hoehyeon-dong, Chungmuro et Euljiro.}
+00:17:47,337 --> 00:17:49,077
+mais ils ont une chose en commun.
 
 298
-00:17:58,016 --> 00:17:59,246
-{Tous ces endroits sont...}
+00:17:51,306 --> 00:17:52,347
+C'est...
 
 299
-00:17:59,246 --> 00:18:00,692
-{C'est Myeong-dong.}
+00:17:53,318 --> 00:17:55,316
+l'emplacement de chaque succursale.
 
 300
-00:18:00,692 --> 00:18:03,396
-{Elle a établi un énorme lieu de blanchiment d'argent sur le marché des prêts privés.}
+00:17:55,316 --> 00:17:58,016
+Regarde ici. Hoehyeon-dong, Chungmuro et Euljiro.
 
 301
-00:18:03,396 --> 00:18:04,429
-{Bingo.}
+00:17:58,016 --> 00:17:59,246
+Tous ces endroits sont...
 
 302
-00:18:04,429 --> 00:18:06,790
-{Alors où est allé l'argent blanchi ?}
+00:17:59,246 --> 00:18:00,692
+C'est Myeong-dong.
+
+
 
 303
-00:18:06,790 --> 00:18:07,990
-{C'est ça. Ici.}
+00:18:00,692 --> 00:18:03,396
+Elle a mis en place une énorme opération de blanchiment d'argent sur le marché du prêt privé.
 
 304
-00:18:11,369 --> 00:18:13,397
-{Soonyang Deco.}
+00:18:03,396 --> 00:18:04,429
+Bingo.
 
 305
-00:18:13,397 --> 00:18:15,540
-{À l'extérieur, c'est un partenaire commercial du grand magasin Soonyang.}
+00:18:04,429 --> 00:18:06,790
+Alors où est allé l'argent blanchi ?
 
 306
-00:18:15,540 --> 00:18:16,776
-{À l'intérieur, nous ne savons pas.}
+00:18:06,790 --> 00:18:07,990
+Exactement. Ici.
 
 307
-00:18:16,776 --> 00:18:18,933
-{Parce que toutes les transactions de Soonyang Deco...}
+00:18:11,369 --> 00:18:13,397
+Soonyang Deco.
 
 308
-00:18:18,933 --> 00:18:21,313
-{sont les fonds du grand magasin Soonyang...}
+00:18:13,397 --> 00:18:15,540
+À l'extérieur, c'est un partenaire commercial du grand magasin Soonyang.
 
 309
-00:18:21,313 --> 00:18:23,216
-{qui sont passés par le blanchiment d'argent ici.}
+00:18:15,540 --> 00:18:16,776
+À l'intérieur, nous ne savons pas.
 
 310
-00:18:24,841 --> 00:18:26,440
-{C'est une société fictive.}
+00:18:16,776 --> 00:18:18,933
+Parce que toutes les transactions de Soonyang Deco...
 
 311
-00:18:26,440 --> 00:18:29,281
-{Elle a créé une société fantôme nommée Soonyang Deco...}
+00:18:18,933 --> 00:18:21,313
+sont les fonds du grand magasin Soonyang...
 
 312
-00:18:29,281 --> 00:18:30,950
-{et a détourné les fonds de la société.}
+00:18:21,313 --> 00:18:23,216
+qui sont passés par le blanchiment d'argent ici.
 
 313
-00:18:31,723 --> 00:18:34,220
-{Monsieur Song. Émettez un mandat pour eux.}
+00:18:24,841 --> 00:18:26,440
+C'est une société écran.
 
 314
-00:18:34,220 --> 00:18:36,091
-{Nous allons saisir et perquisitionner le grand magasin Soonyang...}
+00:18:26,440 --> 00:18:29,281
+Elle a créé une société fantôme nommée Soonyang Deco...
 
 315
-00:18:36,091 --> 00:18:38,521
-{et convoquer la PDG Jin Hwa Young pour enquête.}
+00:18:29,281 --> 00:18:30,950
+et détourné les fonds de la société.
 
 316
-00:18:42,230 --> 00:18:43,990
-{(Bureau du Procureur du District Central de Séoul)}
+00:18:31,723 --> 00:18:34,220
+Monsieur Song. Émettez un mandat d'arrêt contre eux.
 
 317
-00:18:47,101 --> 00:18:48,430
-{(Exécution)}
+00:18:34,220 --> 00:18:36,091
+Nous allons saisir et perquisitionner le grand magasin Soonyang...
 
 318
-00:18:51,640 --> 00:18:53,341
-{Que faites-vous ?}
+00:18:36,091 --> 00:18:38,521
+et citer à comparaître la PDG Jin Hwa Young pour enquête.
 
 319
-00:18:54,112 --> 00:18:55,547
-{Que se passe-t-il ?}
+00:18:42,230 --> 00:18:43,990
+(Parquet du district central de Séoul)
 
 320
-00:18:55,547 --> 00:18:59,041
-{Quelqu'un a signalé un soupçon de détournement de fonds.}
+00:18:47,101 --> 00:18:48,430
+(Exécution)
 
 321
-00:18:59,041 --> 00:19:01,281
-{Comment osez-vous fouiller mon bureau sans moi !}
+00:18:51,640 --> 00:18:53,341
+Qu'est-ce que vous faites ?
 
 322
-00:19:02,111 --> 00:19:03,480
-{Savez-vous qui je suis ?}
+00:18:54,112 --> 00:18:55,547
+Que se passe-t-il ?
 
 323
-00:19:05,150 --> 00:19:06,890
-{Vous êtes la PDG Jin Hwa Young, n'est-ce pas ?}
+00:18:55,547 --> 00:18:59,041
+Quelqu'un a signalé un soupçon de détournement de fonds.
 
 324
-00:19:06,890 --> 00:19:08,450
-{Je suis l'enquêteur Song Gye Ok du Département des Crimes Financiers et Fiscaux,}
+00:18:59,041 --> 00:19:01,281
+Comment osez-vous mettre à sac mon bureau sans moi !
 
 325
-00:19:08,450 --> 00:19:10,130
-{du Bureau du Procureur du District de Séoul.}
+00:19:02,111 --> 00:19:03,480
+Savez-vous qui je suis ?
 
 326
-00:19:12,061 --> 00:19:13,062
-{(Requête de comparution)}
+00:19:05,150 --> 00:19:06,890
+Vous êtes la PDG Jin Hwa Young, n'est-ce pas ?
 
 327
-00:19:13,062 --> 00:19:15,430
-{Nous demandons votre comparution en tant que suspect...}
+00:19:06,890 --> 00:19:08,450
+Je suis l'enquêteur Song Gye Ok du département des crimes financiers et fiscaux,
 
 328
-00:19:15,430 --> 00:19:16,861
-{de détournement de fonds.}
+00:19:08,450 --> 00:19:10,130
+du parquet du district de Séoul.
 
 329
-00:19:23,271 --> 00:19:24,301
-{Ma femme l'a fait ?}
+00:19:12,061 --> 00:19:13,062
+(Demande de comparution)
 
 330
-00:19:27,011 --> 00:19:28,170
-{Oh mon Dieu.}
+00:19:13,062 --> 00:19:15,430
+Nous demandons votre comparution en tant que suspect...
 
 331
-00:19:28,170 --> 00:19:29,371
-{(Ville Métropolitaine de Séoul)}
+00:19:15,430 --> 00:19:16,861
+de détournement de fonds.
 
 332
-00:19:29,371 --> 00:19:31,640
-{J'étais trop occupée par les affaires nationales...}
+00:19:23,271 --> 00:19:24,301
+Ma femme l'a fait ?
 
 333
-00:19:31,640 --> 00:19:32,980
-{que j'ai négligé ma famille.}
+00:19:27,011 --> 00:19:28,170
+Mon Dieu.
 
 334
-00:19:34,011 --> 00:19:35,210
-{Ne m'en parlez pas.}
+00:19:28,170 --> 00:19:29,371
+(Ville métropolitaine de Séoul)
 
 335
-00:19:35,210 --> 00:19:37,980
-{Seocho-dong a un air plus frais, mais Gwanghwamun vend mieux l'alcool.}
+00:19:29,371 --> 00:19:31,640
+J'étais trop occupée par les affaires nationales...
 
 336
-00:19:38,980 --> 00:19:41,791
-{Oui, venez avec les autres.}
+00:19:31,640 --> 00:19:32,980
+que j'ai négligé ma famille.
 
 337
-00:19:41,791 --> 00:19:44,021
-{Nous nous retrouverons.}
+00:19:34,011 --> 00:19:35,210
+N'en parlez pas.
 
 338
-00:19:44,990 --> 00:19:47,261
-{Oui. Merci.}
+00:19:35,210 --> 00:19:37,980
+Seocho-dong a un air plus frais, mais Gwanghwamun vend mieux l'alcool.
 
 339
-00:19:47,261 --> 00:19:49,361
-{À bientôt.}
+00:19:38,980 --> 00:19:41,791
+Oui, venez avec les autres.
 
 340
-00:19:58,170 --> 00:20:00,970
-{Est-ce que tu gères tes sbires ou pas ?}
+00:19:41,791 --> 00:19:44,021
+Retrouvons-nous.
 
 341
-00:20:03,481 --> 00:20:06,786
-{Sais-tu même ce que je viens de traverser ?}
+00:19:44,990 --> 00:19:47,261
+Oui. Merci.
 
 342
-00:20:08,820 --> 00:20:11,581
-{L'enquête se fera à huis clos.}
+00:19:47,261 --> 00:19:49,361
+À plus tard.
 
 343
-00:20:11,581 --> 00:20:14,390
-{Réglez cela en interne avant que la presse ne le sache.}
+00:19:58,170 --> 00:20:00,970
+Gérez-vous vos sbires ou pas ?
 
 344
-00:20:16,094 --> 00:20:19,220
-{Remettez l'argent dépensé, et les accusations seront abandonnées.}
+00:20:03,481 --> 00:20:06,786
+Savez-vous même ce que je viens de traverser ?
 
 345
-00:20:19,220 --> 00:20:20,261
-{L'argent ?}
+00:20:08,820 --> 00:20:11,581
+L'enquête se fera à huis clos.
 
 346
-00:20:21,900 --> 00:20:23,700
-{L'argent ?}
+00:20:11,581 --> 00:20:14,390
+Réglez ça en interne avant que la presse ne le sache.
 
 347
-00:20:23,700 --> 00:20:26,831
-{Est-ce que cela m'arriverait si j'avais l'argent ?}
+00:20:16,094 --> 00:20:19,220
+Remettez l'argent que vous avez dépensé, et les accusations seront abandonnées.
 
 348
-00:20:29,173 --> 00:20:32,036
-{L'argent que vous avez perdu en bourse.}
+00:20:19,220 --> 00:20:20,261
+L'argent ?
 
 349
-00:20:32,036 --> 00:20:35,006
-{C'était les fonds du grand magasin ?}
+00:20:21,900 --> 00:20:23,700
+L'argent ?
 
 350
-00:20:42,046 --> 00:20:43,177
-{Oh, mon Dieu...}
+00:20:23,700 --> 00:20:26,831
+Est-ce que cela m'arriverait si j'avais l'argent ?
 
 351
-00:20:43,177 --> 00:20:46,891
-{(Ville Métropolitaine de Séoul)}
+00:20:29,173 --> 00:20:32,036
+L'argent que vous avez perdu en bourse.
 
 352
-00:20:46,891 --> 00:20:49,127
-{Va demander de l'aide à ton père.}
+00:20:32,036 --> 00:20:35,006
+Étaient-ce les fonds du grand magasin ?
 
 353
-00:20:49,127 --> 00:20:50,986
-{Que dois-je dire ?}
+00:20:42,046 --> 00:20:43,177
+Oh, mon Dieu...
 
 354
-00:20:50,986 --> 00:20:52,330
-{Que dois-je lui dire ?}
+00:20:43,177 --> 00:20:46,891
+(Ville métropolitaine de Séoul)
 
 355
-00:20:52,330 --> 00:20:55,800
-{Devrais-je lui dire que j'ai détourné des fonds de la société ?}
+00:20:46,891 --> 00:20:49,127
+Va voir ton père et demande de l'aide.
 
 356
-00:20:55,800 --> 00:20:59,504
-{Que j'ai perdu 140 milliards de won en bourse ?}
+00:20:49,127 --> 00:20:50,986
+Que dois-je dire ?
 
 357
-00:20:59,504 --> 00:21:02,874
-{Comment ne connais-tu toujours pas mon père ?}
+00:20:50,986 --> 00:20:52,330
+Que dois-je lui dire ?
 
 358
-00:21:02,874 --> 00:21:06,437
-{Le jour où il le découvrira sera le jour où ma vie prendra fin.}
+00:20:52,330 --> 00:20:55,800
+Devrais-je lui dire que j'ai détourné des fonds de la société ?
 
 359
-00:21:06,437 --> 00:21:07,907
-{Bon pour toi.}
+00:20:55,800 --> 00:20:59,504
+Que j'ai perdu 140 milliards de wons en bourse ?
 
 360
-00:21:09,081 --> 00:21:11,250
-{Quelle famille formidable tu as.}
+00:20:59,504 --> 00:21:02,874
+Comment se fait-il que tu ne connaisses toujours pas mon père ?
 
 361
-00:21:12,607 --> 00:21:15,516
-{Tu n'hésites pas à enfreindre la loi,}
+00:21:02,874 --> 00:21:06,437
+Le jour où il le découvrira sera le jour où ma vie prendra fin.
 
 362
-00:21:15,516 --> 00:21:19,057
-{mais tu n'oseras rien faire pour contrarier ton père.}
+00:21:06,437 --> 00:21:07,907
+Tant mieux pour toi.
 
 363
-00:21:19,057 --> 00:21:20,556
-{Ça m'est égal.}
+00:21:09,081 --> 00:21:11,250
+Quelle famille formidable tu as.
 
 364
-00:21:20,556 --> 00:21:23,486
-{Tu dois m'aider.}
+00:21:12,607 --> 00:21:15,516
+Tu n'hésites pas à enfreindre la loi,
 
 365
-00:21:24,163 --> 00:21:26,164
-{Tu as des amis procureurs.}
+00:21:15,516 --> 00:21:19,057
+mais tu n'oseras rien faire pour contrarier ton père.
 
 366
-00:21:26,164 --> 00:21:29,827
-{De plus, n'es-tu pas le Maire de Séoul ?}
+00:21:19,057 --> 00:21:20,556
+Ça m'est égal.
 
 367
-00:21:29,827 --> 00:21:31,167
-{Si tu ne peux pas utiliser ton autorité,}
+00:21:20,556 --> 00:21:23,486
+Tu dois m'aider.
 
 368
-00:21:31,167 --> 00:21:33,466
-{pourquoi as-tu gaspillé une fortune pour entrer en politique ?}
+00:21:24,163 --> 00:21:26,164
+Tu as des amis procureurs.
 
 369
-00:21:34,466 --> 00:21:36,496
-{Reprends-toi, Jin Hwa Young !}
+00:21:26,164 --> 00:21:29,827
+De plus, n'es-tu pas le maire de Séoul ?
 
 370
-00:21:40,745 --> 00:21:44,046
-{Tu aurais dû grandir il y a 30 ans.}
+00:21:29,827 --> 00:21:31,167
+Si tu ne peux pas utiliser ton autorité,
 
 371
-00:21:44,046 --> 00:21:45,947
-{Je suis le Maire de Séoul et le prochain candidat présidentiel.}
+00:21:31,167 --> 00:21:33,466
+pourquoi as-tu gaspillé une fortune pour entrer en politique ?
 
 372
-00:21:45,947 --> 00:21:47,827
-{Je me suis fait un nom en attaquant les riches et toi...}
+00:21:34,466 --> 00:21:36,496
+Reprends-toi, Jin Hwa Young !
 
 373
-00:21:48,976 --> 00:21:51,786
-{Le fait que tu sois enquêtée pour détournement de fonds est une mauvaise nouvelle pour moi.}
+00:21:40,745 --> 00:21:44,046
+Tu aurais dû grandir il y a 30 ans.
 
 374
-00:21:51,786 --> 00:21:54,956
-{Le fait que tu aies perdu plus de 100 milliards en bourse ?}
+00:21:44,046 --> 00:21:45,947
+Je suis le maire de Séoul et le prochain candidat à la présidence.
 
 375
-00:21:54,956 --> 00:21:56,027
-{C'est une calamité.}
+00:21:45,947 --> 00:21:47,827
+Je me suis fait un nom en attaquant les riches et toi...
 
 376
-00:21:56,027 --> 00:21:59,756
-{Tu es sur le point de mettre fin à ma carrière politique.}
+00:21:48,976 --> 00:21:51,786
+Le fait que tu fasses l'objet d'une enquête pour détournement de fonds est une mauvaise nouvelle pour moi.
 
 377
-00:21:59,756 --> 00:22:01,127
-{- Chéri.}
-{- Lâche-moi.}
+00:21:51,786 --> 00:21:54,956
+Que tu aies perdu plus de 100 milliards en bourse spéculative ?
 
 378
-00:22:02,001 --> 00:22:04,066
-{Toi, sors.}
+00:21:54,956 --> 00:21:56,027
+C'est une calamité.
+
+
 
 379
-00:22:04,066 --> 00:22:07,205
-{Va auprès de ton père et joue la gentille et la coquette ou supplie à genoux.}
+00:21:56,027 --> 00:21:59,756
+Vous êtes sur le point de mettre fin à ma carrière politique.
 
 380
-00:22:07,205 --> 00:22:08,996
-{Demande-lui de te sauver juste cette fois.}
+00:21:59,756 --> 00:22:01,127
+Chéri. - Lâche-moi.
 
 381
-00:22:08,996 --> 00:22:10,466
-{Seulement alors je te laisserai...}
+00:22:02,001 --> 00:22:04,066
+Toi, sors d'ici.
 
 382
-00:22:10,466 --> 00:22:12,907
-{passer le reste de ta vie en tant qu'épouse du Maire Choi Chang Je.}
+00:22:04,066 --> 00:22:07,205
+Va retrouver ton père et joue la douce ou supplie-le à genoux.
 
 383
-00:22:14,306 --> 00:22:16,177
-{- Chéri.}
-{- J'ai dit sors !}
+00:22:07,205 --> 00:22:08,996
+Demande-lui de te sauver, juste cette fois.
 
 384
-00:22:25,387 --> 00:22:27,760
-{Amène ma voiture. Dirige-toi vers Jeongsimjae.}
+00:22:08,996 --> 00:22:10,466
+Seulement alors je te laisserai...
 
 385
-00:22:27,760 --> 00:22:29,762
-{- Je ne peux pas.}
-{- Madame Jin.}
+00:22:10,466 --> 00:22:12,907
+passer le reste de ta vie en tant qu'épouse du maire Choi Chang Je.
 
 386
-00:22:29,762 --> 00:22:31,131
-{Je ne peux pas aller à Jeongsimjae.}
+00:22:14,306 --> 00:22:16,177
+Chéri. - J'ai dit, sors!
 
 387
-00:22:32,387 --> 00:22:33,657
-{Pas Jeongsimjae.}
+00:22:25,387 --> 00:22:27,760
+Prends ma voiture. Direction Jeongsimjae.
 
 388
-00:22:40,337 --> 00:22:41,736
-{Pas moins de 140 milliards de won ?}
+00:22:27,760 --> 00:22:29,762
+- Je ne peux pas. - Madame Jin.
 
 389
-00:22:43,637 --> 00:22:44,966
-{C'est plus que ce que j'espérais.}
+00:22:29,762 --> 00:22:31,131
+Je ne peux pas aller à Jeongsimjae.
 
 390
-00:22:46,212 --> 00:22:48,613
-{J'ai entendu dire que le grand magasin Soonyang générait beaucoup.}
+00:22:32,387 --> 00:22:33,657
+Pas Jeongsimjae.
 
 391
-00:22:49,536 --> 00:22:51,347
-{Aviez-vous d'autres problèmes commerciaux ?}
+00:22:40,337 --> 00:22:41,736
+Même 140 milliards de won?
 
 392
-00:22:59,046 --> 00:23:00,617
-{Voulez-vous que je vous transfère l'argent maintenant ?}
+00:22:43,637 --> 00:22:44,966
+C'est plus que ce que j'avais prévu.
 
 393
-00:23:02,026 --> 00:23:03,726
-{Vous pouvez faire ça ? Maintenant ?}
+00:22:46,212 --> 00:22:48,613
+J'ai entendu dire que le grand magasin Soonyang rapporte pas mal.
 
 394
-00:23:03,726 --> 00:23:05,087
-{Je te l'ai dit.}
+00:22:49,536 --> 00:22:51,347
+Aviez-vous d'autres problèmes d'affaires?
 
 395
-00:23:05,857 --> 00:23:08,827
-{Si tu veux quelque chose de nous, tu dois juste payer le prix convenu.}
+00:22:59,046 --> 00:23:00,617
+Voulez-vous que je vous transfère l'argent maintenant?
 
 396
-00:23:11,002 --> 00:23:13,266
-{Je vais vous les acheter pour 140 milliards.}
+00:23:02,026 --> 00:23:03,726
+Vous pouvez faire ça? Maintenant?
 
 397
-00:23:13,266 --> 00:23:15,066
-{Les actions du grand magasin Soonyang que vous possédez...}
+00:23:03,726 --> 00:23:05,087
+Je vous l'ai dit.
 
 398
-00:23:15,066 --> 00:23:16,867
-{sous des noms empruntés, les 25 pour cent.}
+00:23:05,857 --> 00:23:08,827
+Si vous voulez quelque chose de nous, tout ce que vous avez à faire est de payer le prix convenu.
 
 399
-00:23:18,309 --> 00:23:21,907
-{Encore ? Tu veux plus d'actions ?}
+00:23:11,002 --> 00:23:13,266
+Je vous le rachète pour 140 milliards.
 
 400
-00:23:21,907 --> 00:23:23,377
-{Pour seulement 140 milliards ?}
+00:23:13,266 --> 00:23:15,066
+Les actions du grand magasin Soonyang que vous détenez...
 
 401
-00:23:24,776 --> 00:23:25,847
-{Écoute.}
+00:23:15,066 --> 00:23:16,867
+sous des noms d'emprunt, les 25 pour cent.
 
 402
-00:23:26,677 --> 00:23:29,276
-{Tu m'as dit de payer le prix convenu.}
+00:23:18,309 --> 00:23:21,907
+Pas encore. Vous voulez plus d'actions?
 
 403
-00:23:29,276 --> 00:23:31,847
-{Sais-tu seulement combien les actions du grand magasin...}
+00:23:21,907 --> 00:23:23,377
+Pour seulement 140 milliards?
 
 404
-00:23:31,847 --> 00:23:34,359
-{se négocient actuellement ?}
+00:23:24,776 --> 00:23:25,847
+Écoutez.
 
 405
-00:23:34,359 --> 00:23:38,363
-{Elles se négocient à moins de 15 000 won par action.}
+00:23:26,677 --> 00:23:29,276
+Vous m'avez dit de payer le prix convenu.
 
 406
-00:23:38,363 --> 00:23:40,127
-{Te souviens-tu de la stipulation...}
+00:23:29,276 --> 00:23:31,847
+Savez-vous même combien les actions du grand magasin...
 
 407
-00:23:40,127 --> 00:23:43,256
-{du contrat que tu as signé quand nous t'avons prêté les 400 milliards ?}
+00:23:31,847 --> 00:23:34,359
+sont échangées en ce moment?
 
 408
-00:23:47,105 --> 00:23:50,266
-{Pour assurer la valeur de la garantie en cas de baisse des prix des actions,}
+00:23:34,359 --> 00:23:38,363
+Elles s'échangent à moins de 15 000 won par action.
 
 409
-00:23:50,266 --> 00:23:51,806
-{nous avons ajouté une clause conditionnelle.}
+00:23:38,363 --> 00:23:40,127
+Vous vous souvenez de la clause...
 
 410
-00:23:53,407 --> 00:23:55,236
-{(Obligation de dette)}
+00:23:40,127 --> 00:23:43,256
+du contrat que vous avez signé lorsque nous vous avons prêté les 400 milliards?
 
 411
-00:23:55,236 --> 00:23:57,976
-{Si les prix des actions tombent en dessous de 15 000 won, la participation de 30 %...}
+00:23:47,105 --> 00:23:50,266
+Pour garantir la valeur de la garantie au cas où les cours des actions baisseraient,
 
 412
-00:23:57,976 --> 00:24:00,716
-{que tu as offerte en garantie est transférée à Miracle.}
+00:23:50,266 --> 00:23:51,806
+nous avons ajouté une clause conditionnelle.
 
 413
-00:24:01,617 --> 00:24:03,276
-{La période de remboursement a expiré,}
+00:23:53,407 --> 00:23:55,236
+(Obligation de dette)
 
 414
-00:24:03,276 --> 00:24:05,356
-{et tes actions valent moins de 15 000 won chacune.}
+00:23:55,236 --> 00:23:57,976
+Si les cours des actions tombent en dessous de 15 000 won, la participation de 30 pour cent...
 
 415
-00:24:07,492 --> 00:24:10,956
-{Des poursuites judiciaires seront engagées pour transférer ta participation de 30 %...}
+00:23:57,976 --> 00:24:00,716
+que vous avez offerte en garantie est transférée à Miracle.
 
 416
-00:24:10,956 --> 00:24:13,357
-{dans le grand magasin Soonyang à nous.}
+00:24:01,617 --> 00:24:03,276
+La période de remboursement est expirée,
 
 417
-00:24:18,169 --> 00:24:19,570
-{C'est ça ?}
+00:24:03,276 --> 00:24:05,356
+et vos actions valent moins de 15 000 won chacune.
 
 418
-00:24:19,570 --> 00:24:21,397
-{La raison pour laquelle tu veux...}
+00:24:07,492 --> 00:24:10,956
+Une action en justice sera intentée pour transférer votre participation de 30 pour cent...
 
 419
-00:24:21,397 --> 00:24:24,466
-{ma participation cachée de 25 % pour 140 milliards de won ?}
+00:24:10,956 --> 00:24:13,357
+dans le grand magasin Soonyang à nous.
 
 420
-00:24:25,910 --> 00:24:28,177
-{En plus des 30 % que tu as pris dans mon dos,}
+00:24:18,169 --> 00:24:19,570
+C'est tout?
 
 421
-00:24:28,177 --> 00:24:31,077
-{tu prendras encore 25 %...}
+00:24:19,570 --> 00:24:21,397
+La raison pour laquelle vous voulez...
 
 422
-00:24:31,077 --> 00:24:34,147
-{pour prendre le contrôle de mon grand magasin avec 55 % de propriété ?}
+00:24:21,397 --> 00:24:24,466
+mes 25 pour cent cachés pour 140 milliards de won?
 
 423
-00:24:36,577 --> 00:24:38,887
-{Tu es toujours un chasseur.}
+00:24:25,910 --> 00:24:28,177
+En plus des 30 pour cent que vous avez pris dans mon dos,
 
 424
-00:24:40,347 --> 00:24:42,857
-{C'est une prise de contrôle hostile.}
+00:24:28,177 --> 00:24:31,077
+vous allez en prendre encore 25 pour cent...
 
 425
-00:24:44,486 --> 00:24:46,556
-{Nous sommes restés fidèles à notre partenariat.}
+00:24:31,077 --> 00:24:34,147
+pour prendre le contrôle de mon grand magasin avec 55 pour cent de propriété?
 
 426
-00:24:47,726 --> 00:24:50,897
-{Et c'est toujours toi qui es venu nous voir en premier.}
+00:24:36,577 --> 00:24:38,887
+Vous êtes toujours un chasseur.
 
 427
-00:24:53,372 --> 00:24:55,041
-{Quand je prends le contrôle... Non.}
+00:24:40,347 --> 00:24:42,857
+C'est une prise de contrôle hostile.
 
 428
-00:24:56,007 --> 00:24:58,876
-{Quand je chasse une entreprise, j'ai une seule règle.}
+00:24:44,486 --> 00:24:46,556
+Nous sommes restés fidèles à notre partenariat.
 
 429
-00:24:58,876 --> 00:25:02,706
-{Mes proies sont les entreprises sous-évaluées en raison d'une gestion incompétente.}
+00:24:47,726 --> 00:24:50,897
+Et c'est toujours vous qui êtes venu nous voir en premier.
 
 430
-00:25:02,706 --> 00:25:04,776
-{Comme ton grand magasin qui,}
+00:24:53,372 --> 00:24:55,041
+Quand je prends le contrôle... Non.
 
 431
-00:25:04,776 --> 00:25:08,147
-{malgré des chiffres de vente élevés, ne parvient pas à rembourser ses dettes.}
+00:24:56,007 --> 00:24:58,876
+Quand je traque une entreprise, j'ai une seule règle.
 
 432
-00:25:09,976 --> 00:25:11,647
-{Derrière moi se trouve le groupe Soonyang,}
+00:24:58,876 --> 00:25:02,706
+Mes proies sont des entreprises sous-évaluées en raison d'une gestion incompétente.
 
 433
-00:25:12,546 --> 00:25:14,216
-{et le Président Jin Yang Cheol.}
+00:25:02,706 --> 00:25:04,776
+Comme votre grand magasin qui,
 
 434
-00:25:14,887 --> 00:25:18,226
-{Félicitations. Tu as d'excellents parents.}
+00:25:04,776 --> 00:25:08,147
+malgré des chiffres de vente élevés, ne parvient pas à rembourser ses dettes.
 
 435
-00:25:24,327 --> 00:25:25,427
-{Do Jun.}
+00:25:09,976 --> 00:25:11,647
+Derrière moi se trouve le groupe Soonyang,
 
 436
-00:25:29,296 --> 00:25:31,266
-{Do Jun.}
+00:25:12,546 --> 00:25:14,216
+et le président Jin Yang Cheol.
 
 437
-00:25:31,966 --> 00:25:34,306
-{Débarrasse-toi de lui. Ce fou.}
+00:25:14,887 --> 00:25:18,226
+Félicitations. Vous avez de merveilleux parents.
 
 438
-00:25:35,079 --> 00:25:37,246
-{N'es-tu pas l'actionnaire majoritaire de Miracle ?}
+00:25:24,327 --> 00:25:25,427
+Do Jun.
 
 439
-00:25:37,246 --> 00:25:39,107
-{Dois-je avoir affaire à une marionnette de PDG ?}
+00:25:29,296 --> 00:25:31,266
+Do Jun.
 
 440
-00:25:41,853 --> 00:25:46,216
-{Gardons la transaction de garantie du grand magasin entre nous.}
+00:25:31,966 --> 00:25:34,306
+Débarrassez-vous de lui. Cet imbécile.
 
 441
-00:25:46,216 --> 00:25:48,016
-{Entre nous, en famille.}
+00:25:35,079 --> 00:25:37,246
+N'êtes-vous pas l'actionnaire majoritaire de Miracle?
 
 442
-00:25:51,587 --> 00:25:52,857
-{Je suis désolée, tante.}
+00:25:37,246 --> 00:25:39,107
+Dois-je avoir affaire à une marionnette de PDG?
 
 443
-00:25:53,965 --> 00:25:56,157
-{L'arbitre de Miracle...}
+00:25:41,853 --> 00:25:46,216
+Gardons l'accord de garantie du grand magasin entre nous.
 
 444
-00:25:56,157 --> 00:25:57,966
-{est et sera Monsieur Oh.}
+00:25:46,216 --> 00:25:48,016
+Entre vous et moi, la famille.
 
 445
-00:25:59,170 --> 00:26:02,807
-{N'est-ce pas pour cela que tu es venu le voir en premier lieu ?}
+00:25:51,587 --> 00:25:52,857
+Je suis désolé, tante.
 
 446
-00:26:02,807 --> 00:26:04,637
-{Au lieu de moi, ta famille ?}
+00:25:53,965 --> 00:25:56,157
+L'arbitre de Miracle...
 
 447
-00:26:04,637 --> 00:26:06,277
-{Do Jun. Je...}
+00:25:56,157 --> 00:25:57,966
+est et sera Monsieur Oh.
 
 448
-00:26:06,277 --> 00:26:07,745
-{Si j'étais toi,}
+00:25:59,170 --> 00:26:02,807
+N'est-ce pas pour cela que vous lui avez rendu visite en premier lieu?
 
 449
-00:26:07,745 --> 00:26:11,177
-{je céderais les 25 % d'actions pour 140 milliards.}
+00:26:02,807 --> 00:26:04,637
+Au lieu de moi, votre famille?
+
+
 
 450
-00:26:11,177 --> 00:26:12,577
-{Avant que les prix ne baissent encore plus.}
+00:26:04,637 --> 00:26:06,277
+Do Jun. Je...
 
 451
-00:26:18,286 --> 00:26:19,516
-{Monsieur Oh...}
+00:26:06,277 --> 00:26:07,745
+Si j'étais vous,
 
 452
-00:26:20,617 --> 00:26:24,087
-{n'achète jamais rien sauf si cela en vaut la peine.}
+00:26:07,745 --> 00:26:11,177
+je céderais les 25% pour 140 milliards.
 
 453
-00:26:32,197 --> 00:26:33,266
-{Au revoir.}
+00:26:11,177 --> 00:26:12,577
+Avant que les prix ne chutent encore plus.
 
 454
-00:26:46,350 --> 00:26:48,786
-{Le sang du président coule en toi.}
+00:26:18,286 --> 00:26:19,516
+Monsieur Oh...
 
 455
-00:26:48,786 --> 00:26:50,016
-{Quoi ?}
+00:26:20,617 --> 00:26:24,087
+n'achète jamais rien sauf si ça en vaut la peine.
 
 456
-00:26:50,016 --> 00:26:51,847
-{Tu as impliqué un procureur.}
+00:26:32,197 --> 00:26:33,266
+Au revoir.
 
 457
-00:26:53,447 --> 00:26:54,756
-{(« La Vague Féminine, L'Organisation Masculine Bouge »)}
+00:26:46,350 --> 00:26:48,786
+Le sang du président coule en vous.
 
 458
-00:26:54,756 --> 00:26:56,733
-{Tu dois connaître beaucoup d'autres procureurs.}
+00:26:48,786 --> 00:26:50,016
+Quoi ?
 
 459
-00:26:57,456 --> 00:26:58,827
-{Pourquoi es-tu allé la voir ?}
+00:26:50,016 --> 00:26:51,847
+Vous avez impliqué un procureur.
 
 460
-00:26:58,827 --> 00:27:00,956
-{(« La Vague Féminine, L'Organisation Masculine Bouge »)}
+00:26:53,447 --> 00:26:54,756
+("La Vague Féminine, L'Organisation Masculine Bouge")
 
 461
-00:27:05,726 --> 00:27:07,437
-{(Jin Hwa Young, Détournement et Destitution)}
+00:26:54,756 --> 00:26:56,733
+Vous devez connaître beaucoup d'autres procureurs.
 
 462
-00:27:07,437 --> 00:27:09,867
-{Je prévois de la convoquer demain...}
+00:26:57,456 --> 00:26:58,827
+Pourquoi es-tu allée la voir ?
 
 463
-00:27:09,867 --> 00:27:12,407
-{et de l'interroger pour détournement de fonds...}
+00:26:58,827 --> 00:27:00,956
+("La Vague Féminine, L'Organisation Masculine Bouge")
 
 464
-00:27:12,407 --> 00:27:13,837
-{en utilisant une société fictive.}
+00:27:05,726 --> 00:27:07,438
+(Jin Hwa Young, Détournement et Négligence)
 
 465
-00:27:15,446 --> 00:27:18,147
-{Si ma suspicion est confirmée,}
+00:27:07,438 --> 00:27:09,867
+Je compte la citer à comparaître demain...
 
 466
-00:27:18,147 --> 00:27:20,888
-{je suivrai la procédure pour qu'elle soit interpellée.}
+00:27:09,867 --> 00:27:12,407
+et l'interroger pour détournement...
 
 467
-00:27:21,647 --> 00:27:22,976
-{Pas mal.}
+00:27:12,407 --> 00:27:13,837
+en utilisant une société écran.
 
 468
-00:27:23,546 --> 00:27:25,947
-{Les hautes sphères s'intéressent beaucoup à vous.}
+00:27:15,446 --> 00:27:18,147
+Si mes soupçons sont confirmés,
 
 469
-00:27:27,059 --> 00:27:30,458
-{N'oubliez pas que la façon dont les procureures femmes sont...}
+00:27:18,147 --> 00:27:20,888
+je suivrai le protocole pour la faire arrêter.
 
 470
-00:27:31,427 --> 00:27:35,157
-{et seront traitées dépend de vous.}
+00:27:21,647 --> 00:27:22,976
+Pas mal.
 
 471
-00:27:37,056 --> 00:27:38,526
-{Je ferai de mon mieux, monsieur.}
+00:27:23,546 --> 00:27:25,947
+Les gens haut placés s'intéressent beaucoup à vous.
 
 472
-00:27:53,806 --> 00:27:55,246
-{Oh mon Dieu...}
+00:27:27,059 --> 00:27:30,458
+N'oubliez pas que la façon dont les procureures sont...
 
 473
-00:27:55,246 --> 00:27:57,546
-{(PDG Jin Hwa Young)}
+00:27:31,427 --> 00:27:35,157
+et seront traitées dépend de vous.
 
 474
-00:28:00,159 --> 00:28:01,229
-{Hé !}
+00:27:37,056 --> 00:27:38,526
+Je ferai de mon mieux, monsieur.
 
 475
-00:28:02,117 --> 00:28:04,056
-{Oh mon Dieu, pauvre...}
+00:27:53,806 --> 00:27:55,246
+Mon Dieu...
 
 476
-00:28:06,432 --> 00:28:09,127
-{Tu as l'air mal.}
+00:27:55,246 --> 00:27:57,546
+(PDG Jin Hwa Young)
 
 477
-00:28:09,127 --> 00:28:11,127
-{Oh, chère...}
+00:28:00,159 --> 00:28:01,229
+Hé !
 
 478
-00:28:12,036 --> 00:28:14,296
-{Alors quoi si je possède une société de courtage ?}
+00:28:02,117 --> 00:28:04,056
+Mon Dieu, pauvre...
 
 479
-00:28:14,296 --> 00:28:17,506
-{Je n'en avais aucune idée.}
+00:28:06,432 --> 00:28:09,127
+Vous avez l'air épouvantable.
 
 480
-00:28:19,236 --> 00:28:22,706
-{J'ai entendu la rumeur qu'un procureur vous traquait,}
+00:28:09,127 --> 00:28:11,127
+Oh, mon Dieu...
 
 481
-00:28:22,06 --> 00:28:24,746
-{et j'ai pensé qu'ils faisaient semblant...}
+00:28:12,036 --> 00:28:14,296
+Et alors si je possède une société de courtage ?
 
 482
-00:28:24,746 --> 00:28:26,947
-{pour faire baisser le prix des actions.}
+00:28:14,296 --> 00:28:17,506
+Je n'en avais aucune idée.
 
 483
-00:28:27,617 --> 00:28:28,716
-{Une rumeur ?}
+00:28:19,236 --> 00:28:22,706
+J'ai entendu la rumeur qu'un procureur vous traquait,
 
 484
-00:28:29,620 --> 00:28:31,617
-{Qui jouerait comme ça ?}
+00:28:22,706 --> 00:28:24,746
+et j'ai pensé qu'ils faisaient semblant...
 
 485
-00:28:31,617 --> 00:28:34,458
-{Quelqu'un qui veut que le cours des actions...}
+00:28:24,746 --> 00:28:26,947
+pour faire baisser le cours des actions.
 
 486
-00:28:34,458 --> 00:28:36,494
-{de votre grand magasin chute.}
+00:28:27,617 --> 00:28:28,716
+Une rumeur ?
 
 487
-00:28:36,494 --> 00:28:38,857
-{Quelqu'un qui en détient une participation,}
+00:28:29,620 --> 00:28:31,617
+Qui ferait semblant ?
 
 488
-00:28:38,857 --> 00:28:41,996
-{ou qui veut en acheter plus à bas prix.}
+00:28:31,617 --> 00:28:34,458
+Quelqu'un qui veut que le cours des actions...
 
 489
-00:28:43,603 --> 00:28:45,867
-{Si le cours des actions descend en dessous de 15 000 won,}
+00:28:34,458 --> 00:28:36,494
+de votre grand magasin s'effondre.
 
 490
-00:28:45,867 --> 00:28:48,337
-{la participation de 30 % que vous avez offerte en garantie...}
+00:28:36,494 --> 00:28:38,857
+Quelqu'un qui y détient une participation,
 
 491
-00:28:48,337 --> 00:28:49,667
-{est transférée à Miracle.}
+00:28:38,857 --> 00:28:41,996
+ou qui veut en acheter plus à bas prix.
 
 492
-00:28:52,006 --> 00:28:53,311
-{Miracle de Oh Se Hyeon.}
+00:28:43,603 --> 00:28:45,867
+Si le cours des actions tombe en dessous de 15 000 won,
 
 493
-00:28:53,311 --> 00:28:54,806
-{Si j'étais toi,}
+00:28:45,867 --> 00:28:48,337
+les 30% que vous avez offerts en garantie...
 
 494
-00:28:54,806 --> 00:28:57,677
-{je céderais les 25 % d'actions pour 140 milliards.}
+00:28:48,337 --> 00:28:49,667
+seront transférés à Miracle.
 
 495
-00:28:58,677 --> 00:29:00,147
-{Avant que les prix ne baissent encore plus.}
+00:28:52,006 --> 00:28:53,311
+Oh Se Hyeon de Miracle.
 
 496
-00:29:00,776 --> 00:29:02,546
-{Ce salaud de Jin Do Jun !}
+00:28:53,311 --> 00:28:54,806
+Si j'étais vous,
 
 497
-00:29:06,924 --> 00:29:09,687
-{Ça va. Ne t'inquiète pas.}
+00:28:54,806 --> 00:28:57,677
+je céderais les 25% pour 140 milliards.
 
 498
-00:29:09,687 --> 00:29:11,956
-{Nous avons travaillé si dur pour bâtir ce grand magasin.}
+00:28:58,677 --> 00:29:00,147
+Avant que les prix ne chutent encore plus.
 
 499
-00:29:11,956 --> 00:29:15,796
-{Laisseriez-vous Miracle le dévorer comme ça ?}
+00:29:00,776 --> 00:29:02,546
+Jin Do Jun, ce salaud !
 
 500
-00:29:15,796 --> 00:29:19,526
-{Voulez-vous que je vous donne l'argent pour vous sortir du pétrin d'abord ?}
+00:29:06,924 --> 00:29:09,687
+Ça va. Ne vous inquiétez pas.
 
 501
-00:29:20,873 --> 00:29:22,466
-{Tu vas faire ça ?}
+00:29:09,687 --> 00:29:11,956
+Nous avons travaillé si dur pour construire ce grand magasin.
 
 502
-00:29:22,466 --> 00:29:24,506
-{Tes pires jours sont terminés.}
+00:29:11,956 --> 00:29:15,796
+Vais-je laisser Miracle le dévorer ?
 
 503
-00:29:25,766 --> 00:29:26,867
-{Dong Ki.}
+00:29:15,796 --> 00:29:19,526
+Voulez-vous que je vous donne l'argent pour vous sortir des ennuis d'abord ?
 
 504
-00:29:27,437 --> 00:29:30,476
-{Passe plus de temps avec ton mari.}
+00:29:20,873 --> 00:29:22,466
+Vous feriez ça ?
 
 505
-00:29:30,476 --> 00:29:33,911
-{Et donne-moi tout ce que tu possèdes encore du grand magasin.}
+00:29:22,466 --> 00:29:24,506
+Vos pires jours sont terminés.
 
 506
-00:29:34,819 --> 00:29:38,417
-{- Quoi ?}
-{- Je suis plus fiable que Do Jun.}
+00:29:25,766 --> 00:29:26,867
+Dong Ki.
 
 507
-00:29:38,417 --> 00:29:42,357
-{Nous sommes frères et sœurs de parents communs.}
+00:29:27,437 --> 00:29:30,476
+Passe plus de temps avec ton mari.
 
 508
-00:29:44,556 --> 00:29:46,256
-{- Dong Ki.}
-{- Oui.}
+00:29:30,476 --> 00:29:33,911
+Et donne-moi tout ce que tu possèdes encore du grand magasin.
 
 509
-00:29:54,138 --> 00:29:56,466
-{Cette folle... Hwa Young !}
+00:29:34,819 --> 00:29:38,417
+- Quoi ? - Je suis plus fiable que Do Jun.
 
 510
-00:29:56,466 --> 00:29:57,637
-{Maudite soit-elle.}
+00:29:38,417 --> 00:29:42,357
+Nous sommes frères et sœurs de sang, nés des mêmes parents.
 
 511
-00:30:00,578 --> 00:30:03,337
-{Tu dois connaître New Data Technology.}
+00:29:44,556 --> 00:29:46,256
+- Dong Ki. - Oui.
 
 512
-00:30:03,337 --> 00:30:05,082
-{Elle a commencé à 1 500 won,}
+00:29:54,138 --> 00:29:56,466
+Cette folle... Hwa Young !
 
 513
-00:30:05,082 --> 00:30:08,016
-{puis a atteint 10 000 won en une semaine, donc sept fois.}
+00:29:56,466 --> 00:29:57,637
+Maudite soit-elle.
 
 514
-00:30:08,016 --> 00:30:11,716
-{Elle montera sûrement jusqu'à au moins 40 000 won.}
+00:30:00,578 --> 00:30:03,337
+Vous devez connaître New Data Technology.
 
 515
-00:30:13,424 --> 00:30:15,056
-{Eh bien,}
+00:30:03,337 --> 00:30:05,082
+Elle a commencé à 1 500 won,
 
 516
-00:30:15,056 --> 00:30:18,657
-{j'ai entendu dire qu'elles prendraient l'avion jusqu'à 300 000 won.}
+00:30:05,082 --> 00:30:08,016
+puis a atteint 10 000 won en une semaine, soit sept fois plus.
 
 517
-00:30:18,657 --> 00:30:20,187
-{Mais qui sait quand cet avion défectueux...}
+00:30:08,016 --> 00:30:11,716
+Elle montera sûrement jusqu'à au moins 40 000 won.
 
 518
-00:30:20,187 --> 00:30:21,827
-{plongera ?}
+00:30:13,424 --> 00:30:15,056
+Eh bien,
 
 519
-00:30:21,827 --> 00:30:23,597
-{Mais je suppose que c'est haut risque, haut rendement.}
+00:30:15,056 --> 00:30:18,657
+j'ai entendu dire qu'ils prendraient le vol jusqu'à 300 000 won.
 
 520
-00:30:27,471 --> 00:30:29,137
-{Ce voyou de Do Jun.}
+00:30:18,657 --> 00:30:20,187
+Mais qui sait quand cet avion défectueux...
 
 521
-00:30:29,137 --> 00:30:31,236
-{C'était son plan depuis le début.}
+00:30:20,187 --> 00:30:21,827
+va plonger ?
 
 522
-00:30:31,236 --> 00:30:34,806
-{Il a fait tout cela pour prendre le contrôle du grand magasin...}
+00:30:21,827 --> 00:30:23,597
+Mais je suppose que c'est haut risque, haut rendement.
 
 523
-00:30:35,776 --> 00:30:36,776
-{Non.}
+00:30:27,471 --> 00:30:29,137
+Ce punk de Do Jun.
 
 524
-00:30:37,677 --> 00:30:38,847
-{C'était moi.}
+00:30:29,137 --> 00:30:31,236
+C'était son plan depuis le début.
 
 525
-00:30:40,577 --> 00:30:42,677
-{Il m'a tendu un piège !}
+00:30:31,236 --> 00:30:34,806
+Il a tout fait pour prendre le contrôle du grand magasin...
 
 526
-00:30:54,031 --> 00:30:55,756
-{Tu vois, Papa ?}
+00:30:35,776 --> 00:30:36,776
+Non.
 
 527
-00:30:55,756 --> 00:30:58,097
-{C'est entièrement la faute de Do Jun.}
+00:30:37,677 --> 00:30:38,847
+C'était moi.
 
 528
-00:31:04,075 --> 00:31:06,711
-{Tout à cause de Do Jun,}
+00:30:40,577 --> 00:30:42,677
+Il m'a tendu un piège !
 
 529
-00:31:06,711 --> 00:31:10,536
-{tu as perdu 140 milliards de won en bourse,}
+00:30:54,031 --> 00:30:55,756
+Tu vois, Papa ?
 
 530
-00:31:10,536 --> 00:31:12,776
-{ta participation dans le grand magasin,}
+00:30:55,756 --> 00:30:58,097
+C'est entièrement la faute de Do Jun.
 
 531
-00:31:12,776 --> 00:31:13,877
-{et maintenant...}
+00:31:04,075 --> 00:31:06,711
+Tout ça à cause de Do Jun,
+
+
 
 532
-00:31:16,320 --> 00:31:18,847
-{un procureur enquête sur toi ?}
+00:31:06,711 --> 00:31:10,536
+vous avez perdu 140 milliards de won à la bourse,
 
 533
-00:31:18,847 --> 00:31:22,056
-{- C'est ça ?}
-{Oui. Je me sens tellement lésée !}
+00:31:10,536 --> 00:31:12,776
+votre participation dans le grand magasin,
 
 534
-00:31:22,056 --> 00:31:23,117
-{Hwa Young !}
+00:31:12,776 --> 00:31:13,877
+et maintenant...
 
 535
-00:31:24,556 --> 00:31:27,226
-{Voulez-vous bien répondre à ma question ?}
+00:31:16,320 --> 00:31:18,847
+un procureur vous enquête ?
 
 536
-00:31:29,467 --> 00:31:32,796
-{Est-ce que Do Jun t'a forcé la main...}
+00:31:18,847 --> 00:31:22,056
+- C'est ça ? - Oui. Je me sens tellement lésée !
 
 537
-00:31:32,796 --> 00:31:35,209
-{pour t'obliger à acheter ces actions ?}
+00:31:22,056 --> 00:31:23,117
+Hwa Young !
 
 538
-00:31:37,266 --> 00:31:40,266
-{Alors a-t-il signé le contrat pour te faire...}
+00:31:24,556 --> 00:31:27,226
+Voulez-vous bien répondre à ma question ?
 
 539
-00:31:40,266 --> 00:31:43,036
-{- puiser dans les fonds de la société ?}
-{- Non.}
+00:31:29,467 --> 00:31:32,796
+Est-ce que Do Jun vous a forcé la main...
 
 540
-00:31:43,036 --> 00:31:46,550
-{As-tu une preuve que Do Jun a mis un procureur à tes trousses ?}
+00:31:32,796 --> 00:31:35,209
+pour vous obliger à acheter ces actions ?
 
 541
-00:31:46,550 --> 00:31:49,447
-{- Non, mais c'est...}
-{Je n'arrive juste pas à...}
+00:31:37,266 --> 00:31:40,266
+Alors a-t-il signé le contrat pour vous faire...
 
 542
-00:31:49,447 --> 00:31:50,546
-{comprendre.}
+00:31:40,266 --> 00:31:43,036
+- puiser dans les fonds de l'entreprise ? - Non.
 
 543
-00:31:51,756 --> 00:31:54,516
-{Comment est-ce que...}
+00:31:43,036 --> 00:31:46,550
+Avez-vous la preuve que Do Jun a mis un procureur à vos trousses ?
 
 544
-00:31:54,516 --> 00:31:55,887
-{Do Jun est en faute ?}
+00:31:46,550 --> 00:31:49,447
+- Non, mais c'est... - Je ne...
 
 545
-00:31:55,887 --> 00:31:57,986
-{- Papa.}
-{Arrête !}
+00:31:49,447 --> 00:31:50,546
+ne comprends pas.
 
 546
-00:31:58,827 --> 00:32:01,742
-{Tu utilises ton neveu comme excuse ?}
+00:31:51,756 --> 00:31:54,516
+Comment...
 
 547
-00:32:03,501 --> 00:32:05,369
-{Comme tu es insensible.}
+00:31:54,516 --> 00:31:55,887
+Do Jun est-il fautif ?
 
 548
-00:32:05,369 --> 00:32:08,837
-{Tu as perdu 140 milliards de mes précieux deniers...}
+00:31:55,887 --> 00:31:57,986
+- Père. - Arrêtez !
 
 549
-00:32:08,837 --> 00:32:11,167
-{et tu n'as rien appris du tout ?}
+00:31:58,827 --> 00:32:01,742
+Vous vous servez de votre neveu comme excuse ?
 
 550
-00:32:14,637 --> 00:32:16,476
-{Papa.}
+00:32:03,501 --> 00:32:05,369
+Quelle cruauté.
 
 551
-00:32:16,476 --> 00:32:18,546
-{Papa !}
+00:32:05,369 --> 00:32:08,837
+Vous avez perdu 140 milliards de mon précieux argent...
 
 552
-00:32:21,546 --> 00:32:22,917
-{Prête-moi l'argent.}
+00:32:08,837 --> 00:32:11,167
+et vous n'avez rien appris du tout ?
 
 553
-00:32:25,387 --> 00:32:26,447
-{Les 140 milliards.}
+00:32:14,637 --> 00:32:16,476
+Père.
 
 554
-00:32:28,857 --> 00:32:29,956
-{Quoi ?}
+00:32:16,476 --> 00:32:18,546
+Père !
 
 555
-00:32:32,196 --> 00:32:33,998
-{Cent quarante milliards ?}
+00:32:21,546 --> 00:32:22,917
+Prêtez-moi l'argent.
 
 556
-00:32:33,998 --> 00:32:36,597
-{Si ta seule fille allait en prison,}
+00:32:25,387 --> 00:32:26,447
+Les 140 milliards.
 
 557
-00:35:36,597 --> 00:32:38,627
-{tu ne pourrais pas dormir la nuit.}
+00:32:28,857 --> 00:32:29,956
+Quoi ?
 
 558
-00:32:38,627 --> 00:32:41,736
-{Ne serait-ce pas mieux que ton vieil père...}
+00:32:32,196 --> 00:32:33,998
+Cent quarante milliards ?
 
 559
-00:32:41,736 --> 00:32:43,697
-{passe du temps derrière les barreaux ?}
+00:32:33,998 --> 00:32:36,597
+Si votre seule fille allait en prison,
 
 560
-00:32:44,806 --> 00:32:45,807
-{Quoi ?}
+00:32:36,597 --> 00:32:38,627
+vous ne pourriez pas dormir la nuit.
 
 561
-00:32:45,807 --> 00:32:48,877
-{As-tu oublié qu'en te donnant le grand magasin,}
+00:32:38,627 --> 00:32:41,736
+Ne vaudrait-il pas mieux que votre vieux père...
 
 562
-00:32:48,877 --> 00:32:50,837
-{je l'avais rendu une entité distincte ?}
+00:32:41,736 --> 00:32:43,697
+passe du temps derrière les barreaux ?
 
 563
-00:32:52,018 --> 00:32:54,718
-{Si 140 milliards devaient passer de moi...}
+00:32:44,806 --> 00:32:45,807
+Quoi ?
 
 564
-00:32:54,718 --> 00:32:57,219
-{à toi sans raison valable,}
+00:32:45,807 --> 00:32:48,877
+Avez-vous oublié qu'en vous donnant le grand magasin,
 
 565
-00:32:57,219 --> 00:32:59,060
-{cela deviendrait détournement de fonds et déchéance !}
+00:32:48,877 --> 00:32:50,837
+je l'ai rendu une entité séparée ?
 
 566
-00:33:04,427 --> 00:33:05,556
-{Lève-toi.}
+00:32:52,018 --> 00:32:54,718
+Si 140 milliards passaient de moi...
 
 567
-00:33:06,726 --> 00:33:07,796
-{Hwa Young.}
+00:32:54,718 --> 00:32:57,219
+à vous sans aucune bonne raison,
 
 568
-00:33:08,432 --> 00:33:11,669
-{Je ne m'inquiète pas du tout pour toi.}
+00:32:57,219 --> 00:32:59,060
+cela deviendrait un détournement de fonds et une négligence !
 
 569
-00:33:11,669 --> 00:33:12,970
-{Pourquoi pas ?}
+00:33:04,427 --> 00:33:05,556
+Levez-vous.
 
 570
-00:33:12,970 --> 00:33:16,536
-{Tu as un mari.}
+00:33:06,726 --> 00:33:07,796
+Hwa Young.
 
 571
-00:33:16,536 --> 00:33:19,844
-{Ne t'ai-je pas laissé l'épouser quand il était procureur...}
+00:33:08,432 --> 00:33:11,669
+Je ne m'inquiète pas du tout pour vous.
 
 572
-00:33:19,844 --> 00:33:22,479
-{pour que nous puissions l'utiliser à un moment comme celui-ci ?}
+00:33:11,669 --> 00:33:12,970
+Pourquoi le ferais-je ?
 
 573
-00:33:22,479 --> 00:33:25,907
-{Ton argent l'a fait entrer à la mairie.}
+00:33:12,970 --> 00:33:16,536
+Vous avez un mari.
 
 574
-00:33:25,907 --> 00:33:28,417
-{Ne t'aiderait-il pas ?}
+00:33:16,536 --> 00:33:19,844
+Ne vous ai-je pas laissé l'épouser quand il était procureur...
 
 575
-00:33:30,816 --> 00:33:32,146
-{Ne t'aiderait-il pas ?}
+00:33:19,844 --> 00:33:22,479
+pour que nous puissions l'utiliser à un moment comme celui-ci ?
 
 576
-00:33:32,146 --> 00:33:33,747
-{Papa...}
+00:33:22,479 --> 00:33:25,907
+Votre argent l'a fait entrer à la mairie.
 
 577
-00:33:36,586 --> 00:33:39,186
-{Tu t'es mariée dans sa famille, et tu es son problème maintenant.}
+00:33:25,907 --> 00:33:28,417
+Ne vous aiderait-il pas ?
 
 578
-00:33:41,634 --> 00:33:44,674
-{- Pleure tant que tu veux là-bas.}
-{Papa.}
-
+00:33:30,816 --> 00:33:32,146
+Ne vous aiderait-il pas ?
 
 579
-00:33:45,497 --> 00:33:47,126
-{Je ne te donnerai pas un centime.}
+00:33:32,146 --> 00:33:33,747
+Père...
 
 580
-00:33:57,747 --> 00:33:58,907
-{Maman.}
+00:33:36,586 --> 00:33:39,186
+Vous vous êtes mariée dans sa famille et vous êtes son problème maintenant.
 
 581
-00:34:01,153 --> 00:34:02,884
-{Je pourrais aller en prison.}
+00:33:41,634 --> 00:33:44,674
+- Pleurez autant que vous voulez là-bas. - Père.
 
 582
-00:34:05,157 --> 00:34:09,927
-{Papa a dit qu'il ne m'aiderait pas.}
+00:33:45,497 --> 00:33:47,126
+Je ne vous donnerai pas un centime.
 
 583
-00:34:11,026 --> 00:34:12,126
-{Reprends-toi.}
+00:33:57,747 --> 00:33:58,907
+Maman.
 
 584
-00:34:13,157 --> 00:34:14,287
-{Reprends-toi !}
+00:34:01,153 --> 00:34:02,884
+Je pourrais aller en prison.
 
 585
-00:34:16,068 --> 00:34:20,440
-{Le vieil homme n'a aucune grâce.}
+00:34:05,157 --> 00:34:09,927
+Papa a dit qu'il ne m'aiderait pas.
 
 586
-00:34:20,440 --> 00:34:21,908
-{Non. Pourrais-tu, Maman...}
+00:34:11,026 --> 00:34:12,126
+Reprenez-vous.
 
 587
-00:34:21,908 --> 00:34:23,039
-{Viens t'asseoir.}
+00:34:13,157 --> 00:34:14,287
+Reprenez-vous !
 
 588
-00:34:25,478 --> 00:34:26,908
-{Que devrais-je faire ?}
+00:34:16,068 --> 00:34:20,440
+Le vieil homme n'a aucune grâce.
 
 589
-00:34:32,146 --> 00:34:33,177
-{Oh, chère...}
+00:34:20,440 --> 00:34:21,908
+Non. Pourriez-vous, maman...
 
 590
-00:34:33,177 --> 00:34:36,587
-{Papa a toujours été impitoyable.}
+00:34:21,908 --> 00:34:23,039
+Venez vous asseoir.
 
 591
-00:34:36,587 --> 00:34:39,556
-{Alors quoi s'il valorise la famille et tout ça ?}
+00:34:25,478 --> 00:34:26,908
+Que dois-je faire ?
 
 592
-00:34:39,556 --> 00:34:41,657
-{Mon Seong Jun est...}
+00:34:32,146 --> 00:34:33,177
+Oh, mon Dieu...
 
 593
-00:34:41,657 --> 00:34:43,794
-{en train de moisir dans l'entrepôt.}
+00:34:33,177 --> 00:34:36,587
+Papa a toujours été impitoyable.
 
 594
-00:34:43,794 --> 00:34:46,986
-{Il est prêt à envoyer sa propre fille en prison.}
+00:34:36,587 --> 00:34:39,556
+Alors, même s'il valorise la famille et tout ça ?
 
 595
-00:34:46,986 --> 00:34:48,866
-{Un petit-fils est un cran au-dessus.}
+00:34:39,556 --> 00:34:41,657
+Mon Seong Jun est...
 
 596
-00:34:48,866 --> 00:34:52,497
-{Tu n'as rien à craindre, Hwa Young.}
+00:34:41,657 --> 00:34:43,794
+en train de moisir dans l'entrepôt.
 
 597
-00:34:52,497 --> 00:34:54,666
-{Tu as deux frères aînés fiables.}
+00:34:43,794 --> 00:34:46,986
+Il est prêt à envoyer sa seule fille en prison.
 
 598
-00:34:54,666 --> 00:34:55,736
-{« Fiables ? »}
+00:34:46,986 --> 00:34:48,866
+Un petit-fils est un bonus.
 
 599
-00:34:56,796 --> 00:34:58,867
-{Oh, ils sont fiables ?}
+00:34:48,866 --> 00:34:52,497
+Vous n'avez rien à craindre, Hwa Young.
 
 600
-00:34:58,867 --> 00:35:01,477
-{Maman, sais-tu ce que Dong Ki a dit ?}
+00:34:52,497 --> 00:34:54,666
+Vous avez deux frères aînés fiables.
 
 601
-00:35:02,742 --> 00:35:05,035
-{Comme si Young Ki serait mieux...}
+00:34:54,666 --> 00:34:55,736
+"Fiables ?"
 
 602
-00:35:06,219 --> 00:35:08,577
-{Ça suffit, Madame Hwa Young.}
+00:34:56,796 --> 00:34:58,867
+Oh, ils sont fiables ?
 
 603
-00:35:08,577 --> 00:35:10,816
-{Ne t'humilie pas devant la nouvelle venue.}
+00:34:58,867 --> 00:35:01,477
+Maman, savez-vous ce que Dong Ki a dit ?
 
 604
-00:35:16,316 --> 00:35:18,295
-{Bois du thé de jujube.}
+00:35:02,742 --> 00:35:05,035
+Comme si Young Ki serait mieux...
 
 605
-00:35:18,295 --> 00:35:21,632
-{Ça t'aidera à te calmer.}
+00:35:06,219 --> 00:35:08,577
+Ça suffit, Madame Hwa Young.
 
 606
-00:35:21,632 --> 00:35:22,967
-{Oui.}
+00:35:08,577 --> 00:35:10,816
+Ne vous embarrassez pas devant la nouvelle venue.
 
 607
-00:35:22,967 --> 00:35:25,767
-{Bois une longue gorgée de thé chaud...}
+00:35:16,316 --> 00:35:18,295
+Prenez du thé de jujube.
 
 608
-00:35:25,767 --> 00:35:27,166
-{et reprends tes esprits.}
+00:35:18,295 --> 00:35:21,632
+Ça vous aidera à vous calmer.
 
 609
-00:35:35,677 --> 00:35:39,106
-{Appelleras-tu le Bureau du Procureur du District Central de Séoul ?}
+00:35:21,632 --> 00:35:22,967
+Oui.
 
 610
-00:35:40,347 --> 00:35:41,447
-{Non.}
+00:35:22,967 --> 00:35:25,767
+Prenez une longue gorgée de thé chaud...
 
 611
-00:35:43,477 --> 00:35:44,986
-{Je suis un arbitre.}
+00:35:25,767 --> 00:35:27,166
+et reprenez vos esprits.
 
 612
-00:35:48,027 --> 00:35:49,927
-{Je garderai un sifflet dans ma main...}
+00:35:35,677 --> 00:35:39,106
+Appellerez-vous le bureau du procureur du district de Séoul ?
 
 613
-00:35:51,387 --> 00:35:53,457
-{et je me tiendrai juste ici.}
+00:35:40,347 --> 00:35:41,447
+Non.
 
 614
-00:35:55,126 --> 00:35:57,396
-{Oh mon Dieu...}
+00:35:43,477 --> 00:35:44,986
+Je suis un arbitre.
 
 615
-00:36:03,697 --> 00:36:05,436
-{Tu dois vieillir aussi.}
+00:35:48,027 --> 00:35:49,927
+Je garderai un sifflet dans ma main...
 
 616
-00:36:06,407 --> 00:36:07,776
-{Tu te soucies trop.}
+00:35:51,387 --> 00:35:53,457
+et je me tiendrai juste ici.
 
 617
-00:36:12,577 --> 00:36:15,247
-{Iras-tu bien avec la tournure des événements ?}
+00:35:55,126 --> 00:35:57,396
+Mon Dieu...
 
 618
-00:36:17,646 --> 00:36:20,686
-{Être un bon père et faire prospérer Soonyang ?}
+00:36:03,697 --> 00:36:05,436
+Vous devez aussi vieillir.
 
 619
-00:36:22,716 --> 00:36:25,387
-{Je ne peux pas avoir le beurre et l'argent du beurre.}
+00:36:06,407 --> 00:36:07,776
+Vous vous inquiétez trop.
 
 620
-00:36:28,026 --> 00:36:29,457
-{C'est pur avarice.}
+00:36:12,577 --> 00:36:15,247
+Est-ce que tout ira bien pour vous comme ça ?
+
+
 
 621
-00:36:47,876 --> 00:36:48,916
-{Tante.}
+00:36:17,646 --> 00:36:20,686
+Soyez un bon père et développez Soonyang ?
 
 622
-00:36:57,216 --> 00:36:59,526
-{Je vous accompagnerai au bureau des procureurs.}
+00:36:22,716 --> 00:36:25,387
+Je ne peux pas avoir le beurre et l'argent du beurre.
 
 623
-00:37:19,106 --> 00:37:20,506
-{Cher Père Céleste.}
+00:36:28,026 --> 00:36:29,457
+C'est de la pure cupidité.
 
 624
-00:37:20,506 --> 00:37:23,577
-{S'il te plaît, aide-moi et sauve-moi de ce désastre.}
+00:36:47,876 --> 00:36:48,916
+Tante.
 
 625
-00:37:24,824 --> 00:37:27,594
-{L'enquête n'est pas ouverte, donc il n'y aura pas de presse.}
+00:36:57,216 --> 00:36:59,526
+Je vous accompagne au bureau du procureur.
 
 626
-00:37:31,017 --> 00:37:32,727
-{Essaie de te détendre.}
+00:37:19,106 --> 00:37:20,506
+Cher Père Céleste.
 
 627
-00:37:34,387 --> 00:37:37,057
-{Le monde est plutôt petit.}
+00:37:20,506 --> 00:37:23,577
+Aidez-moi et sauvez-moi de ce pétrin.
 
 628
-00:37:39,296 --> 00:37:41,466
-{La procureure qui vous a convoquée...}
+00:37:24,824 --> 00:37:27,594
+L'enquête n'est pas ouverte, il n'y aura donc pas de presse.
 
 629
-00:37:41,466 --> 00:37:43,966
-{était une camarade de classe de Do Jun à la faculté de droit.}
+00:37:31,017 --> 00:37:32,727
+Essayez de vous détendre.
 
 630
-00:37:46,566 --> 00:37:47,707
-{Est-ce vrai ?}
+00:37:34,387 --> 00:37:37,057
+Le monde est bien petit.
 
 631
-00:37:57,287 --> 00:37:58,524
-{Madame Jin.}
+00:37:39,296 --> 00:37:41,466
+Le procureur qui vous a convoqué...
 
 632
-00:38:00,457 --> 00:38:02,287
-{Admettez-vous...}
+00:37:41,466 --> 00:37:43,966
+était un camarade de faculté de droit de Do Jun.
 
 633
-00:38:02,287 --> 00:38:06,186
-{d'avoir détourné 140 milliards de won de fonds du grand magasin Soonyang ?}
+00:37:46,566 --> 00:37:47,707
+Est-ce vrai ?
 
 634
-00:38:08,227 --> 00:38:10,927
-{Admettez-vous avoir utilisé une société fictive...}
+00:37:57,287 --> 00:37:58,524
+Madame Jin.
 
 635
-00:38:10,927 --> 00:38:14,126
-{appelée Soonyang Deco à cette fin ?}
+00:38:00,457 --> 00:38:02,287
+Admettez-vous...
 
 636
-00:38:19,867 --> 00:38:21,812
-{Soonyang Deco.}
+00:38:02,287 --> 00:38:06,186
+d'avoir détourné 140 milliards de wons des fonds du grand magasin Soonyang ?
 
 637
-00:38:21,812 --> 00:38:25,646
-{Sur le papier, elle détient cinq licences de construction.}
+00:38:08,227 --> 00:38:10,927
+Admettez-vous avoir utilisé une société écran...
 
 638
-00:38:25,646 --> 00:38:27,447
-{Mais un autre document montre...}
+00:38:10,927 --> 00:38:14,126
+appelée Soonyang Deco dans ce processus ?
+
+639
+00:38:19,867 --> 00:38:21,812
+Soonyang Deco.
 
 640
-00:38:27,447 --> 00:38:31,017
-{qu'elle n'a embauché et payé que des employés qui travaillaient moins de...}
+00:38:21,812 --> 00:38:25,646
+Sur le papier, elle détient cinq licences de construction.
 
 641
-00:38:31,017 --> 00:38:32,146
-{vingt heures par mois.}
+00:38:25,646 --> 00:38:27,447
+Mais un autre document montre...
 
 642
-00:38:32,146 --> 00:38:33,216
-{(Relevé des salaires payés / Record of Paid Salaries)}
+00:38:27,447 --> 00:38:31,017
+qu'elle n'a embauché et payé que des employés qui travaillaient moins de...
 
 643
-00:38:33,216 --> 00:38:35,225
-{Dans ce cas, c'est l'un ou l'autre.}
+00:38:31,017 --> 00:38:32,186
+vingt heures par mois.
 
 644
-00:38:35,225 --> 00:38:38,427
-{C'est une coquille vide qui n'existe que sur papier,}
+00:38:32,186 --> 00:38:33,216
+(Registre des salaires payés)
 
 645
-00:38:38,427 --> 00:38:41,356
-{ou vous êtes un patron immoral qui enfreint la loi sur le travail...}
+00:38:33,216 --> 00:38:35,225
+Dans ce cas, c'est l'un ou l'autre.
 
 646
-00:38:41,356 --> 00:38:43,126
-{et la loi sur le salaire minimum.}
+00:38:35,225 --> 00:38:38,427
+C'est une société écran qui n'existe que sur le papier,
 
 647
-00:38:43,126 --> 00:38:44,557
-{Il y a une possibilité de plus.}
+00:38:38,427 --> 00:38:41,356
+ou vous êtes un patron immoral qui enfreint la loi sur les normes du travail...
 
 648
-00:38:47,905 --> 00:38:49,966
-{Ce cas repose sur...}
+00:38:41,356 --> 00:38:43,126
+et la loi sur le salaire minimum.
 
 649
-00:38:49,966 --> 00:38:52,409
-{un faux rapport.}
+00:38:43,126 --> 00:38:44,557
+Il y a une autre possibilité.
 
 650
-00:38:52,409 --> 00:38:55,836
-{Nie-t-elle toutes les accusations ?}
+00:38:47,905 --> 00:38:49,966
+Cette affaire repose sur...
 
 651
-00:38:55,836 --> 00:38:59,106
-{Je vous alerte d'un nouveau crime.}
+00:38:49,966 --> 00:38:52,409
+un faux rapport.
 
 652
-00:39:01,046 --> 00:39:02,117
-{Et si quelqu'un...}
+00:38:52,409 --> 00:38:55,836
+Niez-vous toutes les accusations ?
 
 653
-00:39:04,054 --> 00:39:07,046
-{avait approché une procureure nouvellement nommée et naïve...}
+00:38:55,836 --> 00:38:59,106
+Je vous alerte sur un nouveau crime.
 
 654
-00:39:07,046 --> 00:39:10,756
-{et menti en disant que j'avais détourné des fonds de la société ?}
+00:39:01,046 --> 00:39:02,117
+Et si quelqu'un...
 
 655
-00:39:12,427 --> 00:39:14,865
-{Et si elle utilisait cette enquête pour secouer le marché boursier...}
+00:39:04,054 --> 00:39:07,046
+avait approché un jeune procureur naïf...
 
 656
-00:39:14,865 --> 00:39:18,135
-{pour faire chuter les actions du Soonyang Department Store ?}
+00:39:07,046 --> 00:39:10,756
+et lui avait menti en disant que j'avais détourné des fonds de l'entreprise ?
 
 657
-00:39:18,135 --> 00:39:21,997
-{Et si elle avait tout planifié pour obtenir mes actions...}
+00:39:12,427 --> 00:39:14,865
+Et si cette enquête avait été utilisée pour secouer le marché boursier...
 
 658
-00:39:21,997 --> 00:39:23,796
-{pour une bouchée de pain...}
+00:39:14,865 --> 00:39:18,135
+pour faire chuter les actions du grand magasin Soonyang ?
 
 659
-00:39:23,796 --> 00:39:25,836
-{afin qu'elles puissent prendre le contrôle du grand magasin ?}
+00:39:18,135 --> 00:39:21,997
+Et si tout cela avait été planifié pour obtenir mes actions...
 
 660
-00:39:27,110 --> 00:39:30,707
-{Que se passera-t-il alors ?}
+00:39:21,997 --> 00:39:23,796
+à une valeur dérisoire...
 
 661
-00:39:30,707 --> 00:39:31,776
-{Alors...}
+00:39:23,796 --> 00:39:25,836
+afin qu'ils puissent prendre le contrôle du grand magasin ?
 
 662
-00:39:32,549 --> 00:39:35,447
-{cette personne sera punie pour fraude et...}
+00:39:27,110 --> 00:39:30,707
+Que se passera-t-il alors ?
 
 663
-00:39:35,447 --> 00:39:36,847
-{transactions illégales.}
+00:39:30,707 --> 00:39:31,776
+Alors...
 
 664
-00:39:37,747 --> 00:39:38,816
-{D'accord.}
+00:39:32,549 --> 00:39:35,447
+cette personne sera punie pour transactions frauduleuses et...
 
 665
-00:39:43,186 --> 00:39:44,256
-{Je n'ai pas...}
+00:39:35,447 --> 00:39:36,847
+illégales.
 
 666
-00:39:45,947 --> 00:39:47,827
-{détourné de fonds.}
+00:39:37,747 --> 00:39:38,816
+D'accord.
 
 667
-00:39:48,957 --> 00:39:50,157
-{Nous le découvrirons bientôt.}
+00:39:43,186 --> 00:39:44,256
+Je n'ai pas...
 
 668
-00:39:53,270 --> 00:39:55,097
-{Mes enquêteurs...}
+00:39:45,947 --> 00:39:47,827
+détourné de fonds.
 
 669
-00:39:55,097 --> 00:39:57,867
-{sont à l'adresse figurant dans le dossier de Soonyang Deco.}
+00:39:48,957 --> 00:39:50,157
+Nous le saurons bientôt.
 
 670
-00:39:57,867 --> 00:39:58,966
-{Je vois.}
+00:39:53,270 --> 00:39:55,097
+Mes enquêteurs...
 
 671
-00:39:59,710 --> 00:40:04,081
-{Une fois que nous aurons prouvé que Soonyang Deco est une société fictive,}
+00:39:55,097 --> 00:39:57,867
+sont à l'adresse indiquée dans le dossier de Soonyang Deco.
 
 672
-00:40:04,081 --> 00:40:06,847
-{cela devrait aussi prouver que le rapport...}
+00:39:57,867 --> 00:39:58,966
+Je vois.
 
 673
-00:40:06,847 --> 00:40:09,177
-{disant que vous avez détourné n'est pas frauduleux.}
+00:39:59,710 --> 00:40:04,081
+Une fois que nous aurons prouvé que Soonyang Deco est une société écran,
 
 674
-00:40:12,747 --> 00:40:14,716
-{- Allô ?}
-{Madame Seo.}
+00:40:04,081 --> 00:40:06,847
+cela devrait également prouver que le rapport...
 
 675
-00:40:14,716 --> 00:40:16,356
-{Le bureau de Soonyang Deco.}
+00:40:06,847 --> 00:40:09,177
+selon lequel vous avez détourné n'est pas frauduleux.
 
 676
-00:40:16,356 --> 00:40:17,761
-{- Faites l'appel.}
-{- D'accord.}
+00:40:12,747 --> 00:40:14,716
+- Allô ? - Madame Seo.
 
 677
-00:40:17,761 --> 00:40:22,927
-{(Soonyang Deco)}
+00:40:14,716 --> 00:40:16,356
+Le bureau de Soonyang Deco.
 
 678
-00:40:22,927 --> 00:40:24,497
-{Ce n'est pas une société fictive.}
+00:40:16,356 --> 00:40:17,761
+- Faites l'appel. - D'accord.
 
 679
-00:40:26,066 --> 00:40:27,367
-{Ok, merci.}
+00:40:17,761 --> 00:40:22,927
+(Soonyang Deco)
 
 680
-00:40:33,267 --> 00:40:34,566
-{Comprends-tu maintenant ?}
+00:40:22,927 --> 00:40:24,497
+Ce n'est pas une société écran.
 
 681
-00:40:36,013 --> 00:40:39,106
-{Je ne suis coupable d'aucun détournement de fonds.}
+00:40:26,066 --> 00:40:27,367
+D'accord, merci.
 
 682
-00:40:39,106 --> 00:40:41,077
-{Je suis la victime ici.}
+00:40:33,267 --> 00:40:34,566
+Comprenez-vous maintenant ?
 
 683
-00:40:41,077 --> 00:40:42,653
-{Ceux qui font pression pour une prise de contrôle hostile...}
+00:40:36,013 --> 00:40:39,106
+Je ne suis pas coupable de détournement de fonds.
 
 684
-00:40:42,653 --> 00:40:45,716
-{m'attaquent pour me voler le grand magasin Soonyang.}
+00:40:39,106 --> 00:40:41,077
+Je suis la victime ici.
 
 685
-00:40:45,716 --> 00:40:47,716
-{Ils t'utilisent, Procureure Seo.}
+00:40:41,077 --> 00:40:42,653
+Ceux qui poussent à une prise de contrôle hostile...
 
 686
-00:40:51,256 --> 00:40:53,137
-{J'ai entendu dire que toi et Do Jun...}
+00:40:42,653 --> 00:40:45,716
+m'attaquent pour me prendre le grand magasin Soonyang.
 
 687
-00:40:53,957 --> 00:40:55,697
-{étiez à la même école de droit.}
+00:40:45,716 --> 00:40:47,716
+Ils vous utilisent, Procureur Seo.
 
 688
-00:40:59,526 --> 00:41:00,626
-{Tu vois,}
+00:40:51,256 --> 00:40:53,137
+J'ai entendu dire que vous et Do Jun...
 
 689
-00:41:01,796 --> 00:41:05,506
-{tu aurais dû convoquer celui qui a envoyé le faux tuyau, pas moi.}
+00:40:53,957 --> 00:40:55,697
+aviez fréquenté la même faculté de droit.
 
 690
-00:41:06,807 --> 00:41:09,367
-{Tu aurais dû accuser cette personne de fraude et de transactions déloyales.}
+00:40:59,526 --> 00:41:00,626
+Vous voyez,
 
 691
-00:41:12,307 --> 00:41:14,546
-{Comment as-tu eu une idée aussi brillante ?}
+00:41:01,796 --> 00:41:05,506
+vous auriez dû convoquer celui qui a envoyé le faux tuyau, pas moi.
 
 692
-00:41:15,485 --> 00:41:17,646
-{Tu n'as pas étudié le droit, n'est-ce pas ?}
+00:41:06,807 --> 00:41:09,367
+Vous auriez dû poursuivre cette personne pour fraude et délit d'initié.
 
 693
-00:41:17,646 --> 00:41:20,186
-{J'ai consulté l'avocat de ma famille.}
+00:41:12,307 --> 00:41:14,572
+Comment vous est venue une idée aussi brillante ?
 
 694
-00:41:21,146 --> 00:41:22,617
-{Je ne connais pas grand-chose à la loi.}
+00:41:15,485 --> 00:41:17,646
+Vous n'avez pas étudié le droit, n'est-ce pas ?
 
 695
-00:41:23,763 --> 00:41:26,894
-{Mais je connais très bien Do Jun.}
+00:41:17,646 --> 00:41:20,186
+J'ai consulté l'avocat de ma famille.
 
 696
-00:41:28,856 --> 00:41:30,057
-{Do Jun ?}
+00:41:21,146 --> 00:41:22,617
+Je ne connais pas grand-chose au droit.
 
 697
-00:41:30,057 --> 00:41:32,903
-{Quand il trompait Papy et les autres membres de la famille...}
+00:41:23,763 --> 00:41:26,894
+Mais je connais assez bien Do Jun.
 
 698
-00:41:32,903 --> 00:41:35,896
-{tout en agissant comme un étudiant ordinaire,}
+00:41:28,856 --> 00:41:30,057
+Do Jun ?
 
 699
-00:41:35,896 --> 00:41:37,166
-{je pouvais le voir clairement.}
+00:41:30,057 --> 00:41:32,903
+Quand il trompait Grand-père et les autres membres de la famille...
 
 700
-00:41:42,612 --> 00:41:44,981
-{Ces choses ne peuvent pas être cachées.}
+00:41:32,903 --> 00:41:35,896
+tout en se comportant comme un étudiant ordinaire,
 
 701
-00:41:44,981 --> 00:41:48,247
-{Il est incroyablement intelligent, méticuleux,}
+00:41:35,896 --> 00:41:37,166
+je pouvais le voir clairement.
 
 702
-00:41:48,247 --> 00:41:51,686
-{diligent, magnanime et courageux.}
+00:41:42,612 --> 00:41:44,981
+Ces choses ne peuvent pas être cachées.
+
+
 
 703
-00:41:54,716 --> 00:41:57,287
-{Il a toutes les qualités...}
+00:41:44,981 --> 00:41:48,247
+Il est incroyablement intelligent, méticuleux,
 
 704
-00:41:58,086 --> 00:42:00,057
-{que Papy aimerait.}
+00:41:48,247 --> 00:41:51,686
+diligent, magnanime et courageux.
 
 705
-00:42:02,427 --> 00:42:03,796
-{Je suppose que tu étais...}
+00:41:54,716 --> 00:41:57,287
+Il a toutes les qualités...
 
 706
-00:42:04,756 --> 00:42:07,356
-{immensément intéressée par Do Jun. Tu sembles beaucoup le connaître.}
+00:41:58,586 --> 00:42:00,057
+que Grand-père aimerait.
 
 707
-00:42:09,296 --> 00:42:10,367
-{Oui.}
+00:42:02,427 --> 00:42:03,796
+Je suppose que vous étiez...
 
 708
-00:42:13,267 --> 00:42:16,836
-{Et c'est pourquoi il ne devrait pas y avoir de place pour lui chez Soonyang.}
+00:42:04,756 --> 00:42:07,356
+immensément intéressée par Do Jun. Vous semblez en savoir beaucoup sur lui.
 
 709
-00:42:20,477 --> 00:42:22,046
-{Je suis sûre que tu serais d'accord.}
+00:42:09,296 --> 00:42:10,367
+Oui.
 
 710
-00:42:36,597 --> 00:42:39,466
-{À cette heure, ils auraient dû convoquer et interroger Jin Hwa Young.}
+00:42:13,267 --> 00:42:16,836
+Et c'est pourquoi il ne devrait pas y avoir de place pour lui à Soonyang.
 
 711
-00:42:39,466 --> 00:42:40,767
-{Comment se fait-il que ce soit si calme ?}
+00:42:20,477 --> 00:42:22,046
+Je suis sûre que vous seriez d'accord.
 
 712
-00:42:41,836 --> 00:42:44,637
-{Ne devrait-elle pas venir nous dire qu'elle ne veut pas aller en prison...}
+00:42:36,597 --> 00:42:39,466
+À cette heure, ils auraient dû convoquer et interroger Jin Hwa Young.
 
 713
-00:42:44,637 --> 00:42:47,666
-{et nous demander les 140 milliards de won ?}
+00:42:39,466 --> 00:42:40,767
+Comment se fait-il que ce soit si calme ?
 
 714
-00:42:47,666 --> 00:42:50,376
-{ « Donne-moi l'argent, et je te donnerai mes actions. »}
+00:42:41,836 --> 00:42:44,637
+Ne devrait-elle pas venir nous dire qu'elle ne veut pas aller en prison...
 
 715
-00:42:50,376 --> 00:42:53,106
-{C'était la fin heureuse que j'attendais, tu sais ?}
+00:42:44,637 --> 00:42:47,666
+et nous demander les 140 milliards de won ?
 
 716
-00:42:55,177 --> 00:42:57,677
-{Je n'aime pas les surprises.}
+00:42:47,666 --> 00:42:50,376
+"Donnez-moi l'argent, et je vous donnerai mes actions."
 
 717
-00:43:00,316 --> 00:43:02,356
-{(Statut de la Distribution des Actions du Grand Magasin Soonyang)}
+00:42:50,376 --> 00:42:53,106
+C'était le dénouement heureux que j'attendais, vous savez ?
 
 718
-00:43:02,356 --> 00:43:04,216
-{(Miracle Investment, Jin Hwa Young)}
+00:42:55,177 --> 00:42:57,677
+Je n'aime pas les surprises.
 
 719
-00:43:04,216 --> 00:43:06,696
-{Miracle Investment ?}
+00:43:00,316 --> 00:43:02,356
+(Statut de distribution des actions du grand magasin Soonyang)
 
 720
-00:43:06,696 --> 00:43:10,597
-{Oui, c'est une société d'investissement fondée en 1997.}
+00:43:02,356 --> 00:43:04,216
+(Miracle Investment, Jin Hwa Young)
 
 721
-00:43:10,597 --> 00:43:12,369
-{Récemment, 30 %...}
+00:43:04,216 --> 00:43:06,696
+Miracle Investment ?
 
 722
-00:43:12,369 --> 00:43:14,604
-{des actions de Jin Hwa Young dans le grand magasin...}
+00:43:06,696 --> 00:43:10,597
+Oui, c'est une société d'investissement fondée en 1997.
 
 723
-00:43:14,604 --> 00:43:16,767
-{ont été transférées à Miracle.}
+00:43:10,597 --> 00:43:12,369
+Récemment, 30 pour cent...
 
 724
-00:43:16,767 --> 00:43:19,576
-{C'est beaucoup d'actions à transférer en une seule fois.}
+00:43:12,369 --> 00:43:14,604
+des actions de Jin Hwa Young dans le grand magasin...
 
 725
-00:43:19,576 --> 00:43:22,979
-{Le grand magasin Soonyang devait de l'argent à Miracle.}
+00:43:14,604 --> 00:43:16,767
+ont été transférés à Miracle.
 
 726
-00:43:22,979 --> 00:43:26,106
-{Lorsque le cours de leurs actions a chuté, Miracle a obtenu la propriété...}
+00:43:16,767 --> 00:43:19,576
+C'est beaucoup d'actions à transférer d'un coup.
 
 727
-00:43:26,106 --> 00:43:27,747
-{des actions qu'ils avaient utilisées comme garantie.}
+00:43:19,576 --> 00:43:22,979
+Le grand magasin Soonyang devait de l'argent à Miracle.
 
 728
-00:43:27,747 --> 00:43:30,086
-{Oh, c'est vrai. Tu m'as demandé de chercher si cela avait un rapport...}
+00:43:22,979 --> 00:43:26,106
+Lorsque le cours de leurs actions a chuté, Miracle a acquis la propriété...
 
 729
-00:43:30,086 --> 00:43:32,747
-{avec la famille du propriétaire du groupe Soonyang.}
+00:43:26,106 --> 00:43:27,747
+des actions qu'ils avaient utilisées comme garantie.
 
 730
-00:43:32,747 --> 00:43:33,787
-{Voilà.}
+00:43:27,747 --> 00:43:30,086
+Oh, c'est vrai. Vous m'aviez demandé de vérifier si cela avait un rapport...
 
 731
-00:43:36,393 --> 00:43:40,457
-{L'actionnaire majoritaire de Miracle est le petit-fils du président de Soonyang,}
+00:43:30,086 --> 00:43:32,747
+avec la famille du propriétaire du groupe Soonyang.
 
 732
-00:43:40,457 --> 00:43:41,526
-{Jin Do Jun.}
+00:43:32,747 --> 00:43:33,787
+Tenez.
 
 733
-00:43:51,197 --> 00:43:52,307
-{Et si...}
+00:43:36,393 --> 00:43:40,457
+L'actionnaire majoritaire de Miracle est le petit-fils du président de Soonyang,
 
 734
-00:43:53,677 --> 00:43:55,977
-{ils avaient tout planifié pour obtenir mes actions...}
+00:43:40,457 --> 00:43:41,526
+Jin Do Jun.
 
 735
-00:43:55,977 --> 00:43:57,836
-{pour une bouchée de pain...}
+00:43:51,197 --> 00:43:52,307
+Et si...
 
 736
-00:43:57,836 --> 00:44:01,985
-{afin qu'elles puissent prendre le contrôle du grand magasin ?}
+00:43:53,677 --> 00:43:55,977
+ils avaient tout planifié pour obtenir mes actions...
 
 737
-00:44:01,985 --> 00:44:05,086
-{Alors tu vas sauter dans la guerre de succession et y participer ?}
+00:43:55,977 --> 00:43:57,836
+pour une bouchée de pain...
 
 738
-00:44:05,086 --> 00:44:08,756
-{En utilisant le parquet... Non, en m'utilisant ?}
+00:43:57,836 --> 00:44:01,985
+afin de pouvoir prendre le contrôle du grand magasin ?
 
 739
-00:44:10,186 --> 00:44:11,216
-{Pourquoi ?}
+00:44:01,985 --> 00:44:05,086
+Alors vous allez intervenir et rejoindre la guerre de succession ?
 
 740
-00:44:12,256 --> 00:44:13,387
-{Je ne peux pas faire ça ?}
+00:44:05,086 --> 00:44:08,756
+En utilisant le parquet... Non, en m'utilisant ?
 
 741
-00:44:23,373 --> 00:44:28,066
-{J'ai pensé que tu voudrais savoir ce qui s'est passé avec Jin Hwa Young,}
+00:44:10,186 --> 00:44:11,216
+Pourquoi ?
 
 742
-00:44:28,066 --> 00:44:29,236
-{puisque c'est toi qui as fait le tuyau.}
+00:44:12,256 --> 00:44:13,387
+Je ne peux pas faire ça ?
 
 743
-00:44:30,276 --> 00:44:31,307
-{Oh, ça.}
+00:44:23,373 --> 00:44:28,066
+Je pensais que vous voudriez savoir ce qui s'est passé avec Jin Hwa Young,
 
 744
-00:44:33,276 --> 00:44:36,977
-{En conclusion, nous n'en avons rien tiré.}
+00:44:28,066 --> 00:44:29,236
+puisque c'est vous qui m'avez donné l'information.
 
 745
-00:44:39,546 --> 00:44:43,416
-{Il y avait certainement des circonstances qui me faisaient soupçonner un détournement,}
+00:44:30,276 --> 00:44:31,307
+Oh, ça.
 
 746
-00:44:44,664 --> 00:44:49,229
-{mais ne suis-je pas encore assez bonne ? Je n'ai pas pu le prouver.}
+00:44:33,276 --> 00:44:36,977
+En conclusion, nous n'avons rien pu obtenir.
 
 747
-00:44:50,997 --> 00:44:53,801
-{Je suppose qu'il me reste encore beaucoup à apprendre...}
+00:44:39,546 --> 00:44:43,416
+Il y avait certainement des circonstances qui me faisaient suspecter un détournement de fonds,
 
 748
-00:44:55,137 --> 00:44:57,624
-{avant de pouvoir affronter la famille Soonyang.}
+00:44:44,664 --> 00:44:49,229
+mais ne suis-je pas encore assez douée ? Je n'ai pas pu le prouver.
 
 749
-00:44:58,637 --> 00:44:59,936
-{Je parie que tu penses ça aussi.}
+00:44:50,997 --> 00:44:53,801
+Je suppose que j'ai encore beaucoup à apprendre...
 
 750
-00:45:06,606 --> 00:45:07,677
-{Hey.}
+00:44:55,137 --> 00:44:57,624
+avant de pouvoir m'attaquer à la famille Soonyang.
 
 751
-00:45:11,276 --> 00:45:12,816
-{Pourquoi m'as-tu donné un tuyau ?}
+00:44:58,637 --> 00:44:59,936
+Je parie que vous pensez la même chose.
 
 752
-00:45:19,457 --> 00:45:21,217
-{L'héritier de troisième génération du groupe Soonyang.}
+00:45:06,606 --> 00:45:07,677
+Hé.
 
 753
-00:45:22,827 --> 00:45:26,126
-{Tu peux influencer de nombreux procureurs compétents par ton seul nom.}
+00:45:11,276 --> 00:45:12,816
+Pourquoi m'avez-vous donné cette information ?
 
 754
-00:45:28,597 --> 00:45:29,666
-{Alors pourquoi moi ?}
+00:45:19,457 --> 00:45:21,217
+L'héritier de troisième génération du groupe Soonyang.
 
 755
-00:45:35,207 --> 00:45:36,307
-{Parce que je sais.}
+00:45:22,827 --> 00:45:26,126
+Vous pouvez influencer de nombreux procureurs compétents rien qu'avec votre nom.
 
 756
-00:45:38,707 --> 00:45:39,847
-{Toi, Seo Min Yeong,}
+00:45:28,597 --> 00:45:29,666
+Alors pourquoi moi ?
 
 757
-00:45:41,276 --> 00:45:42,947
-{deviendras un procureur admirable.}
+00:45:35,207 --> 00:45:36,307
+Parce que je sais.
 
 758
-00:45:45,146 --> 00:45:46,816
-{Un que les riches craignent.}
+00:45:38,707 --> 00:45:39,847
+Vous, Seo Min Yeong,
 
 759
-00:45:48,887 --> 00:45:50,916
-{Un qui met mal à l'aise les puissants.}
+00:45:41,276 --> 00:45:42,947
+allez devenir une procureure admirable.
 
 760
-00:45:52,126 --> 00:45:53,526
-{Un procureur décent.}
+00:45:45,146 --> 00:45:46,816
+Une que les riches craignent.
 
 761
-00:45:57,526 --> 00:45:59,286
-{Je connais très bien le procureur Seo Min Yeong.}
+00:45:48,887 --> 00:45:50,916
+Une qui met mal à l'aise les puissants.
 
 762
-00:46:00,997 --> 00:46:02,197
-{Voilà pourquoi.}
+00:45:52,126 --> 00:45:53,526
+Une procureure décente.
 
 763
-00:46:07,566 --> 00:46:08,637
-{Menteur.}
+00:45:57,526 --> 00:45:59,286
+Je connais assez bien le procureur Seo Min Yeong.
 
 764
-00:46:10,177 --> 00:46:11,177
-{Quoi ?}
+00:46:00,997 --> 00:46:02,197
+C'est pourquoi.
 
 765
-00:46:12,048 --> 00:46:13,677
-{Seo Tai Ji.}
+00:46:07,566 --> 00:46:08,637
+Menteuse.
 
 766
-00:46:13,677 --> 00:46:16,117
-{Tu as dit qu'il ferait son retour en 2000.}
+00:46:10,177 --> 00:46:11,177
+Quoi ?
 
 767
-00:46:17,754 --> 00:46:19,546
-{Tu me l'as dit,}
+00:46:12,048 --> 00:46:13,677
+Seo Tai Ji.
 
 768
-00:46:19,546 --> 00:46:22,557
-{avec l'air de tout savoir comme maintenant.}
+00:46:13,677 --> 00:46:16,117
+Vous avez dit qu'il ferait son retour en 2000.
 
 769
-00:46:25,686 --> 00:46:27,486
-{Son retour, je m'en fiche.}
+00:46:17,754 --> 00:46:19,546
+Vous me l'avez dit,
 
 770
-00:46:27,486 --> 00:46:31,097
-{La moitié de l'année est déjà passée et pas de nouvelles.}
+00:46:19,546 --> 00:46:22,557
+avec l'air de tout savoir, comme maintenant.
 
 771
-00:46:45,276 --> 00:46:46,347
-{Tu...}
+00:46:25,686 --> 00:46:27,486
+Retour, mon œil.
 
 772
-00:46:48,247 --> 00:46:49,816
-{m'as menti.}
+00:46:27,486 --> 00:46:31,097
+La moitié de l'année est déjà passée, et il n'y a toujours aucune nouvelle.
 
 773
-00:47:28,706 --> 00:47:31,876
-{(Prise de contrôle hostile)}
+00:46:45,276 --> 00:46:46,347
+Vous...
 
 774
-00:47:31,876 --> 00:47:33,347
-{(Manipulation du cours de l'action)}
+00:46:48,247 --> 00:46:49,816
+m'avez menti.
 
 775
-00:47:33,347 --> 00:47:35,227
-{(Jin Do Jun, Jin Hwa Young, Guerre de Succession ?)}
+00:47:28,706 --> 00:47:31,876
+(OPA hostile)
 
 776
-00:47:36,727 --> 00:47:38,058
-{Je vois un blanc.}
+00:47:31,876 --> 00:47:33,347
+(Manipulation du cours des actions)
 
 777
-00:47:38,897 --> 00:47:39,997
-{Es-tu de service aujourd'hui ?}
+00:47:33,347 --> 00:47:35,227
+(Jin Do Jun, Jin Hwa Young, Guerre de succession ?)
 
 778
-00:47:41,205 --> 00:47:42,767
-{Et toi, madame ?}
+00:47:36,727 --> 00:47:38,058
+Je vois un blanc.
 
 779
-00:47:42,767 --> 00:47:43,968
-{Je reste tard pour étudier.}
+00:47:38,897 --> 00:47:39,997
+Êtes-vous de service aujourd'hui ?
+
+
 
 780
-00:47:44,798 --> 00:47:47,868
-{Tu as mentionné un blanc. Où ?}
+00:47:41,205 --> 00:47:42,767
+Et vous, madame ?
 
 781
-00:47:49,280 --> 00:47:52,348
-{Pour que cela constitue une pratique commerciale déloyale...}
+00:47:42,767 --> 00:47:43,968
+Je reste tard pour étudier.
 
 782
-00:47:52,348 --> 00:47:53,348
-{Ici.}
+00:47:44,798 --> 00:47:47,868
+Vous avez mentionné un blanc. Où ?
 
 783
-00:47:54,778 --> 00:47:59,017
-{Premièrement, il faudrait une preuve concrète que le tuyau était faux.}
+00:47:49,280 --> 00:47:52,348
+Pour que cela constitue une pratique commerciale déloyale...
 
 784
-00:48:00,187 --> 00:48:01,247
-{C'est ce que je pense.}
+00:47:52,348 --> 00:47:53,348
+Ici.
 
 785
-00:48:02,357 --> 00:48:04,161
-{(Preuve que le tuyau était faux)}
+00:47:54,778 --> 00:47:59,017
+Premièrement, il faudrait des preuves solides que le tuyau était faux.
 
 786
-00:48:04,161 --> 00:48:06,287
-{Preuve pour prouver...}
+00:48:00,187 --> 00:48:01,247
+C'est ce que je pense.
 
 787
-00:48:06,287 --> 00:48:08,327
-{que Do Jun m'a délibérément donné de fausses informations ?}
+00:48:02,357 --> 00:48:04,161
+(Preuve que le tuyau était faux)
 
 788
-00:48:12,198 --> 00:48:13,737
-{(Les paiements en attente du Soonyang Department Store...)}
+00:48:04,161 --> 00:48:06,287
+Des preuves pour prouver...
 
 789
-00:48:13,737 --> 00:48:17,975
-{Les fournisseurs et partenaires du grand magasin souffrent tous.}
+00:48:06,287 --> 00:48:08,327
+que Do Jun m'a délibérément donné de fausses informations ?
 
 790
-00:48:17,975 --> 00:48:21,812
-{Les billets à ordre de six mois expirent tous à la fin du mois.}
+00:48:12,198 --> 00:48:13,737
+("Les paiements en souffrance du grand magasin Soonyang...")
 
 791
-00:48:21,812 --> 00:48:24,477
-{Ceux qu'elle a émis au lieu de liquide quand elle a commencé...}
+00:48:13,737 --> 00:48:17,975
+Les fournisseurs et partenaires du grand magasin souffrent tous.
 
 792
-00:48:24,477 --> 00:48:26,217
-{à investir dans New Data Technology l'année dernière.}
+00:48:17,975 --> 00:48:21,812
+Les billets à ordre de six mois arrivent tous à échéance à la fin du mois.
 
 793
-00:48:26,217 --> 00:48:28,848
-{Si elle ne peut pas les payer, la société fera faillite.}
+00:48:21,812 --> 00:48:24,477
+Ceux qu'elle a émis au lieu de cash quand elle a commencé...
 
 794
-00:48:28,848 --> 00:48:30,917
-{Et elle ne nous appelle toujours pas ?}
+00:48:24,477 --> 00:48:26,217
+à investir dans la technologie New Data l'année dernière.
 
 795
-00:48:30,917 --> 00:48:33,118
-{À quoi pense-t-elle ?}
+00:48:26,217 --> 00:48:28,848
+Si elle ne peut pas les payer, l'entreprise fera faillite.
 
 796
-00:48:37,457 --> 00:48:38,828
-{Je sors.}
+00:48:28,848 --> 00:48:30,917
+Et elle ne nous appelle toujours pas ?
 
 797
-00:48:40,758 --> 00:48:43,158
-{Jin Hwa Young devrait démissionner !}
+00:48:30,917 --> 00:48:33,118
+À quoi pense-t-elle ?
 
 798
-00:48:43,158 --> 00:48:45,127
-{- Démissionne !}
-{- Démissionne !}
+00:48:37,457 --> 00:48:38,828
+Je sors.
 
 799
-00:48:45,127 --> 00:48:47,328
-{Les sous-traitants de Soonyang veulent vivre !}
+00:48:40,758 --> 00:48:43,158
+Jin Hwa Young doit démissionner !
 
 800
-00:48:47,328 --> 00:48:49,468
-{- Nous voulons vivre !}
-{- Nous voulons vivre !}
+00:48:43,158 --> 00:48:45,127
+- Démissionnez ! - Démissionnez !
 
 801
-00:48:49,468 --> 00:48:51,968
-{Garantissez notre droit à gagner notre vie !}
+00:48:45,127 --> 00:48:47,328
+Les sous-traitants de Soonyang veulent vivre !
 
 802
-00:48:51,968 --> 00:48:54,067
-{- Garantissez-le !}
-{- Garantissez-le !}
+00:48:47,328 --> 00:48:49,468
+- Nous voulons vivre ! - Nous voulons vivre !
 
 803
-00:48:54,067 --> 00:48:56,037
-{Soonyang doit apprendre ses leçons !}
+00:48:49,468 --> 00:48:51,968
+Garantissez notre droit à l'existence !
 
 804
-00:48:56,037 --> 00:48:58,078
-{- Apprends tes leçons !}
-{- Apprends tes leçons !}
+00:48:51,968 --> 00:48:54,067
+- Garantissez-le ! - Garantissez-le !
 
 805
-00:48:58,078 --> 00:49:00,707
-{Fermez le grand magasin Soonyang !}
+00:48:54,067 --> 00:48:56,037
+Soonyang doit tirer des leçons !
 
 806
-00:49:00,707 --> 00:49:02,817
-{- Fermez-le !}
-{- Fermez-le !}
+00:48:56,037 --> 00:48:58,078
+- Tirez des leçons ! - Tirez des leçons !
 
 807
-00:49:02,817 --> 00:49:05,417
-{Garantissez notre droit à gagner notre vie !}
+00:48:58,078 --> 00:49:00,707
+Fermez le grand magasin Soonyang !
 
 808
-00:49:05,417 --> 00:49:07,448
-{- Garantissez-le !}
-{- Garantissez-le !}
+00:49:00,707 --> 00:49:02,817
+- Fermez-le ! - Fermez-le !
 
 809
-00:49:07,448 --> 00:49:09,817
-{Les sous-traitants de Soonyang veulent vivre !}
+00:49:02,817 --> 00:49:05,417
+Garantissez notre droit à l'existence !
 
 810
-00:49:09,817 --> 00:49:12,127
-{- Nous voulons vivre !}
-{- Nous voulons vivre !}
+00:49:05,417 --> 00:49:07,448
+- Garantissez-le ! - Garantissez-le !
 
 811
-00:49:12,127 --> 00:49:14,732
-{Jin Hwa Young devrait démissionner !}
+00:49:07,448 --> 00:49:09,817
+Les sous-traitants de Soonyang veulent vivre !
 
 812
-00:49:14,732 --> 00:49:16,758
-{- Démissionne !}
-{- Démissionne !}
+00:49:09,817 --> 00:49:12,127
+- Nous voulons vivre ! - Nous voulons vivre !
 
 813
-00:49:16,758 --> 00:49:19,198
-{Les sous-traitants de Soonyang veulent vivre !}
+00:49:12,127 --> 00:49:14,732
+Jin Hwa Young doit démissionner !
 
 814
-00:49:19,198 --> 00:49:21,227
-{- Nous voulons vivre !}
-{- Nous voulons vivre !}
+00:49:14,732 --> 00:49:16,758
+- Démissionnez ! - Démissionnez !
 
 815
-00:49:21,227 --> 00:49:23,837
-{Garantissez notre droit à gagner notre vie !}
+00:49:16,758 --> 00:49:19,198
+Les sous-traitants de Soonyang veulent vivre !
 
 816
-00:49:23,837 --> 00:49:25,908
-{- Garantissez-le !}
-{- Garantissez-le !}
+00:49:19,198 --> 00:49:21,227
+- Nous voulons vivre ! - Nous voulons vivre !
 
 817
-00:49:28,707 --> 00:49:30,377
-{(Soonyang Department Store)}
+00:49:21,227 --> 00:49:23,837
+Garantissez notre droit à l'existence !
 
 818
-00:49:57,441 --> 00:49:59,408
-{J'ai entendu dire que 140 milliards de won...}
+00:49:23,837 --> 00:49:25,908
+- Garantissez-le ! - Garantissez-le !
 
 819
-00:49:59,408 --> 00:50:01,707
-{suffiraient à régler tous vos paiements en retard.}
+00:49:28,707 --> 00:49:30,377
+(Grand magasin Soonyang)
 
 820
-00:50:03,908 --> 00:50:06,377
-{Donne-moi juste les actions, tante Hwa Young.}
+00:49:57,441 --> 00:49:59,408
+J'ai entendu dire que 140 milliards de wons...
 
 821
-00:50:08,388 --> 00:50:09,457
-{Do Jun.}
+00:49:59,408 --> 00:50:01,707
+suffiraient à régler tous vos paiements en souffrance.
 
 822
-00:50:10,557 --> 00:50:12,017
-{Réveille-toi enfin.}
+00:50:03,908 --> 00:50:06,377
+Donnez-moi simplement les actions, tante Hwa Young.
 
 823
-00:50:12,017 --> 00:50:14,147
-{Je ne vous les donnerai pas...}
+00:50:08,388 --> 00:50:09,457
+Do Jun.
 
 824
-00:50:14,147 --> 00:50:16,087
-{même si cela me coûte la vie.}
+00:50:10,557 --> 00:50:12,017
+Réveille-toi enfin.
 
 825
-00:50:17,258 --> 00:50:18,888
-{C'est juste 140 milliards.}
+00:50:12,017 --> 00:50:14,147
+Je ne vous les donnerai pas...
 
 826
-00:50:18,888 --> 00:50:21,087
-{Penses-tu que je renoncerai au grand magasin pour ça ?}
+00:50:14,147 --> 00:50:16,087
+même si cela me coûte la vie.
 
 827
-00:50:21,087 --> 00:50:22,627
-{Je ne me laisserai pas tromper deux fois.}
+00:50:17,258 --> 00:50:18,888
+Ce n'est que 140 milliards.
 
 828
-00:50:25,869 --> 00:50:28,267
-{L'hôtel, le golf et le complexe.}
+00:50:18,888 --> 00:50:21,087
+Vous pensez que je vais abandonner le grand magasin pour ça ?
 
 829
-00:50:28,267 --> 00:50:30,707
-{Je vais tout vendre ce qui est précieux. Il me faut deux mois au maximum.}
+00:50:21,087 --> 00:50:22,627
+Je ne me laisserai pas berner deux fois.
 
 830
-00:50:36,126 --> 00:50:38,867
-{Deux mois, c'est beaucoup pour ces gens.}
+00:50:25,869 --> 00:50:28,267
+L'hôtel, le golf et le resort.
 
 831
-00:50:42,048 --> 00:50:43,377
-{Pour toi, c'est juste assez de temps...}
+00:50:28,267 --> 00:50:30,707
+Je vais vendre tout ce qui a de la valeur. Il me faut deux mois au maximum.
 
 832
-00:50:43,377 --> 00:50:45,257
-{pour commencer à changer de style pour une nouvelle saison.}
+00:50:36,126 --> 00:50:38,867
+Deux mois, c'est long pour ces gens.
 
 833
-00:50:46,118 --> 00:50:47,517
-{Mais pour les pauvres,}
+00:50:42,048 --> 00:50:43,377
+Pour vous, c'est juste assez de temps...
 
 834
-00:50:48,718 --> 00:50:49,957
-{ils deviendront de plus en plus pauvres...}
+00:50:43,377 --> 00:50:45,257
+pour commencer à vous habiller différemment pour une nouvelle saison.
 
 835
-00:50:50,988 --> 00:50:54,018
-{chaque jour à un rythme accéléré.}
+00:50:46,118 --> 00:50:47,517
+Mais pour les pauvres,
 
 836
-00:50:55,328 --> 00:50:56,834
-{La pauvreté a des intérêts composés.}
+00:50:48,718 --> 00:50:49,957
+ils deviendront plus pauvres...
 
 837
-00:50:56,834 --> 00:51:00,337
-{Alors ? Tu veux dire que les pauvres ne peuvent même pas attendre deux mois ?}
+00:50:50,988 --> 00:50:54,018
+de jour en jour à un rythme accéléré.
 
 838
-00:51:00,337 --> 00:51:04,837
-{Mon Dieu, je suis fatiguée de m'en occuper.}
+00:50:55,328 --> 00:50:56,834
+La pauvreté a des intérêts composés.
 
 839
-00:51:04,837 --> 00:51:06,643
-{Parce qu'ils sont si impatients,}
+00:50:56,834 --> 00:51:00,337
+Alors ? Vous dites que les pauvres ne peuvent même pas attendre deux mois ?
 
 840
-00:51:06,643 --> 00:51:09,707
-{ils resteront pauvres pour le reste de leur vie.}
+00:51:00,337 --> 00:51:04,837
+Pff, j'en ai marre de m'occuper d'eux.
 
 841
-00:51:09,707 --> 00:51:10,738
-{Bon sang.}
+00:51:04,837 --> 00:51:06,643
+Parce qu'ils sont si impatients,
 
 842
-00:51:15,589 --> 00:51:18,448
-{Alors pourquoi penses-tu pouvoir être assise là maintenant ?}
+00:51:06,643 --> 00:51:09,707
+ils souffriront dans la pauvreté pour le reste de leur vie.
 
 843
-00:51:23,317 --> 00:51:24,758
-{Tu as cédé 30 % des actions...}
+00:51:09,707 --> 00:51:10,738
+Mon Dieu.
 
 844
-00:51:24,758 --> 00:51:27,758
-{à Miracle dès que la scission a eu lieu.}
+00:51:15,589 --> 00:51:18,448
+Alors pourquoi pensez-vous que vous pouvez être assise là maintenant ?
 
 845
-00:51:29,258 --> 00:51:32,227
-{Ensuite, tu as perdu 140 milliards de won en bourse,}
+00:51:23,317 --> 00:51:24,758
+Vous avez remis 30 % des actions...
 
 846
-00:51:33,337 --> 00:51:36,567
-{pourtant tu peux encore t'asseoir là avec une telle confiance.}
+00:51:24,758 --> 00:51:27,758
+à Miracle dès que la scission a eu lieu.
 
 847
-00:51:36,567 --> 00:51:38,698
-{Il n'y a qu'une seule raison à cela.}
+00:51:29,258 --> 00:51:32,227
+Ensuite, vous avez perdu 140 milliards de wons en actions,
 
 848
-00:51:43,738 --> 00:51:45,948
-{Tu es née dans la famille Soonyang. C'est pour ça.}
+00:51:33,337 --> 00:51:36,567
+pourtant vous pouvez toujours être assise là avec un air si confiant.
 
 849
-00:51:47,348 --> 00:51:49,877
-{Et tu n'as rien fait pour l'obtenir.}
+00:51:36,567 --> 00:51:38,698
+Il n'y a qu'une seule raison à cela.
 
 850
-00:51:49,877 --> 00:51:50,917
-{C'était de la pure chance.}
+00:51:43,738 --> 00:51:45,948
+Vous êtes née dans la famille Soonyang. C'est pour ça.
 
 851
-00:51:52,159 --> 00:51:55,728
-{Une chance que ces gens n'ont pas eue.}
+00:51:47,348 --> 00:51:49,877
+Et vous n'avez rien fait pour le mériter.
 
 852
-00:51:58,187 --> 00:51:59,258
-{Alors ?}
+00:51:49,877 --> 00:51:50,917
+C'était de la pure chance.
+
+
 
 853
-00:52:04,972 --> 00:52:07,312
-{Tu ne pourras pas démissionner de toi-même.}
+00:51:52,159 --> 00:51:55,728
+Une chance que ces gens n'ont pas eue.
 
 854
-00:52:09,138 --> 00:52:10,868
-{(PDG Jin Hwa Young)}
+00:51:58,187 --> 00:51:59,258
+Et alors ?
 
 855
-00:52:11,979 --> 00:52:14,009
-{Puisque tu ne l'as pas mérité par toi-même.}
+00:52:04,972 --> 00:52:07,312
+Vous ne pourrez pas démissionner de vous-même.
 
 856
-00:53:02,857 --> 00:53:04,258
-{(Korea Gas Corporation, Facture en retard)}
+00:52:09,138 --> 00:52:10,868
+(PDG Jin Hwa Young)
 
 857
-00:53:11,204 --> 00:53:15,642
-{Je suis si étourdie. J'ai oublié de payer la facture.}
+00:52:11,979 --> 00:52:14,009
+Puisque vous ne l'avez pas gagné par vous-même.
 
 858
-00:53:15,642 --> 00:53:18,182
-{J'irai à la banque plus tard et...}
+00:53:02,857 --> 00:53:04,258
+(Korea Gas Corporation, Facture en souffrance)
 
 859
-00:53:20,167 --> 00:53:22,167
-{(Facture en retard)}
+00:53:11,204 --> 00:53:15,642
+Je suis tellement étourdi. J'ai oublié de payer la facture.
 
 860
-00:53:26,848 --> 00:53:29,178
-{(Fiche d'Identification d'Examen, Yoon Hyeon Woo)}
+00:53:15,642 --> 00:53:18,182
+J'irai à la banque plus tard et...
 
 861
-00:53:37,058 --> 00:53:38,658
-{Bonne chance à l'examen demain.}
+00:53:20,167 --> 00:53:22,167
+(Facture en souffrance)
 
 862
-00:53:40,564 --> 00:53:42,227
-{Attends.}
+00:53:26,848 --> 00:53:29,178
+(Fiche d'identification d'examen, Yoon Hyeon Woo)
 
 863
-00:53:42,227 --> 00:53:43,258
-{Oui ?}
+00:53:37,058 --> 00:53:38,658
+Bonne chance à l'examen demain.
 
 864
-00:53:58,948 --> 00:54:00,008
-{Veux-tu acheter ça ?}
+00:53:40,564 --> 00:53:42,227
+Attends.
 
 865
-00:54:02,119 --> 00:54:04,017
-{Achète-le moi. Je le vends à bas prix.}
+00:53:42,227 --> 00:53:43,258
+Oui ?
 
 866
-00:54:04,017 --> 00:54:07,147
-{J'ai du mal à me concentrer sur mes études à cause de la musique.}
+00:53:58,948 --> 00:54:00,008
+Tu veux acheter ça ?
 
 867
-00:54:08,417 --> 00:54:09,488
-{Tu vas l'acheter, n'est-ce pas ?}
+00:54:02,119 --> 00:54:04,017
+Achète-le moi. Je le vends à bas prix.
 
 868
-00:54:11,817 --> 00:54:14,017
-{(Œufs, Vermicelles de riz, Riz, Riz multigrain nutritif)}
+00:54:04,017 --> 00:54:07,147
+J'ai du mal à me concentrer sur mes études à cause de la musique.
 
 869
-00:54:19,397 --> 00:54:21,627
-{(Riz d'Icheon, Pocheon, Jincheon)}
+00:54:08,417 --> 00:54:09,488
+Tu vas l'acheter, n'est-ce pas ?
 
 870
-00:54:21,627 --> 00:54:22,897
-{(Riz multigrain nutritif)}
+00:54:11,817 --> 00:54:14,017
+(Œufs, Vermicelles de riz, Riz, Riz multigrains nutritif)
 
 871
-00:54:30,578 --> 00:54:31,738
-{(Ramyeon)}
+00:54:19,397 --> 00:54:21,627
+(Riz de Icheon, Pocheon, Jincheon)
 
 872
-00:55:31,837 --> 00:55:33,437
-{Oh là là, il fait chaud.}
+00:54:21,627 --> 00:54:22,897
+(Riz multigrains nutritif)
 
 873
-00:55:33,437 --> 00:55:35,537
-{Ça a l'air délicieux. Merci de l'avoir préparé !}
+00:54:30,578 --> 00:54:31,738
+(Ramyeon)
 
 874
-00:55:35,537 --> 00:55:37,908
-{De rien. Mange bien, Hyeon Min.}
+00:55:31,837 --> 00:55:33,437
+Punaise, il fait chaud.
 
 875
-00:55:46,990 --> 00:55:51,488
-{Si ta mère était là, elle te préparerait tous tes plats préférés.}
+00:55:33,437 --> 00:55:35,537
+Ça a l'air délicieux. Merci de l'avoir préparé !
 
 876
-00:55:51,488 --> 00:55:53,227
-{Mange bien, mon fils.}
+00:55:35,537 --> 00:55:37,908
+De rien. Mange bien, Hyeon Min.
 
 877
-00:55:53,227 --> 00:55:56,428
-{Pour que tu aies l'énergie d'étudier.}
+00:55:46,990 --> 00:55:51,488
+Si ta mère était là, elle te préparerait tous tes plats préférés.
 
 878
-00:56:21,718 --> 00:56:23,888
-{- J'attends depuis des heures.}
-{- Moi aussi.}
+00:55:51,488 --> 00:55:53,227
+Mange bien, mon fils.
 
 879
-00:56:23,888 --> 00:56:25,218
-{- C'est ennuyeux.}
-{- Maudit.}
+00:55:53,227 --> 00:55:56,428
+Comme ça tu auras l'énergie pour étudier.
 
 880
-00:56:25,218 --> 00:56:27,501
-{Oh mon Dieu. Que se passe-t-il ?}
+00:56:21,718 --> 00:56:23,888
+- J'attends depuis des heures. - Moi aussi.
 
 881
-00:56:27,501 --> 00:56:28,935
-{Je pense la même chose.}
+00:56:23,888 --> 00:56:25,218
+- C'est énervant. - Zut alors.
 
 882
-00:56:28,935 --> 00:56:31,594
-{- Ça prend une éternité.}
-{Que font-ils ?}
+00:56:25,218 --> 00:56:27,501
+Mon Dieu. Que se passe-t-il ?
 
 883
-00:56:31,594 --> 00:56:33,095
-{- Tu peux aller vérifier?}
-{- Attends.}
+00:56:27,501 --> 00:56:28,935
+Je pense aussi.
 
 884
-00:56:33,095 --> 00:56:35,336
-{- Attendons.}
-{- Mais c'est...}
+00:56:28,935 --> 00:56:31,594
+- Ça prend une éternité. - Qu'est-ce qu'ils font ?
 
 885
-00:56:40,468 --> 00:56:42,067
-{- Park Jun Mo ?}
-{- Oui !}
+00:56:31,594 --> 00:56:33,095
+- Tu peux aller vérifier ? - Attends.
 
 886
-00:56:43,937 --> 00:56:45,638
-{- An Ju Ho ?}
-{- Oui, ici !}
+00:56:33,095 --> 00:56:35,336
+- Attendons. - Mais c'est...
 
 887
-00:56:45,638 --> 00:56:47,284
-{- Kim Ju Sik ?}
-{- Oui !}
+00:56:40,468 --> 00:56:42,067
+- Park Jun Mo ? - Oui !
 
 888
-00:56:47,284 --> 00:56:49,008
-{- Park Jun Mo ?}
-{- Oui !}
+00:56:43,937 --> 00:56:45,638
+- An Ju Ho ? - Oui, ici !
 
 889
-00:56:49,008 --> 00:56:50,218
-{Yoon Hyeon Woo ?}
+00:56:45,638 --> 00:56:47,284
+- Kim Ju Sik ? - Oui !
 
 890
-00:56:50,218 --> 00:56:52,417
-{(Fiche d'Identification d'Examen, Yoon Hyeon Woo)}
+00:56:47,284 --> 00:56:49,008
+- Park Jun Mo ? - Oui !
 
 891
-00:56:54,147 --> 00:56:55,718
-{Yoon Hyeon Woo n'est pas là ?}
+00:56:49,008 --> 00:56:50,218
+Yoon Hyeon Woo ?
 
 892
-00:56:57,287 --> 00:56:59,158
-{Oui, j'arrive !}
+00:56:50,218 --> 00:56:52,417
+(Fiche d'identification d'examen, Yoon Hyeon Woo)
 
 893
-00:56:59,158 --> 00:57:00,988
-{(Fiche d'Identification d'Examen, Yoon Hyeon Woo)}
+00:56:54,147 --> 00:56:55,718
+Yoon Hyeon Woo n'est pas là ?
 
 894
-00:57:02,102 --> 00:57:05,133
-{Ce qui j'ai abandonné, ce n'est pas l'examen d'entrée à l'université,}
+00:56:57,287 --> 00:56:59,158
+Oui, j'arrive !
 
 895
-00:57:06,227 --> 00:57:07,960
-{ni les quatre années de vie universitaire.}
+00:56:59,158 --> 00:57:00,988
+(Fiche d'identification d'examen, Yoon Hyeon Woo)
 
 896
-00:57:09,476 --> 00:57:13,247
-{Ce matin-là, la seule option que j'avais...}
+00:57:02,102 --> 00:57:05,133
+Ce à quoi j'ai renoncé, ce n'était pas l'examen d'entrée à l'université,
 
 897
-00:57:14,308 --> 00:57:15,508
-{était de choisir...}
+00:57:06,227 --> 00:57:07,960
+ni les quatre années de vie universitaire.
 
 898
-00:57:17,377 --> 00:57:19,278
-{de faire de mon mieux pour devenir encore plus pauvre.}
+00:57:09,476 --> 00:57:13,247
+Ce matin-là, la seule option que j'avais...
 
 899
-00:57:22,948 --> 00:57:25,747
-{Il y a 24 heures dans une journée et 365 jours dans une année.}
+00:57:14,308 --> 00:57:15,508
+était de choisir...
 
 900
-00:57:26,888 --> 00:57:30,517
-{On dit que le temps est juste envers tout le monde.}
+00:57:17,377 --> 00:57:19,278
+de faire de mon mieux pour devenir encore plus pauvre.
 
 901
-00:57:32,357 --> 00:57:33,357
-{Cependant,}
+00:57:22,948 --> 00:57:25,747
+Il y a 24 heures dans une journée et 365 jours dans une année.
 
 902
-00:57:34,558 --> 00:57:36,098
-{le temps n'est pas juste.}
+00:57:26,888 --> 00:57:30,517
+On dit que le temps est juste pour tout le monde.
 
 903
-00:57:37,928 --> 00:57:39,368
-{Comme tout le reste...}
+00:57:32,357 --> 00:57:33,357
+Cependant,
 
 904
-00:57:40,497 --> 00:57:41,567
-{dans ce monde.}
+00:57:34,558 --> 00:57:36,098
+le temps n'est pas juste.
 
 905
-00:58:01,988 --> 00:58:04,064
-{La faveur de dix milliards de won que tu me dois.}
+00:57:37,928 --> 00:57:39,368
+Comme tout le reste...
 
 906
-00:58:04,064 --> 00:58:05,794
-{Puis-je te la demander maintenant ?}
+00:57:40,497 --> 00:57:41,567
+dans ce monde.
 
 907
-00:58:06,528 --> 00:58:07,587
-{Toi.}
+00:58:01,988 --> 00:58:04,064
+La faveur de dix milliards de wons que tu me dois.
 
 908
-00:58:09,236 --> 00:58:12,676
-{Es-tu là pour récupérer ta lettre de change ou quoi ?}
+00:58:04,064 --> 00:58:05,794
+Puis-je te la demander maintenant ?
 
 909
-00:58:15,198 --> 00:58:18,497
-{S'il vous plaît, parlez aux membres du conseil d'administration du grand magasin Soonyang.}
+00:58:06,528 --> 00:58:07,587
+Toi.
 
 910
-00:58:21,167 --> 00:58:22,527
-{Nous devons convoquer une réunion du conseil...}
+00:58:09,236 --> 00:58:12,676
+Es-tu venu chercher ta lettre de change ou quelque chose comme ça ?
 
 911
-00:58:24,107 --> 00:58:26,178
-{- pour discuter...}
-{- Je n'ai pas besoin de l'entendre.}
+00:58:15,198 --> 00:58:18,497
+Veuillez parler aux membres du conseil d'administration du grand magasin Soonyang.
 
 912
-00:58:27,117 --> 00:58:31,091
-{Que tu veuilles tromper tout le monde ou faire une blague,}
+00:58:21,167 --> 00:58:22,527
+Nous devons convoquer une réunion du conseil...
 
 913
-00:58:31,091 --> 00:58:34,401
-{je ne veux pas le savoir.}
+00:58:24,107 --> 00:58:26,178
+- pour discuter... - Je n'ai pas besoin de l'entendre.
 
 914
-00:58:39,017 --> 00:58:41,489
-{Alors tu veux juste que j'appelle une réunion du conseil ?}
+00:58:27,117 --> 00:58:31,091
+Que vous vouliez tromper tout le monde ou faire une farce,
 
 915
-00:58:42,598 --> 00:58:44,546
-{Alors je ne te dois plus rien.}
+00:58:31,091 --> 00:58:34,401
+cela ne m'intéresse pas de le savoir.
 
 916
-00:58:51,495 --> 00:58:53,013
-{- Quoi ?}
-{- Qu'est-ce que c'est ?}
+00:58:39,017 --> 00:58:41,489
+Donc, tu veux juste que je convoque une réunion du conseil ?
 
 917
-00:58:53,013 --> 00:58:54,868
-{- Pas possible.}
-{- Je ne peux pas croire ça.}
+00:58:42,598 --> 00:58:44,546
+Alors je ne te dois plus rien.
 
 918
-00:58:54,868 --> 00:58:56,707
-{- Qu'adviendra-t-il de nous, alors ?}
-{- Pas possible.}
+00:58:51,495 --> 00:58:53,013
+- Quoi ? - Qu'est-ce que c'est ?
 
 919
-00:58:56,707 --> 00:58:58,207
-{C'est fou.}
+00:58:53,013 --> 00:58:54,868
+- Pas possible. - Je n'y crois pas.
 
 920
-00:58:58,207 --> 00:58:59,848
-{- Que se passe-t-il ?}
-{- Qu'est-ce que c'est ?}
+00:58:54,868 --> 00:58:56,707
+- Qu'est-ce qui va nous arriver, alors ? - Pas possible.
 
 921
-00:58:59,848 --> 00:59:01,408
-{- As-tu vu ça ?}
-{- Je n'arrive pas à y croire.}
+00:58:56,707 --> 00:58:58,207
+C'est de la folie.
 
 922
-00:59:01,408 --> 00:59:03,286
-{Je ne l'avais pas vu venir.}
+00:58:58,207 --> 00:58:59,848
+- Que se passe-t-il ? - Qu'est-ce que c'est ?
 
 923
-00:59:03,286 --> 00:59:04,418
-{C'est fou.}
+00:58:59,848 --> 00:59:01,408
+- Tu as vu ça ? - Je n'arrive pas à y croire.
 
 924
-00:59:04,418 --> 00:59:05,818
-{Pas possible !}
+00:59:01,408 --> 00:59:03,286
+Je ne m'attendais pas à ça.
 
 925
-00:59:05,818 --> 00:59:07,471
-{- Détournement de fonds ? Sérieusement ?}
-{- Non ?}
+00:59:03,286 --> 00:59:04,418
+C'est fou.
 
 926
-00:59:07,471 --> 00:59:09,658
-{(Réunion d'Urgence du Conseil pour Discuter du Renvoi du PDG)}
+00:59:04,418 --> 00:59:05,818
+Pas possible !
+
+
 
 927
-00:59:09,658 --> 00:59:11,957
-{Qui a déplacé les membres du conseil ?}
+00:59:05,818 --> 00:59:07,471
+- Détournement de fonds ? Sérieusement ? - N'est-ce pas ?
 
 928
-00:59:11,957 --> 00:59:15,098
-{Qui a initié la discussion sur mon renvoi ?}
+00:59:07,471 --> 00:59:09,658
+(Réunion du conseil d'administration pour discuter du licenciement du PDG)
 
 929
-00:59:15,098 --> 00:59:18,497
-{J'ai entendu dire que Miracle participait aussi à la réunion du conseil.}
+00:59:09,658 --> 00:59:11,957
+Qui a déplacé les membres du conseil ?
 
 930
-00:59:18,497 --> 00:59:19,497
-{Miracle ?}
+00:59:11,957 --> 00:59:15,098
+Qui a initié la discussion sur mon licenciement ?
 
 931
-00:59:20,237 --> 00:59:21,497
-{Tu veux dire, Do Jun ?}
+00:59:15,098 --> 00:59:18,497
+J'ai entendu dire que Miracle assistait également à la réunion du conseil.
 
 932
-00:59:21,497 --> 00:59:23,738
-{Ne pas annoncer le fait que Miracle est maintenant...}
+00:59:18,497 --> 00:59:19,497
+Miracle ?
 
 933
-00:59:23,738 --> 00:59:25,798
-{l'actionnaire majoritaire du grand magasin...}
+00:59:20,237 --> 00:59:21,497
+Tu veux dire, Do Jun ?
 
 934
-00:59:25,798 --> 00:59:27,468
-{est considéré comme une déchéance de fonction,}
+00:59:21,497 --> 00:59:23,738
+Ne pas annoncer le fait que Miracle est maintenant...
 
 935
-00:59:27,468 --> 00:59:29,067
-{donc il assiste en tant que témoin...}
+00:59:23,738 --> 00:59:25,798
+l'actionnaire majoritaire du grand magasin...
 
 936
-00:59:31,808 --> 00:59:33,848
-{Ne vous inquiétez pas trop, madame.}
+00:59:25,798 --> 00:59:27,468
+est considéré comme une négligence de fonction,
 
 937
-00:59:33,848 --> 00:59:37,019
-{Si vous prenez votre temps et vous expliquez lors de la réunion...}
+00:59:27,468 --> 00:59:29,067
+il assiste donc en tant que témoin...
 
 938
-00:59:37,721 --> 00:59:40,017
-{- Monsieur le Directeur Im.}
-{- Oui, madame.}
+00:59:31,808 --> 00:59:33,848
+S'il vous plaît, ne vous inquiétez pas trop, madame.
 
 939
-00:59:40,017 --> 00:59:42,448
-{Dois-je m'expliquer ? Pourquoi ?}
+00:59:33,848 --> 00:59:37,019
+Si vous prenez votre temps et vous expliquez lors de la réunion...
 
 940
-00:59:43,499 --> 00:59:44,728
-{Pardon?}
+00:59:37,721 --> 00:59:40,017
+- Directeur Im. - Oui, madame.
 
 941
-00:59:44,728 --> 00:59:47,558
-{C'est toi qui as créé la caisse noire,}
+00:59:40,017 --> 00:59:42,448
+Je dois m'expliquer ? Pourquoi ?
 
 942
-00:59:47,558 --> 00:59:48,899
-{en utilisant le compte au nom emprunté,}
+00:59:43,499 --> 00:59:44,728
+Pardon ?
 
 943
-00:59:48,899 --> 00:59:52,035
-{et tu as modifié nos accords...}
+00:59:44,728 --> 00:59:47,558
+C'est vous qui avez créé la caisse noire,
 
 944
-00:59:52,035 --> 00:59:53,428
-{avec les vendeurs au détail.}
+00:59:47,558 --> 00:59:48,899
+en utilisant le compte au nom emprunté,
 
 945
-00:59:53,428 --> 00:59:56,897
-{Et tu es le directeur financier.}
+00:59:48,899 --> 00:59:52,035
+et modifié nos accords...
 
 946
-00:59:56,897 --> 00:59:59,537
-{Pourtant, tu es resté là à me regarder perdre tout cet argent...}
+00:59:52,035 --> 00:59:53,428
+avec les détaillants.
 
 947
-00:59:59,537 --> 01:00:01,313
-{à cause de cette stupide action.}
+00:59:53,428 --> 00:59:56,897
+Et vous êtes le directeur financier.
 
 948
-01:00:01,313 --> 01:00:03,623
-{C'est un cas clair de déchéance de fonction.}
+00:59:56,897 --> 00:59:59,537
+Pourtant, vous êtes resté là à me regarder perdre tout cet argent...
 
 949
-01:00:05,107 --> 01:00:06,107
-{Est-ce que je me trompe ?}
+00:59:59,537 --> 01:00:01,313
+à cause de cette stupide action.
 
 950
-01:00:07,477 --> 01:00:08,977
-{Lors de la réunion du conseil,}
+01:00:01,313 --> 01:00:03,623
+C'est un cas clair de négligence de fonction.
 
 951
-01:00:09,656 --> 01:00:11,996
-{je ferai de mon mieux pour t'aider.}
+01:00:05,107 --> 01:00:06,107
+Ai-je tort ?
 
 952
-01:00:12,917 --> 01:00:14,548
-{Mais si le conseil...}
+01:00:07,477 --> 01:00:08,977
+Lors de la réunion du conseil,
 
 953
-01:00:14,548 --> 01:00:16,857
-{décide de te poursuivre en justice...}
+01:00:09,656 --> 01:00:11,996
+je ferai de mon mieux pour vous aider.
 
 954
-01:00:19,558 --> 01:00:20,558
-{Notre amitié...}
+01:00:12,917 --> 01:00:14,548
+Mais si le conseil...
 
 955
-01:00:22,997 --> 01:00:24,658
-{évoluera au niveau supérieur.}
+01:00:14,548 --> 01:00:16,857
+décide de vous poursuivre en justice...
 
 956
-01:00:26,897 --> 01:00:28,098
-{Pense juste à ça.}
+01:00:19,558 --> 01:00:20,558
+Notre amitié...
 
 957
-01:00:31,968 --> 01:00:33,868
-{Merci pour tout votre travail acharné, Monsieur le Directeur Im.}
+01:00:22,997 --> 01:00:24,658
+évoluera au niveau supérieur.
 
 958
-01:00:43,778 --> 01:00:47,517
-{Ce fut un honneur de vous assister, madame.}
+01:00:26,897 --> 01:00:28,098
+Pensez-y simplement.
 
 959
-01:10:18,488 --> 01:10:21,848
-{19 juillet 2000.}
+01:00:31,968 --> 01:00:33,868
+Merci pour tout votre travail acharné, Directeur Im.
 
 960
-01:10:21,848 --> 01:10:23,488
-{Les ordres du PDG.}
+01:00:43,778 --> 01:00:47,517
+Ce fut un honneur de vous assister, madame.
 
 961
-01:10:23,488 --> 01:10:24,488
-{La fin.}
+01:01:18,488 --> 01:01:21,848
+19 juillet 2000.
 
 962
-01:10:50,017 --> 01:10:51,278
-{Bonjour, Im Myeong Sook à l'appareil.}
+01:01:21,848 --> 01:01:23,488
+Les ordres du PDG.
 
 963
-01:10:53,848 --> 01:10:55,317
-{Oh mon Dieu.}
+01:01:30,598 --> 01:01:31,598
+Fin.
 
 964
-01:10:57,060 --> 01:11:00,697
-{Me dites-vous de dire lors de la réunion du conseil...}
+01:01:50,017 --> 01:01:51,278
+Bonjour, Im Myeong Sook à l'appareil.
 
 965
-01:11:00,697 --> 01:11:04,004
-{que Madame Jin a commis un détournement de fonds ?}
+01:01:53,848 --> 01:01:55,317
+Mon Dieu.
 
 966
-01:11:10,298 --> 01:11:12,167
-{Tu t'es trompé sur moi si tu pensais que je le ferais.}
+01:01:57,060 --> 01:02:00,697
+Me dites-vous de dire lors de la réunion du conseil...
 
 967
-01:11:12,167 --> 01:11:15,337
-{Je resterai fidèle à elle.}
+01:02:00,697 --> 01:02:04,004
+que Mme Jin a commis un détournement de fonds ?
 
 968
-01:11:20,583 --> 01:11:23,377
-{Est-ce le genre de loyauté dont tu parles ?}
+01:02:10,298 --> 01:02:12,167
+Vous vous trompiez sur moi si vous pensiez que je le ferais.
 
 969
-01:11:23,377 --> 01:11:25,425
-{« Ne désobéissez jamais à aucun ordre. »}
+01:02:12,167 --> 01:02:15,337
+Je lui resterai fidèle.
 
 970
-01:11:25,425 --> 01:11:27,287
-{« Ne posez jamais de questions. »}
+01:02:20,583 --> 01:02:23,377
+Est-ce le genre de loyauté dont vous parlez ?
 
 971
-01:11:27,287 --> 01:11:29,488
-{« Ne prenez jamais vos propres décisions. »}
+01:02:23,377 --> 01:02:25,425
+"Ne désobéissez jamais aux ordres."
 
 972
-01:11:31,294 --> 01:11:33,677
-{À cause de ta loyauté envers la PDG Jin,}
+01:02:25,425 --> 01:02:27,287
+"Ne posez jamais de questions."
 
 973
-01:11:33,787 --> 01:11:36,957
-{tu seras désormais légalement responsable de tout.}
+01:02:27,287 --> 01:02:29,488
+"Ne prenez jamais vos propres décisions."
 
 974
-01:11:40,737 --> 01:11:43,206
-{Je considérerai cela comme une autre étoile sur mes épaules.}
+01:02:31,294 --> 01:02:33,787
+À cause de votre loyauté envers le PDG Jin,
 
 975
-01:11:43,206 --> 01:11:46,743
-{Les autres directeurs m'envient car c'est un honneur si grand.}
+01:02:33,787 --> 01:02:36,957
+vous serez désormais tenu légalement responsable de tout.
 
 976
-01:11:46,743 --> 01:11:50,078
-{Je vois. Parce qu'elle prendra soin de toi après ta retraite.}
+01:02:40,737 --> 01:02:43,206
+Je considérerai cela comme une autre étoile sur mes épaules.
 
 977
-01:11:50,078 --> 01:11:51,748
-{J'ai travaillé plus dur et plus diligemment...}
+01:02:43,206 --> 01:02:46,743
+Les autres directeurs m'envient car c'est un honneur immense.
 
 978
-01:11:51,748 --> 01:11:54,651
-{que quiconque je connais depuis près de 40 ans.}
+01:02:46,743 --> 01:02:50,078
+Je vois. Parce qu'elle s'occupera de vous après votre retraite.
 
 979
-01:11:54,651 --> 01:11:58,221
-{Devrais-je vraiment être critiquée pour vouloir une retraite stable ?}
+01:02:50,078 --> 01:02:51,748
+J'ai travaillé plus dur et plus diligemment...
 
 980
-01:11:58,221 --> 01:12:01,988
-{Pour avoir signé à la place de la PDG Jin pendant que je travaillais pour Soonyang...}
+01:02:51,748 --> 01:02:54,651
+que quiconque que je connaisse pendant près de 40 ans.
 
 981
-01:12:01,988 --> 01:12:03,087
-{et en avoir payé le prix...}
+01:02:54,651 --> 01:02:58,221
+Dois-je vraiment être critiqué pour vouloir une retraite stable ?
 
 982
-01:12:04,517 --> 01:12:06,017
-{à votre retraite ?}
+01:02:58,221 --> 01:03:01,988
+Pour avoir signé à la place du PDG Jin tout en travaillant pour Soonyang...
 
 983
-01:12:12,105 --> 01:12:13,844
-{Pour lui rester fidèle,}
+01:03:01,988 --> 01:03:03,087
+et en en payant le prix...
 
 984
-01:12:15,198 --> 01:12:18,167
-{tu te trahis chaque jour.}
+01:03:04,517 --> 01:03:06,017
+à votre retraite ?
 
 985
-01:12:33,817 --> 01:12:36,218
-{(Grand Magasin Soonyang, Soldes d'Été)}
+01:03:12,105 --> 01:03:13,844
+Pour lui rester fidèle,
 
 986
-01:12:36,988 --> 01:12:39,627
-{Je suis Lee Hang Jae, le président de la réunion du conseil.}
+01:03:15,198 --> 01:03:18,167
+vous vous trahissez chaque jour.
 
 987
-01:12:42,328 --> 01:12:45,258
-{L'ordre du jour d'aujourd'hui est le renvoi...}
+01:03:33,817 --> 01:03:36,218
+(Grand magasin Soonyang, Soldes d'été)
 
 988
-01:12:46,397 --> 01:12:47,497
-{de la PDG Jin Hwa Young.}
+01:03:36,988 --> 01:03:39,627
+Je suis Lee Hang Jae, le président de la réunion du conseil.
 
 989
-01:12:49,506 --> 01:12:52,709
-{Nous écouterons le témoin et la PDG Jin elle-même...}
+01:03:42,328 --> 01:03:45,258
+L'ordre du jour d'aujourd'hui est le licenciement...
 
 990
-01:12:52,709 --> 01:12:55,868
-{concernant le cas de déchéance de fonction...}
+01:03:46,397 --> 01:03:47,497
+du PDG Jin Hwa Young.
 
 991
-01:12:55,868 --> 01:12:57,508
-{et nous voterons à mains levées.}
+01:03:49,506 --> 01:03:52,709
+Nous entendrons le témoin et Mme Jin elle-même...
 
 992
-01:12:57,508 --> 01:12:59,178
-{(PDG Jin Hwa Young)}
+01:03:52,709 --> 01:03:55,868
+concernant le cas de négligence de fonction...
 
 993
-01:12:59,178 --> 01:13:00,178
-{(Témoin)}
+01:03:55,868 --> 01:03:57,508
+et procéderons aux votes à main levée.
 
 994
-01:13:02,808 --> 01:13:04,317
-{(Procureur Seo Min Yeong)}
+01:03:57,508 --> 01:03:59,178
+(PDG Jin Hwa Young)
 
 995
-01:13:06,923 --> 01:13:09,218
-{Pouvez-vous contacter Madame Jin Hwa Young chez Soonyang ?}
+01:03:59,178 --> 01:04:00,178
+(Témoin)
 
 996
-01:13:09,218 --> 01:13:10,218
-{Oui, madame.}
+01:04:02,808 --> 01:04:04,317
+(Procureur Seo Min Yeong)
 
 997
-01:13:11,658 --> 01:13:14,225
-{Madame, un colis vous est arrivé plus tôt...}
+01:04:06,923 --> 01:04:09,218
+Pourriez-vous contacter Mme Jin Hwa Young chez Soonyang ?
 
 998
-01:13:14,225 --> 01:13:16,187
-{Oh, vous l'avez déjà eu.}
+01:04:09,218 --> 01:04:10,218
+Oui, madame.
 
 999
-01:13:16,187 --> 01:13:18,508
-{Qu'est-ce qu'il y avait dedans ?}
+01:04:11,658 --> 01:04:14,225
+Madame, un colis est arrivé pour vous tout à l'heure...
 
 1000
-01:13:19,298 --> 01:13:20,928
-{J'ai réussi à remplir le blanc.}
+01:04:14,225 --> 01:04:16,187
+Oh, vous l'avez déjà reçu.
 
 1001
-01:13:23,337 --> 01:13:25,138
-{Preuve que le tuyau était faux.}
+01:04:16,187 --> 01:04:18,508
+Qu'y avait-il à l'intérieur ?
 
 1002
-01:13:26,908 --> 01:13:28,638
-{(PDG Jin Hwa Young)}
+01:04:19,298 --> 01:04:20,928
+J'ai réussi à remplir le blanc.
+
+
 
 1003
-01:13:28,638 --> 01:13:32,337
-{Détournement de fonds ?}
+01:04:23,337 --> 01:04:25,138
+Preuve que le tuyau était faux.
 
 1004
-01:13:32,337 --> 01:13:33,977
-{(Témoin)}
+01:04:26,908 --> 01:04:28,638
+(PDG Jin Hwa Young)
 
 1005
-01:13:33,977 --> 01:13:35,278
-{(Président Lee Hang Jae)}
+01:04:28,638 --> 01:04:32,337
+Détournement de fonds ?
 
 1006
-01:13:37,147 --> 01:13:38,178
-{Non.}
+01:04:32,337 --> 01:04:33,977
+(Témoin)
 
 1007
-01:13:40,517 --> 01:13:41,888
-{Ce n'est pas vrai.}
+01:04:33,977 --> 01:04:35,278
+(Président Lee Hang Jae)
 
 1008
-01:13:41,888 --> 01:13:43,693
-{(Réunion d'Urgence du Conseil pour Discuter du Renvoi du PDG)}
+01:04:37,147 --> 01:04:38,178
+Non.
 
 1009
-01:13:43,693 --> 01:13:46,095
-{Un faux tuyau a été envoyé aux procureurs...}
+01:04:40,517 --> 01:04:41,888
+Ce n'est pas vrai.
 
 1010
-01:13:46,095 --> 01:13:48,731
-{pour faire baisser le cours de nos actions.}
+01:04:41,888 --> 01:04:43,693
+(Réunion d'urgence du conseil d'administration pour discuter du licenciement du PDG)
 
 1011
-01:13:48,731 --> 01:13:50,658
-{C'était orchestré par Miracle Investment...}
+01:04:43,693 --> 01:04:46,095
+Un tuyau mensonger a été envoyé aux procureurs...
 
 1012
-01:13:50,658 --> 01:13:53,518
-{dont mon neveu, Jin Do Jun, est l'actionnaire majoritaire.}
+01:04:46,095 --> 01:04:48,731
+pour faire chuter le cours de notre action.
 
 1013
-01:13:54,428 --> 01:13:57,167
-{Pour voler mes actions, qu'ils détiennent en garantie.}
+01:04:48,731 --> 01:04:50,658
+C'était orchestré par Miracle Investment...
 
 1014
-01:13:58,675 --> 01:14:00,276
-{Et grâce à cela,}
+01:04:50,658 --> 01:04:53,518
+dont mon neveu, Jin Do Jun, est l'actionnaire majoritaire.
 
 1015
-01:14:00,276 --> 01:14:03,837
-{il est assis ici maintenant en tant qu'actionnaire majoritaire...}
+01:04:54,428 --> 01:04:57,167
+Pour voler mes actions, qu'ils détiennent en garantie.
 
 1016
-01:14:03,837 --> 01:14:05,107
-{du grand magasin Soonyang.}
+01:04:58,675 --> 01:05:00,276
+Et grâce à cela,
 
 1017
-01:14:05,107 --> 01:14:07,308
-{(Témoin)}
+01:05:00,276 --> 01:05:03,837
+il est assis ici maintenant en tant qu'actionnaire majoritaire...
 
 1018
-01:14:08,578 --> 01:14:09,747
-{Est-ce vrai ?}
+01:05:03,837 --> 01:05:05,107
+du grand magasin Soonyang.
 
 1019
-01:14:14,687 --> 01:14:16,087
-{Au lieu de répondre à cette question,}
+01:05:05,107 --> 01:05:07,308
+(Témoin)
 
 1020
-01:14:17,218 --> 01:14:19,488
-{je vais prouver que Madame Jin est effectivement coupable...}
+01:05:08,578 --> 01:05:09,747
+Est-ce vrai ?
 
 1021
-01:14:19,488 --> 01:14:21,357
-{de détournement de fonds.}
+01:05:14,687 --> 01:05:16,087
+Au lieu de répondre à cette question,
 
 1022
-01:14:22,888 --> 01:14:23,997
-{Ici et maintenant.}
+01:05:17,218 --> 01:05:19,488
+je vais prouver que Mme Jin est bel et bien coupable...
 
 1023
-01:14:27,968 --> 01:14:30,138
-{As-tu des preuves solides ?}
+01:05:19,488 --> 01:05:21,357
+de détournement de fonds.
 
 1024
-01:14:32,300 --> 01:14:33,468
-{Eh bien...}
+01:05:22,888 --> 01:05:23,997
+Ici et maintenant.
 
 1025
-01:14:37,213 --> 01:14:39,207
-{Celle qui gérait...}
+01:05:27,968 --> 01:05:30,138
+Avez-vous des preuves solides ?
 
 1026
-01:14:39,207 --> 01:14:42,147
-{les finances du grand magasin conformément aux ordres de Madame Jin,}
+01:05:32,300 --> 01:05:33,468
+Eh bien...
 
 1027
-01:14:44,118 --> 01:14:46,598
-{la Directrice Im Myeong Sook, fera une déclaration. Est-ce que cela suffira ?}
+01:05:37,213 --> 01:05:39,207
+Celui qui gérait...
 
 1028
-01:14:47,647 --> 01:14:49,317
-{Pourquoi évoque-t-il soudainement la Directrice Im ?}
+01:05:39,207 --> 01:05:42,147
+les finances du grand magasin selon les ordres de Mme Jin,
 
 1029
-01:14:49,317 --> 01:14:52,017
-{- Pourquoi est-elle là ?}
-{- Qu'est-ce qui se passe ?}
+01:05:44,118 --> 01:05:46,598
+le directeur Im Myeong Sook, fera une déclaration. Cela vous suffira ?
 
 1030
-01:14:52,017 --> 01:14:54,127
-{- Je pensais qu'elle était de notre côté.}
-{- Mon Dieu.}
+01:05:47,647 --> 01:05:49,317
+Pourquoi évoque-t-il soudainement le directeur Im ?
 
 1031
-01:14:54,957 --> 01:14:57,058
-{- Quoi ?}
-{- Mon Dieu.}
+01:05:49,317 --> 01:05:52,017
+- Pourquoi est-elle là ? - Que se passe-t-il ?
 
 1032
-01:14:57,758 --> 01:15:00,087
-{La Directrice Im a disparu sous mes yeux.}
+01:05:52,017 --> 01:05:54,127
+- Je pensais qu'elle était de notre côté. - Mon Dieu.
 
 1033
-01:15:08,198 --> 01:15:09,627
-{(Témoin)}
+01:05:54,957 --> 01:05:57,058
+- Quoi ? - Zut.
 
 1034
-01:15:11,298 --> 01:15:14,008
-{Comment se fait-il que la Directrice Im ne soit pas encore là ?}
+01:07:03,528 --> 01:07:05,328
+Le directeur Im a disparu sous mes yeux.
 
 1035
-01:15:30,226 --> 01:15:32,587
-{Allô ? La police ?}
+01:07:08,198 --> 01:07:09,627
+(Témoin)
 
 1036
-01:15:32,587 --> 01:15:34,428
-{Je voudrais signaler une personne disparue.}
+01:07:11,298 --> 01:07:14,008
+Comment se fait-il que le directeur Im ne soit pas encore là ?
 
 1037
-01:15:35,627 --> 01:15:37,357
-{Quelqu'un a disparu sous mes yeux.}
+01:07:30,226 --> 01:07:32,587
+Allô ? Police ?
 
 1038
-01:15:41,942 --> 01:15:44,942
-{Nous vous garderons en sécurité jusqu'à la fin de la réunion du conseil.}
+01:07:32,587 --> 01:07:34,428
+Je voudrais signaler une disparition.
 
 1039
-01:15:53,687 --> 01:15:56,777
-{Il n'y a qu'une seule raison pour laquelle le témoin n'est pas encore là.}
+01:07:35,627 --> 01:07:37,357
+Quelqu'un a disparu sous mes yeux.
 
 1040
-01:15:56,777 --> 01:15:58,848
-{Il n'y a rien à prouver.}
+01:07:41,942 --> 01:07:44,942
+Nous vous protégerons jusqu'à la fin de la réunion du conseil d'administration.
 
 1041
-01:16:01,617 --> 01:16:03,287
-{Maintenant, voyez-vous la vérité ?}
+01:07:53,687 --> 01:07:56,777
+Il n'y a qu'une seule raison pour laquelle le témoin n'est pas encore là.
 
 1042
-01:16:03,287 --> 01:16:06,432
-{La vérité derrière cette accusation de détournement de fonds.}
+01:07:56,777 --> 01:07:58,848
+Il n'y a rien à prouver.
 
 1043
-01:16:07,758 --> 01:16:09,592
-{Tout a commencé par un faux tuyau.}
+01:08:01,617 --> 01:08:03,287
+Maintenant, voyez-vous la vérité ?
 
 1044
-01:16:14,167 --> 01:16:16,367
-{Le Bureau du Procureur du District Central de Séoul...}
+01:08:03,287 --> 01:08:06,432
+La vérité derrière cette accusation de détournement de fonds.
 
 1045
-01:16:16,367 --> 01:16:19,697
-{a déjà lancé une enquête à ce sujet.}
+01:08:07,758 --> 01:08:09,592
+Tout a commencé par un tuyau mensonger.
 
 1046
-01:15:27,478 --> 01:08:29,447
-{Je suis le Procureur Seo Min Yeong du FTCD...}
+01:08:14,167 --> 01:08:16,367
+Le bureau du procureur du district central de Séoul...
 
 1047
-01:08:29,447 --> 01:08:31,447
-{au Bureau du Procureur du District Central de Séoul.}
+01:08:16,367 --> 01:08:19,697
+a déjà lancé une enquête à ce sujet.
 
 1048
-01:10:45,472 --> 01:10:48,041
-{Nous avons obtenu des preuves solides que le tuyau était faux.}
+01:08:27,478 --> 01:08:29,447
+Je suis le procureur Seo Min Yeong du FTCD...
 
 1049
-01:10:53,818 --> 01:10:57,442
-{(Reborn Rich)}
+01:08:29,447 --> 01:08:31,447
+du bureau du procureur du district central de Séoul.
 
 1050
-01:09:39,818 --> 01:09:43,188
-{Voici le plan pour la création de la société holding financière.}
+01:08:45,472 --> 01:08:48,041
+Nous avons obtenu des preuves solides que le tuyau était faux.
 
 1051
-01:09:43,188 --> 01:09:44,957
-{Les industries manufacturières sont maintenant mortes.}
+01:09:05,478 --> 01:09:09,417
+(Reborn Rich)
 
 1052
-01:09:44,957 --> 01:09:47,027
-{Nous devons lancer une activité de prêt pour survivre.}
+01:09:39,818 --> 01:09:43,188
+Voici le plan pour la création de la société holding financière.
 
 1053
-01:09:47,027 --> 01:09:48,327
-{Bingo.}
+01:09:43,188 --> 01:09:44,957
+Les industries manufacturières sont maintenant mortes.
 
 1054
-01:10:48,327 --> 01:10:50,957
-{Le propriétaire de la société holding financière...}
+01:09:44,957 --> 01:09:47,027
+Nous devons lancer une activité de prêt pour survivre.
 
 1055
-01:10:50,957 --> 01:10:54,007
-{deviendra le propriétaire du groupe Soonyang.}
+01:09:47,027 --> 01:09:48,327
+Bingo.
 
 1056
-01:10:54,007 --> 01:10:57,938
-{Et ce sera une bonne opportunité pour Miracle.}
+01:09:48,327 --> 01:09:50,558
+Le propriétaire de la société holding financière...
 
 1057
-01:10:57,938 --> 01:10:59,468
-{Nous avons reçu une plainte.}
+01:09:50,558 --> 01:09:54,007
+deviendra le propriétaire du groupe Soonyang.
 
 1058
-01:10:59,468 --> 01:11:01,667
-{Un membre de la famille d'un conglomérat de troisième génération...}
+01:09:54,007 --> 01:09:57,938
+Et ce sera une bonne opportunité pour Miracle.
 
 1059
-01:11:01,667 --> 01:11:03,167
-{est l'une des personnes qui ont manipulé les cours des actions.}
+01:09:57,938 --> 01:09:59,468
+Nous avons reçu une plainte.
 
 1060
-01:11:03,167 --> 01:11:04,747
-{Les riches sont toujours plus avides.}
+01:09:59,468 --> 01:10:01,667
+Un membre de la famille d'un conglomérat de troisième génération...
 
 1061
-01:11:04,747 --> 01:11:06,149
-{Je suis le Procureur Seo Min Yeong.}
+01:10:01,667 --> 01:10:03,167
+fait partie des personnes qui ont manipulé les cours des actions.
 
 1062
-01:11:06,149 --> 01:11:07,707
-{Cooprerez-vous ?}
+01:10:03,167 --> 01:10:04,747
+Les riches sont toujours plus cupides.
 
 1063
-01:11:07,707 --> 01:11:09,752
-{Un procès n'a pas lieu qu'au tribunal.}
+01:10:04,747 --> 01:10:06,149
+Je suis le procureur Seo Min Yeong.
 
 1064
-01:11:09,752 --> 01:11:12,955
-{Si le tableau qu'il veut peindre est le même que le mien,}
+01:10:06,149 --> 01:10:07,707
+Coopérerez-vous ?
 
 1065
-01:11:12,955 --> 01:11:16,888
-{ce ne serait pas une mauvaise idée pour Dong Ki de prendre ma place.}
+01:10:07,707 --> 01:10:09,752
+Un procès n'a pas lieu qu'au tribunal.
 
 1066
-01:11:16,888 --> 01:11:19,117
-{Miracle Investment...}
+01:10:09,752 --> 01:10:12,955
+Si l'image qu'il veut peindre est la même que la mienne,
 
 1067
-01:11:20,758 --> 01:11:22,598
-{Soonyang Investment va acquérir la société.}
+01:10:12,955 --> 01:10:16,888
+ce ne serait pas une mauvaise idée que Dong Ki prenne ma place.
 
 1068
-01:11:22,598 --> 01:11:23,827
-{Do Jun.}
+01:10:16,888 --> 01:10:19,117
+Miracle Investment...
 
 1069
-01:11:23,827 --> 01:11:27,527
-{Penses-tu que je te fais confiance ?}
+01:10:20,758 --> 01:10:22,598
+Soonyang Investment acquerra la société.
+
+1070
+01:10:22,598 --> 01:10:23,827
+Do Jun.
+
+1071
+01:10:23,827 --> 01:10:27,527
+Penses-tu que je te fais confiance ?
+
+1072
+01:10:28,537 --> 01:10:36,342
+Rippé et resynchronisé par YoungJedi
+
+
+
+
+

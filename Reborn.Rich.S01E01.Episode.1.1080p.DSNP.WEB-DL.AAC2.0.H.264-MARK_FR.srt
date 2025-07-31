@@ -24,8 +24,7 @@
 
 7
 00:00:31,379 --> 00:00:35,167
-(Kim Jung Nan, Kim Do Hyun,
-Kim Hyun, Seo Jae Hee)
+(Kim Jung Nan, Kim Do Hyun, Kim Hyun, Seo Jae Hee)
 
 8
 00:00:46,812 --> 00:00:50,982
@@ -33,13 +32,11 @@ Kim Hyun, Seo Jae Hee)
 
 9
 00:00:51,062 --> 00:00:53,735
-(This production is supported by Ministry
-of Culture, Sports and Tourism and KOCCA.)
+(Cette production est soutenue par le Ministère de la Culture, des Sports et du Tourisme et KOCCA.)
 
 10
 00:00:53,759 --> 00:00:57,249
-(All characters, organizations,
-and events in this drama are fictitious.)
+(Tous les personnages, organisations et événements de ce drame sont fictifs.)
 
 11
 00:01:29,852 --> 00:01:32,921
@@ -47,7 +44,7 @@ and events in this drama are fictitious.)
 
 12
 00:01:50,572 --> 00:01:51,671
-Faites-le entrer.
+Amenez-le ici.
 
 13
 00:02:13,962 --> 00:02:15,291
@@ -59,12 +56,11 @@ D'accord. Comme vous l'avez demandé,
 
 15
 00:02:30,411 --> 00:02:34,251
-nous avons déposé 600 millions de dollars
-sur votre compte, monsieur.
+nous avons déposé 600 millions de dollars sur votre compte, monsieur.
 
 16
 00:02:36,182 --> 00:02:37,727
-Vous pouvez maintenant retirer le solde entier...
+Vous pouvez maintenant retirer la totalité du solde...
 
 17
 00:02:37,751 --> 00:02:39,321
@@ -76,7 +72,7 @@ Vous êtes devenu si riche à un si jeune âge.
 
 19
 00:02:44,321 --> 00:02:46,261
-Était-ce le fruit d'un travail acharné ou de la chance ?
+Était-ce le travail acharné ou la chance ?
 
 20
 00:03:45,082 --> 00:03:50,092
@@ -92,7 +88,7 @@ Vous êtes devenu si riche à un si jeune âge.
 
 23
 00:04:28,431 --> 00:04:30,431
-("Mon ère, ma vie, mon Soonyang")
+("Mon Époque, Ma Vie, Mon Soonyang")
 
 24
 00:04:34,572 --> 00:04:35,892
@@ -100,37 +96,35 @@ Vous êtes devenu si riche à un si jeune âge.
 
 25
 00:04:39,241 --> 00:04:40,971
-(Arbre généalogique du groupe Soonyang)
+(Arbre généalogique de la famille Soonyang)
 
 26
 00:04:42,072 --> 00:04:45,212
-Nous allons passer à la question de la page 83.
+Nous passerons à la question de la page 83.
 
 27
 00:04:46,082 --> 00:04:49,002
-Lequel des éléments suivants n'est pas vrai...
+Laquelle des affirmations suivantes n'est pas vraie...
 
 28
 00:04:49,082 --> 00:04:51,421
-à propos des titres négociables ?
+concernant les titres négociables ?
 
 29
 00:04:51,781 --> 00:04:53,452
-Titre de participation...
+Les titres de participation...
 
 30
 00:04:54,592 --> 00:04:56,721
-Titre de participation est un autre mot pour actions.
+Les titres de participation sont un autre mot pour les actions.
 
 31
 00:05:11,741 --> 00:05:14,111
-- Il arrive.
-- Par ici !
+- Le voilà. - Par ici !
 
 32
 00:05:15,142 --> 00:05:17,017
-Manipulation d'actions,
-faute professionnelle et détournement de fonds.
+Manipulation d'actions, inconduite et détournement de fonds.
 
 33
 00:05:17,041 --> 00:05:18,331
@@ -138,12 +132,11 @@ Admettez-vous les accusations ?
 
 34
 00:05:18,411 --> 00:05:20,017
-Peine de prison de 3 ans
-avec 5 ans de mise à l'épreuve.
+Trois ans de prison avec cinq ans de mise à l'épreuve.
 
 35
 00:05:20,041 --> 00:05:21,701
-Quel est votre avis sur la sentence ?
+Quelle est votre opinion sur la peine ?
 
 36
 00:05:21,781 --> 00:05:22,788
@@ -151,7 +144,7 @@ Vous attendiez-vous à ce que le tribunal...
 
 37
 00:05:22,812 --> 00:05:23,858
-accorde la libération conditionnelle lors du deuxième procès ?
+accorde une mise à l'épreuve lors du second procès ?
 
 38
 00:05:23,882 --> 00:05:25,372
@@ -159,13 +152,11 @@ Avez-vous quelque chose à dire ?
 
 39
 00:05:25,452 --> 00:05:27,672
-Êtes-vous certain
-qu'il n'y a pas de liens ?
+Êtes-vous certain qu'il n'y a aucun lien ?
 
 40
 00:05:27,752 --> 00:05:29,228
-(Compte du président Jin Young Ki
-au nom d'emprunt :)
+(Compte au nom de prête-nom du Président Jin Young Ki :)
 
 41
 00:05:29,252 --> 00:05:30,781
@@ -177,30 +168,27 @@ Je suis impressionné, monsieur.
 
 43
 00:05:33,262 --> 00:05:34,562
-Votre jeu s'est amélioré.
+Votre jeu d'acteur s'est amélioré.
 
 44
 00:05:35,392 --> 00:05:36,861
-Vous êtes beau à l'écran aussi.
+Vous rendez bien aussi à la caméra.
 
 45
 00:05:37,431 --> 00:05:40,361
-Le ministère de la Justice fait bien son travail,
-n'est-ce pas ?
+Le ministère de la Justice fait bien son travail, n'est-ce pas ?
 
 46
 00:05:40,562 --> 00:05:42,132
-Avec équité et justice.
+De manière juste et équitable.
 
 47
 00:05:44,002 --> 00:05:46,601
-Une fois de plus, le résultat
-était sans aucun doute 3 et 5.
+Encore une fois, le résultat a été sans aucun doute 3 et 5.
 
 48
 00:05:46,772 --> 00:05:48,772
-Peine de prison de 3 ans
-avec 5 ans de mise à l'épreuve.
+Trois ans de prison avec cinq ans de mise à l'épreuve.
 
 49
 00:05:49,212 --> 00:05:51,012
@@ -208,8 +196,7 @@ Tant que vous êtes assez riche,
 
 50
 00:05:51,241 --> 00:05:55,201
-un président indulgent peut s'en tirer
-avec une faute professionnelle,
+un président aimable peut s'en tirer avec une inconduite professionnelle,
 
 51
 00:05:55,281 --> 00:05:56,831
@@ -217,7 +204,7 @@ un détournement de fonds,
 
 52
 00:05:56,911 --> 00:05:58,372
-et même de l'évasion fiscale...
+et même une évasion fiscale...
 
 53
 00:05:58,452 --> 00:05:59,952
@@ -225,17 +212,15 @@ pour un prix fixe.
 
 54
 00:06:00,351 --> 00:06:03,051
-Un prix de gros fixe
-de 3 ans et 5 ans.
+Un prix de gros fixe de trois ans et cinq ans.
 
 55
 00:06:03,392 --> 00:06:05,322
-C'est comme si les crimes avaient un prix.
+C'est comme si les crimes venaient avec une étiquette de prix.
 
 56
 00:06:06,092 --> 00:06:07,938
-Pourquoi ? Parce qu'il ne peut y avoir
-de période de libération conditionnelle...
+Pourquoi ? Parce qu'il ne peut y avoir de période probatoire...
 
 57
 00:06:07,962 --> 00:06:09,861
@@ -251,8 +236,7 @@ Comment allez-vous procéder ?
 
 60
 00:06:17,702 --> 00:06:20,601
-Que pouvons-nous faire d'autre que de nous conformer
-à la décision du tribunal ?
+Que pouvons-nous faire d'autre que de respecter la décision du tribunal ?
 
 61
 00:06:20,942 --> 00:06:22,461
@@ -264,8 +248,7 @@ Nous devrions respecter la décision...
 
 63
 00:06:25,312 --> 00:06:27,411
-et faire appel
-avec des preuves supplémentaires.
+et faire appel avec des preuves supplémentaires.
 
 64
 00:06:28,152 --> 00:06:30,681
@@ -277,7 +260,7 @@ Oui, bien sûr.
 
 66
 00:06:33,721 --> 00:06:35,791
-La Corée du Sud est un État de droit.
+La Corée du Sud est un État constitutionnel.
 
 67
 00:06:36,051 --> 00:06:37,562
@@ -285,13 +268,11 @@ Ce n'est pas la République de Soonyang.
 
 68
 00:06:38,562 --> 00:06:40,482
-(Cérémonie d'inauguration du buste
-du président Jin Yang Cheol)
+(Cérémonie de dévoilement du buste du Président Jin Yang Cheol)
 
 69
 00:06:40,962 --> 00:06:45,151
-(En l'honneur de l'objectif de Soonyang :
-l'équité dans les affaires)
+(En l'honneur de l'objectif de Soonyang, qui est l'équité dans les affaires)
 
 70
 00:06:45,231 --> 00:06:47,031
@@ -299,21 +280,21 @@ Juste une seconde. Excusez-moi.
 
 71
 00:06:49,202 --> 00:06:51,171
-Bonjour, je suis l'assistant manager
-Shin Gyeong Min.
+Bonjour, je suis le directeur adjoint Shin Gyeong Min.
 
 72
 00:06:56,712 --> 00:06:58,781
-Bonjour, monsieur. Je suis l'assistant manager
-Shin Gyeong Min.
+Bonjour, monsieur. Je suis le directeur adjoint Shin Gyeong Min.
 
 73
 00:07:06,621 --> 00:07:07,872
-Bonjour, je viens d'être muté...
+Bonjour, je viens d'être transféré...
 
 74
 00:07:07,952 --> 00:07:09,467
-au département de gestion d'actifs futurs.
+au Département de gestion des actifs futurs
+
+
 
 75
 00:07:09,491 --> 00:07:11,112
@@ -321,8 +302,7 @@ Je suis l'assistant manager Shin Gyeong Min.
 
 76
 00:07:11,192 --> 00:07:12,721
-- C'est ça ?
-- Oui, monsieur.
+- C'est vrai ? - Oui, monsieur.
 
 77
 00:07:26,772 --> 00:07:29,312
@@ -330,8 +310,7 @@ Je suis l'assistant manager Shin Gyeong Min.
 
 78
 00:07:32,642 --> 00:07:34,932
-Veuillez récupérer tous les produits
-qui sont sur la table.
+Veuillez rassembler tous les produits qui sont sur la table.
 
 79
 00:07:35,012 --> 00:07:36,481
@@ -339,12 +318,11 @@ Ils seront remplacés.
 
 80
 00:07:36,752 --> 00:07:39,721
-Y a-t-il un problème ?
-Aucun n'est périmé.
+Y a-t-il un problème ? Aucun n'a dépassé la date de péremption.
 
 81
 00:07:40,382 --> 00:07:41,728
-En fait, je devrais d'abord demander qui vous êtes.
+En fait, je devrais d'abord vous demander qui vous êtes.
 
 82
 00:07:41,752 --> 00:07:43,192
@@ -352,8 +330,7 @@ Le président est allergique aux pêches.
 
 83
 00:07:43,221 --> 00:07:44,498
-Il pourrait perdre connaissance
-à cause d'une détresse respiratoire...
+Il pourrait perdre connaissance à cause d'une détresse respiratoire...
 
 84
 00:07:44,522 --> 00:07:45,781
@@ -361,24 +338,23 @@ Il pourrait perdre connaissance
 
 85
 00:07:45,861 --> 00:07:47,261
-(Concentré de jus de pêche 2 %)
+(Concentré de jus de pêche 2 pour cent)
 
 86
 00:07:48,661 --> 00:07:49,731
-(Min Shin Gyeong)
+(Shin Gyeong Min)
 
 87
 00:07:50,231 --> 00:07:52,332
-- Assistant manager Shin.
-- Oui ?
+- Assistant Manager Shin. - Oui ?
 
 88
 00:07:52,562 --> 00:07:53,637
-Je suis le manager principal Yoon Hyeon Woo...
+Je suis le Senior Manager Yoon Hyeon Woo...
 
 89
 00:07:53,661 --> 00:07:55,341
-du département de gestion d'actifs futurs.
+du département de gestion des actifs futurs.
 
 90
 00:07:55,531 --> 00:07:56,601
@@ -390,12 +366,11 @@ Celui dont j'ai entendu parler ?
 
 92
 00:08:00,272 --> 00:08:01,618
-Je m'excuse du salut tardif.
+Je m'excuse pour la salutation tardive.
 
 93
 00:08:01,642 --> 00:08:03,772
-Je suis Shin Gyeong Min,
-le plus récent membre de votre équipe.
+Je suis Shin Gyeong Min, le nouveau membre de votre équipe.
 
 94
 00:08:05,212 --> 00:08:06,618
@@ -407,12 +382,11 @@ Oui, monsieur.
 
 96
 00:08:09,012 --> 00:08:10,712
-- Enlevez ces boissons.
-- Bien sûr.
+- Retirez ces boissons. - Bien sûr.
 
 97
 00:08:13,421 --> 00:08:15,421
-Que doit-on faire pour être comme vous ?
+Que faut-il faire pour être comme vous ?
 
 98
 00:08:15,752 --> 00:08:17,482
@@ -420,18 +394,15 @@ J'entends dire que la charge de travail brutale...
 
 99
 00:08:17,562 --> 00:08:19,498
-fait que la personne moyenne démissionne
-en moins de trois ans.
+a fait démissionner la personne moyenne en moins de trois ans.
 
 100
 00:08:19,522 --> 00:08:21,562
-Vous êtes le seul
-à avoir tenu plus de cinq ans,
+Vous êtes le seul à avoir tenu plus de cinq ans,
 
 101
 00:08:21,592 --> 00:08:24,402
-et vous servez le président
-comme l'un de ses employés les plus fiables.
+et vous servez le président comme l'un de ses employés les plus fiables.
 
 102
 00:08:26,002 --> 00:08:27,471
@@ -439,67 +410,59 @@ Permettez-moi, monsieur.
 
 103
 00:08:30,431 --> 00:08:33,142
-Je veux être comme vous, monsieur Yoon.
+Je veux être comme vous, Monsieur Yoon.
 
 104
 00:08:33,572 --> 00:08:37,172
-Pourriez-vous me donner des conseils ?
-J'apprends vite, vous savez.
+Pourriez-vous me donner quelques conseils ? J'apprends vite, vous savez.
 
 105
 00:08:38,082 --> 00:08:39,111
-Donnez-moi votre téléphone.
+Laissez-moi voir votre téléphone.
 
 106
-00:08:40,212 -> 00:08:42,682
-Mon Dieu, nous échangeons nos numéros ?
+00:08:40,212 --> 00:08:42,682
+Mon Dieu, échangeons-nous nos numéros ?
 
 107
 00:08:44,782 --> 00:08:46,322
-Ce n'est pas un Soonyang.
+Ce n'est pas un de Soonyang.
 
 108
 00:08:48,991 --> 00:08:50,962
-J'en aurai un nouveau tout de suite !
+Je vais en obtenir un nouveau tout de suite !
 
 109
 00:08:52,792 --> 00:08:54,532
-Peut-il être plus sexy ?
+Pourrait-il être plus sexy ?
 
 110
 00:09:02,032 --> 00:09:03,791
-- Pouvez-vous regarder par ici ?
-- Par ici !
+- Pouvez-vous regarder par ici ? - Par ici !
 
 111
 00:09:03,871 --> 00:09:05,992
-- S'il vous plaît, regardez par ici.
-- Pouvez-vous regarder par ici ?
+- S'il vous plaît, regardez par ici. - Pouvez-vous regarder par ici ?
 
 112
 00:09:06,072 --> 00:09:07,891
-- Par ici.
-- Monsieur, s'il vous plaît.
+- Par ici. - Monsieur, s'il vous plaît.
 
 113
 00:09:07,971 --> 00:09:11,462
-- Pourriez-vous regarder par ici ?
-- Monsieur, par ici.
+- Pouvez-vous regarder par ici ? - Monsieur, par ici.
 
 114
 00:09:11,542 --> 00:09:13,702
-- Par ici, s'il vous plaît.
-- S'il vous plaît, regardez par ici.
+- Par ici, s'il vous plaît. - S'il vous plaît, regardez par ici.
 
 115
 00:09:13,782 --> 00:09:16,132
-- Par ici, s'il vous plaît.
-- Comment allez-vous ?
+- Par ici, s'il vous plaît. - Comment allez-vous ?
 
 116
 00:09:16,212 --> 00:09:18,682
-Attention. 1-0, 1-alpha
-entrent dans le bâtiment.
+Attention. 1-0, 1-alpha entrent dans le bâtiment.
 
 117
 00:09:19,182 --> 00:09:20,251
@@ -511,12 +474,11 @@ Monsieur Yoon, que signifie "1-0" ?
 
 119
 00:09:24,361 --> 00:09:27,121
-Nous ne sommes pas autorisés à nommer
-la famille du président par son nom.
+Nous ne sommes pas autorisés à désigner la famille du président par son nom.
 
 120
 00:09:27,592 --> 00:09:29,237
-Le président qui est l'aîné s'appelle 1-0,
+Le président, qui est l'aîné, est désigné par 1-0,
 
 121
 00:09:29,261 --> 00:09:30,861
@@ -524,21 +486,19 @@ et sa femme est 1-alpha.
 
 122
 00:09:31,202 --> 00:09:32,337
-Le vice-président s'appelle 2-0,
+Le vice-président est désigné par 2-0,
 
 123
 00:09:32,361 --> 00:09:34,432
-sa femme est 2-alpha,
-et sa fille est 2-1.
+sa femme est 2-alpha, et sa fille est 2-1.
 
 124
-00:09:34,631 -> 00:09:35,971
+00:09:34,631 --> 00:09:35,971
 Et ainsi de suite.
 
 125
 00:09:47,851 --> 00:09:50,751
-J'ai 1-1 et 1-2 qui montent
-du parking.
+J'ai 1-1 et 1-2 qui montent du parking.
 
 126
 00:09:52,322 --> 00:09:54,851
@@ -546,25 +506,23 @@ Qu'est-ce que c'est ? De quoi s'agit-il ?
 
 127
 00:09:55,221 --> 00:09:57,092
-Tu ne peux pas me prévenir ?
+Pouvez-vous me prévenir ?
 
 128
 00:09:57,761 --> 00:09:58,997
-La cérémonie va bientôt commencer.
+La cérémonie commencera bientôt.
 
 129
 00:09:59,021 --> 00:10:02,832
-Je ne sais pas de quoi il s'agit,
-mais dis-lui après la cérémonie.
+Je ne sais pas de quoi il s'agit, mais dites-lui après la cérémonie.
 
 130
 00:10:04,261 --> 00:10:08,401
-Ne sais-tu pas pour qui Père
-organise cette cérémonie ?
+Ne savez-vous pas pour qui le père organise cette cérémonie ?
 
 131
 00:10:09,401 --> 00:10:10,841
-La presse, les personnalités sociales éminentes,
+La presse, les personnalités éminentes,
 
 132
 00:10:10,871 --> 00:10:12,318
@@ -572,11 +530,11 @@ et les membres de votre famille exceptionnelle...
 
 133
 00:10:12,342 --> 00:10:13,871
-seront tous concentrés sur vous aujourd'hui.
+se concentreront sur vous aujourd'hui.
 
 134
-00:10:14,842 -> 00:10:16,362
-Vas-tu tout gâcher pour toi-même ?
+00:10:14,842 --> 00:10:16,362
+Allez-vous tout gâcher pour vous-même ?
 
 135
 00:10:23,712 --> 00:10:24,851
@@ -596,7 +554,7 @@ au sein du groupe Soonyang ?
 
 139
 00:10:43,432 --> 00:10:45,542
-Ça ne se passera pas comme prévu.
+Elle ne se déroulera pas comme prévu.
 
 140
 00:10:48,971 --> 00:10:50,871
@@ -608,3216 +566,3025 @@ Quoi ?
 
 142
 00:10:54,351 --> 00:10:59,102
-Dans un instant, à 11h, nous commencerons
-la cérémonie d'inauguration du buste...
+Peu après 11 heures, nous commencerons la cérémonie de dévoilement du buste...
+
+
 
 143
-01:00:59,182 --> 01:01:02,271
-du fondateur du groupe Soonyang,
-le défunt président Jin Yang Cheol.
+00:10:59,182 --> 00:11:02,271
+du fondateur du groupe Soonyang, le regretté président Jin Yang Cheol.
 
 144
-01:01:02,351 --> 01:01:03,351
+00:11:02,351 --> 00:11:03,351
 (Famille, Jin Hwa Young)
 
 145
-01:01:03,391 --> 01:01:06,761
+00:11:03,391 --> 00:11:06,761
 Nous demandons à tous les invités présents à l'événement...
 
 146
-01:01:06,922 --> 01:01:10,131
-de prendre place
-afin d'assurer une cérémonie paisible.
+00:11:06,922 --> 00:11:10,131
+de prendre place afin d'assurer une cérémonie paisible.
 
 147
-01:01:10,761 --> 01:01:14,001
-Nous commencerons bientôt
-la cérémonie d'inauguration du buste.
+00:11:10,761 --> 00:11:14,001
+Nous allons bientôt commencer la cérémonie de dévoilement du buste.
 
 148
-01:01:14,901 --> 01:01:16,621
-(Jin Seong Jun,
-Jin Young Ki, Son Jeong Rae)
+00:11:14,901 --> 00:11:16,621
+(Jin Seong Jun, Jin Young Ki, Son Jeong Rae)
 
 149
-01:11:24,542 --> 01:11:25,641
+00:11:24,542 --> 00:11:25,641
 L'accident ce jour-là.
 
 150
-01:11:27,182 --> 01:11:29,511
-Penses-tu que je ne l'aurais jamais découvert ?
+00:11:27,182 --> 00:11:29,511
+Pensiez-vous que je ne le découvrirais jamais ?
 
 151
-01:11:30,682 --> 01:11:32,922
-- Seong Jun.
-- C'est fini, Père.
+00:11:30,682 --> 00:11:32,922
+- Seong Jun. - C'est fini, Père.
 
 152
-01:11:35,052 --> 01:11:36,052
+00:11:35,052 --> 00:11:36,052
 (Président Jin Young Ki)
 
 153
-01:11:36,092 --> 01:11:37,251
+00:11:36,092 --> 00:11:37,251
 La fierté...
 
 154
-01:11:38,121 --> 01:11:40,792
-n'est crainte que lorsque quelqu'un
-en est digne.
+00:11:38,121 --> 00:11:40,792
+n'est crainte que lorsque quelqu'un est suffisamment digne.
 
 155
-01:11:42,231 --> 01:11:43,791
-Comment oses-tu renoncer à ton héritage ?
+00:11:42,231 --> 00:11:43,791
+Comment osez-vous renoncer à votre héritage !
 
 156
-01:11:45,462 --> 01:11:48,572
-Surtout quand tu n'as pas gagné
-un centime...
+00:11:45,462 --> 00:11:48,572
+Surtout quand vous n'avez pas gagné un sou...
 
 157
-01:11:48,971 --> 01:11:50,032
-par toi-même auparavant.
+00:11:48,971 --> 00:11:50,032
+par vous-même auparavant.
 
 158
-01:11:52,342 -> 01:11:53,542
-La maison où tu vis,
+00:11:52,342 --> 00:11:53,542
+La maison dans laquelle vous vivez,
 
 159
-01:11:54,172 --> 01:11:57,542
-ta voiture, ton titre, ta femme,
+00:11:54,172 --> 00:11:57,542
+votre voiture, votre titre, votre femme,
 
 160
-01:11:58,511 --> 01:12:00,842
-et même ton nom.
+00:11:58,511 --> 00:12:00,842
+et même votre nom.
 
 161
-01:12:02,151 --> 01:12:03,851
-Ce dont tu as joui...
+00:12:02,151 --> 00:12:03,851
+Ce dont vous avez profité...
 
 162
-01:12:04,782 --> 01:12:09,192
-t'a été donné par moi,
-ton grand-père, et Soonyang.
+00:12:04,782 --> 00:12:09,192
+vous a été donné par moi, votre grand-père, et par Soonyang.
 
 163
-01:12:12,361 --> 01:12:13,621
+00:12:12,361 --> 00:12:13,621
 La fierté...
 
 164
-01:12:15,332 --> 01:12:17,112
-est un luxe pour ceux seulement...
+00:12:15,332 --> 00:12:17,112
+est un luxe réservé à ceux...
 
 165
-01:12:17,192 --> 01:12:19,001
-qui peuvent réellement
-laisser le train de vie derrière eux.
+00:12:17,192 --> 00:12:19,001
+qui peuvent réellement abandonner ce style de vie.
 
 166
-01:12:21,501 --> 01:12:23,302
-Vous n'êtes pas un homme de ce calibre.
+00:12:21,501 --> 00:12:23,302
+Vous n'êtes pas un homme de cette envergure.
 
 167
-01:12:24,741 --> 01:12:26,101
+00:12:24,741 --> 00:12:26,101
 Personne ne le sait mieux que moi.
 
 168
-01:12:30,241 --> 01:12:31,611
+00:12:30,241 --> 00:12:31,611
 Tout ce que j'ai fait...
 
 169
-01:12:33,481 --> 01:12:35,712
-était de mon mieux en tant que père.
+00:12:33,481 --> 00:12:35,712
+c'était de mon mieux en tant que votre père.
 
 170
-01:12:40,552 --> 01:12:41,822
-C'était pour mon bien, dis-tu ?
+00:12:40,552 --> 00:12:41,822
+C'était pour mon bien, dites-vous ?
 
 171
-01:12:44,991 --> 01:12:46,092
-Tu...
+00:12:44,991 --> 00:12:46,092
+Vous...
 
 172
-01:12:48,032 --> 01:12:51,062
-m'as étouffé de la manière
-la plus cruelle.
+00:12:48,032 --> 00:12:51,062
+m'étouffiez de la manière la plus cruelle.
 
 173
-01:12:53,101 --> 01:12:54,601
-Que je n'en suis pas digne.
+00:12:53,101 --> 00:12:54,601
+Que je ne suis pas digne.
 
 174
-01:12:55,771 --> 01:12:58,271
+00:12:55,771 --> 00:12:58,271
 Que je ne suis pas un homme capable de diriger Soonyang.
 
 175
-01:12:59,741 --> 01:13:03,771
-Tu me l'as dit à ta manière...
+00:12:59,741 --> 00:13:03,771
+Vous me l'avez dit à votre manière...
 
 176
-01:13:05,481 --> 01:13:06,721
+00:13:05,481 --> 00:13:06,721
 en faisant ce choix ce jour-là.
 
 177
-01:13:12,751 --> 01:13:14,231
-C'est moi qui réponds aux attentes.
+00:13:12,751 --> 00:13:14,231
+C'est moi qui suis à la hauteur des attentes.
 
 178
-01:13:15,452 --> 01:13:16,452
+00:13:15,452 --> 00:13:16,452
 Ne pars pas.
 
 179
-01:13:17,452 --> 01:13:18,462
+00:13:17,452 --> 00:13:18,462
 Ne...
 
 180
-01:13:31,741 --> 01:13:33,401
-Monsieur le président Jin, il est temps.
+00:13:31,741 --> 00:13:33,401
+Président Jin, il est temps.
 
 181
-01:13:35,241 --> 01:13:36,312
-Monsieur le président Jin ?
+00:13:35,241 --> 00:13:36,312
+Président Jin ?
 
 182
-01:13:37,942 --> 01:13:39,481
-Monsieur le président Jin, c'est Yoon Hyeon Woo.
+00:13:37,942 --> 00:13:39,481
+Président Jin, c'est Yoon Hyeon Woo.
 
 183
-01:13:43,611 --> 01:13:45,621
+00:13:43,611 --> 00:13:45,621
 Monsieur !
 
 184
-01:13:47,891 --> 01:13:48,891
+00:13:47,891 --> 00:13:48,891
 Monsieur ?
 
 185
-01:13:52,962 --> 01:13:53,997
-Envoyez des ambulanciers dans le bureau du président.
+00:13:52,962 --> 00:13:53,997
+Envoyez des ambulanciers au bureau du président.
 
 186
-01:13:54,021 --> 01:13:55,062
+00:13:54,021 --> 00:13:55,062
 C'est une urgence.
 
 187
-01:13:56,562 --> 01:13:58,462
+00:13:56,562 --> 00:13:58,462
 Monsieur ?
 
 188
-01:13:59,332 --> 01:14:00,401
+00:13:59,332 --> 00:14:00,401
 Monsieur !
 
 189
-01:14:04,672 --> 01:14:05,771
+00:14:04,672 --> 00:14:05,771
 Zut.
 
 190
-01:14:11,782 --> 01:14:13,312
+00:14:11,782 --> 00:14:13,312
 Allez. Dépêchez-vous !
 
 191
-01:14:21,082 --> 01:14:22,952
+00:14:21,082 --> 00:14:22,952
 Vous avez dit que Young Ki serait derrière les barreaux.
 
 192
-01:14:23,991 --> 01:14:26,092
+00:14:23,991 --> 00:14:26,092
 Vous ne tenez jamais vos promesses.
 
 193
-01:14:27,062 --> 01:14:28,631
+00:14:27,062 --> 00:14:28,631
 Ces maudits politiciens.
 
 194
-01:14:28,832 --> 01:14:31,681
-La politique devrait être menée
-dans une large perspective.
+00:14:28,832 --> 00:14:31,681
+La politique doit être menée dans une perspective large.
 
 195
-01:14:31,761 --> 01:14:33,138
-La nation entière
-ne devrait pas avoir à souffrir...
+00:14:31,761 --> 00:14:33,138
+La nation entière ne devrait pas avoir à souffrir...
 
 196
-01:14:33,162 --> 01:14:34,601
-d'une querelle de famille.
+00:14:33,162 --> 00:14:34,601
+d'une querelle familiale.
 
 197
-01:14:35,202 --> 01:14:36,891
+00:14:35,202 --> 00:14:36,891
 "Soonyang dirige l'économie sud-coréenne."
 
 198
-01:14:36,971 --> 01:14:38,462
+00:14:36,971 --> 00:14:38,462
 Votre famille en est fière.
 
 199
-01:14:38,542 --> 01:14:40,691
-Je suis sur le point d'assister
-au couronnement de Seong Jun...
+00:14:38,542 --> 00:14:40,691
+Je suis sur le point d'assister au couronnement de Seong Jun...
 
 200
-01:14:40,771 --> 01:14:44,172
-lors de la cérémonie conçue
-pour commémorer mon père...
+00:14:40,771 --> 00:14:44,172
+lors de la cérémonie conçue pour commémorer mon père...
 
 201
-01:14:44,712 --> 01:14:46,502
+00:14:44,712 --> 00:14:46,502
 tout en applaudissant à tout rompre.
 
 202
-01:14:46,582 --> 01:14:49,832
-C'est pourquoi tu aurais dû
-me soutenir à l'époque...
+00:14:46,582 --> 00:14:49,832
+C'est pourquoi vous auriez dû me soutenir à l'époque...
 
 203
-01:14:49,912 --> 01:14:51,171
-au lieu de ta propre famille.
+00:14:49,912 --> 00:14:51,171
+au lieu de votre propre famille.
 
 204
-01:14:51,251 --> 01:14:52,301
-Si tu avais fait ça,
+00:14:51,251 --> 00:14:52,301
+Si vous l'aviez fait,
 
 205
-01:14:52,381 --> 01:14:53,497
-c'est toi qui aurais réclamé le trône.
+00:14:52,381 --> 00:14:53,497
+c'est vous qui auriez revendiqué le trône.
 
 206
-01:14:53,521 --> 01:14:55,372
-- Pas question.
-- Si.
+00:14:53,521 --> 00:14:55,372
+- Pas question. - Si fait.
 
 207
-01:14:55,452 --> 01:14:56,911
-- Pas question.
-- Si.
+00:14:55,452 --> 00:14:56,911
+- Pas question. - Si fait.
 
 208
-01:14:56,991 --> 01:14:58,982
-- Quelle maturité.
-- Je suis content que vous l'ayez remarqué.
+00:14:56,991 --> 00:14:58,982
+- Comme vous êtes mature. - Je suis content que vous ayez remarqué.
 
 209
-01:14:59,062 --> 01:15:00,938
-- Avez-vous la démence ?
-- Vous ne savez rien de...
+00:14:59,062 --> 00:15:00,938
+- Est-ce de la démence que vous avez ? - Vous ne savez rien de...
 
 210
-01:15:00,962 --> 01:15:02,532
-Mon Dieu, directeur Kim.
+00:15:00,962 --> 00:15:02,532
+Bon sang, Directeur Kim.
 
 211
-01:15:03,891 --> 01:15:05,582
+00:15:03,891 --> 00:15:05,582
 Alors ? De quoi s'agit-il ?
 
 212
-01:15:05,662 --> 01:15:07,761
+00:15:05,662 --> 00:15:07,761
 Permettez-moi de vous le dire à l'intérieur.
 
 213
-01:15:18,641 --> 01:15:19,641
+00:15:18,641 --> 00:15:19,641
 Qu'est-ce que c'est ?
 
 214
-01:15:20,782 --> 01:15:22,312
+00:15:20,782 --> 00:15:22,312
 Pourquoi nous avez-vous réunis en privé ?
 
 215
-01:15:24,212 --> 01:15:27,721
-Le président est actuellement
-en chirurgie d'urgence...
+00:15:24,212 --> 00:15:27,721
+Le président subit actuellement une intervention chirurgicale d'urgence...
 
 216
-01:15:28,491 --> 01:15:31,662
+00:15:28,491 --> 00:15:31,662
 pour un infarctus aigu du myocarde.
 
 217
-01:15:32,021 --> 01:15:33,092
+00:15:32,021 --> 00:15:33,092
 Quoi ?
 
 218
-01:15:40,401 --> 01:15:41,771
-Qu'en est-il de la cérémonie d'inauguration ?
+00:15:40,401 --> 00:15:41,771
+Qu'en est-il de la cérémonie de dévoilement ?
 
 219
-01:15:42,631 --> 01:15:44,601
+00:15:42,631 --> 00:15:44,601
 Nous procéderons comme prévu.
 
 220
-01:15:44,802 --> 01:15:48,641
-Publier un communiqué de presse
-nuirait au cours de nos actions.
+00:15:44,802 --> 00:15:48,641
+La publication d'un communiqué de presse nuira au cours de notre action.
 
 221
-01:15:49,212 --> 01:15:51,582
+00:15:49,212 --> 00:15:51,582
 L'annonce spéciale...
 
 222
-01:15:51,881 --> 01:15:55,571
-devrait venir du président
-pour qu'elle soit significative.
+00:15:51,881 --> 00:15:55,571
+devrait venir du président pour qu'elle soit significative.
 
 223
-01:15:55,651 --> 01:15:57,258
-- Bien sûr.
-- Le président d'une entreprise...
+00:15:55,651 --> 00:15:57,258
+- Bien sûr. - Le président d'une entreprise...
 
 224
-01:15:57,282 --> 01:15:58,801
-que le parquet vient de libérer...
+00:15:57,282 --> 00:15:58,801
+qui vient d'être libéré par le parquet...
 
 225
-01:15:58,881 --> 01:16:00,952
+00:15:58,881 --> 00:16:00,952
 a maintenant rencontré un problème de santé.
 
+
+
 226
-01:16:01,552 --> 01:16:04,842
-Manquer de leadership
-n'aidera pas l'entreprise.
+00:16:01,552 --> 00:16:04,842
+Afficher un manque de leadership n'aidera pas l'entreprise.
 
 227
-01:16:04,922 --> 01:16:06,292
-Alors ?
+00:16:04,922 --> 00:16:06,292
+Et alors ?
 
 228
-01:16:08,261 --> 01:16:10,112
-Qui devrait l'annoncer à la place ?
+00:16:08,261 --> 00:16:10,112
+Qui devrait l'annoncer à sa place ?
 
 229
-01:16:10,192 --> 01:16:12,532
+00:16:10,192 --> 00:16:12,532
 Chérie, as-tu apporté une autre cravate ?
 
 230
-01:16:13,401 --> 01:16:15,101
+00:16:13,401 --> 00:16:15,101
 Elle est dans la voiture. Dois-je aller la chercher ?
 
 231
-01:16:15,532 --> 01:16:16,572
+00:16:15,532 --> 00:16:16,572
 Oui.
 
 232
-01:16:16,672 --> 01:16:18,912
-Le vice-président Jin Seong Jun
-devrait faire l'annonce.
+00:16:16,672 --> 00:16:18,912
+Le vice-président Jin Seong Jun devrait faire l'annonce.
 
 233
-01:16:21,371 --> 01:16:22,412
+00:16:21,371 --> 00:16:22,412
 Quoi ?
 
 234
-01:16:22,741 --> 01:16:23,912
+00:16:22,741 --> 00:16:23,912
 L'annonce.
 
 235
-01:16:24,111 --> 01:16:25,518
-La restructuration
-de la hiérarchie de l'organisation...
+00:16:24,111 --> 00:16:25,518
+La restructuration de la hiérarchie organisationnelle...
 
 236
-01:16:25,542 --> 01:16:26,962
+00:16:25,542 --> 00:16:26,962
 peut sembler complexe,
 
 237
-01:16:27,042 --> 01:16:28,712
+00:16:27,042 --> 00:16:28,712
 mais le problème est simple.
 
 238
-01:16:29,151 --> 01:16:30,732
-Comment Soonyang résoudra-t-il son problème...
+00:16:29,151 --> 00:16:30,732
+Comment Soonyang va-t-il résoudre son problème...
 
 239
-01:16:30,812 --> 01:16:32,521
-autour de la succession ?
+00:16:30,812 --> 00:16:32,521
+concernant la succession ?
 
 240
-01:16:33,021 --> 01:16:34,028
-N'ont-ils pas tous envie de voir...
+00:16:33,021 --> 00:16:34,028
+Ne veulent-ils pas tous voir...
 
 241
-01:16:34,052 --> 01:16:35,952
-le vice-président prendre la relève ?
+00:16:34,052 --> 00:16:35,952
+le vice-président se lancer ?
 
 242
-01:16:36,351 --> 01:16:39,521
-Le gouvernement, le peuple,
-et aussi nos actionnaires.
+00:16:36,351 --> 00:16:39,521
+Le gouvernement, le peuple, et aussi nos actionnaires.
 
 243
-01:16:41,662 --> 01:16:42,742
+00:16:41,662 --> 00:16:42,742
 N'êtes-vous pas d'accord, Hyeon Min ?
 
 244
-01:17:04,981 --> 01:17:06,021
-J'entends que vous m'avez fait appeler.
+00:17:04,981 --> 00:17:06,021
+J'ai entendu dire que vous m'aviez convoqué.
 
 245
-01:17:07,082 --> 01:17:10,752
+00:17:07,082 --> 00:17:10,752
 Vous n'avez jamais à demander deux fois à M. Yoon.
 
 246
-01:17:16,431 --> 01:17:18,062
+00:17:16,431 --> 00:17:18,062
 Après la cérémonie de dévoilement,
 
 247
-01:17:18,201 --> 01:17:21,131
-Soonyang fera
-une annonce publique spéciale.
+00:17:18,201 --> 00:17:21,131
+Soonyang fera une annonce publique spéciale.
 
 248
-01:17:21,732 --> 01:17:24,871
-Le vice-président Jin Seong Jun
-prononcera le discours.
+00:17:21,732 --> 00:17:24,871
+Le vice-président Jin Seong Jun prononcera le discours.
 
 249
-01:17:26,842 --> 01:17:29,342
-La cérémonie sera terminée dans 30 minutes.
+00:17:26,842 --> 00:17:29,342
+La cérémonie se terminera dans 30 minutes.
 
 250
-01:17:29,512 --> 01:17:31,881
+00:17:29,512 --> 00:17:31,881
 Où qu'il soit allé, vous devez le trouver...
 
 251
-01:17:32,441 --> 01:17:33,641
+00:17:32,441 --> 00:17:33,641
 et me l'amener.
 
 252
-01:17:33,742 --> 01:17:35,681
-Le temps n'est pas un luxe que nous avons, Monsieur Yoon.
+00:17:33,742 --> 00:17:35,681
+Le temps n'est pas un luxe que nous avons, M. Yoon.
 
 253
-01:17:36,052 --> 01:17:37,312
+00:17:36,052 --> 00:17:37,312
 Vous devez vous dépêcher.
 
 254
-01:17:42,052 --> 01:17:46,062
+00:17:42,052 --> 00:17:46,062
 S'il n'est pas sur le podium à ce moment-là,
 
 255
-01:17:46,961 --> 01:17:49,532
-vous n'aurez plus votre place chez Soonyang.
+00:17:46,961 --> 00:17:49,532
+vous n'aurez plus de place chez Soonyang.
 
 256
-01:17:54,802 --> 01:17:57,322
-L'itinéraire le plus court vers l'hôtel vous permettra d'être de retour en 20 minutes.
+00:17:54,802 --> 00:17:57,322
+L'itinéraire le plus court vers l'hôtel vous ramènera en 20 minutes.
 
 257
-01:17:58,472 --> 01:18:00,101
-- Je vais conduire.
-- Bien sûr.
+00:17:58,472 --> 00:18:00,101
+- Je conduirai. - Bien sûr.
 
 258
-01:18:03,871 --> 01:18:05,357
-Le seul problème est que
-le grand magasin à proximité...
+00:18:03,871 --> 00:18:05,357
+Le seul problème est que le grand magasin voisin...
 
 259
-01:18:05,381 --> 01:18:07,058
-a un événement de ventes,
-et c'est l'heure du déjeuner.
+00:18:05,381 --> 00:18:07,058
+organise une vente et c'est l'heure du déjeuner.
 
 260
-01:18:07,082 --> 01:18:08,951
-Si nous restons bloqués à l'hôtel,
+00:18:07,082 --> 00:18:08,951
+Si nous sommes bloqués à l'hôtel,
 
 261
-01:18:09,111 --> 01:18:11,312
+00:18:09,111 --> 00:18:11,312
 trente minutes ne suffiront pas.
 
 262
-01:18:12,582 -> 01:18:15,322
-Vous devriez vous plaindre officiellement
-de cette tâche déraisonnable.
+00:18:12,582 --> 00:18:15,322
+Vous devriez vous plaindre formellement de cette tâche déraisonnable.
 
 263
-01:18:15,592 --> 01:18:17,252
+00:18:15,592 --> 00:18:17,252
 Vous avez dit que vous vouliez être comme moi.
 
 264
-01:18:17,951 --> 01:18:18,951
+00:18:17,951 --> 00:18:18,951
 Bien sûr.
 
 265
-01:18:18,992 --> 01:18:20,921
-- Vous souhaitez une longue carrière.
-- Oui.
+00:18:18,992 --> 00:18:20,921
+- Vous souhaitez une longue carrière. - Oui.
 
 266
-01:18:21,322 --> 01:18:22,931
+00:18:21,322 --> 00:18:22,931
 Il y a trois choses que je ne fais jamais.
 
 267
-01:18:23,431 --> 01:18:24,901
-Trois choses. Juste une seconde.
+00:18:23,431 --> 00:18:24,901
+Trois choses. Une seconde.
 
 268
-01:18:25,562 -> 01:18:27,602
-Je ne refuse jamais les ordres
-donnés par la famille du président.
+00:18:25,562 --> 00:18:27,602
+Je ne refuse jamais les ordres de la famille du président.
 
 269
-01:18:28,131 -> 01:18:30,101
+00:18:28,131 --> 00:18:30,101
 Je ne pose jamais de questions, et...
 
 270
-01:18:35,742 --> 01:18:38,782
-Je ne porte jamais mon propre jugement.
+00:18:35,742 --> 00:18:38,782
+je ne porte jamais mon propre jugement.
 
 271
-01:18:40,582 --> 01:18:41,582
+00:18:40,582 --> 00:18:41,582
 Ce sont mes règles.
 
 272
-01:19:24,492 --> 01:19:26,921
+00:19:24,492 --> 00:19:26,921
 Excusez-moi. Vice-président Jin ?
 
 273
-01:19:32,661 --> 01:19:33,661
+00:19:32,661 --> 00:19:33,661
 Vice-président Jin ?
 
 274
-01:19:38,701 --> 01:19:39,772
+00:19:38,701 --> 00:19:39,772
 Silence.
 
 275
-01:19:42,171 --> 01:19:44,111
+00:19:42,171 --> 00:19:44,111
 Je peux les entendre parler.
 
 276
-01:19:46,111 --> 01:19:49,851
-Ils peuvent sentir les tremblements
-sur les côtés de leur corps.
+00:19:46,111 --> 00:19:49,851
+Ils peuvent sentir des tremblements sur les côtés de leur corps.
 
 277
-01:19:51,082 --> 01:19:53,451
-Actuellement, ils parlent fort.
+00:19:51,082 --> 00:19:53,451
+En ce moment, ils parlent fort.
 
 278
-01:19:55,322 --> 01:19:56,651
-Ils veulent que nous soyons silencieux.
+00:19:55,322 --> 00:19:56,651
+Ils veulent que nous nous taisions.
 
 279
-01:19:59,262 --> 01:20:00,982
+00:19:59,262 --> 00:20:00,982
 Cuisine française...
 
 280
-01:20:01,062 --> 01:20:02,867
-à base d'ingrédients de saison
-sera servie...
+00:20:01,062 --> 00:20:02,867
+à base d'ingrédients de saison sera servie...
 
 281
-01:20:02,891 --> 01:20:05,131
-En cas de danger,
+00:20:02,891 --> 00:20:05,131
+En danger,
 
 282
-01:20:06,161 --> 01:20:08,472
+00:20:06,161 --> 00:20:08,472
 ils envoient un signal de détresse.
 
 283
-01:20:10,631 --> 01:20:11,722
+00:20:10,631 --> 00:20:11,722
 Savez-vous ce que c'est ?
 
 284
-01:20:11,802 --> 01:20:14,701
-Si vous n'êtes pas intéressé,
-nous ne servirons pas le déjeuner aujourd'hui.
+00:20:11,802 --> 00:20:14,701
+Si vous n'êtes pas intéressé, nous ne servirons pas le déjeuner aujourd'hui.
 
 285
-01:20:20,042 --> 01:20:21,082
+00:20:20,042 --> 00:20:21,082
 Monsieur ?
 
 286
-01:20:22,782 --> 01:20:23,782
+00:20:22,782 --> 00:20:23,782
 Vice-président Jin ?
 
 287
-01:20:26,782 --> 01:20:28,322
+00:20:26,782 --> 00:20:28,322
 Ne vous ai-je pas dit de vous taire ?
 
 288
-01:20:29,592 --> 01:20:30,621
+00:20:29,592 --> 00:20:30,621
 Je viens de le dire.
 
 289
-01:20:32,592 --> 01:20:34,161
+00:20:32,592 --> 00:20:34,161
 S'il vous plaît !
 
 290
-01:20:46,972 --> 01:20:48,472
-J'ai tout gâché.
+00:20:46,972 --> 00:20:48,472
+Je l'ai gâché.
 
 291
-01:20:48,871 --> 01:20:50,371
-J'ai tout gâché !
+00:20:48,871 --> 00:20:50,371
+Je l'ai gâché !
 
 292
-01:20:51,842 --> 01:20:53,881
-Vous connaissiez la réponse !
+00:20:51,842 --> 00:20:53,881
+Tu connaissais la réponse !
 
 293
-01:20:58,451 --> 01:21:01,381
-Tu vas faire pipi.
+00:20:58,451 --> 00:21:01,381
+Tu vas pisser.
 
 294
-01:21:03,792 --> 01:21:05,161
-Tout comme maintenant.
+00:21:03,792 --> 00:21:05,161
+Comme maintenant.
 
 295
-01:21:11,032 -> 01:21:14,032
+00:21:11,032 --> 00:21:14,032
 Un, deux, trois !
 
 296
-01:21:28,282 --> 01:21:31,881
-Qui vous a traité d'intelligent
-alors que vous êtes le contraire ?
+00:21:28,282 --> 00:21:31,881
+Qui t'a dit que tu étais intelligent alors que tu es le contraire ?
 
 297
-01:21:32,482 --> 01:21:35,322
-Pourquoi laisseriez-vous Seong Jun
-faire l'annonce ?
+00:21:32,482 --> 00:21:35,322
+Pourquoi avez-vous laissé Seong Jun faire l'annonce ?
 
 298
-01:21:35,891 --> 01:21:38,281
-Vous ne feriez que solidifier
-sa position dans l'entreprise.
+00:21:35,891 --> 00:21:38,281
+Vous ne feriez que solidifier sa position dans l'entreprise.
 
 299
-01:21:38,361 --> 01:21:39,592
+00:21:38,361 --> 00:21:39,592
 Ne le savez-vous pas ?
 
 300
-01:21:40,691 --> 01:21:43,431
-Ce ne sera vrai
-que lorsqu'il fera l'annonce.
+00:21:40,691 --> 00:21:43,431
+Ce ne sera vrai que lorsqu'il fera l'annonce.
 
 301
-01:21:45,131 --> 01:21:48,131
-Vous dites qu'il ne sera pas là ?
+00:21:45,131 --> 00:21:48,131
+Vous voulez dire qu'il ne sera pas là ?
 
 302
-01:21:48,601 --> 01:21:50,171
+00:21:48,601 --> 00:21:50,171
 Ce sera officiel.
 
 303
-01:21:50,871 --> 01:21:53,502
-Vice-président Jin Seong Jun...
+00:21:50,871 --> 00:21:53,502
+Le vice-président Jin Seong Jun...
 
 304
-01:21:53,671 --> 01:21:56,611
-est un peu trop dangereux
-pour prendre la relève.
+00:21:53,671 --> 00:21:56,611
+est un peu trop dangereux pour prendre le relais.
 
 305
-01:22:12,762 --> 01:22:14,492
+00:22:12,762 --> 00:22:14,492
 Zut !
 
 306
-01:22:14,792 -> 01:22:16,292
-Si tu avais été silencieux,
+00:22:14,792 --> 00:22:16,292
+Si vous étiez resté silencieux,
 
 307
-01:22:16,832 --> 01:22:18,661
+00:22:16,832 --> 00:22:18,661
 rien de tout cela ne serait arrivé.
 
+
+
 308
-01:22:21,461 --> 01:22:25,901
-Encore une fois, vous pensez que je suis le méchant.
+00:22:21,461 --> 00:22:25,901
+Une fois de plus, vous pensez que je suis le méchant.
 
 309
-01:22:26,601 --> 01:22:28,711
+00:22:26,601 --> 00:22:28,711
 Pourquoi me faire passer pour tel...
 
 310
-01:22:28,911 --> 01:22:30,972
+00:22:28,911 --> 00:22:30,972
 alors que c'est vous qui êtes en faute ?
 
 311
-01:22:32,141 -> 01:22:33,211
+00:22:32,141 --> 00:22:33,211
 Pourquoi ?
 
 312
-01:22:35,651 --> 01:22:36,651
+00:22:35,651 --> 00:22:36,651
 Monsieur Jin...
 
 313
-01:22:37,552 --> 01:22:39,822
-Monsieur Yoon, ça va ?
+00:22:37,552 --> 00:22:39,822
+Monsieur Yoon, allez-vous bien ?
 
 314
-01:22:44,651 --> 01:22:46,792
-Monsieur Shin, raccompagnez tout le monde.
+00:22:44,651 --> 00:22:46,792
+Monsieur Shin, faites sortir tout le monde.
 
 315
-01:22:47,022 --> 01:22:48,691
+00:22:47,022 --> 00:22:48,691
 Bien sûr. Partons. Allez.
 
 316
-01:22:49,332 --> 01:22:50,492
+00:22:49,332 --> 00:22:50,492
 Oh, non.
 
 317
-01:23:23,232 --> 01:23:24,661
-Cela s'est passé en 1987,
+00:23:23,232 --> 00:23:24,661
+C'est arrivé en 1987,
 
 318
-01:23:26,461 --> 01:23:28,572
-lors de la fête du 60e anniversaire
-de votre grand-père,
+00:23:26,461 --> 00:23:28,572
+lors de la fête du 60ème anniversaire de votre grand-père,
 
 319
-01:23:28,931 --> 01:23:30,272
+00:23:28,931 --> 00:23:30,272
 l'ancien président Jin.
 
 320
-01:23:30,832 --> 01:23:34,141
-Vous avez brisé la céladon de Goryeo
-qu'il chérissait...
+00:23:30,832 --> 00:23:34,141
+Vous avez cassé le céladon Goryeo qu'il chérissait...
 
 321
-01:23:34,901 --> 01:23:37,732
+00:23:34,901 --> 00:23:37,732
 et il vous a grondé pour la première fois.
 
 322
-01:23:37,812 -> 01:23:40,181
-- Quoi ?
-- Pas à cause du céladon.
+00:23:37,812 --> 00:23:40,181
+- Quoi ? - Pas à cause du céladon.
 
 323
-01:23:43,381 --> 01:23:46,151
-Parce que se laisser emporter par les émotions...
+00:23:43,381 --> 00:23:46,151
+Parce qu'être guidé par ses émotions...
 
 324
-01:23:46,752 --> 01:23:49,151
-n'était pas une qualité suffisante
-chez quelqu'un...
+00:23:46,752 --> 00:23:49,151
+n'était pas une qualité suffisante pour quelqu'un...
 
 325
-01:23:51,651 --> 01:23:53,811
-qui devait diriger une entreprise
-comme Soonyang.
+00:23:51,651 --> 00:23:53,811
+qui devait diriger une entreprise comme Soonyang.
 
 326
-01:23:53,891 --> 01:23:55,861
-- Monsieur Yoon !
-- Je l'ai lu...
+00:23:53,891 --> 00:23:55,861
+- Monsieur Yoon ! - Je l'ai lu...
 
 327
-01:23:56,562 --> 01:23:58,401
+00:23:56,562 --> 00:23:58,401
 dans son autobiographie.
 
 328
-01:23:59,302 --> 01:24:01,752
-Depuis ce jour, vous avez approfondi
-ses enseignements...
+00:23:59,302 --> 00:24:01,752
+Depuis ce jour, vous avez affiné ses enseignements...
 
 329
-01:24:01,832 --> 01:24:04,171
-et réfléchi aux vraies qualités
-d'un homme d'affaires.
+00:24:01,832 --> 00:24:04,171
+et avez réfléchi aux véritables qualités d'un homme d'affaires.
 
 330
-01:24:04,272 --> 01:24:05,302
-C'est ainsi...
+00:24:04,272 --> 00:24:05,302
+C'est ainsi que...
 
 331
-01:24:07,302 --> 01:24:08,611
-que vous avez pu...
+00:24:07,302 --> 00:24:08,611
+vous avez pu...
 
 332
-01:24:09,941 --> 01:24:12,641
-devenir un homme d'affaires
-responsable et prudent.
+00:24:09,941 --> 00:24:12,641
+devenir l'homme d'affaires responsable et prudent que vous êtes.
 
 333
-01:24:13,242 --> 01:24:16,052
-L'équipe des relations publiques prépare
-un communiqué de presse.
+00:24:13,242 --> 00:24:16,052
+L'équipe des relations publiques prépare un communiqué de presse.
 
 334
-01:24:16,482 --> 01:24:18,552
-Vous n'étiez en retard
-à la cérémonie de dévoilement...
+00:24:16,482 --> 00:24:18,552
+Vous n'avez été en retard à la cérémonie de dévoilement...
 
 335
-01:24:19,421 --> 01:24:21,651
-que parce que vous avez attendu
-jusqu'à la dernière seconde...
+00:24:19,421 --> 00:24:21,651
+que parce que vous êtes resté jusqu'à la dernière seconde...
 
 336
-01:24:21,891 --> 01:24:24,992
-afin de refléter prudemment
-la philosophie de gestion...
+00:24:21,891 --> 00:24:24,992
+afin de refléter prudemment la philosophie de gestion...
 
 337
-01:24:26,161 --> 01:24:27,992
-du défunt président...
+00:24:26,161 --> 00:24:27,992
+du regretté président dans l'annonce.
 
 338
-01:24:28,792 --> 01:24:30,762
-dans l'annonce.
-
-339
-01:24:31,262 --> 01:24:33,062
+00:24:28,792 --> 00:24:30,762
 La cérémonie se termine...
 
-340
-01:24:34,131 --> 01:24:35,332
+339
+00:24:31,262 --> 00:24:33,062
 dans 12 minutes.
 
+340
+00:24:34,131 --> 00:24:35,332
+Si vous y arrivez à ce moment-là,
+
 341
-01:24:36,131 --> 01:24:37,772
-Si vous y arrivez avant ce délai,
+00:24:36,131 --> 00:24:37,772
+personne ne trouvera à redire aux événements d'aujourd'hui.
 
 342
-01:24:39,002 --> 01:24:41,401
-personne ne remettra en question les événements d'aujourd'hui.
-
-343
-01:24:54,381 --> 01:24:55,522
+00:24:39,002 --> 00:24:41,401
 Attendez-moi dehors.
 
+343
+00:24:54,381 --> 00:24:55,522
+Le président est actuellement opéré d'urgence.
+
 344
-01:25:20,782 --> 01:25:24,582
-Le président est actuellement
-en chirurgie d'urgence.
+00:25:20,782 --> 00:25:24,582
+Ce qui s'est passé dans cette pièce avant son effondrement...
 
 345
-01:25:26,351 --> 01:25:30,391
-Ce qui s'est passé dans cette pièce
-avant qu'il ne s'effondre...
-
-346
-01:25:32,762 --> 01:25:34,861
+00:25:26,351 --> 00:25:30,391
 ne sera jamais rendu public.
 
-347
-01:25:42,101 --> 01:25:43,472
+346
+00:25:32,762 --> 00:25:34,861
 Car je...
 
-348
-01:25:46,002 --> 01:25:47,342
+347
+00:25:42,101 --> 00:25:43,472
 ne parlerai jamais.
 
-349
-01:25:52,242 --> 01:25:53,441
+348
+00:25:46,002 --> 00:25:47,342
 Vous avez dix minutes.
 
-350
-01:25:53,911 --> 01:25:55,711
-Je ne vous demande que votre coopération.
+349
+00:25:52,242 --> 00:25:53,441
+Je ne demande que votre coopération.
 
-351
-01:26:25,982 -> 01:26:28,611
+350
+00:25:53,911 --> 00:25:55,711
 Promouvoir des absurdités telles que...
 
+351
+00:26:25,982 --> 00:26:28,611
+la gestion ouverte d'esprit...
+
 352
-01:26:29,812 --> 01:26:31,752
-une gestion ouverte...
+00:26:29,812 --> 00:26:31,752
+fait aboyer les bâtards à leurs maîtres, Monsieur Yoon.
 
 353
-01:26:32,022 --> 01:26:35,651
-fait aboyer les roquets
-contre leurs maîtres, Monsieur Yoon.
+00:26:32,022 --> 00:26:35,651
+Faites préparer la voiture.
 
 354
-01:26:46,832 --> 01:26:48,232
-Préparez la voiture.
-
-355
-01:26:52,572 --> 01:26:54,742
+00:26:46,832 --> 00:26:48,232
 Merci, Monsieur Jin.
 
-356
-01:26:55,542 --> 01:26:56,611
+355
+00:26:52,572 --> 00:26:54,742
 Merci.
 
-357
-01:27:25,401 --> 01:27:27,671
+356
+00:26:55,542 --> 00:26:56,611
 Mon Dieu. Je m'excuse de mon retard.
 
-358
-01:27:30,012 --> 01:27:32,611
+357
+00:27:25,401 --> 00:27:27,671
 Notre Soonyang...
 
+358
+00:27:30,012 --> 00:27:32,611
+souhaite faire preuve de diligence raisonnable en tant que l'une des principales entreprises de Corée...
+
 359
-01:27:33,911 --> 01:27:37,752
-souhaite faire preuve de diligence
-en tant que l'une des meilleures entreprises de Corée...
+00:27:33,911 --> 00:27:37,752
+en étant fiable et en respectant les normes éthiques du peuple.
 
 360
-01:27:38,451 --> 01:27:41,552
-en étant fiable et en respectant
-les normes éthiques du peuple.
+00:27:38,451 --> 00:27:41,552
+Soonyang sera restructurée en société holding...
 
 361
-01:27:42,292 --> 01:27:45,781
-Soonyang sera restructuré
-en holding...
-
-362
-01:27:45,861 --> 01:27:47,682
+00:27:42,292 --> 00:27:45,781
 pour améliorer la qualité des actifs...
 
+362
+00:27:45,861 --> 00:27:47,682
+ce qui est un problème pour lequel le groupe a été maintes fois...
+
 363
-01:27:47,762 --> 01:27:49,367
-ce qui est un problème que le groupe
-a de nombreuses fois...
+00:27:47,762 --> 00:27:49,367
+interpellé.
 
 364
-01:27:49,391 --> 01:27:51,191
-Signalé.
+00:27:49,391 --> 00:27:51,191
+(Famille)
 
 365
-01:27:52,661 --> 01:27:54,152
+00:27:52,661 --> 00:27:54,152
 (Famille)
 
 366
-01:27:54,232 --> 01:27:56,131
-(Famille)
+00:27:54,232 --> 00:27:56,131
+Je suis bien consciente...
 
 367
-01:27:57,472 --> 01:27:58,871
-Je suis bien conscient...
+00:27:57,472 --> 00:27:58,871
+que Soonyang a été critiquée pour avoir éludé la loi...
 
 368
-01:27:59,542 --> 01:28:03,512
-que Soonyang a été critiqué
-pour avoir échappé à la loi...
+00:27:59,542 --> 00:28:03,512
+lors de ses tumultueux processus de succession précédents.
 
 369
-01:28:04,842 --> 01:28:08,582
-lors de ses processus de succession
-anciens et tumultueux.
+00:28:04,842 --> 00:28:08,582
+Nous accepterons toutes les critiques qui nous seront adressées,
 
 370
-01:28:10,651 --> 01:28:14,151
-Nous accepterons
-toutes les critiques qui nous seront adressées,
+00:28:10,651 --> 00:28:14,151
+et ferons de notre mieux pour répondre honnêtement...
 
 371
-01:28:14,982 --> 01:28:18,421
-et ferons de notre mieux pour répondre
-honnêtement...
+00:28:14,982 --> 00:28:18,421
+aux besoins de l'époque.
 
 372
-01:28:18,961 --> 01:28:20,262
-aux besoins du temps.
-
-373
-01:28:22,161 --> 01:28:23,492
+00:28:18,961 --> 00:28:20,262
 L'innovation de Soonyang...
 
+373
+00:28:22,161 --> 00:28:23,492
+ne se limitera pas à sa technologie et à ses produits.
+
 374
-01:28:24,131 --> 01:28:27,431
-ne se limitera pas
-à sa technologie et à ses produits.
+00:28:24,131 --> 00:28:27,431
+En ce sens,
 
 375
-01:28:28,332 --> 01:28:29,532
-Dans ce sens,
+00:28:28,332 --> 00:28:29,532
+l'énorme quantité de bénéfices qui sera prélevée...
 
 376
-01:28:30,072 --> 01:28:31,577
-l'énorme montant de bénéfices
-qui sera prélevé...
+00:28:30,072 --> 00:28:31,577
+à la suite des transactions d'actions...
 
 377
-01:28:31,601 --> 01:28:33,061
-suite à l'échange d'actions...
+00:28:31,601 --> 00:28:33,061
+par toutes les sociétés filiales pendant la transition...
 
 378
-01:28:33,141 --> 01:28:35,177
-par toutes les filiales
-pendant la transition...
+00:28:33,141 --> 00:28:35,177
+sera payée fidèlement et avec précision.
 
 379
-01:28:35,201 --> 01:28:37,941
-sera payé fidèlement et avec précision.
+00:28:35,201 --> 00:28:37,941
+Ce petit morveux.
 
 380
-01:28:41,812 --> 01:28:43,052
-Ce petit garnement.
+00:28:41,812 --> 00:28:43,052
+De quoi diable ce morveux est-il en train de jacasser ?
 
 381
-01:28:45,151 --> 01:28:48,351
-Mais qu'est-ce que ce morveux
-est en train de raconter ?
-
-382
-01:28:50,492 --> 01:28:52,012
+00:28:45,151 --> 00:28:48,351
 Une entreprise qui bénéficiera à la nation.
 
-383
-01:28:52,421 --> 01:28:53,461
+382
+00:28:50,492 --> 00:28:52,012
 L'équité dans les affaires.
 
-384
-01:28:54,861 --> 01:28:56,468
-J'honorerai les vœux de mon grand-père,
+383
+00:28:52,421 --> 00:28:53,461
+J'honorerai les souhaits de mon grand-père,
 
-385
-01:28:56,492 --> 01:28:58,292
+384
+00:28:54,861 --> 00:28:56,468
 l'ancien président Jin Yang Cheol,
 
+385
+00:28:56,492 --> 00:28:58,292
+et laisserai Soonyang renaître en tant qu'entreprise...
+
 386
-01:28:59,431 --> 01:30:01,562
-et laisserai Soonyang renaître comme une entreprise...
+00:28:59,431 --> 00:29:01,562
+chérie par le peuple.
 
 387
-01:30:02,002 --> 01:30:03,671
-qui est chérie par le peuple.
-
-388
-01:30:10,342 --> 01:30:13,441
+00:29:02,002 --> 00:29:03,671
 (Famille)
 
+388
+00:29:10,342 --> 00:29:13,441
+Gyeong Min, tu sais probablement.
+
 389
-01:31:17,772 --> 01:31:19,042
-Gyeong Min, vous savez probablement.
+00:30:17,772 --> 00:30:19,042
+Dis-nous.
+
+
 
 390
-01:31:19,711 --> 01:31:20,911
-Dites-nous.
+00:30:19,711 --> 00:30:20,911
+Qu'est-il arrivé au visage de Monsieur Yoon ?
 
 391
-01:31:21,411 --> 01:31:23,982
-Qu'est-il arrivé au visage de M. Yoon ?
+00:30:21,411 --> 00:30:23,982
+Comme si tu avais besoin de demander.
 
 392
-01:31:24,312 --> 01:31:26,082
-Comme si vous aviez besoin de demander.
-
-393
-01:31:26,482 --> 01:31:28,921
+00:30:24,312 --> 00:30:26,082
 Tout le monde sait que 1-1 peut être violent.
 
-394
-01:31:29,421 --> 01:31:32,512
+393
+00:30:26,482 --> 00:30:28,921
 Même après l'humiliation,
 
+394
+00:30:29,421 --> 00:30:32,512
+je parie qu'il fera le fier...
+
 395
-01:31:32,592 --> 01:31:34,581
-je parie qu'il agira
-comme un grand manitou...
+00:30:32,592 --> 00:30:34,581
+en tant que directeur principal chez Soonyang.
 
 396
-01:31:34,661 --> 01:31:36,412
-en tant que manager principal chez Soonyang.
+00:30:34,661 --> 00:30:36,412
+Monsieur Yoon.
 
 397
-01:31:36,492 --> 01:31:37,562
-Monsieur Yoon.
-
-398
-01:31:39,601 --> 01:31:40,701
+00:30:36,492 --> 00:30:37,562
 Il est incroyable.
 
-399
-01:31:41,161 --> 01:31:43,041
-Tout le monde ne peut pas être
-le bras droit du président.
+398
+00:30:39,601 --> 00:30:40,701
+On ne peut pas être le bras droit du président.
 
-400
-01:31:44,572 --> 01:31:45,972
+399
+00:30:41,161 --> 00:30:43,041
 Ce n'est pas un bras droit.
 
+400
+00:30:44,572 --> 00:30:45,972
+Un gant sale qu'il porte à la main droite, peut-être.
+
 401
-01:31:46,201 --> 01:31:48,401
-Un gant sale qu'il porte
-à sa main droite, peut-être.
+00:30:46,201 --> 00:30:48,401
+Tu sais, le genre bon marché que tu portes...
 
 402
-01:31:48,871 --> 01:31:51,211
-Vous savez, le genre bon marché que vous portez...
+00:30:48,871 --> 00:30:51,211
+pour garder tes mains propres et qui peut être remplacé à tout moment.
 
 403
-01:31:51,312 --> 01:31:53,812
-pour garder vos mains propres
-et qui peut être remplacé à tout moment.
+00:30:51,312 --> 00:30:53,812
+Pour être honnête, il n'a pas les qualifications.
 
 404
-01:31:54,012 --> 01:31:57,512
-Pour être honnête,
-il n'a pas les qualifications.
+00:30:54,012 --> 00:30:57,512
+C'était un diplômé du lycée choisi personnellement.
 
 405
-01:31:57,851 --> 01:31:59,582
-Il était un diplômé du secondaire trié sur le volet.
+00:30:57,851 --> 00:30:59,582
+On s'en débarrasse facilement.
 
 406
-01:31:59,752 --> 01:32:01,252
-On se débarrasse facilement d'eux.
+00:30:59,752 --> 00:31:01,252
+Quel gars qualifié sain d'esprit ferait ce qu'il fait ?
 
 407
-01:32:01,351 --> 01:32:04,541
-Quel type qualifié, sensé,
-ferait ce qu'il fait ?
+00:31:01,351 --> 00:31:04,541
+Mais regardez Monsieur Yoon. Il risque sa vie pour servir.
 
 408
-01:32:04,621 --> 01:32:08,522
-Mais regardez M. Yoon.
-Il donne sa vie pour servir.
-
-409
-01:32:08,691 --> 01:32:10,262
+00:31:04,621 --> 00:31:08,522
 Il le doit.
 
-410
-01:32:10,992 --> 01:32:12,661
-Il n'est pas bon à grand-chose d'autre.
+409
+00:31:08,691 --> 00:31:10,262
+Il n'est bon à rien d'autre.
 
-411
-01:32:19,101 --> 01:32:21,371
+410
+00:31:10,992 --> 00:31:12,661
 (1-alpha)
 
-412
-01:32:23,611 --> 01:32:24,932
+411
+00:31:19,101 --> 00:31:21,371
 Bonjour, madame, Yoon à l'appareil.
 
-413
-01:32:25,012 --> 01:32:26,342
-Désolé de prendre mon temps.
+412
+00:31:23,611 --> 00:31:24,932
+Désolé d'avoir pris mon temps.
 
-414
-01:32:28,042 --> 01:32:30,951
+413
+00:31:25,012 --> 00:31:26,342
 Oui, je comprends. J'arrive tout de suite. Au revoir.
 
-415
-01:33:38,211 --> 01:33:39,552
+414
+00:31:28,042 --> 00:31:30,951
 C'est fait, madame.
 
+415
+00:32:38,211 --> 00:32:39,552
+Tu sais,
+
 416
-01:33:49,161 --> 01:33:50,191
-Vous savez,
+00:32:49,161 --> 00:32:50,191
+je me sens mal à l'aise, Monsieur Yoon.
 
 417
-01:33:51,191 -> 01:33:53,101
-Je me sens mal à l'aise, monsieur Yoon.
+00:32:51,191 --> 00:32:53,101
+Je sais qu'il a une aide ménagère,
 
 418
-01:33:54,302 --> 01:33:56,252
-Je sais qu'il a une aide-soignante,
-
-419
-01:33:56,332 --> 01:33:59,302
+00:32:54,302 --> 00:32:56,252
 mais je suis coincée ici tant que mon mari l'est.
 
-420
-01:33:59,772 --> 01:34:03,242
-Vous savez à quel point
-je suis maniaque de la propreté.
+419
+00:32:56,332 --> 00:32:59,302
+Tu sais à quel point je suis exigeante en matière de propreté.
 
-421
-01:34:04,171 --> 01:34:06,641
+420
+00:32:59,772 --> 00:33:03,242
 Dois-je appeler et donner des instructions...
 
-422
-01:34:07,681 --> 01:34:09,082
-concernant des détails minimes ?
+421
+00:33:04,171 --> 00:33:06,641
+concernant des détails infimes ?
 
-423
-01:34:10,782 --> 01:34:11,782
+422
+00:33:07,681 --> 00:33:09,082
 Je m'excuse.
 
-424
-01:34:12,722 --> 01:34:14,082
+423
+00:33:10,782 --> 00:33:11,782
 J'ai été négligent.
 
-425
-01:34:17,322 --> 01:34:19,522
+424
+00:33:12,722 --> 00:33:14,082
 Je ne suis pas une personne avare, n'est-ce pas ?
 
-426
-01:34:32,131 --> 01:34:36,141
+425
+00:33:17,322 --> 00:33:19,522
 Je connais mes manières.
 
-427
-01:34:36,911 --> 01:34:37,911
+426
+00:33:32,131 --> 00:33:36,141
 Tiens.
 
+427
+00:33:36,911 --> 00:33:37,911
+Pas du tout. C'est bon.
+
 428
-01:34:38,242 --> 01:34:40,641
-Pas du tout. Ça va.
+00:33:38,242 --> 00:33:40,641
+Vas-y.
 
 429
-01:34:41,282 --> 01:34:42,282
-Allez-y.
+00:33:41,282 --> 00:33:42,282
+Prends-le.
 
 430
-01:34:43,711 -> 01:34:44,752
-Prenez-le.
+00:33:43,711 --> 00:33:44,752
+Oui ?
 
 431
-01:34:45,951 -> 01:34:46,951
-Oui ?
-
-432
-01:34:47,522 --> 01:34:49,151
+00:33:45,951 --> 00:33:46,951
 Oui. Merci.
 
-433
-01:35:07,542 --> 01:35:08,671
-(Centre médical Soonyang)
+432
+00:33:47,522 --> 00:33:49,151
+(Centre Médical Soonyang)
 
-434
-01:35:11,211 --> 01:35:12,441
+433
+00:34:07,542 --> 00:34:08,671
 Salut, je suis en retard.
 
-435
-01:35:13,211 --> 01:35:14,842
+434
+00:34:11,211 --> 00:34:12,441
 Je pars maintenant.
 
-436
-01:35:34,331 --> 01:35:37,731
-Hyeon Woo. Prends quelques côtes braisées.
+435
+00:34:13,211 --> 00:34:14,842
+Hyeon Woo. Mange des côtes braisées.
 
-437
-01:35:41,572 --> 01:35:43,842
+436
+00:34:34,331 --> 00:34:37,731
 Ta mère a été gâtée aujourd'hui.
 
+437
+00:34:41,572 --> 00:34:43,842
+Elle a été servie par son fils aîné.
+
 438
-01:35:44,012 --> 01:35:46,342
-Elle a été servie par ton fils aîné.
+00:34:44,012 --> 00:34:46,342
+Tu n'es pas venu l'année dernière,
 
 439
-01:35:46,912 --> 01:35:48,531
-Tu ne l'as pas faite l'année dernière,
+00:34:46,912 --> 00:34:48,531
+et Maman a attendu un moment.
 
 440
-01:35:48,611 --> 01:35:50,682
-et maman a attendu un bon moment.
+00:34:48,611 --> 00:34:50,682
+J'ai essayé de brûler la prière après la cérémonie,
 
 441
-01:35:51,581 --> 01:35:53,301
-J'ai essayé de brûler la prière après le rite,
+00:34:51,581 --> 00:34:53,301
+mais elle ne brûlait pas.
 
 442
-01:35:53,381 --> 01:35:55,251
-mais elle ne voulait pas brûler.
+00:34:53,381 --> 00:34:55,251
+C'est comme ça depuis toujours.
 
 443
-01:35:55,581 --> 01:35:57,622
-Ça a toujours été comme ça.
-
-444
-01:35:58,892 --> 01:36:00,191
+00:34:55,581 --> 00:34:57,622
 Maman comprendra.
 
-445
-01:36:01,021 --> 01:36:03,432
+444
+00:34:58,892 --> 00:35:00,191
 Oh, j'ai oublié d'apporter la soupe.
 
-446
-01:36:14,041 --> 01:36:15,102
+445
+00:35:01,021 --> 00:35:03,432
 Hyeon Woo.
 
-447
-01:36:15,602 --> 01:36:16,611
+446
+00:35:14,041 --> 00:35:15,102
 Oui ?
 
-448
-01:36:18,912 --> 01:36:20,242
-C'est pour toi.
+447
+00:35:15,602 --> 00:35:16,611
+Ceci est pour toi.
 
-449
-01:36:22,111 -> 01:36:23,151
+448
+00:35:18,912 --> 00:35:20,242
 Qu'est-ce que c'est ?
 
-450
-01:36:27,182 --> 01:36:29,952
-J'ai reçu mon premier salaire.
+449
+00:35:22,111 --> 00:35:23,151
+J'ai reçu ma première paie.
 
-451
-01:36:32,352 --> 01:36:33,521
+450
+00:35:27,182 --> 00:35:29,952
 Tu travailles ?
 
-452
-01:36:36,461 --> 01:36:37,821
+451
+00:35:32,352 --> 00:35:33,521
 Et l'examen de la fonction publique ?
 
-453
-01:36:38,961 --> 01:36:40,662
+452
+00:35:36,461 --> 00:35:37,821
 J'ai arrêté d'étudier pour ça.
 
+453
+00:35:38,961 --> 00:35:40,662
+Si je n'ai pas réussi si longtemps,
+
 454
-01:36:40,831 --> 01:36:42,361
-Si je n'ai pas pu réussir pendant si longtemps,
+00:35:40,831 --> 00:35:42,361
+ce n'est pas pour moi.
 
 455
-01:36:43,131 --> 01:36:44,302
-ce n'est pas fait pour être.
+00:35:43,131 --> 00:35:44,302
+Je ne peux pas te demander de payer mes frais et mes cours pour toujours.
 
 456
-01:36:44,802 --> 01:36:48,001
-Je ne peux pas te demander de payer
-mes dépenses et mes cours pour toujours.
+00:35:44,802 --> 00:35:48,001
+As-tu peur que je ne puisse pas te soutenir ?
 
 457
-01:36:50,271 --> 01:36:53,782
-Tu as peur que je ne puisse pas subvenir à tes besoins ?
+00:35:50,271 --> 00:35:53,782
+- Ce n'est pas ça. - Hyeon Min.
 
 458
-01:36:54,412 --> 01:36:56,211
-- Ce n'est pas ça.
-- Hyeon Min.
+00:35:54,412 --> 00:35:56,211
+Me méprises-tu aussi ?
 
 459
-01:36:57,581 --> 01:36:58,881
-Tu me sous-estimes aussi ?
+00:35:57,581 --> 00:35:58,881
+Tu as fait plus qu'assez pour Papa et moi.
 
 460
-01:36:59,452 --> 01:37:02,992
-Tu as fait plus que suffisant
-pour papa et moi.
-
-461
-01:37:03,852 --> 01:37:06,392
+00:35:59,452 --> 00:36:02,992
 Maintenant, je veux aider.
 
-462
-01:37:07,961 --> 01:37:09,401
+461
+00:36:03,852 --> 00:36:06,392
 Tu as porté le fardeau jusqu'à présent.
 
-463
-01:37:11,432 --> 01:37:13,901
+462
+00:36:07,961 --> 00:36:09,401
 Ton frère a raison.
 
-464
-01:37:16,032 --> 01:37:18,631
+463
+00:36:11,432 --> 00:36:13,901
 Tu devrais vivre pour toi maintenant.
 
+464
+00:36:16,032 --> 00:36:18,631
+Tu peux travailler dans la plus grande entreprise du pays,
+
 465
-01:37:19,472 -> 01:37:23,171
-Tu peux travailler à la plus grande
-entreprise du pays,
+00:36:19,472 --> 00:36:23,171
+dans un emploi réussi au service des plus hautes personnalités.
 
 466
-01:37:23,271 --> 01:37:26,541
-dans un poste réussi
-pour les plus hauts placés.
+00:36:23,271 --> 00:36:26,541
+Mais tu dois avoir ta propre famille...
 
 467
-01:37:26,682 --> 01:37:29,811
-Mais tu dois avoir
-ta propre famille...
+00:36:26,682 --> 00:36:29,811
+pour pouvoir te considérer comme un vrai homme et un adulte.
 
 468
-01:37:30,682 --> 01:37:33,881
-pour pouvoir te considérer
-comme un vrai homme et un adulte.
+00:36:30,682 --> 00:36:33,881
+Je devrais avoir une femme et des enfants, ma propre famille ?
 
 469
-01:37:40,492 --> 01:37:44,061
-Je devrais avoir une femme et des enfants,
-ma propre famille?
+00:36:40,492 --> 00:36:44,061
+Est-ce ce qui a fait de toi un homme digne ?
 
 470
-01:37:46,501 --> 01:37:50,032
-Est-ce ça qui a fait de toi un homme digne?
+00:36:46,501 --> 00:36:50,032
+Père.
 
 471
-01:37:51,231 --> 01:37:52,231
-Père.
+00:36:51,231 --> 00:36:52,231
+As-tu le droit de me dire ça ?
 
 472
-01:37:53,171 --> 01:37:55,572
-Avez-vous le droit de me dire ça ?
-
-473
-01:37:56,372 --> 01:37:57,372
+00:36:53,171 --> 00:36:55,572
 Père.
 
-474
-01:37:59,381 --> 01:38:01,311
+
+
+473
+00:36:56,372 --> 00:36:57,372
 C'est l'anniversaire de la mort de Maman.
 
+474
+00:36:59,381 --> 00:37:01,311
+C'est l'anniversaire de sa mort, de tous les jours.
+
 475
-01:38:02,381 --> 01:38:04,631
-C'est l'anniversaire de sa mort
-parmi tous les jours.
+00:37:02,381 --> 00:37:04,631
+- Et tu dis... - Hyeon Woo.
 
 476
-01:38:04,711 --> 01:38:06,352
-- Et tu dis...
-- Hyeon Woo.
+00:37:04,711 --> 00:37:06,352
+Arrête ça.
 
 477
-01:38:07,952 --> 01:38:09,021
-Arrête.
+00:37:07,952 --> 00:37:09,021
+Peu importe.
 
 478
-01:38:13,461 --> 01:38:14,592
-N'importe quoi.
-
-479
-01:38:16,961 -> 01:38:18,032
+00:37:13,461 --> 00:37:14,592
 Tu pars déjà ?
 
+479
+00:37:16,961 --> 00:37:18,032
+Au revoir.
+
 480
-01:38:19,092 --> 01:38:20,022
-Salut.
+00:37:19,092 --> 00:37:20,022
+Hyeon Woo. Pourquoi ne pas rester pour la nuit ?
 
 481
-01:38:20,102 --> 01:38:22,432
-Hyeon Woo. Pourquoi ne resterais-tu pas la nuit ?
-
-482
-01:38:32,881 --> 01:38:33,912
+00:37:20,102 --> 00:37:22,432
 Hyeon Woo.
 
-483
-01:40:00,771 --> 01:40:02,171
+482
+00:37:32,881 --> 00:37:33,912
 (Avocat Son, Légal)
 
-484
-01:40:02,441 --> 01:40:04,992
+483
+00:38:00,771 --> 00:38:02,171
 Dépêche-toi, d'accord ? Tu es trop lent.
 
+484
+00:38:02,441 --> 00:38:04,992
+Soyons rapides.
+
 485
-01:40:05,072 --> 01:40:07,041
-Allons vite.
+00:38:05,072 --> 00:38:07,041
+(Jeongsimjae 1F)
 
 486
-01:40:15,452 --> 01:40:16,671
-(Jeongsimjae 1er étage)
+00:38:15,452 --> 00:38:16,671
+(Jeongsimjae 2F)
 
 487
-01:40:16,751 --> 01:40:18,472
-(Jeongsimjae 2e étage)
+00:38:16,751 --> 00:38:18,472
+(Arbre généalogique de la famille Soonyang)
 
 488
-01:40:18,552 --> 01:40:20,312
-(Arbre généalogique du groupe Soonyang)
+00:38:18,552 --> 00:38:20,312
+(Le défunt Jin Yang Cheol, la défunte Lee Pil Ok)
 
 489
-01:40:20,392 --> 01:40:21,992
-(Feu Jin Yang Cheol, Feu Lee Pil Ok)
+00:38:20,392 --> 00:38:21,992
+("Mon époque, ma vie, mon Soonyang")
 
 490
-01:40:28,331 -> 01:40:31,702
-("Mon ère, ma vie, mon Soonyang")
+00:38:28,331 --> 00:38:31,702
+Prends tous les dossiers, même s'ils sont recto verso.
 
 491
-01:40:33,102 --> 01:40:36,012
-Prenez tous les fichiers, même s'ils sont recto-verso.
+00:38:33,102 --> 00:38:36,012
+- Vide tous les tiroirs. - D'accord.
 
 492
-01:40:36,642 --> 01:40:38,441
-- Videz tous les tiroirs.
-- D'accord.
+00:38:36,642 --> 00:38:38,441
+Dépêche-toi. Sois rapide.
 
 493
-01:40:39,541 --> 01:40:41,512
-Dépêchez-vous. Soyez rapides.
+00:38:39,541 --> 00:38:41,512
+Prends les disques durs, les dossiers, tout.
 
 494
-01:40:42,242 --> 01:40:45,531
-Prenez les disques durs, les fichiers, tout.
+00:38:42,242 --> 00:38:45,531
+Ne laisse rien derrière.
 
 495
-01:40:45,611 -> 01:40:47,322
-Ne laissez rien derrière vous.
+00:38:45,611 --> 00:38:47,322
+(Bureau du procureur)
 
 496
-01:40:50,651 --> 01:40:51,892
-(Bureau du procureur)
-
-497
-01:40:52,691 --> 01:40:54,061
+00:38:50,651 --> 00:38:51,892
 Qui est responsable ici ?
 
+497
+00:38:52,691 --> 00:38:54,061
+Montrez-nous le mandat.
+
 498
-01:40:54,461 --> 01:40:55,622
-Voyons le mandat.
+00:38:54,461 --> 00:38:55,622
+Le chef de service Yoon Hyeon Woo, Département de la gestion des actifs futurs.
 
 499
-01:41:12,271 --> 01:41:15,682
-Manager principal Yoon Hyeon Woo,
-Département de gestion des actifs futurs.
+00:39:12,271 --> 00:39:15,682
+Le procureur Seo Min Yeong de l'équipe anti-corruption.
 
 500
-01:41:17,251 --> 01:41:20,421
-Procureure Seo Min Yeong
-de l'équipe anti-corruption.
+00:39:17,251 --> 00:39:20,421
+Montrez-nous le mandat de perquisition et de saisie.
 
 501
-01:41:22,151 --> 01:41:24,552
-Voyons le mandat de perquisition et de saisie.
+00:39:22,151 --> 00:39:24,552
+Je m'en occupe.
 
 502
-01:41:27,262 --> 01:41:28,322
-Je le prends.
+00:39:27,262 --> 00:39:28,322
+Nous soupçonnons que le maquillage comptable de Soonyang Chemicals et Soonyang World...
 
 503
-01:41:37,972 --> 01:41:40,821
-Nous soupçonnons les bilans falsifiés de Soonyang Micro
-et Soonyang World...
+00:39:37,972 --> 00:39:40,821
+a été mis en place par la planification et la coordination de Soonyang Corporation.
 
 504
-01:41:40,901 --> 01:41:44,842
-d'avoir été mis en place par
-le service de planification et de coordination
-de Soonyang Corporation.
+00:39:40,901 --> 00:39:44,842
+L'objectif serait la prise de contrôle illégale du vice-président Jin Seong Jun.
 
 505
-01:41:45,912 --> 01:41:50,611
-L'objectif serait
-la prise de contrôle illégale
-par le vice-président Jin Seong Jun.
+00:39:45,912 --> 00:39:50,611
+Soonyang ne plie ni ne rompt aucune loi dans le processus de succession.
 
 506
-01:41:50,881 --> 01:41:54,581
-Soonyang ne viole ni ne contourne aucune loi
-dans le processus de succession.
+00:39:50,881 --> 00:39:54,581
+Conformément à la déclaration spéciale qui a été lue hier.
 
 507
-01:41:55,081 --> 01:41:57,028
-Comme indiqué dans la déclaration spéciale
-lue hier.
-
-508
-01:41:57,052 --> 01:41:58,292
+00:39:55,081 --> 00:39:57,028
 Je l'ai interprété différemment.
 
+508
+00:39:57,052 --> 00:39:58,292
+"Pour pouvoir payer le montant énorme des impôts..."
+
 509
-01:41:59,021 --> 01:42:01,582
-"Pour pouvoir payer
-l'énorme montant des impôts..."
+00:39:59,021 --> 00:40:01,582
+"qui surviendraient au cours du processus,"
 
 510
-01:42:01,662 --> 01:42:04,032
-"qui seraient dus",
+00:40:01,662 --> 00:40:04,032
+"la famille propriétaire, y compris Jin Young Ki..."
 
 511
-01:42:04,162 --> 01:42:05,961
-"la famille des propriétaires
-y compris Jin Young Ki..."
+00:40:04,162 --> 00:40:05,961
+"et Jin Seong Jun, ont suffisamment de fonds mis de côté."
 
 512
-01:42:06,302 --> 01:42:08,961
-"et Jin Seong Jun ont des fonds suffisants
-mis de côté."
+00:40:06,302 --> 00:40:08,961
+Cela m'a semblé être un aveu.
 
 513
-01:42:10,602 --> 01:42:12,072
-Cela m'a semblé être une confession.
+00:40:10,602 --> 00:40:12,072
+Et je ne pouvais pas ignorer cet aveu.
 
 514
-01:42:12,901 --> 01:42:15,142
-Et je n'ai pas pu ignorer cette confession.
+00:40:12,901 --> 00:40:15,142
+- Si nous avons terminé, allons-y. - D'accord.
 
 515
-01:42:17,171 --> 01:42:19,381
-- Si nous avons fini, allons-y.
-- D'accord.
+00:40:17,171 --> 00:40:19,381
+Rangez. Il est temps de partir.
 
 516
-01:42:19,941 --> 01:42:21,811
-Faites vos valises. Il est temps de partir.
+00:40:19,941 --> 00:40:21,811
+Le Département de la gestion des actifs futurs ?
 
 517
-01:42:29,791 --> 01:42:31,852
-Le département de gestion des actifs futurs ?
+00:40:29,791 --> 00:40:31,852
+Cela signifie que la famille propriétaire est l'actif futur.
 
 518
-01:42:32,122 --> 01:42:35,521
-Cela signifie que la famille propriétaire
-est l'actif futur.
+00:40:32,122 --> 00:40:35,521
+Penses-tu vraiment ?
 
 519
-01:42:37,691 --> 01:42:39,432
-Le pensez-vous vraiment ?
+00:40:37,691 --> 00:40:39,432
+On t'appelle "la Faucheuse de Soonyang".
 
 520
-01:42:44,231 --> 01:42:46,541
-On vous appelle "la faucheuse de Soonyang".
+00:40:44,231 --> 00:40:46,541
+Non seulement tu ne portes que du noir,
 
 521
-01:42:53,611 --> 01:42:55,912
-Non seulement vous ne portez
-que du noir,
+00:40:53,611 --> 00:40:55,912
+mais tu inculpes n'importe qui sans te soucier...
 
 522
-01:42:57,311 --> 01:42:59,001
-vous inculpez n'importe qui sans souci...
-
-523
-01:42:59,081 --> 01:43:00,981
+00:40:57,311 --> 00:40:59,001
 si Soonyang est impliqué d'une manière ou d'une autre.
 
+523
+00:40:59,081 --> 00:41:00,981
+Veux-tu gagner la gloire en faisant tomber Soonyang ou...
+
 524
-01:43:03,021 --> 01:43:06,361
-Voulez-vous devenir célèbre
-pour avoir fait tomber Soonyang ou...
+00:41:03,021 --> 00:41:06,361
+y a-t-il une vendetta personnelle que les autres ignorent ?
 
 525
-01:43:07,722 --> 01:43:10,861
-y a-t-il une vendetta personnelle
-que les autres ne connaissent pas ?
+00:41:07,722 --> 00:41:10,861
+Il y a beaucoup de rumeurs à ton sujet.
 
 526
-01:43:13,302 --> 01:43:15,262
-Il y a beaucoup de rumeurs à votre sujet.
-
-527
-01:43:16,932 --> 01:43:18,702
+00:41:13,302 --> 00:41:15,262
 Je ne pense pas que ce soit l'un ou l'autre.
 
-528
-01:43:20,102 --> 01:43:21,401
+527
+00:41:16,932 --> 00:41:18,702
 Je pense...
 
-529
-01:43:22,242 --> 01:43:24,912
-que vous faites simplement de votre mieux.
+528
+00:41:20,102 --> 00:41:21,401
+que tu fais juste ton travail du mieux que tu peux.
 
-530
-01:43:27,282 --> 01:43:28,642
+529
+00:41:22,242 --> 00:41:24,912
 Il en va de même pour moi.
 
+530
+00:41:27,282 --> 00:41:28,642
+Prends-tu des leçons spéciales ?
+
 531
-01:43:32,711 --> 01:43:34,021
-Suivez-vous des cours spéciaux ?
+00:41:32,711 --> 00:41:34,021
+Tu es très éloquent.
 
 532
-01:43:35,481 --> 01:43:36,722
-Vous êtes assez éloquente.
-
-533
-01:43:49,131 --> 01:43:50,802
+00:41:35,481 --> 00:41:36,722
 (Bureau du procureur)
 
-534
-01:43:52,401 --> 01:43:54,302
+533
+00:41:49,131 --> 00:41:50,802
 (Bureau du procureur du district de Séoul)
 
+534
+00:41:52,401 --> 00:41:54,302
+Est-ce vrai ?
+
 535
-01:43:55,842 --> 01:43:56,842
-C'est vrai ?
+00:41:55,842 --> 00:41:56,842
+Tous les ordinateurs sont neufs, jamais utilisés une seule fois,
 
 536
-01:44:00,342 --> 01:44:03,611
-Tous les ordinateurs sont neufs, jamais utilisés,
+00:42:00,342 --> 00:42:03,611
+et à part les premières pages, les dossiers sont des impressions de matériel promotionnel et de l'histoire de Soonyang.
 
 537
-01:44:04,381 --> 01:44:06,472
-et à part les premières pages,
+00:42:04,381 --> 00:42:06,472
+Il faut que ce soit...
 
 538
-01:44:06,552 --> 01:44:09,822
-les fichiers sont des imprimés de relations publiques
-et de l'histoire de Soonyang.
+00:42:06,552 --> 00:42:09,822
+qu'ils savaient que nous allions venir et qu'ils étaient préparés.
 
 539
-01:44:11,651 --> 01:44:12,861
-Cela doit être que...
+00:42:11,651 --> 00:42:12,861
+- Monsieur Shin. - Oui ?
 
 540
-01:44:13,691 --> 01:44:17,061
-ils savaient que nous venions
-et ils étaient préparés.
+00:42:13,691 --> 00:42:17,061
+Le plan de classement de la planification et de la coordination.
 
 541
-01:45:12,182 --> 01:45:13,521
-- Monsieur Shin.
-- Oui ?
+00:43:12,182 --> 00:43:13,521
+Remplacez tous les ordinateurs comme assigné.
 
 542
-01:45:15,452 --> 01:45:17,151
-Organigramme de planification et coordination.
+00:43:15,452 --> 00:43:17,151
+Oui, monsieur.
 
 543
-01:45:18,151 --> 01:45:20,441
-Remplacez tous les ordinateurs
-comme assignés.
+00:43:18,151 --> 00:43:20,441
+J'ai envoyé une liste de fichiers à conserver ou à supprimer.
 
 544
-01:45:20,521 --> 01:45:21,791
-Oui, monsieur.
+00:43:20,521 --> 00:43:21,791
+C'est un travail délicat, alors sois très prudent.
 
 545
-01:45:23,561 --> 01:45:26,302
-J'ai envoyé une liste de fichiers
-à conserver ou à supprimer.
+00:43:23,561 --> 00:43:26,302
+Oui, monsieur.
 
 546
-01:45:27,702 --> 01:45:30,331
-C'est un travail délicat, alors soyez très prudent.
-
-547
-01:45:30,602 --> 01:45:31,872
-Oui, monsieur.
-
-548
-01:45:36,311 --> 01:45:37,311
+00:43:27,702 --> 00:43:30,331
 Monsieur Shin.
 
-549
-01:45:38,572 --> 01:45:39,742
-Vous avez un nouveau téléphone ?
 
-550
-01:45:40,682 -> 01:45:41,881
+
+547
+00:43:30,602 --> 00:43:31,872
+Tu as un nouveau téléphone ?
+
+548
+00:43:36,311 --> 00:43:37,311
 Oh, oui.
 
-551
-01:45:46,682 --> 01:45:47,722
+549
+00:43:38,572 --> 00:43:39,742
 Monsieur Yoon.
 
-552
-01:45:51,852 --> 01:45:52,921
+550
+00:43:40,682 --> 00:43:41,881
 Alors...
 
-553
-01:45:53,622 --> 01:45:57,191
+551
+00:43:46,682 --> 00:43:47,722
 Je m'excuse. Ce qui s'est passé hier...
 
+552
+00:43:51,852 --> 00:43:52,921
+Je vais me présenter au Vice-Président.
+
+553
+00:43:53,622 --> 00:43:57,191
+Veux-tu m'accompagner ?
+
 554
-01:45:58,532 --> 01:46:00,662
-Je vais faire mon rapport au vice-président.
-
-555
-01:46:01,961 --> 01:46:03,271
-Voulez-vous venir ?
-
-556
-01:46:06,372 --> 01:46:07,401
+00:43:58,532 --> 00:44:00,662
 Oui.
 
+555
+00:44:01,961 --> 00:44:03,271
+Les procureurs sont tellement bizarres.
+
+556
+00:44:06,372 --> 00:44:07,401
+J'ai dit que je respecterais la loi, et ils m'ont attaqué le premier.
+
 557
-01:46:14,941 -> 01:46:17,311
-Les procureurs sont si bizarres.
-
-558
-01:46:18,782 --> 01:46:21,481
-J'ai dit que je me conformerais à la loi,
-et ils m'ont attaqué en premier.
-
-559
-01:46:23,651 --> 01:46:24,992
+00:44:14,941 --> 00:44:17,311
 Ça me donne envie de riposter.
 
-560
-01:46:27,722 --> 01:46:30,291
-Quelle est la probabilité
-d'une autre perquisition et saisie ?
+558
+00:44:18,782 --> 00:44:21,481
+Quelle est la probabilité d'une autre perquisition et saisie ?
 
-561
-01:46:30,631 --> 01:46:33,001
+559
+00:44:23,651 --> 00:44:24,992
 C'est très peu probable.
 
-562
-01:46:33,731 --> 01:46:36,061
-J'ai déjà donné à M. Yoon
-les instructions nécessaires.
+560
+00:44:27,722 --> 00:44:30,291
+J'ai déjà donné les instructions nécessaires à Monsieur Yoon.
 
-563
-01:46:36,631 --> 01:46:38,591
+561
+00:44:30,631 --> 00:44:33,001
 Il travaillera avec la Planification et la Coordination,
 
+562
+00:44:33,731 --> 00:44:36,061
+et tous les fichiers problématiques...
+
+563
+00:44:36,631 --> 00:44:38,591
+seront soigneusement séparés et supprimés à jamais.
+
 564
-01:46:38,671 --> 01:46:40,372
-et tout fichier problématique...
-
-565
-01:46:40,671 --> 01:46:43,271
-sera soigneusement séparé
-et supprimé à jamais.
-
-566
-01:46:43,611 --> 01:46:44,972
+00:44:38,671 --> 00:44:40,372
 Même si les procureurs reviennent,
 
+565
+00:44:40,671 --> 00:44:43,271
+ils ne trouveront rien d'illégal ou de suspect, monsieur.
+
+566
+00:44:43,611 --> 00:44:44,972
+Tu fais du bon travail.
+
 567
-01:46:45,671 --> 01:46:49,481
-ils ne trouveront rien d'illégal
-ni de suspect, monsieur.
+00:44:45,671 --> 00:44:49,481
+Merci.
 
 568
-01:47:22,142 --> 01:47:23,581
-Vous faites du bon travail.
+00:45:22,142 --> 00:45:23,581
+(Centre Médical Soonyang)
 
 569
-01:47:26,182 --> 01:47:27,421
-Merci.
+00:45:26,182 --> 00:45:27,421
+Qui était cet homme ?
 
 570
-01:47:42,461 --> 01:47:44,472
-(Centre médical Soonyang)
+00:45:42,461 --> 00:45:44,472
+Il a 40 ans, le conseiller Jin Yoon Ki.
 
 571
-01:47:51,842 -> 01:47:54,242
-Qui était ce monsieur ?
+00:45:51,842 --> 00:45:54,242
+Le quatrième fils du président Jin Yang Cheol.
 
 572
-01:47:55,041 --> 01:47:57,012
-C'est 4-0, le conseiller Jin Yoon Ki.
+00:45:55,041 --> 00:45:57,012
+Je ne savais pas que le défunt président avait un quatrième fils.
 
 573
-01:47:58,381 --> 01:48:00,552
-Le quatrième fils du président
-Jin Yang Cheol.
+00:45:58,381 --> 00:46:00,552
+J'ai entendu dire qu'il avait coupé les ponts avec la famille pour une raison quelconque.
 
 574
-01:48:02,151 --> 01:48:04,992
-Je ne savais pas que le défunt président
-avait un quatrième fils.
+00:46:02,151 --> 00:46:04,992
+- Monsieur Shin ? - Oui ?
 
 575
-01:48:05,452 --> 01:48:08,892
-J'ai entendu dire qu'il avait rompu les liens avec la famille
-pour une raison quelconque.
+00:46:05,452 --> 00:46:08,892
+Oh, c'est vrai.
 
 576
-01:48:13,102 --> 01:48:14,702
-- Monsieur Shin ?
-- Oui ?
-
-577
-01:48:16,501 --> 01:48:17,631
-Oh, d'accord.
-
-578
-01:48:24,512 --> 01:48:25,512
+00:46:13,102 --> 00:46:14,702
 Mon Dieu.
 
-579
-01:48:55,771 --> 01:48:59,211
-N'est-ce pas l'ex-Miss Soonyang
-et star de cinéma...
+577
+00:46:16,501 --> 00:46:17,631
+N'était-ce pas l'ex-Miss Soonyang et star de cinéma...
 
-580
-01:48:59,412 --> 01:49:00,742
+578
+00:46:24,512 --> 00:46:25,512
 Comment s'appelait-elle ?
 
-581
-01:49:01,311 -> 01:49:02,581
-C'est 4-alpha.
+579
+00:46:55,771 --> 00:46:59,211
+Elle est 4-alpha.
 
-582
-01:49:03,381 --> 01:49:04,981
+580
+00:46:59,412 --> 00:47:00,742
 Quoi ? Alors elle est...
 
-583
-01:49:05,352 --> 01:49:08,352
+581
+00:47:01,311 --> 00:47:02,581
 Oui. Elle est mariée au conseiller Jin Yoon Ki.
 
+582
+00:47:03,381 --> 00:47:04,981
+Elle est la raison exacte pour laquelle il a coupé les ponts avec la famille.
+
+583
+00:47:05,352 --> 00:47:08,352
+C'est fou.
+
 584
-01:49:08,822 --> 01:49:12,122
-C'est la raison exacte
-pour laquelle il a rompu les liens avec la famille.
-
-585
-01:49:12,251 --> 01:49:13,421
-C'est dingue.
-
-586
-01:49:13,791 --> 01:49:16,592
+00:47:08,822 --> 00:47:12,122
 Ont-ils des enfants ?
 
-587
-01:49:17,092 --> 01:49:18,211
+585
+00:47:12,251 --> 00:47:13,421
 Ils ont un fils.
 
+586
+00:47:13,791 --> 00:47:16,592
+J'ai entendu dire que 4-1 était dans le divertissement...
+
+587
+00:47:17,092 --> 00:47:18,211
+ce qui n'est pas lié à Soonyang.
+
 588
-01:49:18,291 --> 01:49:20,461
-J'ai entendu que 4-1 se lançait
-dans le divertissement...
-
-589
-01:49:20,861 --> 01:49:22,401
-qui n'est pas lié à Soonyang.
-
-590
-01:49:22,731 --> 01:49:24,631
+00:47:18,291 --> 00:47:20,461
 Il doit être assez âgé.
 
-591
-01:49:24,972 --> 01:49:27,202
-Je suppose que ça rapporte de venir
-d'une grande famille.
+589
+00:47:20,861 --> 00:47:22,401
+Je suppose que ça paie de venir d'une grande famille.
 
-592
-01:49:30,441 --> 01:49:32,972
+590
+00:47:22,731 --> 00:47:24,631
 Son cœur s'est arrêté deux fois pendant l'opération,
 
-593
-01:49:33,381 --> 01:49:34,941
-donc pendant l'administration de la RCR,
+591
+00:47:24,972 --> 00:47:27,202
+donc pendant la réanimation cardio-pulmonaire,
 
-594
-01:49:35,512 --> 01:49:37,782
+592
+00:47:30,441 --> 00:47:32,972
 nous avons inséré un stent dans son aorte.
 
+593
+00:47:33,381 --> 00:47:34,941
+En conséquence, ce matin, la saturation en oxygène était bonne,
+
+594
+00:47:35,512 --> 00:47:37,782
+et tous les chiffres et niveaux sont revenus à la normale.
+
 595
-01:49:39,452 --> 01:49:42,651
-En conséquence, ce matin,
-la saturation en oxygène était bonne,
-
-596
-01:49:42,952 --> 01:49:45,852
-et tous les chiffres
-et niveaux sont revenus à la normale.
-
-597
-01:49:46,622 --> 01:49:49,992
+00:47:39,452 --> 00:47:42,651
 Oh, merci. Merci beaucoup.
 
+596
+00:47:42,952 --> 00:47:45,852
+- Merci. - Je dois le voir.
+
+597
+00:47:46,622 --> 00:47:49,992
+Pour l'instant, le repos complet est le meilleur remède.
+
 598
-01:49:50,492 --> 01:49:52,582
-- Merci.
-- Je dois le voir.
-
-599
-01:49:52,662 --> 01:49:56,331
-En ce moment, le repos complet
-est le meilleur remède.
-
-600
-01:49:57,472 --> 01:49:59,372
+00:47:50,492 --> 00:47:52,582
 Vous ne pouvez pas le voir pendant un moment.
 
-601
-01:49:59,972 --> 01:50:01,901
+599
+00:47:52,662 --> 00:47:56,331
 Veuillez coopérer.
 
-602
-01:50:03,912 --> 01:50:05,142
+600
+00:47:57,472 --> 00:47:59,372
 Docteur Ahn.
 
-603
-01:50:06,242 --> 01:50:07,381
+601
+00:47:59,972 --> 00:48:01,901
 Juste un instant.
 
+602
+00:48:03,912 --> 00:48:05,142
+Hé. Tu as toujours ce talent.
+
+603
+00:48:06,242 --> 00:48:07,381
+Tu effraies les gens en apparaissant.
+
 604
-01:50:13,081 --> 01:50:17,092
-Hé. Vous avez toujours cette capacité.
+00:48:13,081 --> 00:48:17,092
+Et tu as toujours peur.
 
 605
-01:50:17,852 --> 01:50:20,381
-Vous surprenez les gens en apparaissant.
+00:48:17,852 --> 00:48:20,381
+Si tu n'as rien, tu ne crains rien.
 
 606
-01:50:20,461 --> 01:50:22,222
-Et vous avez toujours peur.
+00:48:20,461 --> 00:48:22,222
+Tu devrais faire plus d'efforts, Tante.
 
 607
-01:50:23,291 --> 01:50:26,331
-Si vous n'avez rien, vous ne craignez rien.
+00:48:23,291 --> 00:48:26,331
+L'as-tu appelée ? Comme si quelqu'un lui manquait.
 
 608
-01:50:27,861 --> 01:50:30,202
-Tu devrais t'efforcer, Tante.
+00:48:27,861 --> 00:48:30,202
+Elle ne prend même pas mes appels.
 
 609
-01:50:32,231 --> 01:50:35,242
-L'as-tu appelée ? Comme si elle manquait à quelqu'un.
+00:48:32,231 --> 00:48:35,242
+Un long temps s'est écoulé.
 
 610
-01:50:36,001 --> 01:50:38,072
-Elle ne répond même pas à mes appels.
+00:48:36,001 --> 00:48:38,072
+Suis-je toujours une invitée indésirable au sein de la famille ?
 
 611
-01:50:46,751 --> 01:50:48,352
-Beaucoup de temps s'est écoulé.
+00:48:46,751 --> 00:48:48,352
+- Tu sais ça et... - Si tu savais ce que j'ai apporté,
 
 612
-01:50:50,921 --> 01:50:54,611
-Suis-je toujours une invitée indésirable
-au sein de la famille ?
-
-613
-01:50:54,691 --> 01:50:57,932
-- Tu savais ça et...
-- Si tu savais ce que j'ai apporté,
-
-614
-01:51:00,561 --> 01:51:02,432
+00:48:50,921 --> 00:48:54,611
 tu ne pourrais plus me maltraiter.
 
+613
+00:48:54,691 --> 00:48:57,932
+Voyons voir.
+
+614
+00:49:00,561 --> 00:49:02,432
+Qu'as-tu apporté avec toi ?
+
 615
-01:51:03,702 --> 01:51:05,432
-Écoutons.
-
-616
-01:51:05,602 --> 01:51:07,821
-Qu'avez-vous apporté avec vous ?
-
-617
-01:51:07,901 --> 01:51:08,972
+00:49:03,702 --> 00:49:05,432
 Trois pour cent.
 
+616
+00:49:05,602 --> 00:49:07,821
+Trois pour cent des actions de Soonyang Corporation.
+
+617
+00:49:07,901 --> 00:49:08,972
+Une fois que Soonyang deviendra une société holding,
+
 618
-01:51:10,711 --> 01:51:13,881
-Trois pour cent
-des actions de Soonyang Corporation.
+00:49:10,711 --> 00:49:13,881
+quand le moment sera venu pour vous de vous battre pour savoir qui deviendra président,
 
 619
-01:51:18,811 --> 01:51:21,021
-Une fois que Soonyang deviendra une holding,
-
-620
-01:51:22,521 --> 01:51:26,222
-quand le moment viendra pour vous de vous battre
-pour savoir qui deviendra président,
-
-621
-01:51:29,892 --> 01:51:31,961
+00:49:18,811 --> 00:49:21,021
 mes trois pour cent ne seront-ils pas le vote décisif ?
 
-622
-01:51:36,262 --> 01:51:37,432
-Que voulez-vous en échange ?
+620
+00:49:22,521 --> 00:49:26,222
+Que veux-tu en échange ?
 
-623
-01:51:44,111 --> 01:51:45,512
+621
+00:49:29,892 --> 00:49:31,961
 Mon fils.
 
+622
+00:49:36,262 --> 00:49:37,432
+Je dois connaître...
+
+623
+00:49:44,111 --> 00:49:45,512
+la vérité derrière l'accident de ce jour-là.
+
 624
-01:51:56,021 --> 01:51:57,191
-Je dois savoir...
-
-625
-01:51:58,421 --> 01:52:00,592
-la vérité derrière l'accident ce jour-là.
-
-626
-01:52:04,061 --> 01:52:05,892
+00:49:56,021 --> 00:49:57,191
 Vous le savez tous !
 
+625
+00:49:58,421 --> 00:50:00,592
+Donne-moi la réponse.
+
+626
+00:50:04,061 --> 00:50:05,892
+Alors je te donnerai tout ce que je possède.
+
 627
-01:52:10,202 -> 01:52:11,532
-Apportez-moi la réponse.
-
-628
-01:52:13,372 --> 01:52:16,842
-Alors je vous remettra tout ce que je possède.
-
-629
-01:52:25,711 --> 01:52:26,852
+00:50:10,202 --> 00:50:11,532
 Merci.
 
-630
-01:52:32,151 --> 01:52:34,031
-Monsieur Yoon, je dois vous parler de quelque chose.
+628
+00:50:13,372 --> 00:50:16,842
+Monsieur Yoon, j'ai besoin de vous parler de quelque chose.
 
-631
-01:52:34,291 --> 01:52:35,212
+629
+00:50:25,711 --> 00:50:26,852
 Bien sûr.
 
+
+
+630
+00:50:32,151 --> 00:50:34,031
+Comme vous l'avez dit, j'ai séparé les fichiers à jeter...
+
+631
+00:50:34,291 --> 00:50:35,212
+de ceux que nous devrions conserver.
+
 632
-01:52:35,292 --> 01:52:36,807
-Comme vous l'avez dit,
-j'ai séparé les fichiers à jeter...
+00:50:35,292 --> 00:50:36,807
+- Ceux sur l'ordinateur aussi ? - Oui.
 
 633
-01:52:36,831 --> 01:52:38,361
-de ceux que nous devrions garder.
-
-634
-01:52:38,691 --> 01:52:41,262
-- Ceux sur l'ordinateur aussi ?
-- Oui.
-
-635
-01:52:41,861 --> 01:52:44,302
+00:50:36,831 --> 00:50:38,361
 Mais j'ai trouvé quelque chose.
 
-636
-01:52:46,072 --> 01:52:47,142
+634
+00:50:38,691 --> 00:50:41,262
 Eh bien...
+
+635
+00:50:41,861 --> 00:50:44,302
+Ça ne figurait pas sur la liste.
+
+636
+00:50:46,072 --> 00:50:47,142
+Le fait est que c'est un vieux document qui est obsolète.
 
 637
-01:52:48,072 --> 01:52:50,342
-Ce n'était pas sur la liste.
+00:50:48,072 --> 00:50:50,342
+Au début, j'allais simplement m'en débarrasser. Mais j'ai vu...
 
 638
-01:52:53,072 -> 01:52:55,762
-Le fait est que c'est un vieux document
-qui est obsolète.
+00:50:53,072 --> 00:50:55,762
+un certain nombre de transactions impliquant de grosses sommes sur plusieurs années.
 
 639
-01:52:55,842 --> 01:52:58,581
-Au début, j'allais juste m'en débarrasser. Mais j'ai vu...
+00:50:55,842 --> 00:50:58,581
+Vous devriez l'examiner et décider quoi en faire.
 
 640
-01:52:58,912 --> 01:53:02,352
-un certain nombre de transactions impliquant
-des montants importants sur des années.
+00:50:58,912 --> 00:51:02,352
+(Confidentiel)
 
 641
-01:53:04,521 --> 01:53:06,691
-Vous devriez l'examiner
-et décider quoi en faire.
-
-642
-01:53:38,921 --> 01:53:39,992
-(Confidentiel)
-
-643
-01:54:00,711 --> 01:54:03,611
+00:51:04,521 --> 00:51:06,691
 Comme vous pouvez le voir, Soonyang Micro...
 
+642
+00:51:38,921 --> 00:51:39,992
+est une société fictive qui n'existe que sur le papier.
+
+643
+00:52:00,711 --> 00:52:03,611
+Les registres montrent de grosses transactions entre la société...
+
 644
-01:54:03,981 --> 01:54:07,182
-est une société écran
-qui n'existe que sur le papier.
+00:52:03,981 --> 00:52:07,182
+et les filiales de Soonyang qui ont eu lieu pendant plus d'une décennie.
 
 645
-01:54:07,881 --> 01:54:10,068
-Les dossiers montrent de grandes transactions
-entre l'entreprise...
+00:52:07,881 --> 00:52:10,068
+Malgré les registres de transactions et de ventes de Soonyang Micro,
 
 646
-01:54:10,092 --> 01:54:13,092
-et les filiales de Soonyang
-qui ont eu lieu pendant plus d'une décennie.
+00:52:10,092 --> 00:52:13,092
+je n'ai rien trouvé sur la société...
 
 647
-01:54:13,322 --> 01:54:17,182
-Malgré les relevés de transactions et de ventes
-de Soonyang Micro,
+00:52:13,322 --> 00:52:17,182
+dans aucun des contrats et documents financiers de Soonyang,
 
 648
-01:54:17,262 --> 01:54:21,631
-Je n'ai rien trouvé sur l'entreprise...
+00:52:17,262 --> 00:52:21,631
+comme si elle avait été cachée exprès.
 
 649
-01:54:22,001 --> 01:54:24,501
-dans aucun des contrats
-et documents financiers de Soonyang,
-
-650
-01:54:25,231 --> 01:54:28,302
-comme si cela avait été caché
-délibérément.
-
-651
-01:54:32,842 --> 01:54:34,342
+00:52:22,001 --> 00:52:24,501
 Vous...
 
-652
-01:54:34,981 --> 01:54:38,102
+650
+00:52:25,231 --> 00:52:28,302
 réalisez ce que cela signifie ?
 
+651
+00:52:32,842 --> 00:52:34,342
+Quelqu'un détourne l'argent de Soonyang à l'étranger...
+
+652
+00:52:34,981 --> 00:52:38,102
+via cette société fictive, monsieur.
+
 653
-01:54:38,182 --> 01:54:40,952
-Quelqu'un détourne
-l'argent de Soonyang à l'étranger...
+00:52:38,182 --> 00:52:40,952
+- Monsieur. - C'est...
 
 654
-01:54:42,581 --> 01:54:45,392
-par cette société écran, monsieur.
+00:52:42,581 --> 00:52:45,392
+juste un document qui aurait dû être jeté il y a longtemps.
 
 655
-01:54:59,972 --> 01:55:02,041
-- Monsieur.
-- C'est...
-
-656
-01:55:02,501 --> 01:55:05,512
-juste un document qui aurait dû
-être éliminé il y a longtemps.
-
-657
-01:55:06,111 --> 01:55:07,332
+00:52:59,972 --> 00:53:02,041
 S'il y avait eu un problème,
 
-658
-01:55:07,412 --> 01:55:09,881
-les affaires intérieures
-s'en seraient déjà occupées.
+656
+00:53:02,501 --> 00:53:05,512
+les Affaires Internes s'en seraient déjà occupées.
 
-659
-01:55:13,981 -> 01:55:16,251
+657
+00:53:06,111 --> 00:53:07,332
 Pensez-vous être plus compétent...
 
-660
-01:55:17,322 --> 01:55:19,222
+658
+00:53:07,412 --> 00:53:09,881
 que les meilleurs talents de Soonyang ?
 
-661
-01:55:19,791 --> 01:55:20,912
+659
+00:53:13,981 --> 00:53:16,251
 Mais c'est clairement...
 
+660
+00:53:17,322 --> 00:53:19,222
+M. Yoon Hyeon Woo, le chef de Future Asset Management.
+
+661
+00:53:19,791 --> 00:53:20,912
+Savez-vous pourquoi je vous garde depuis cinq ans ?
+
 662
-01:55:20,992 --> 01:55:23,961
-Monsieur Yoon Hyeon Woo,
-le chef de la gestion d'actifs futurs.
+00:53:20,992 --> 00:53:23,961
+Vous savez exactement quand intervenir et quand vous retirer. C'est pourquoi.
 
 663
-01:55:30,671 --> 01:55:34,501
-Savez-vous pourquoi je vous garde
-depuis cinq ans ?
-
-664
-01:55:36,171 --> 01:55:40,412
-Vous savez exactement quand intervenir
-et quand reculer. C'est pourquoi.
-
-665
-01:55:41,611 --> 01:55:43,182
+00:53:30,671 --> 00:53:34,501
 Alors continuez comme ça.
 
+664
+00:53:36,171 --> 00:53:40,412
+Ne me faites pas répéter.
+
+665
+00:53:41,611 --> 00:53:43,182
+Vous avez autre chose à dire ?
+
 666
-01:55:44,211 --> 01:55:46,012
-Ne me faites pas me répéter.
-
-667
-01:55:49,052 --> 01:55:50,352
-Autre chose à dire ?
-
-668
-01:55:51,592 -> 01:55:52,622
+00:53:44,211 --> 00:53:46,012
 Non, monsieur.
 
+667
+00:53:49,052 --> 00:53:50,352
+Je suppose que vous avez dû travailler tard, M. Yoon.
+
+668
+00:53:51,592 --> 00:53:52,622
+Alors ? Avez-vous fini d'organiser les documents ?
+
 669
-01:56:09,142 -> 01:56:10,771
-Je suppose que vous avez dû travailler tard, monsieur Yoon.
+00:54:09,142 --> 00:54:10,771
+Oui, monsieur.
 
 670
-01:56:21,081 --> 01:56:23,992
-Alors ? Avez-vous terminé
-d'organiser les documents ?
+00:54:21,081 --> 00:54:23,992
+C'est fait.
 
 671
-01:56:29,191 --> 01:56:30,262
-Oui, monsieur.
-
-672
-01:56:31,092 --> 01:56:32,231
-C'est réglé.
-
-673
-01:56:33,861 --> 01:56:34,932
+00:54:29,191 --> 00:54:30,262
 Je m'en vais, alors.
 
-674
-01:56:35,061 --> 01:56:37,072
+672
+00:54:31,092 --> 00:54:32,231
 (Président Jin Yang Cheol)
 
-675
-01:56:38,432 --> 01:56:40,072
+673
+00:54:33,861 --> 00:54:34,932
 C'était de la porcelaine blanche.
 
-676
-01:56:42,372 --> 01:56:44,771
+674
+00:54:35,061 --> 00:54:37,072
 Le vase de mon grand-père que j'ai cassé.
 
+675
+00:54:38,432 --> 00:54:40,072
+Ce n'était pas du céladon de Goryeo. C'était un vase en porcelaine blanche.
+
+676
+00:54:42,372 --> 00:54:44,771
+Mais dans son autobiographie, il a écrit que c'était un vase en céladon de Goryeo.
+
 677
-01:56:45,941 --> 01:56:48,342
-Ce n'était pas de la céladon de Goryeo.
-C'était un vase en porcelaine blanche.
+00:54:45,941 --> 00:54:48,342
+Je le jure, il ne savait rien de moi.
 
 678
-01:56:49,581 --> 01:56:53,151
-Mais dans son autobiographie,
-il a écrit que c'était un vase céladon de Goryeo.
-
-679
-01:56:55,222 --> 01:56:58,122
-Je jure, il ne savait rien de moi.
-
-680
-01:56:59,952 --> 01:57:01,552
+00:54:49,581 --> 00:54:53,151
 Vous en savez plus sur moi qu'il n'en a jamais su.
 
-681
-01:57:07,662 --> 01:57:09,461
+679
+00:54:55,222 --> 00:54:58,122
 Mon grand-père disait toujours...
 
+680
+00:54:59,952 --> 00:55:01,552
+que Soonyang ferait faillite à cause de paresseux comme moi.
+
+681
+00:55:07,662 --> 00:55:09,461
+Mais une fois de plus, il avait tort.
+
 682
-01:57:10,432 --> 01:57:13,171
-que Soonyang ferait faillite
-à cause de fainéants comme moi.
+00:55:10,432 --> 00:55:13,171
+Bien sûr, il y a des paresseux comme moi chez Soonyang.
 
 683
-01:57:14,401 --> 01:57:16,541
-Mais encore une fois, il avait tort.
+00:55:14,401 --> 00:55:16,541
+Mais l'entreprise a aussi des employés comme vous.
 
 684
-01:57:17,472 --> 01:57:19,771
-Bien sûr, il y a des fainéants comme moi
-chez Soonyang.
+00:55:17,472 --> 00:55:19,771
+Vous méritez certainement de porter le badge Soonyang.
 
 685
-01:57:23,711 --> 01:57:25,881
-Mais l'entreprise a des employés comme vous
-aussi.
-
-686
-01:57:38,532 --> 01:57:40,501
-Vous méritez vraiment de porter
-l'insigne Soonyang.
-
-687
-01:57:45,131 --> 01:57:46,202
+00:55:23,711 --> 00:55:25,881
 À propos de ce jour-là...
 
+686
+00:55:38,532 --> 00:55:40,501
+Merci, M. Yoon.
+
+687
+00:55:45,131 --> 00:55:46,202
+Ne me regardez pas comme ça. Vous devriez y aller.
+
 688
-01:57:47,742 --> 01:57:49,202
-Merci, Monsieur Yoon.
+00:55:47,742 --> 00:55:49,202
+Oui, monsieur.
 
 689
-01:57:57,852 --> 01:57:59,952
-Ne me regardez pas comme ça.
-Vous devriez y aller.
-
-690
-01:58:03,452 --> 01:58:04,521
-Oui, monsieur.
-
-691
-01:58:30,981 --> 01:58:32,811
+00:55:57,852 --> 00:55:59,952
 (Président Jin Yang Cheol)
 
-692
-01:58:34,921 --> 01:58:35,981
+690
+00:56:03,452 --> 00:56:04,521
 Monsieur.
 
-693
-01:58:37,191 --> 01:58:38,551
+691
+00:56:30,981 --> 00:56:32,811
 Il y a quelque chose que je dois vous dire.
 
-694
-01:58:40,322 --> 01:58:41,691
+692
+00:56:34,921 --> 00:56:35,981
 (Confidentiel)
 
-695
-01:58:46,061 --> 01:58:47,662
+693
+00:56:37,191 --> 00:56:38,551
 Les actifs de Soonyang sont détournés...
 
-696
-01:58:48,561 --> 01:58:50,532
-vers une société écran à l'étranger
-en grandes quantités.
+694
+00:56:40,322 --> 00:56:41,691
+vers une société fictive à l'étranger en grosses sommes.
 
-697
-01:58:53,202 --> 01:58:54,271
+695
+00:56:46,061 --> 00:56:47,662
 Et le parquet...
 
+696
+00:56:48,561 --> 00:56:50,532
+suspecte que Soonyang a un large fonds secret.
+
+697
+00:56:53,202 --> 00:56:54,271
+Une fois que le parquet découvrira la société fictive,
+
 698
-01:58:54,771 --> 01:58:58,111
-soupçonne que Soonyang
-possède un important fonds occulte.
-
-699
-01:58:59,472 --> 01:59:01,912
-Une fois que le parquet découvrira
-la société-écran,
-
-700
-01:59:02,881 --> 01:59:04,501
+00:56:54,771 --> 00:56:58,111
 l'entreprise sera accusée...
 
-701
-01:59:04,581 --> 01:59:06,287
-de détournement de fonds,
-d'abus de confiance et d'évasion fiscale.
+699
+00:56:59,472 --> 00:57:01,912
+de détournement de fonds, de violation de devoir et d'évasion fiscale.
 
-702
-01:59:06,311 --> 01:59:07,352
+700
+00:57:02,881 --> 00:57:04,501
 De plus,
 
+
+
+701
+00:57:04,581 --> 00:57:06,287
+Les plans pour la société holding et la succession seront affectés.
+
+702
+00:57:06,311 --> 00:57:07,352
+Alors laissez-moi entendre ce que vous pensez que je devrais faire.
+
 703
-01:59:08,381 --> 01:59:11,142
-les plans pour la holding
-et la succession seront affectés.
+00:57:08,381 --> 00:57:11,142
+Vous devriez agir avant que le procureur ne le fasse.
 
 704
-01:59:12,592 --> 01:59:14,561
-Alors laissez-moi entendre
-ce que vous pensez que je devrais faire.
+00:57:12,592 --> 00:57:14,561
+Soumettez une déclaration de fermeture d'entreprise pour la société écran...
 
 705
-01:59:17,892 --> 01:59:20,532
-Vous devriez agir
-avant que le parquet ne le fasse.
+00:57:17,892 --> 00:57:20,532
+et assurez-vous que...
 
 706
-01:59:20,802 --> 01:59:23,307
-Déposez une déclaration de cessation d'activité
-pour la société écran...
+00:57:20,802 --> 00:57:23,307
+Soonyang Corporation absorbe les actifs.
 
 707
-01:59:23,331 --> 01:59:24,372
-et assurez-vous...
+00:57:23,331 --> 00:57:24,372
+C'est ma suggestion, monsieur.
 
 708
-01:59:25,572 --> 01:59:27,361
-que Soonyang Corporation absorbe les actifs.
+00:57:25,572 --> 00:57:27,361
+Vous avez trouvé ceci dans une armoire au service Planification et Coordination ?
 
 709
-01:59:27,441 --> 1:59:28,602
-C'est ma suggestion, monsieur.
-
-710
-01:59:30,372 --> 01:59:33,512
-Vous avez trouvé cela dans une armoire
-au service de planification et de coordination ?
-
-711
-01:59:35,081 --> 01:59:36,142
+00:57:27,441 --> 00:57:28,602
 C'est exact, monsieur.
 
-712
-01:59:37,711 --> 01:59:39,581
+710
+00:57:30,372 --> 00:57:33,512
 Où est le document original ?
 
-713
-01:59:41,622 --> 01:59:43,122
+711
+00:57:35,081 --> 00:57:36,142
 Pas ces photos que vous avez prises.
 
-714
-01:59:44,722 --> 01:59:45,892
+712
+00:57:37,711 --> 00:57:39,581
 Le document original.
 
-715
-01:59:51,061 --> 01:59:52,131
+713
+00:57:41,622 --> 00:57:43,122
 Pardon ?
 
-716
-01:59:55,461 --> 01:59:56,702
+714
+00:57:44,722 --> 00:57:45,892
 Le document original...
 
-717
-01:59:58,901 --> 02:00:01,271
+715
+00:57:51,061 --> 00:57:52,131
 Monsieur, M. Kim est là.
 
-718
-02:00:01,671 --> 02:00:02,742
+716
+00:57:55,461 --> 00:57:56,702
 D'accord.
 
-719
-02:00:15,151 --> 02:00:18,291
-Monsieur Yoon a apporté quelque chose d'intéressant.
+717
+00:57:58,901 --> 00:58:01,271
+M. Yoon a apporté quelque chose d'intéressant.
 
-720
-02:00:24,731 --> 02:00:25,791
+718
+00:58:01,671 --> 00:58:02,742
 (Confidentiel)
 
-721
-02:00:37,872 --> 02:00:38,972
+719
+00:58:15,151 --> 00:58:18,291
 Continuez.
 
-722
-02:00:40,072 --> 02:00:41,441
+720
+00:58:24,731 --> 00:58:25,791
 Où est le document original ?
 
-723
-02:00:44,751 --> 02:00:45,751
+721
+00:58:37,872 --> 00:58:38,972
 Eh bien...
 
-724
-02:00:48,682 --> 02:00:50,251
+722
+00:58:40,072 --> 00:58:41,441
 Je m'en suis débarrassé, monsieur.
 
-725
-02:00:52,021 --> 02:00:53,092
+723
+00:58:44,751 --> 00:58:45,751
 Vous l'avez fait ?
 
-726
-02:00:53,961 --> 02:00:54,992
+724
+00:58:48,682 --> 00:58:50,251
 Oui, monsieur.
 
-727
-02:00:57,861 --> 02:01:00,181
-Si l'existence de la société écran
-remonte à la surface,
+725
+00:58:52,021 --> 00:58:53,092
+Si l'existence de la société écran venait à refaire surface,
 
-728
-02:01:00,961 --> 02:01:02,001
+726
+00:58:53,961 --> 00:58:54,992
 quelqu'un...
 
+727
+00:58:57,861 --> 00:59:00,181
+essaierait de détruire toutes les preuves. C'est pourquoi...
+
+728
+00:59:00,961 --> 00:59:02,001
+j'ai pris et sauvegardé les photos et je me suis débarrassé du document original.
+
 729
-02:01:04,602 --> 02:01:06,631
-essaiera de détruire toutes les preuves.
-C'est pourquoi...
+00:59:04,602 --> 00:59:06,631
+Vous avez fait un choix judicieux, M. Yoon.
 
 730
-02:01:08,142 --> 02:01:10,702
-J'ai pris et sauvegardé les photos
-et me suis débarrassé du document original.
+00:59:08,142 --> 00:59:10,702
+J'aimerais vous demander quelque chose, M. Kim.
 
 731
-02:01:12,842 --> 02:01:15,211
-Vous avez fait un choix judicieux, monsieur Yoon.
-
-732
-02:01:19,711 --> 02:01:21,751
-J'aimerais vous poser une question, Monsieur Kim.
-
-733
-02:01:23,182 --> 02:01:25,392
+00:59:12,842 --> 00:59:15,211
 À propos de cette société écran, Soonyang Micro.
 
+732
+00:59:19,711 --> 00:59:21,751
+Je parie que...
+
+733
+00:59:23,182 --> 00:59:25,392
+Vous étiez au courant, n'est-ce pas ?
+
 734
-02:01:25,852 --> 02:01:26,952
-Je parie que vous...
-
-735
-02:01:31,061 --> 02:01:32,361
-Vous le saviez, n'est-ce pas ?
-
-736
-02:01:34,762 --> 02:01:35,831
+00:59:25,852 --> 00:59:26,952
 Pardon ?
 
-737
-02:01:57,492 -> 02:01:59,191
-Répondez sagement, monsieur Kim.
+735
+00:59:31,061 --> 00:59:32,361
+Répondez judicieusement, M. Kim.
 
-738
-02:02:00,322 --> 02:02:02,142
+736
+00:59:34,762 --> 00:59:35,831
 Monsieur, je...
 
+737
+00:59:57,492 --> 00:59:59,191
+Si vous étiez au courant mais que vous ne l'avez pas signalé, soit vous...
+
+738
+01:00:00,322 --> 01:00:02,142
+ne m'approuvez pas en tant que votre patron...
+
 739
-02:02:02,222 --> 02:02:04,992
-Si vous saviez mais ne l'avez pas signalé,
-soit vous...
-
-740
-02:02:06,191 --> 02:02:08,231
-n'approuvez pas de moi en tant que votre patron...
-
-741
-02:02:08,401 --> 02:02:10,302
+01:00:02,222 --> 01:00:04,992
 soit vous êtes devenu avide de cet argent.
 
-742
-02:02:13,202 --> 02:02:15,541
-Si vous ne le saviez pas, c'est encore pire.
+740
+01:00:06,191 --> 01:00:08,231
+Si vous n'étiez pas au courant, c'est encore pire.
 
-743
-02:02:17,441 --> 02:02:19,311
+741
+01:00:08,401 --> 01:00:10,302
 Cela signifie que vous êtes incompétent.
 
-744
-02:02:25,381 --> 02:02:26,711
+742
+01:00:13,202 --> 01:00:15,541
 Alors, lequel est-ce ?
 
-745
-02:02:30,992 --> 02:02:32,291
+743
+01:00:17,441 --> 01:00:19,311
 Je m'excuse, monsieur.
 
+744
+01:00:25,381 --> 01:00:26,711
+Dans tous les cas, je sais maintenant que vous avez trahi Soonyang.
+
+745
+01:00:30,992 --> 01:00:32,291
+- M. Yoon. - Oui, monsieur.
+
 746
-02:02:44,972 --> 02:02:47,771
-Quoi qu'il en soit, je sais maintenant
-que vous avez trahi Soonyang.
+01:00:44,972 --> 01:00:47,771
+- Vous avez un passeport valide, n'est-ce pas ? - Oui.
 
 747
-02:03:12,561 --> 02:03:15,622
-- Monsieur Yoon.
-- Oui, monsieur.
+01:01:12,561 --> 01:01:15,622
+À compter d'aujourd'hui, vous êtes le directeur financier principal...
 
 748
-02:03:15,702 --> 02:03:17,342
-- Vous avez un passeport valide, n'est-ce pas ?
-- Oui.
+01:01:15,702 --> 01:01:17,342
+du département Planification et Coordination.
 
 749
-02:03:17,572 --> 02:03:19,107
-À partir d'aujourd'hui,
-vous êtes le manager financier principal...
+01:01:17,572 --> 01:01:19,107
+Allez récupérer les actifs de Soonyang qui ont été détournés à l'étranger.
 
 750
-02:03:19,131 --> 02:03:20,851
-du département de planification
-et de coordination.
+01:01:19,131 --> 01:01:20,851
+C'est votre première mission en tant que directeur financier principal.
 
 751
-02:03:21,972 --> 02:03:24,711
-Allez récupérer les actifs de Soonyang
-qui ont été détournés à l'étranger.
+01:01:21,972 --> 01:01:24,711
+J'ai confiance en votre capacité à bien faire votre travail.
 
 752
-02:03:25,842 --> 02:03:29,242
-C'est votre première mission
-en tant que manager financier principal.
-
-753
-02:03:33,452 --> 02:03:34,952
-J'ai confiance en votre bon travail.
-
-754
-02:03:43,861 --> 02:03:45,492
+01:01:25,842 --> 01:01:29,242
 Je ferai de mon mieux, monsieur.
 
-755
-02:04:15,791 --> 02:04:17,631
+753
+01:01:33,452 --> 01:01:34,952
 J'ai réfléchi, Père.
 
-756
-02:04:18,731 --> 02:04:20,492
+754
+01:01:43,861 --> 01:01:45,492
 Vous aviez raison.
 
-757
-02:04:22,162 --> 02:04:23,662
+755
+01:02:15,791 --> 01:02:17,631
 Alors maintenant,
 
+756
+01:02:18,731 --> 01:02:20,492
+je dois avoir quelque chose à mon nom.
+
+757
+01:02:22,162 --> 01:02:23,662
+Le nouveau Soonyang et son avenir radieux seront miens.
+
 758
-02:04:25,572 --> 02:04:27,972
-Je dois avoir quelque chose à mon nom.
+01:02:25,572 --> 01:02:27,972
+Le sombre passé de Soonyang périra avec vous, Père.
 
 759
-02:04:30,671 --> 02:04:33,972
-Le nouveau Soonyang et son avenir radieux
-seront miens.
+01:02:30,671 --> 01:02:33,972
+Jusqu'à ce que la succession soit achevée,
 
 760
-02:04:36,682 --> 02:04:39,782
-Le passé sombre de Soonyang
-périra avec vous, Père.
+01:02:36,682 --> 01:02:39,782
+continuez simplement à respirer comme ça.
 
 761
-02:04:52,631 --> 02:04:54,561
-Jusqu'à ce que la succession soit terminée,
-
-762
-02:04:56,702 --> 02:04:58,702
-continuez juste à respirer comme ça.
-
-763
-02:05:31,852 --> 02:05:33,092
+01:02:52,631 --> 01:02:54,561
 Veuillez signer ici.
 
-764
-02:05:47,972 --> 02:05:49,821
+762
+01:02:56,702 --> 01:02:58,702
 D'accord. Comme vous l'avez demandé,
 
+763
+01:03:18,852 --> 01:03:20,092
+nous avons déposé 600 millions de dollars sur votre compte, monsieur.
+
+764
+01:03:34,972 --> 01:03:36,821
+Vous pouvez maintenant retirer la totalité du solde...
+
 765
-02:05:49,901 --> 02:05:53,782
-nous avons déposé 600 millions de dollars
-sur votre compte, monsieur.
-
-766
-02:05:55,682 --> 02:05:57,571
-Vous pouvez maintenant retirer le solde entier...
-
-767
-02:05:57,651 --> 02:05:58,711
+01:03:36,901 --> 01:03:40,782
 quand vous le souhaitez.
 
-768
-02:06:00,722 --> 02:06:03,622
+766
+01:03:42,682 --> 01:03:44,571
 Vous êtes devenu si riche à un si jeune âge.
 
+767
+01:03:44,651 --> 01:03:45,711
+Était-ce le travail acharné ou la chance ?
+
+768
+01:03:47,722 --> 01:03:50,622
+Alors laissez-moi entendre ce que vous pensez que je devrais faire.
+
 769
-02:06:03,822 --> 02:06:05,751
-Était-ce le fruit d'un travail acharné ou de la chance ?
+01:03:50,822 --> 01:03:52,751
+Vous devriez agir avant que le procureur ne le fasse.
 
 770
-02:07:08,682 --> 02:07:10,791
-Alors laissez-moi entendre
-ce que vous pensez que je devrais faire.
+01:04:55,682 --> 01:04:57,791
+Soumettez une déclaration de fermeture d'entreprise pour la société écran...
 
 771
-02:07:11,651 --> 02:07:13,791
-Vous devriez agir avant
-que le parquet ne le fasse.
+01:04:58,651 --> 01:05:00,791
+et assurez-vous que...
 
 772
-02:07:14,791 --> 02:07:16,698
-Déposez une déclaration de cessation d'activité
-pour la société écran...
+01:05:02,191 --> 01:05:04,098
+Soonyang Corporation absorbe les actifs.
 
 773
-02:07:16,722 --> 02:07:18,231
-et assurez-vous...
-
-774
-02:07:19,561 --> 02:07:21,137
-que Soonyang Corporation absorbe les actifs.
-
-775
-02:07:21,161 --> 02:07:22,802
+01:05:04,122 --> 01:05:05,631
 C'est ma suggestion, monsieur.
 
-776
-02:07:27,371 --> 02:07:29,101
+774
+01:05:06,961 --> 01:05:08,537
 Vice-président Jin Seong Jun.
 
-777
-02:07:31,672 --> 02:07:33,242
+775
+01:05:08,561 --> 01:05:10,202
 Pensez-vous pouvoir l'inculper ?
 
+776
+01:05:14,771 --> 01:05:16,501
+Hé, où allez-vous ?
+
+777
+01:05:19,072 --> 01:05:20,642
+Est-ce le bon chemin ?
+
 778
-02:08:15,921 -> 02:08:17,822
-Hé, où vas-tu ?
-
-779
-02:08:18,052 --> 02:08:20,222
-C'est le bon chemin ?
-
-780
-02:08:20,352 --> 02:08:23,392
+01:06:02,921 --> 01:06:04,822
 Ne vous inquiétez pas. C'est le raccourci.
 
-781
-02:08:23,892 --> 02:08:26,392
-Seuls nous le savons. Les chauffeurs de taxi.
+779
+01:06:05,052 --> 01:06:07,222
+Que nous seuls connaissons. Les chauffeurs de taxi.
 
-782
-02:08:44,611 --> 02:08:46,052
+780
+01:06:07,352 --> 01:06:10,392
 Nous y sommes presque.
 
+781
+01:06:10,892 --> 01:06:13,392
+D'accord.
+
+782
+01:06:31,611 --> 01:06:33,052
+Plus qu'une minute.
+
 783
-02:08:46,981 --> 02:08:48,052
+01:06:33,981 --> 01:06:35,052
 D'accord.
 
 784
-02:09:11,941 --> 02:09:13,242
-Il reste une minute.
-
-785
-02:09:14,671 --> 02:09:15,711
-D'accord.
-
-786
-02:10:23,711 --> 02:10:25,711
+01:06:57,941 --> 01:06:59,242
 Hé !
 
+
+
+785
+01:07:00,671 --> 01:07:01,711
+Salut ! Au secours !
+
+786
+01:08:09,711 --> 01:08:11,711
+Salut...
+
 787
-02:10:26,811 --> 02:10:28,722
-Hé ! À l'aide !
+01:08:12,811 --> 01:08:14,722
+Ça va ? Lève-toi, je t'aide.
 
 788
-02:10:29,222 --> 02:10:30,282
-Hé...
-
-789
-02:10:33,291 --> 02:10:35,421
-Ça va ? Laissez-moi vous aider à vous relever.
-
-790
-02:10:36,621 --> 02:10:37,791
+01:08:15,222 --> 01:08:16,282
 Désolé.
 
+789
+01:08:19,291 --> 01:08:21,421
+Le fonds secret de 600 millions de dollars.
+
+790
+01:08:22,621 --> 01:08:23,791
+Le fonds secret créé via Soonyang Micro.
+
 791
-02:11:29,041 --> 02:11:30,482
-Le fonds occulte de 600 millions de dollars.
+01:09:15,041 --> 01:09:16,482
+J'ai entendu dire que Yoon Hyeon Woo est allé récupérer et blanchir l'argent.
 
 792
-02:11:33,552 --> 02:11:35,982
-Le fonds occulte créé
-par Soonyang Micro.
-
-793
-02:11:38,352 --> 02:11:41,491
-J'ai entendu dire que Yoon Hyeon Woo était allé
-récupérer et blanchir l'argent.
-
-794
-02:11:43,961 --> 02:11:45,192
+01:09:19,552 --> 01:09:21,982
 Ye Jun.
 
-795
-02:11:46,131 --> 02:11:47,762
-Qui vous a dit de telles stupidités ?
+793
+01:09:24,352 --> 01:09:27,491
+Qui t'a raconté ces mensonges ?
 
-796
-02:11:48,501 --> 02:11:50,232
+794
+01:09:29,961 --> 01:09:31,192
 Notre directeur financier.
 
-797
-02:11:52,201 -> 02:11:53,402
-Voulez-vous le rencontrer ?
+795
+01:09:32,131 --> 01:09:33,762
+Tu veux le rencontrer ?
 
-798
-02:11:55,342 -> 02:11:56,371
+796
+01:09:34,501 --> 01:09:36,232
 Directeur Kim.
 
+797
+01:09:38,201 --> 01:09:39,402
+Alors le fonds secret...
+
+798
+01:09:41,342 --> 01:09:42,371
+Une fois qu'il sera récupéré,
+
 799
-02:12:13,821 --> 02:12:15,161
-Alors le fonds occulte...
-
-800
-02:12:17,161 --> 02:12:18,291
-Une fois récupéré,
-
-801
-02:12:20,631 --> 02:12:21,902
+01:09:59,821 --> 01:10:01,161
 puis-je l'avoir ?
 
-802
-02:12:28,772 --> 02:12:30,342
+800
+01:10:03,161 --> 01:10:04,291
 Ye Jun, tu as beaucoup grandi.
 
+801
+01:10:06,631 --> 01:10:07,902
+Monsieur Shin.
+
+802
+01:10:14,772 --> 01:10:16,342
+Pourquoi êtes-vous ici ?
+
 803
-02:13:36,142 --> 02:13:37,171
+01:11:22,142 --> 01:11:23,171
 Monsieur Shin.
 
 804
-02:13:38,741 --> 02:13:39,972
-Pourquoi êtes-vous ici ?
+01:11:24,741 --> 01:11:25,972
+Pourquoi diable... Pourquoi me faites-vous ça ?
 
 805
-02:13:51,352 --> 02:13:52,352
-Monsieur Shin.
-
-806
-02:13:53,192 --> 02:13:57,062
-Mais pourquoi...
-Pourquoi me faites-vous ça ?
-
-807
-02:14:00,461 --> 02:14:01,961
+01:11:37,352 --> 01:11:38,352
 Tu m'as dit...
 
-808
-02:14:04,062 --> 02:14:05,331
+806
+01:11:39,192 --> 01:11:43,062
 de ne jamais...
 
+807
+01:11:46,461 --> 01:11:47,961
+désobéir aux ordres des supérieurs ou poser des questions.
+
+808
+01:11:50,062 --> 01:11:51,331
+Tu as dit que je ne devais jamais porter de jugement personnel.
+
 809
-02:14:07,031 --> 02:14:10,302
-désobéir aux ordres des supérieurs
-ni poser de questions.
-
-810
-02:14:11,501 --> 02:14:14,512
-Tu as dit que je ne devrais jamais
-porter mon propre jugement.
-
-811
-02:14:16,881 --> 02:14:17,911
+01:11:53,031 --> 01:11:56,302
 J'ai simplement...
 
+810
+01:11:57,501 --> 01:12:00,512
+suivi tes conseils.
+
+811
+01:12:02,881 --> 01:12:03,911
+Lâche-moi.
+
 812
-02:14:20,081 --> 02:14:21,411
-suivi vos conseils.
+01:12:06,081 --> 01:12:07,411
+Lâche-moi !
 
 813
-02:14:27,451 --> 02:14:28,491
-Lâchez prise.
+01:12:13,451 --> 01:12:14,491
+C'est qui ?
 
 814
-02:14:29,321 -> 02:14:31,291
-Lâchez prise !
-
-815
-02:14:34,331 --> 02:14:35,331
-Qui est-ce ?
-
-816
-02:14:36,862 --> 02:14:38,531
+01:12:15,321 --> 01:12:17,291
 Qui vous a ordonné de faire ça ?
 
+815
+01:12:20,331 --> 01:12:21,331
+La personne qui en a besoin.
+
+816
+01:12:22,862 --> 01:12:24,531
+Do Jun, tu es réveillé ?
+
 817
-02:14:48,512 --> 02:14:49,612
-La personne qui a besoin de ça.
-
-818
-02:16:03,562 -> 02:16:04,722
-Do Jun, tu t'es réveillé ?
-
-819
-02:16:08,161 --> 02:16:09,432
+01:12:34,512 --> 01:12:35,612
 Quoi ? 4-alpha ?
 
-820
-02:16:11,902 --> 02:16:14,131
-Nous y sommes presque. Il est temps de se réveiller.
+818
+01:13:56,562 --> 01:13:57,722
+On y est presque. Il est temps de se réveiller.
 
-821
-02:16:17,272 --> 02:16:18,972
+819
+01:14:01,161 --> 01:14:02,432
 C'est 4-0.
 
-822
-02:16:21,411 --> 02:16:23,041
+820
+01:14:04,902 --> 01:14:07,131
 Hé, qu'est-ce que tu fais ?
 
-823
-02:16:25,652 --> 02:16:28,032
+821
+01:14:10,272 --> 01:14:11,972
 Hé, alors tu dois être 4-1.
 
-824
-02:16:28,112 --> 02:16:30,581
+822
+01:14:14,411 --> 01:14:16,041
 Quoi ? "Hé ?"
 
-825
-02:16:31,022 --> 02:16:32,522
-Petit...
+823
+01:14:18,652 --> 01:14:21,032
+Espèce de petit...
 
-826
-02:16:40,892 --> 02:16:44,102
+824
+01:14:21,112 --> 01:14:23,581
 Suis-je vivant ?
 
-827
-02:16:58,112 --> 02:16:59,182
+825
+01:14:24,022 --> 01:14:25,522
 Pourquoi ai-je l'air...
 
-828
-02:17:01,012 --> 02:17:02,951
+826
+01:14:33,892 --> 01:14:37,102
 Qu'est-ce qui m'est arrivé ?
 
+827
+01:14:51,112 --> 01:14:52,182
+Tu veux savoir ?
+
+828
+01:14:54,012 --> 01:14:55,951
+Je te le dis ?
+
 829
-02:17:05,621 --> 02:17:06,722
-Voulez-vous savoir ?
+01:14:58,621 --> 01:14:59,722
+C'est évident d'un seul coup d'œil.
 
 830
-02:17:07,552 --> 02:17:08,621
-Dois-je vous dire ?
+01:15:00,552 --> 01:15:01,621
+Pourquoi ?
 
 831
-02:17:15,661 --> 02:17:18,772
-C'est évident au premier coup d'œil.
+01:15:08,661 --> 01:15:11,772
+Pourquoi suis-je ici ?
 
 832
-02:17:21,902 --> 02:17:22,972
+01:15:14,902 --> 01:15:15,972
 Pourquoi ?
 
 833
-02:17:24,671 --> 02:17:26,041
-Pourquoi suis-je ici ?
+01:15:17,671 --> 01:15:19,041
+- Do Jun. - Qu'est-ce qu'il y a ? Qu'est-ce qui ne va pas ?
 
 834
-02:17:26,612 --> 02:17:27,612
-Pourquoi ?
-
-835
-02:17:29,541 --> 02:17:32,251
-- Do Jun.
-- Qu'est-ce qui se passe ? Qu'est-ce qui ne va pas ?
-
-836
-02:17:32,451 --> 02:17:34,012
+01:15:19,612 --> 01:15:20,612
 Ce n'était pas moi.
 
-837
-02:17:34,881 --> 02:17:36,621
+835
+01:15:22,541 --> 01:15:25,251
 Je n'ai rien fait !
 
-838
-02:17:40,722 --> 02:17:41,982
+836
+01:15:25,451 --> 01:15:27,012
 Où est cet endroit ?
 
-839
-02:17:42,062 --> 02:17:43,512
+837
+01:15:27,881 --> 01:15:29,621
 (Gwanghwamun)
 
+838
+01:15:33,722 --> 01:15:34,982
+Le Musée National de Corée ?
+
+839
+01:15:35,062 --> 01:15:36,512
+Aujourd'hui marque un moment historique où la démolition...
+
 840
-02:17:43,592 --> 02:17:45,862
-Le musée national de Corée ?
+01:15:36,592 --> 01:15:38,862
+du bâtiment du gouvernement général japonais a commencé.
 
 841
-02:17:46,062 --> 02:17:49,802
-Aujourd'hui marque un moment historique
-où la démolition...
+01:15:39,062 --> 01:15:42,802
+Gyeongbokgung sera restauré...
 
 842
-02:17:50,201 --> 02:17:52,531
-du bâtiment du gouvernement général
-japonais a commencé.
-
-843
-02:17:52,701 --> 02:17:55,501
-Le Gyeongbokgung sera restauré...
-
-844
-02:17:56,772 --> 02:17:58,671
+01:15:43,201 --> 01:15:45,531
 Ce bâtiment a été démoli en 1995.
 
+843
+01:15:45,701 --> 01:15:48,501
+Comment est-il encore là ?
+
+844
+01:15:49,772 --> 01:15:51,671
+Do Jun, ça va ?
+
 845
-02:17:59,772 --> 02:18:00,871
-Comment est-il toujours là ?
+01:15:52,772 --> 01:15:53,871
+(Cérémonie de remise de la médaille du commerce du 24e jour)
 
 846
-02:18:14,451 --> 02:18:16,421
-Do Jun, tu vas bien ?
+01:16:07,451 --> 01:16:09,421
+(Centre Sejong pour les arts de la scène)
 
 847
-02:18:16,522 --> 02:18:18,522
-(Cérémonie de remise des médailles
-du 24e jour du commerce)
+01:16:09,522 --> 01:16:11,522
+Ça va ?
 
 848
-02:18:33,241 --> 02:18:35,142
-(Centre Sejong pour les arts du spectacle)
+01:16:26,241 --> 01:16:28,142
+Allons dire bonjour à Grand-mère.
 
 849
-02:18:39,012 -> 02:18:40,052
-Vous allez bien ?
-
-850
-02:18:42,682 --> 02:18:44,352
-Allons saluer grand-mère.
-
-851
-02:18:45,291 --> 02:18:46,321
+01:16:32,012 --> 01:16:33,052
 Allons-y.
 
-852
-02:18:50,161 --> 02:18:52,791
-(Cérémonie de remise des médailles
-du 24e jour du commerce)
+850
+01:16:35,682 --> 01:16:37,352
+(Cérémonie de remise de la médaille du commerce du 24e jour)
 
-853
-02:18:56,732 --> 02:18:57,802
+851
+01:16:38,291 --> 01:16:39,321
 Hé, Yoon Ki.
 
-854
-02:18:58,602 -> 02:18:59,602
+852
+01:16:43,161 --> 01:16:45,791
 Bonjour.
 
-855
-02:19:00,031 --> 02:19:03,171
+853
+01:16:49,732 --> 01:16:50,802
 Oh, Yoon Ki. Te voilà.
 
-856
-02:19:03,501 --> 02:19:06,131
+854
+01:16:51,602 --> 01:16:52,602
 Hyeong Jun, Do Jun. Vous êtes là aussi.
 
+855
+01:16:53,031 --> 01:16:56,171
+Viens voir Grand-mère !
+
+856
+01:16:56,501 --> 01:16:59,131
+Bonjour.
+
 857
-02:19:06,211 --> 02:19:07,942
-Venez voir grand-mère !
+01:16:59,211 --> 01:17:00,942
+Mon Dieu. Tu es grand maintenant.
 
 858
-02:19:08,142 --> 02:19:09,161
-Bonjour.
+01:17:01,142 --> 01:17:02,161
+Ça ne peut pas être.
 
 859
-02:19:09,241 --> 02:19:10,791
-Mon Dieu. Tu es un grand garçon maintenant.
-
-860
-02:19:10,871 -> 02:19:11,871
-Ce n'est pas possible.
-
-861
-02:19:11,941 --> 02:19:15,202
+01:17:02,241 --> 01:17:04,102
 Oh, mon Dieu. Tu es un homme maintenant.
 
-862
-02:19:15,282 -> 02:19:16,311
+860
+01:17:04,182 --> 01:17:05,182
 Vous êtes...
 
-863
-02:19:33,381 --> 02:19:34,421
-Monsieur le président est là.
+861
+01:17:05,211 --> 01:17:08,472
+Monsieur le Président est là.
 
-864
-02:19:50,352 --> 02:19:51,392
+862
+01:17:08,552 --> 01:17:09,581
 Bienvenue.
 
-865
-02:19:44,781 --> 02:19:46,092
+863
+01:17:26,602 --> 01:17:27,671
 Félicitations, monsieur.
 
+864
+01:17:43,381 --> 01:17:44,421
+Félicitations.
+
+865
+01:17:44,781 --> 01:17:46,092
+- Félicitations. - Félicitations, monsieur.
+
 866
-02:19:47,352 --> 02:19:48,392
-Félicitations.
-
-867
-02:19:49,291 --> 02:19:50,321
-Félicitations.
-
-868
-02:19:52,592 --> 02:19:55,031
-- Félicitations.
-- Félicitations, monsieur.
-
-869
-02:19:55,562 --> 02:19:56,732
+01:17:47,352 --> 01:17:48,392
 Bonjour.
 
-870
-02:19:57,262 --> 02:19:59,102
-- Félicitations, monsieur.
-- Félicitations, monsieur.
+867
+01:17:49,291 --> 01:17:50,321
+- Félicitations, monsieur. - Félicitations, monsieur.
 
-871
-02:19:59,871 --> 02:20:01,302
+868
+01:17:52,592 --> 01:17:55,031
 Président Jin Yang Cheol ?
 
-872
-02:20:19,652 --> 02:20:21,522
+869
+01:17:55,562 --> 01:17:56,732
 Le fondateur de Soonyang.
 
-873
-02:20:22,862 --> 02:20:23,961
+870
+01:17:57,262 --> 01:17:59,102
 C'est lui.
 
-874
-02:20:25,031 --> 02:20:26,192
+871
+01:17:59,871 --> 01:18:01,302
 Président Jin Yang Cheol.
 
-875
-02:20:40,112 --> 02:20:44,112
+872
+01:18:19,652 --> 01:18:21,522
 (Reborn Rich)
 
-876
-02:21:14,241 --> 02:21:15,331
+873
+01:18:22,862 --> 01:18:23,961
 Qui suis-je ?
 
+874
+01:18:25,031 --> 01:18:26,192
+Quelle question est-ce ?
+
+875
+01:18:40,112 --> 01:18:44,112
+Tu es Jin Do Jun, le plus jeune petit-fils de la famille Soonyang.
+
+876
+01:19:14,241 --> 01:19:15,331
+Ça ne peut pas être.
+
 877
-02:21:15,411 --> 02:21:16,982
-Quel genre de question est-ce ?
-
-878
-02:21:17,281 --> 02:21:21,052
-Vous êtes Jin Do Jun, le plus jeune petit-fils
-de la famille Soonyang.
-
-879
-02:21:22,121 --> 02:21:23,251
-Ce n'est pas possible.
-
-880
-02:21:23,621 --> 02:21:24,881
+01:19:15,411 --> 01:19:16,982
 Est-ce que ça rapporte de l'argent ?
 
-881
-02:21:25,321 --> 02:21:26,751
-Cela aidera-t-il Soonyang ?
+878
+01:19:17,281 --> 01:19:21,052
+Est-ce que ça aidera Soonyang ?
 
-882
-02:21:26,991 --> 02:21:29,341
-Entre DJ et YS, choisissez celui
-qui a le plus de chances de gagner.
+879
+01:19:22,121 --> 01:19:23,251
+Entre DJ et YS, choisis celui qui a le plus de chances de gagner.
 
-883
-02:21:29,421 --> 02:21:30,491
+
+
+880
+01:19:23,621 --> 01:19:24,881
 Qui cela pourrait-il être ?
 
+881
+01:19:25,321 --> 01:19:26,751
+Si c'était moi, je soutiendrais la campagne de Roh Tae Woo.
+
+882
+01:19:26,991 --> 01:19:29,341
+As-tu écouté la conversation des adultes ?
+
+883
+01:19:29,421 --> 01:19:30,491
+Espèce de petit...
+
 884
-02:21:30,592 --> 02:21:33,982
-Si c'était moi,
-je soutiendrais la campagne de Roh Tae Woo.
+01:19:30,592 --> 01:19:33,982
+Jette du sel après eux.
 
 885
-02:21:34,062 --> 02:21:35,578
-Tu as écouté
-la conversation des adultes ?
-
-886
-02:21:35,602 --> 02:21:36,682
-Petit...
-
-887
-02:21:36,762 --> 02:21:37,762
-Jetez du sel derrière eux.
-
-888
-02:21:37,831 --> 02:21:39,791
+01:19:34,062 --> 01:19:35,578
 Il y a des mendiants partout.
 
+886
+01:19:35,602 --> 01:19:36,682
+Ce n'est pas une farce. C'est vrai.
+
+887
+01:19:36,762 --> 01:19:37,762
+Par hasard, savez-vous ce que l'avenir nous réserve ?
+
+888
+01:19:37,831 --> 01:19:39,791
+Réponds-moi !
+
 889
-02:21:39,871 --> 02:21:41,871
-Ce n'est pas une blague. C'est vrai.
+01:19:39,871 --> 01:19:41,871
+Une de ces personnes...
 
 890
-02:21:42,102 --> 02:21:45,171
-Par hasard,
-savez-vous ce que l'avenir nous réserve ?
-
-891
-02:21:45,871 --> 02:21:47,071
-Répondez-moi !
-
-892
-02:21:47,911 --> 02:21:49,411
-L'une de ces personnes...
-
-893
-02:21:51,682 --> 02:21:53,451
+01:19:42,102 --> 01:19:45,171
 m'a tué.
 
-894
-02:21:55,909 --> 02:21:58,371
-Ripped and synced by
-TTEOKBOKKisubs
+891
+01:19:45,871 --> 01:19:47,071
+Ripped and synced by TTEOKBOKKisubs
+
+
+
+
+
